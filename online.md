@@ -1,6 +1,10 @@
 Online Learning
 ===============
 
+Internal CCCU Training - Guest Speaker
+[Example sessions for remote, hybrid and face to face teaching webinars created by independent languages consultant from the UK, Joe Dale.](https://docs.google.com/document/d/1LmIkLZdT3YVpvsG4I8o6gUcahtvPBE1mQEmKI0lt7T8/edit)
+https://cccu.sharepoint.com/sites/Level5VirtualSchool/_layouts/15/stream.aspx?id=/sites/Level5VirtualSchool/Shared+Documents/Week+1+Day+2/Recordings/Technology+and+skills+to+support+online+teaching-20230620_120434-Meeting+Recording.mp4&ct=1689773826714&or=OWA-NT&cid=78815d6a-92d9-dcf9-c3f1-d260e42e8e1c&ga=1&WSL=1&sw=auth
+
 Self Paced
 ----------
 

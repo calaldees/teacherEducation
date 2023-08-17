@@ -1,6 +1,8 @@
 Managing Data
 =============
 
+* [[sats]]
+
 TODO:
 * [UK and Ireland Computing Teachers’ Survey: results published](https://computingeducationresearch.org/uk-and-ireland-computing-teachers-survey-results-published/) April 2023
 

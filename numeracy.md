@@ -1,6 +1,8 @@
 Numeracy
 ========
 
+* Hello World: [More than the mean: the importance of graphing](https://helloworld.raspberrypi.org/articles/hw16-more-than-the-mean) issue 21
+
 (30min lecture)
 
 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
