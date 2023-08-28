@@ -32,15 +32,15 @@ ITT Core Framework
 
 > 4.7. High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
 
-#3-SubjCur-Learn-that-9-literacy_terminology_vocabulary
-#3-SubjCur-Learn-that-10-responsibility_for_literacy
-#3-SubjCur-Learn-how-14-observe_literacy
-#3-SubjCur-Learn-how-14-build_written_fluency
-#3-SubjCur-Learn-how-15-build_reading_fluency
-#3-SubjCur-Learn-how-15-build_reading_enjoyment
-#3-SubjCur-Learn-how-16-develop_terminology_vocabulary
-#3-SubjCur-Learn-how-17-build_verbal_fluency
-#4-Classroom-Learn-that-7-build_verbal_fluency
+#3/9-SubjCur-LearnThat-literacy_terminology_vocabulary
+#3/10-SubjCur-LearnThat-responsibility_for_literacy
+#3/o-SubjCur-LearnHow-observe_literacy
+#3/p-SubjCur-LearnHow-build_written_fluency
+#3/q-SubjCur-LearnHow-build_reading_fluency
+#3/r-SubjCur-LearnHow-build_reading_enjoyment
+#3/t-SubjCur-LearnHow-build_verbal_fluency
+#3/u-SubjCur-LearnHow-build_verbal_terminology
+#4/7-Classroom-LearnThat-build_verbal_fluency
 
 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
 * > 6.1 Teachers should develop pupils’ spoken language, reading, writing and vocabulary as integral aspects of the teaching of every subject ... (more)
@@ -84,7 +84,7 @@ Figures (need to correlate exact source - these are from David Didau's book)
 
 ### The _Language_ of Computer Science (20min)
 
-#3-SubjCur-Learn-how-16-develop_terminology_vocabulary
+#3/u-SubjCur-LearnHow-build_verbal_terminology
 
 > Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
 
@@ -124,7 +124,7 @@ TASK: In your groups - add rows to the following table (10min group) + (5min who
 </details>
 
 ### Computing Vocabulary
-#3-SubjCur-Learn-how-17-build_verbal_fluency
+#3/t-SubjCur-LearnHow-build_verbal_fluency
 Specifically plan keywords/vocabulary in your lesson plans and schemes of work. This could be a useful exercise to run with your department.
 
 Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
@@ -132,7 +132,7 @@ Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
 2. Speculation about possible meanings (what it could or could not be)
 3. Develop CS related meaning
 
-#3-SubjCur-Learn-how-4-develop_analogies_examples
+#3/e-SubjCur-LearnHow-develop_analogies_examples
 * Be very explicit that you are using a metaphors
     * Metaphors can seed misconceptions
     * Metaphors: The data is transferred -> I will move the file to another folder
@@ -144,7 +144,7 @@ Busch 1998
 <sub>David Didau</sub>
 
 ### Examples of subject specific language
-#3-SubjCur-Learn-how-17-build_verbal_fluency
+#3/t-SubjCur-LearnHow-build_verbal_fluency
 * General language
     * I'll try -> I'll attempt
     * we'll talk -> we'll deliberate, we'll confer

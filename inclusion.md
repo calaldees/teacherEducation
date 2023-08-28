@@ -504,7 +504,7 @@ The real project would be the next step.
 #### Part 3
 
 ITT CCF
-* > 3.? learn-that Discussing and analysing with expert colleagues the rationale for curriculum choices, the process for arriving at current curriculum choices and how the school’s curriculum materials inform lesson preparation
+* > 3.? LearnThat Discussing and analysing with expert colleagues the rationale for curriculum choices, the process for arriving at current curriculum choices and how the school’s curriculum materials inform lesson preparation
 * > 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 * > 4.9 Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 

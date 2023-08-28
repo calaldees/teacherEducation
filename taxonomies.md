@@ -1,7 +1,7 @@
 Taxonomies for Computing
 -----------------
 
-ITT CCF 3.7 #3-SubjCur-Learn-that-7-link_schemata
+ITT CCF 3.7 #3/7-SubjCur-LearnThat-link_schemata
 > In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
 Reminders of existing taxonomy pyramids

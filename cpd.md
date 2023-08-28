@@ -17,7 +17,7 @@ https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd
 
 Leading Learning - EEF CPD Example (30min)
 ----------------
-#8-Wider-Learn-that-7-quality_cpd
+#8/7-Wider-LearnThat-quality_cpd
 * [Professional Development Leaders Conference 2023 - keynote Alex Quigley](https://stemlearning.wistia.com/medias/q399quqg66) 03:38 to 10:00 (5min)
     * Why use evidence ...
     * Read these two programs - which is more effective and why (03:38 to 04:20)

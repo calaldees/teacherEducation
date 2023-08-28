@@ -232,10 +232,10 @@ Lessons: 3? to 8? Probably 6 (a half term)
 
 My unstructured notes - some ideas
 
-#5-AdaptTeach-Learn-that-4-no_separate_tasks_ssdd
+#5/4-AdaptTeach-LearnThat-no_separate_tasks_ssdd
 SSDD - Same Surface, Different Depth
 Differentiation works best when class's are not working on unrelated tasks
-#5-AdaptTeach-Learn-how-7-no_separate_tasks_ssdd
+#5/h-AdaptTeach-LearnHow-no_separate_tasks_ssdd
 
 * Goal
     * To recreate algorithmically the artwork of a culture or artist
@@ -297,8 +297,8 @@ Boolean Logic -> single 'if' though to 'and/or' though to simplifying logic (dem
 Textbooks for teaching Computing? (45min)
 --------------------------------
 
-#3-SubjCur-Learn-how-5-use_shared_resources
-#5-AdaptTeach-Learn-how-8-use_shared_resources
+#3/f-SubjCur-LearnHow-use_shared_resources
+#5/i-AdaptTeach-LearnHow-use_shared_resources
 
 * [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf) John Woollard CAS 2020
     * Objectives

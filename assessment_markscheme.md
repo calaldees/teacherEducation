@@ -1,7 +1,7 @@
 Assessment  Mark-scheme (1.5 hours)
 -----------------------
 
-#6-Assessment-Learn-how-to-1-2-external_resources
+#6/b-Assessment-LearnHow-external_resources
 
 ### Exam Boards
 * [AQA - 8525 from 2020](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525)

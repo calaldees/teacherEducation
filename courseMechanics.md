@@ -306,7 +306,7 @@ TASK: Think, Pair, Share -
 
 TASK: In your ePortfolio - make a reflection point to ...
 * Observe/Identify/Comment/reflect on the language that colleagues in school use
-* #1-HighExp-Learn-how-2-consistent_language
+* #1/b-HighExp-LearnHow-consistent_language
 
 (even at home and among friends)
 

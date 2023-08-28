@@ -252,7 +252,7 @@ TASK: Look at theory spec - define a practical activity for a spec point
 Passed Papers (45min)
 ----------------------
 
-#6-Assessment-Learn-how-to-1-2-external_resources
+#6/b-Assessment-LearnHow-external_resources
 
 > Teach a student how to _fish/learn_ and they will _feed/teach_ themselves for the rest of their life
 

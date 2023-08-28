@@ -1,25 +1,7 @@
 Rosenshine's Principles of Instruction
 --------------------------------------
 
-#2-HowLearn-Learn-that-2-prior_knowledge_identified
-#2-HowLearn-Learn-that-4-working_memory
-#2-HowLearn-Learn-that-5-long_term_memory
-#2-HowLearn-Learn-that-6-misconceptions
-#2-HowLearn-Learn-that-7-regular_practice
-#2-HowLearn-Learn-that-8-spaced_retrieval
-#2-HowLearn-Learn-that-9-worked_examples
-#2-HowLearn-Learn-how-1-prior_knowledge_in_planning
-#2-HowLearn-Learn-how-2-reduce_distractions_increase_focus
-#2-HowLearn-Learn-how-3-small_steps
-#2-HowLearn-Learn-how-4-sequence_foundations
-#2-HowLearn-Learn-how-5-identify_misconceptions
-#2-HowLearn-Learn-how-6-pupils_share_understanding
-#2-HowLearn-Learn-how-7-link_prior_knowledge
-#2-HowLearn-Learn-how-8-plan_review
-#2-HowLearn-Learn-how-9-success_rate_80
-#2-HowLearn-Learn-how-10-balance_exposition_repetition_practice_retrieval
-#2-HowLearn-Learn-how-11-increase_challenge
-
+* [[CCF]] How Pupils Learn (Standard 2 – ‘Promote good progress’)
 
 * See also
     * [[instructional_continuum]]
