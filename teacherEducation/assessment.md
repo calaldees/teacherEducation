@@ -2,8 +2,9 @@ Formative Assessment
 ====================
 
 TODO:
-* [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
-    * ASSESSMENT IN SECONDARY COMPUTING - Alan O’Donohoe and John Woollard offer practical, common-sense advice on how to assess Computing for ages 11 to 16
+* Hello World [Assessment in secondary computing](https://helloworld.raspberrypi.org/articles/hw12-insiders-guide) 2020 Alan O’Donohoe and John Woollard
+    * [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
+        * ASSESSMENT IN SECONDARY COMPUTING -  offer practical, common-sense advice on how to assess Computing for ages 11 to 16
 
 
 Objectives
@@ -367,12 +368,10 @@ Show you care - two way process
 
 
 
-[[all_student_response_systems]]
+* [[all_student_response_systems]]
+* [[verbal_feedback]]
+* [[assessment_feedback_task]]
 
-
-[[verbal_feedback]]
-
-[[assessment_feedback_task]]
 
 
 
@@ -652,7 +651,7 @@ Whole journal and field of research dedicated to this branch of education.
         * > The boundaries between instruction, learn-ing and assessment will eventually become blurred.
 
 
-[[bebras]]
+* [[bebras]]
 
 ----
 
@@ -877,7 +876,7 @@ Activity: Board: What are the character traits we want to inspire? Invisible Cur
 
 
 
-[[live_marking]]
+* [[live_marking]]
 
 
 

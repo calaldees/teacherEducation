@@ -1,6 +1,23 @@
 AI in the classroom (30min)
 ===================
 
+https://quizbot.ai/
+Generate a lesson
+https://quizbot.ai/ai-templates/lesson-planner
+Different between tcp and udp and when they would be used
+https://quizbot.ai/ai-templates
+Copy and paste from gcse exam spec
+
+
+* [AI education resources: What do we teach young people?](https://www.raspberrypi.org/blog/ai-education-resources-what-to-teach-seame-framework/)
+    * The SEAME framework as a tool for research on AI education
+    * https://www.raspberrypi.org/app/uploads/2022/12/RPF-Seminar-Proceedings-Volume-3.pdf Appendix 1: The SEAME framework
+    * The SEAME AI learning levels framework used in our studies is shown in Figure 1. This framework has four levels and provides a simple way to reflect upon the content included in AI resources and activities.
+        * SE: This is the level of social and ethical considerations.
+        * A: This is the applications level, where we might use, modify, or create applications that have some AI or ML component.
+        * M: This is the models level, where we train the model with data. Models output recommendations and predictions for use in applications
+        * E: This is the engines level, including neural networks, generative algorithms, data structures, etc. This is the most hidden level, which we are not aware of when we use an application with an ML component
+
 * Guidance
     * [Russell Group: New principles on use of AI in education](https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/) July 2023
         * Universities will support students and staff to become AI-literate.

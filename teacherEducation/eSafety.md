@@ -6,6 +6,8 @@ https://helloworld.raspberrypi.org/articles/hw18-addressing-the-cybersecurity-sk
 https://helloworld.raspberrypi.org/articles/hw18-capture-the-flag-to-capture-interest
 https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy practice being the bad guys
 
+
+
 * [@josemonkey](https://twitter.com/josemonkey) - I find people who ask to be found. #OSINT #GEOINT #geolocation
     * [Mother in carpark](https://twitter.com/mouthofmorrison/status/1675548124293603329?t=2786wvDhOu84klxvOC737Q&s=19)
 
@@ -83,6 +85,7 @@ TODO: Get students to do this!
     * Review the statements in "Education for a Connected World"
 * TASK: 10min
     * discuss - can you assess/track/monitor your students understanding of these concepts?
+* [ProjectEVOLVE](https://projectevolve.co.uk/about/)
 
 
 

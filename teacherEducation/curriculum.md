@@ -3,6 +3,7 @@ Curriculum
 
 TODO:
 https://helloworld.raspberrypi.org/issues/12 https://helloworld.raspberrypi.org/issues/12/pdf page 62 Learning Graphs
+https://www.raspberrypi.org/app/uploads/2020/04/Learning-graphs-a-strategic-approach-to-computing-curriculum-planning.pdf Andy Bush
 NCCE have this in Schemes of work
 https://helloworld.raspberrypi.org/issues/14 Page 46 WRITING A COMPLETE COMPUTING CURRICULUM: LESSONS LEARNT - Sway Grantham and her colleagues began writing the Teach Computing Curriculum 18 months ago. She shares some insights into what they learnt along the way
 

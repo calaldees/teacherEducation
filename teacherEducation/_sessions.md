@@ -71,20 +71,28 @@ Readings
     * NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/) 2020
     * [Developing a computer science-specific learning taxonomy](https://dl.acm.org/doi/10.1145/1345375.1345438) (Fuller 2007)
     * NCCE [The importance of practical programming](https://blog.teachcomputing.org/the-importance-of-practical-programming/) white paper 2022
+    * Hello World [Inspiring young people with contexts they care about](https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about) Oliver Quinlan 2021
+    * Hello World [Behaviour management in the computing classroom](https://helloworld.raspberrypi.org/articles/hw17-behaviour-management-in-the-computing-classroom) 2022
 6. How do you plan and assess for learning?
+    * Hello World [Assessment in secondary computing](https://helloworld.raspberrypi.org/articles/hw12-insiders-guide) 2020 Alan O’Donohoe and John Woollard
     * [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
     * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) Shute and Rahimi 2016
-    * [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587) Pedro G. Feijóo-García & Gardner-McCune 2019
 7. What does inclusion really mean?
     * [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://ncwit.org/resource/csedguide/) Microsoft + National Center for Women & Information Technology (NCWIT) 2019
-    * TODO https://www.qmul.ac.uk/queenmaryacademy/educators/resources/inclusive-curriculum/
+    * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspberry Pi Foundation 2021
+    * (non cs) [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
 8. What is a broad and balanced curriculum?
     * [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
+    * http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf
+    
+    * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
+    * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
 9.  How do you lead learning?
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) 2020
     * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
     * [Computing Quality Framework](https://computingqualityframework.org/)
 10. What is my impact?
+    * [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
 
 
 
@@ -533,6 +541,7 @@ Friday 3rd November (After Inclusion Week)
 * Mentor
     * Task: Find examples of where students students level of Digital Literacy has impacted on their ability to engage with a task
     * How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?
+        * Task: How are unplugged activities used in computing lessons to convey complex abstract concepts
     * Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy
     * Task: Find examples of how questions and questioning can been used: identifying prior knowledge, drilling down into misconception, extending/stretching understanding.
         * #6/d-Assessment-LearnHow-identify_misconceptions_in_lesson 
@@ -756,7 +765,7 @@ Subject
 
 Mentor
 * What are the pedagogical approaches that enable inclusion in this subject?
-    * Task: find an example from a computing classroom
+    * Task: find an example of supporting EAL in a computing classroom. How is this handled?
 * What data is used in department and school to inform practice and learning?
 * When does inclusion for the many create exclusion for the few?
     * Task: identify 2 pupils in each year group that may be excluded from current practice. Why?
@@ -871,9 +880,9 @@ Generic
 
 Subject
 * ‘Broad and balanced’ curriculum, not teaching to the test/exam
-    * Linking to other subject curriculums
-* Computing across the curriculum and your school
-* Giving computing context in the wider world/community
+    * Linking to other subject curriculums (not just hollow theming)
+* [[computingAcrossCurriculum]] and your school
+* Giving computing context in the wider world/community [[context_wider]]
 
 Mentor
 * How do we work with other subject areas to capitalise on or contribute to wider learning?
@@ -895,12 +904,14 @@ Generic
 * SoW; Sequencing and progression in learning over time considering post KS; Post –16 in subject
 * AFL and ‘adapting teaching’
 * Curriculum and PCK - leading to level 4
-
-
 Mentor
 * What are the contextual factors used to support pupil engagement and success in the subject?
 * How do we gather feedback from pupils about subject curriculum content and design?
 * How do we address health and wellbeing concerns for our students as part of our curriculum?
+    * Task: How is [[eSafety]] conveyed/revisited at an age appropriate level KS3/KS4/KS5
+* Task: Liaise with a teacher of another subject; how can elements of their curriculum be contextually combined with computing. If there an opportunity to try this?
+* Task: How are [[fundamental_british_values]] considered in the schools delivery of Computing
+
 
 
 PP Module Launch
@@ -946,7 +957,9 @@ Friday 18th April
 
 
 Mentor
-* How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. How do we support conversations around careers?
+* How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
+* How do we support conversations around careers?
+    * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
 * How do I effectively liaise with support staff to secure learning and progression?
     * #5/g-AdaptTeach-LearnHow-teaching_assistants
     * #8/5-Wider-LearnThat-teaching_assistants
@@ -985,6 +998,13 @@ Generic
 * Promoting pupil independence
 Subject
 * Your professional role: Supporting colleagues in your institution with Computing
+* Mentor
+    * How do I independently lead learning in my subject?
+    * How do you use data to support learning for all pupils, and to target specific and timely interventions? How is data most effectively used within the department?
+    * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them?
+    * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning?
+        * Task: What opportunities are there for students to participate in autonomous projects or creativity in Computing? 
+            * Consider how creativity/autonomy could be included in an upcoming lesson
 
 
 SPR3 Due Friday 28th April
@@ -1087,3 +1107,29 @@ Misplaced?
 * What innovative practice will I take with me to ECT year?
 
 
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[education_research]: education_research.md "Education Research"
+[progression_model]: progression_model.md "progression_model"
+[digitalLiteracy]: digitalLiteracy.md "Digital Literacy"
+[threshold_concepts]: threshold_concepts.md "Threshold Concepts"
+[liminal_space]: liminal_space.md "liminal_space"
+[metaCognition]: metaCognition.md "Meta-cognition"
+[cognitive_load]: cognitive_load.md "cognitive_load"
+[parsons_problems]: parsons_problems.md "parsons_problems"
+[assessment_markscheme]: assessment_markscheme.md "assessment_markscheme"
+[all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
+[diagnostic_questions]: diagnostic_questions.md "diagnostic_questions"
+[verbal_feedback]: verbal_feedback.md "verbal_feedback"
+[automated_tests]: automated_tests.md "automated_tests"
+[bebras]: bebras.md "bebras"
+[teacherEducation/assessment]: assessment.md "Formative Assessment"
+[pairProgramming]: pairProgramming.md "Unsorted"
+[code-review]: code-review.md "code-review"
+[version_control]: version_control.md "Version Control"
+[collaboration]: collaboration.md "Collaboration"
+[computingAcrossCurriculum]: computingAcrossCurriculum.md "Computing Across the Curriculum"
+[context_wider]: context_wider.md "Context"
+[eSafety]: eSafety.md "eSafety"
+[fundamental_british_values]: fundamental_british_values.md "Fundamental British Values"
+[//end]: # "Autogenerated link references"
