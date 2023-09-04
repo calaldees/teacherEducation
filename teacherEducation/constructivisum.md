@@ -1,6 +1,36 @@
 Constructivism, discovery, collaboration (1.5 Hours)
 ----------------------------------------------------
 
+TODO
+* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts](https://journals.sagepub.com/doi/full/10.1177/07356331211017793) 2021 - Avital Kesler, Tamar Shamir-Inbal, Ina Blau
+    * Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
+    * Four Models of “Theory of Mind” in Learning and Teaching (Olson & Bruner, 1996)
+        * Folk Psychology
+            * Instructivist
+                * Learning is the ability to internalise a desired, demonstrated behaviour or skill
+                * Learning is the transmissions of knowledge from the external environment to the learner
+            * Constructivist
+                * Learning is a discovery of personal knowledge though the unique experiences of each person
+                * Learning is building personal knowledge while relying on existing scientific or cultural information
+        * Folk Pedagogy
+            * Instructivist
+                *  Learning depends on the demonstrations an practice of required skill
+                *  Knowledge is transmitted to the learner by a teacher though presentation and examination of the topic
+            *  Constructivist
+                *  One must help a student discover the knowledge that is naturally found in his cognition
+                *  It is important to complement personal knowledge and experience by scientific or cultural information
+    *  > all parameters indicate a higher quality of student artifacts created under guidance of constructivist teachers.
+    *  Shows diagram of progression of instructivist Psychology and pedagogy through to constructivist Psychology and pedagogy
+        *  Pedagogical change comes before Psychological change
+            *  e.g. get teachers doing the "right things" and their psychology will eventually change to match. Given time and seeing it first hand
+    *  > the beginning of the process, artifacts of students guided by instructivist teachers were found to be higher in their programming level quality, compared to the products of students guided by constructivist teachers.
+    *  > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
+    *  > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
+    *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
+
+
+
+
 * See also [[instructional_continuum]]
 
 Discussion about

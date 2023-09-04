@@ -18,9 +18,9 @@ TODO
 ![Declarative, procedural and conditional knowledge](https://pbs.twimg.com/media/FuBXLVoWwAIq2uU?format=jpg&name=medium) KA Lawless, AV Robins, Ofsted Research Review
 | Form of KNowlege | Computer Science | Information Technology | Digtital Literacy |
 |-|-|-|-|
-|Declarative (knowing what) | Vraiables are used to store data | Data on internet sent in packs | Features of unrelaible data |
-| Procedural (knowing how) | how to define a variable and implement it in a programming language e.g. scratch | Each packet carries the information that will help it get to tis destination - IP address and how many this particicular packet| how to perform an advanced web serach |
-| Conditional (knowing when and why) | I can use a variable to keep track of a score in a game | The internet is a global packet switched network. The packetrs enable data to be transmitted in differnt routes | When I need to report something on the internet. Why I need to get support |
+|Declarative (knowing what) | Variables are used to store data | Data on internet sent in packs | Features of unreliable data |
+| Procedural (knowing how) | how to define a variable and implement it in a programming language e.g. scratch | Each packet carries the information that will help it get to tis destination - IP address and how many this particular packet| how to perform an advanced web search |
+| Conditional (knowing when and why) | I can use a variable to keep track of a score in a game | The internet is a global packet switched network. The packet's enable data to be transmitted in different routes | When I need to report something on the internet. Why I need to get support |
 
 * YouTube [Clubs Conference: Live from the main stage | 25 March 2023 ](https://www.youtube.com/live/9YLoS1NSC9A?feature=share&t=680) Jane Wait
     * Activity: Label what the code is doing! (11:00)
@@ -89,8 +89,8 @@ TODO
             3.5. Focus on vocabulary and language
             3.6. Supporting learning and a blended approach
             3.7. Develop generic problem-solving skills (computational thinking)
-    * [Understanding computing education: Volume 1](https://www.raspberrypi.org/app/uploads/2021/05/Understanding-computing-education-Volume-1-Raspberry-Pi-Foundation-Research-Seminars.pdf)
-    * [Understanding computing education: Volume 2 Theme: Equity, diversity and inclusion in computing education research](https://www.raspberrypi.org/app/uploads/2021/12/Understanding-computing-education-Volume-2-Raspberry-Pi-Foundation-Research-Seminars.pdf)
+    * [Understanding computing education: Volume 1](https://www.raspberrypi.org/app/uploads/2021/05/Understanding-computing-education-Volume-1-Raspberry-Pi-Foundation-Research-Seminars.pdf) 2021 Raspberry-Pi-Foundation-Research-Seminars
+    * [Understanding computing education: Volume 2 Theme: Equity, diversity and inclusion in computing education research](https://www.raspberrypi.org/app/uploads/2021/12/Understanding-computing-education-Volume-2-Raspberry-Pi-Foundation-Research-Seminars.pdf) 2022
 * [Data and information – Data logging](https://teachcomputing.org/curriculum/key-stage-2/data-and-information-data-logging) KS2 - Year 4
 
 * [Digital Technology in Education: Charter](https://www.dtecharter.org/) Scotland 2022
@@ -137,12 +137,12 @@ ITT CCF 4.4 #4/4-Classroom-LearnThat-remove_scaffolds
 PRIMM
 -----
 
-[[primm]]
+* [[primm]]
 
 Taxonomies
 ----------
 
-[[taxonomies]]
+* [[taxonomies]]
 
 
 Instructional Continuum - Range of structured tasks
@@ -208,13 +208,7 @@ Concept Maps
 Parson Problems
 ---------------
 
-* Learner orders provided complete lines
-* [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
-    * Learner rearranges the lines of code to solve the task
-    * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
-    * [js-parsons.github.io](https://js-parsons.github.io/)
-    * [parsons.problemsolving.io](http://parsons.problemsolving.io/)
-
+* [[parsons_problems]]
 
 Building Code Comprehension
 ---------------------------
@@ -250,31 +244,7 @@ Building Code Comprehension
     * [/exercises](https://github.com/ratfactor/ziglings/tree/main/exercises)
         * Each program is broken and the task is described with comments
 
-* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts](https://journals.sagepub.com/doi/full/10.1177/07356331211017793) 2021 - Avital Kesler, Tamar Shamir-Inbal, Ina Blau
-    * Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
-    * Four Models of “Theory of Mind” in Learning and Teaching (Olson & Bruner, 1996)
-        * Folk Psychology
-            * Instructivist
-                * Learning is the ability to internalise a desired, demonstrated behaviour or skill
-                * Learning is the transmissions of knowledge from the external environment to the learner
-            * Constructivist
-                * Learning is a discovery of personal knowledge though the unique experiences of each person
-                * Learning is building personal knowledge while relying on existing scientific or cultural information
-        * Folk Pedagogy
-            * Instructivist
-                *  Learning depends on the demonstrations an practice of required skill
-                *  Knowledge is transmitted to the learner by a teacher though presentation and examination of the topic
-            *  Constructivist
-                *  One must help a student discover the knowledge that is naturally found in his cognition
-                *  It is important to complement personal knowledge and experience by scientific or cultural information
-    *  > all parameters indicate a higher quality of student artifacts created under guidance of constructivist teachers.
-    *  Shows diagram of progression of instructivist Psychology and pedagogy through to constructivist Psychology and pedagogy
-        *  Pedagogical change comes before Psychological change
-            *  e.g. get teachers doing the "right things" and their psychology will eventually change to match. Given time and seeing it first hand
-    *  > the beginning of the process, artifacts of students guided by instructivist teachers were found to be higher in their programming level quality, compared to the products of students guided by constructivist teachers.
-    *  > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
-    *  > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
-    *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
+* [[constructivisum]]
 
 
 Computational Thinking
@@ -485,6 +455,8 @@ Unsorted
         * Computing education
         * Computing education programs
         * Computer science education
+    * Could a "period table" be helpful. But does not show what a completed one would look like
+        * TES Example [Computer science display periodic table](https://www.tes.com/teaching-resource/computer-science-display-periodic-table-12208737)
 
 * [Computer Science OR Venn Diagrams](https://twitter.com/MrLauLearning/status/1451949163172745221)
     * Trick OR Treat
@@ -535,3 +507,15 @@ TODO:
     * 
 
 
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[project_based]: project_based.md "Project Based"
+[primm]: primm.md "PRIMM"
+[taxonomies]: taxonomies.md "taxonomies"
+[instructional_continuum]: instructional_continuum.md "instructional_continuum"
+[parsons_problems]: parsons_problems.md "parsons_problems"
+[constructivisum]: constructivisum.md "Counterpoint"
+[computational_thinking]: computational_thinking.md "Computational Thinking"
+[questioning]: questioning.md "Questioning"
+[inclusion]: inclusion.md "Inclusion"
+[//end]: # "Autogenerated link references"

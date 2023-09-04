@@ -63,7 +63,7 @@ Readings
     * [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
 3. What is a teacher?
     * (non-cs) Journal of Teacher Education: [The Work of Teaching and the Challenge for Teacher Education](https://journals.sagepub.com/doi/abs/10.1177/0022487109348479) 2009 - Teaching as _Unnatural_ Work - learning to do things that are not common in daily life
-4. What is education
+4. What is education?
     * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
     * [National Curriculum: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) 2013
     * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
@@ -75,7 +75,7 @@ Readings
     * Hello World [Behaviour management in the computing classroom](https://helloworld.raspberrypi.org/articles/hw17-behaviour-management-in-the-computing-classroom) 2022
 6. How do you plan and assess for learning?
     * Hello World [Assessment in secondary computing](https://helloworld.raspberrypi.org/articles/hw12-insiders-guide) 2020 Alan O’Donohoe and John Woollard
-    * [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
+    * [Computational Thinking Test: Design Guidelines And Content Validation](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
     * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) Shute and Rahimi 2016
 7. What does inclusion really mean?
     * [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://ncwit.org/resource/csedguide/) Microsoft + National Center for Women & Information Technology (NCWIT) 2019
@@ -84,13 +84,12 @@ Readings
 8. What is a broad and balanced curriculum?
     * [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
     * http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf
-    
     * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
     * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
 9.  How do you lead learning?
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) 2020
-    * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
     * [Computing Quality Framework](https://computingqualityframework.org/)
+    * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
 10. What is my impact?
     * [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
 
@@ -313,7 +312,11 @@ Friday 29th September - 11:00
         * #4/n-Classroom-LearnHow-plan_focus
         * #5/j-AdaptTeach-LearnHow-plan_link_prior_knowledge
 * Mentor
-    * None
+    * Discuss with your trainee -    
+        * What is a subject teacher? 
+        * What is subject specific pedagogy and how is it different to other subjects?  
+        * What differences are there between subject knowledge and subject pedagogy? 
+    * Arrange time for your trainee to meet with your Head of Department or 2nd in Dept, to discuss the department’s rationale of the choice of KS4 & 5 Exam board & Syllabus
 
 SSL (Staff Student Liaison) Student rep elected
 
@@ -342,13 +345,19 @@ Thursday 5th October
     * Exploring strategies that aid teaching and learning including contextualised, independent, discovery
     * [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
 * Mentor
-    * Review the tasks in the CTP booklet and work collaboratively with the student teacher to discuss activities. 
-    * Discuss the Early Impressions document.
-    * How do we design our subject curriculum at KS3? 
-    * How did we decide which exam board to use at KS4/5? 
-    * Why is the curriculum designed and sequenced as it is for this school/department?
-    * How does it meet the needs of the pupils at this school?
-    * Discuss needs around subject knowledge development (and audit), specifically in relation to the department curriculum.
+    * OneNote
+        * Discuss with your trainee the decisions taken around a recent behaviour incident that a colleague has dealt with. [Perhaps seen in an observation of an expert teacher] 
+        * Revisit CTP activities to discuss key learning and progress 
+        * Discuss how your trainees subject knowledge has developed during the CTP
+        * What is your schools local area like? What is the student demographic? What % of students are PP/FSM/SEND etc.?
+    * Gudience
+        * Review the tasks in the CTP booklet and work collaboratively with the student teacher to discuss activities. 
+        * Discuss the Early Impressions document.
+        * How do we design our subject curriculum at KS3? 
+        * How did we decide which exam board to use at KS4/5? 
+        * Why is the curriculum designed and sequenced as it is for this school/department?
+        * How does it meet the needs of the pupils at this school?
+        * Discuss needs around subject knowledge development (and audit), specifically in relation to the department curriculum.
 
 
 SQ 5: How do children learn?
@@ -399,26 +408,31 @@ Friday 6th October - 11:00
     * #notional-machine
     * Planning task
 * Mentor
-    * What is progress in learning and what does it look like in this subject area?
-        * Look at departments individual-lessons, term-sow, year, keystage. 
-            * How are these linked?
-                * #3/c-SubjCur-LearnHow-construct-curriculum
-                * #2/d-HowLearn-LearnHow-sequence_foundations
-            * Can students identify teaching concepts in department planning:
-                * prior-learning, space-repetition, meta-cognition, scaffolding for cognitive load, threshold-concepts etc
-                    * #3/k-SubjCur-LearnHow-observe_retrieval #3/h-SubjCur-LearnHow-big_ideas_revisited
-                    * #3/j-SubjCur-LearnHow-link_prior_knowledge
-                    * #2/3-HowLearn-LearnThat-working-memory
-                * ares of computing (ICT, DigitalLiteracy, ComputerScience)
-                * Explict identification of context, knowledge and skills
-                    * * #3/a-SubjCur-LearnHow-subject_curriculum_concepts_knowledge_skills
-                * Literacy
-                    * #3/10-SubjCur-LearnThat-responsibility_for_literacy
-                    * #3/9-SubjCur-LearnThat-literacy_terminology_vocabulary
-                * assessment strategies (per lesson? per term? modes of assessment?)
-
-    * Sharing of research underpinning the departmental philosophy.
-    * How can I develop my own pedagogical practice?
+    * OneNote
+        * Discuss with your trainee the decisions taken around a recent behaviour incident that a colleague has dealt with. [Perhaps seen in an observation of an expert teacher] 
+        * Revisit CTP activities to discuss key learning and progress 
+        * Discuss how your trainees subject knowledge has developed during the CTP 
+        * What is your schools local area like? What is the student demographic? What % of students are PP/FSM/SEND etc.? 
+    * Guidence
+        * What is progress in learning and what does it look like in this subject area?
+            * Look at departments individual-lessons, term-sow, year, keystage. 
+                * How are these linked?
+                    * #3/c-SubjCur-LearnHow-construct-curriculum
+                    * #2/d-HowLearn-LearnHow-sequence_foundations
+                * Can students identify teaching concepts in department planning:
+                    * prior-learning, space-repetition, meta-cognition, scaffolding for cognitive load, threshold-concepts etc
+                        * #3/k-SubjCur-LearnHow-observe_retrieval #3/h-SubjCur-LearnHow-big_ideas_revisited
+                        * #3/j-SubjCur-LearnHow-link_prior_knowledge
+                        * #2/3-HowLearn-LearnThat-working-memory
+                    * ares of computing (ICT, DigitalLiteracy, ComputerScience)
+                    * Explict identification of context, knowledge and skills
+                        * * #3/a-SubjCur-LearnHow-subject_curriculum_concepts_knowledge_skills
+                    * Literacy
+                        * #3/10-SubjCur-LearnThat-responsibility_for_literacy
+                        * #3/9-SubjCur-LearnThat-literacy_terminology_vocabulary
+                    * assessment strategies (per lesson? per term? modes of assessment?)
+        * Sharing of research underpinning the departmental philosophy.
+        * How can I develop my own pedagogical practice?
 
 
 ### EP2
@@ -440,13 +454,20 @@ Friday 13th October
     * Fuller Model and Taxonomies for Computing
     * Further reaching into Computing pedagogies
 * Mentor
-    * What are the key barriers to learning in this curriculum area and how are those barriers addressed and overcome?
-    * What key strategies are used in department and school? 
-    * Task: Identify practice/choices that are influenced by:
-        * Policy (national/regional)
-        * Policies in school
-        * Polices in department?
-        * By individual teacher
+    * OneNote
+        * Discuss how does your department plans for learning?  
+        * What are your department policies and pedagogical approaches to learning?  
+        * What research underpins the departmental philosophy? 
+        * How are our choices influenced by National policy and debate?  
+        * What is progress in learning and what does it look like in this subject area? How can I develop my own pedagogical practice? 
+    * Guidance
+        * What are the key barriers to learning in this curriculum area and how are those barriers addressed and overcome?
+        * What key strategies are used in department and school? 
+        * Task: Identify practice/choices that are influenced by:
+            * Policy (national/regional)
+            * Policies in school
+            * Polices in department?
+            * By individual teacher
 
 
 
@@ -486,16 +507,24 @@ Friday 20th October - 11:00
     * Predictable and secure environment
         * reinforcing routines, including through positive reinforcement
 * Mentor
-    * How do teachers relate to pupils to support _positive_ behaviour for learning?
-    * How is the department’s behaviour for learning policy implemented to aid learning?
-        * Task: What effective strategies have been observed? (Observation of other teachers? perhaps contrasting strategies from other subjects? consider _why_ these are effective)
-            * #7/a-Behaviour-LearnHow-respond_emotional_safety
-            * #7/b-Behaviour-LearnHow-consistent_reward_sanction #7/l-Behaviour-LearnHow-consistent_reward_sanction
-            * #7/c-Behaviour-LearnHow-wider_systems
-        * Task: Explicitly identify what a teacher has done to cultivate 'BehaviourForLearning' and what actions are taken as 'BehaviourManagement'
-            * has meta-cognition been used to support this?
-            * #7/d-Behaviour-LearnHow-non_verbal #7/e-Behaviour-LearnHow-least_intrusive_intervention
-    * How do teachers plan and teach their lessons managing the classroom environment to support positive behaviour for learning?
+    * OneNote
+        * Discuss -  
+            * What are the key barriers to learning this subject and how does your department/school address and overcome those barriers? 
+            * What relevant policies are there in school and the department? 
+        * How do teachers relate to pupils to support positive behaviour for learning?  
+        * How is the department’s behaviour for learning policy implemented to aid learning? What effective strategies have been observed? 
+    * Guidence
+        * How do teachers relate to pupils to support _positive_ behaviour for learning?
+        * How is the department’s behaviour for learning policy implemented to aid learning?
+            * Task: What effective strategies have been observed? (Observation of other teachers? perhaps contrasting strategies from other subjects? consider _why_ these are effective)
+                * #7/a-Behaviour-LearnHow-respond_emotional_safety
+                * #7/b-Behaviour-LearnHow-consistent_reward_sanction #7/l-Behaviour-LearnHow-consistent_reward_sanction
+                * #7/c-Behaviour-LearnHow-wider_systems
+            * Task: Explicitly identify what a teacher has done to cultivate 'BehaviourForLearning' and what actions are taken as 'BehaviourManagement'
+                * has meta-cognition been used to support this?
+                * #7/d-Behaviour-LearnHow-non_verbal 
+                * #7/e-Behaviour-LearnHow-least_intrusive_intervention
+        * How do teachers plan and teach their lessons managing the classroom environment to support positive behaviour for learning?
     
 
 
@@ -539,24 +568,30 @@ Friday 3rd November (After Inclusion Week)
     * (G) Critical evaluation of learning theories
     * Diagnostic questions
 * Mentor
-    * Task: Find examples of where students students level of Digital Literacy has impacted on their ability to engage with a task
-    * How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?
-        * Task: How are unplugged activities used in computing lessons to convey complex abstract concepts
-    * Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy
-    * Task: Find examples of how questions and questioning can been used: identifying prior knowledge, drilling down into misconception, extending/stretching understanding.
-        * #6/d-Assessment-LearnHow-identify_misconceptions_in_lesson 
-        * #6/e-Assessment-LearnHow-identify_misconceptions
+    * OneNote
+        * How do teachers plan and teach their lessons managing the classroom environment to support positive behaviour for learning?  
+        * How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?  
+        * Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy 
+    * Guidance
+        * Task: Find examples of where students students level of Digital Literacy has impacted on their ability to engage with a task
+        * How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?
+            * Task: How are unplugged activities used in computing lessons to convey complex abstract concepts
+        * Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy
+        * Task: Find examples of how questions and questioning can been used: identifying prior knowledge, drilling down into misconception, extending/stretching understanding.
+            * #6/d-Assessment-LearnHow-identify_misconceptions_in_lesson 
+            * #6/e-Assessment-LearnHow-identify_misconceptions
 
 
 ### EP5
-Friday 4th November - 17:30
+Friday 3rd November - 17:30
 Helpdesk - Support with assignment
 
 ### EP6
-Friday 11th November - 17:30
+Friday 10th November - 17:30
 Helpdesk - Support with assignment
 
 (PGCE SP1 Due) Monday 14th November - 14:00
+
 
 
 SQ 6: How do you plan and assess for learning?
@@ -574,6 +609,10 @@ Structuring learning that is informed and supported by assessment
 * Black, P., & Wiliam, D. (2009) [Developing the theory of formative assessment. Educational Assessment, Evaluation and Accountability](https://doi.org/10.1007/s11092-008-9068-5) [pdf](https://kclpure.kcl.ac.uk/portal/files/9119063/Black2009_Developing_the_theory_of_formative_assessment.pdf), 21(1), pp.5-31
 * Speckesser, S.et al. (2018) [Embedding Formative Assessment: Evaluation Report](https://educationendowmentfoundation.org.uk/public/files/EFA_evaluation_report.pdf).
 
+### (No session at uni) WB 6th Nov
+* Mentor Foci
+    * What is the Department's Marking policy?
+    * Discuss what is an effective assessment?
 
 ### GP4
 Friday 17th November - 09:00
@@ -598,9 +637,14 @@ Friday 17th November - 11:00
     * [[automated_tests]] and fast feedback cycle
     * [[bebras]] problems
 * Mentor
-    * Exploration of formal assessment processes and exam board specifications - What is an effective assessment?
-    * How is assessment integrated into the department? How do we use the data gathered?
-    * How should data be used in the pupil progress evidence bundles?
+    * OneNote
+        * How does the department use AfL to inform practice and curriculum development, how is it evident in planning?  What is good practice?  
+        * How does AfL inform the structure of learning in lessons? 
+        * How does the department use feedback and self and peer assessment? How is homework used to inform AfL? 
+    * Guidance
+        * Exploration of formal assessment processes and exam board specifications - What is an effective assessment?
+        * How is assessment integrated into the department? How do we use the data gathered?
+        * How should data be used in the pupil progress evidence bundles?
 
 
 
@@ -625,19 +669,23 @@ Friday 24th November
         * activating learners as instructional resources for one another
     * [[pairProgramming]], [[code-review]], [[version_control]]
 * Mentor
-    * How does the department use AfL to inform practice and curriculum development, how is it evident in planning? What is good practice?
-    * How does AfL inform the structure of learning in lessons?
-        * 
-    * How does the department: 
-        * use feedback?
-            * #6/h-Assessment-LearnHow-feedback_appropriate_for_learner
-        * use self assessment?
-            * #6/n-Assessment-LearnHow-feedback_self
-        * use peer assessment?
-            * Task: find an example of how this has been scaffolded
-            * #6/n-Assessment-LearnHow-feedback_peer 
-    * How is homework used to inform AfL?
-        * Task: Find an example for each keystage of How homework is linked to the main class learning. Is this effective? #4/11-Classroom-LearnThat-homework_linked
+    * OneNote
+        * Discuss where do many of the subject misconceptions originate? How can you anticipate them?
+        * How are misconceptions used positively in learning in subject department? What effective strategies are being used?
+    * Guidance
+        * How does the department use AfL to inform practice and curriculum development, how is it evident in planning? What is good practice?
+        * How does AfL inform the structure of learning in lessons?
+            * 
+        * How does the department: 
+            * use feedback?
+                * #6/h-Assessment-LearnHow-feedback_appropriate_for_learner
+            * use self assessment?
+                * #6/n-Assessment-LearnHow-feedback_self
+            * use peer assessment?
+                * Task: find an example of how this has been scaffolded
+                * #6/n-Assessment-LearnHow-feedback_peer 
+        * How is homework used to inform AfL?
+            * Task: Find an example for each keystage of How homework is linked to the main class learning. Is this effective? #4/11-Classroom-LearnThat-homework_linked
 
 SPR1 Open Monday 27th November
 
@@ -661,17 +709,21 @@ Friday 1st December
     * Technologies for teaching Computing
         * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
 * Mentor
-    * Task: Identify a range of misconception that have been encountered for each year group taught.
-        * Where do many of the subject misconceptions originate?
-            * #2/e-HowLearn-LearnHow-identify_misconception
-        * Can these misconceptions be anticipated?
-        * How are other computing teachers using 'misconceptions' positively in learning?
-            * #6/q-Assessment-LearnHow-highlight_misconceptions
-        * What effective strategies are being used?
-            * #6/d-Assessment-LearnHow-identify_misconceptions_in_lesson
-        * Show evidence of including evidence of misconceptions in planning and reflect on their use.
-            * #3/4-SubjCur-LearnThat-anticipate_misconceptions
-    * What additional computing hardware is used by the department - how is this linked to pedagogy and pupil progress
+    * OneNote
+        * How does the department use the data gathered form assessment? 
+        * How should data be used in the pupil progress evidence bundles? 
+    * Guidance
+        * Task: Identify a range of misconception that have been encountered for each year group taught.
+            * Where do many of the subject misconceptions originate?
+                * #2/e-HowLearn-LearnHow-identify_misconception
+            * Can these misconceptions be anticipated?
+            * How are other computing teachers using 'misconceptions' positively in learning?
+                * #6/q-Assessment-LearnHow-highlight_misconceptions
+            * What effective strategies are being used?
+                * #6/d-Assessment-LearnHow-identify_misconceptions_in_lesson
+            * Show evidence of including evidence of misconceptions in planning and reflect on their use.
+                * #3/4-SubjCur-LearnThat-anticipate_misconceptions
+        * What additional computing hardware is used by the department - how is this linked to pedagogy and pupil progress
 
 ### EP9
 Friday 1st December 16:30
@@ -714,14 +766,19 @@ Friday 8th December - 11:00
     * Access to computing tools (the class divide and resourcing)
     * Discussion: Segregation to improve inclusion?
 * Mentor
-    * How do you ensure that your curriculum meets the needs of all pupils?
-        * Task: Identify groups that may/may-not be engaging with Computing lessons (FSM, EAL, SEN, Gender) #5/a-AdaptTeach-LearnHow-special_needs_wider how could the curriculum engage them more
-    * How do I effectively liaise with SENDCO, SEND department and other colleagues, families and pupils to identify effective strategies?
-        * Task: discuss case study of effective parent engagement - Identify 2 pupils where building communication with home could be beneficial
-        * #7/k-Behaviour-LearnHow-engage_parents
-    * What are the issues of access and engagement in this subject, and setting?
-        * 
-    * #6/c-Assessment-LearnHow-monitor_data
+    * OneNote
+        * How does your department ensure that your curriculum meets the needs of all pupils?  
+        * Discuss strategies to effectively liaise with SENDCO, SEND department and other colleagues, families and pupils. What are the issues of access and engagement in this subject, and setting?    
+        * What is adaptive practice? 
+    * Guidance
+        * How do you ensure that your curriculum meets the needs of all pupils?
+            * Task: Identify groups that may/may-not be engaging with Computing lessons (FSM, EAL, SEN, Gender) #5/a-AdaptTeach-LearnHow-special_needs_wider how could the curriculum engage them more
+        * How do I effectively liaise with SENDCO, SEND department and other colleagues, families and pupils to identify effective strategies?
+            * Task: discuss case study of effective parent engagement - Identify 2 pupils where building communication with home could be beneficial
+            * #7/k-Behaviour-LearnHow-engage_parents
+        * What are the issues of access and engagement in this subject, and setting?
+            * 
+        * #6/c-Assessment-LearnHow-monitor_data
 
 
 SPR1 Due Friday 15th December
@@ -732,7 +789,12 @@ Friday 8th December - 16:30
 * Introduction to methodologies with e.g. of Action Research
 * Showcase important research (EP10 within day session)	
 
+### (no university session) WB 11th December
+* Mentor Foci
+    * How do schools become inclusive at Christmas? 
+    * SPR1 Should be submitted before Friday this week. 
 
+ 
 
 ---
 
@@ -743,6 +805,12 @@ Monday 8th January - 14:00
 
 ---
 
+### (No Session) WB 2nd January
+* Mentor Foci
+    * How does the inclusion policy compare to your base school?
+    * When does inclusion for the many create exclusion for the few? 
+    * What are the issues of access and engagement in this subject, and setting? 
+    * How do you make the curriculum accessible for pupils with SEND and all learners?  
 
 ### SP13 (PGCE Only)
 Friday 12th January - 09:00
@@ -763,20 +831,37 @@ Subject
 * Planning to aid learning in Computing
     * short to medium term, catering for all needs
 
-Mentor
-* What are the pedagogical approaches that enable inclusion in this subject?
-    * Task: find an example of supporting EAL in a computing classroom. How is this handled?
-* What data is used in department and school to inform practice and learning?
-* When does inclusion for the many create exclusion for the few?
-    * Task: identify 2 pupils in each year group that may be excluded from current practice. Why?
-        * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
-    * Task: discuss an implementation of targeted support for one of these students
-        * #5/b-AdaptTeach-LearnHow-targeted_support
-        * #5/e-AdaptTeach-LearnHow-observe_targeted_support
-        * #5/f-AdaptTeach-LearnHow-discuss_targeted_support
+* Mentor
+    * OneNote
+        * Discuss the best ways to use a TA most effectively 
+    * Guidance
+        * What are the pedagogical approaches that enable inclusion in this subject?
+            * Task: find an example of supporting EAL in a computing classroom. How is this handled?
+        * What data is used in department and school to inform practice and learning?
+        * When does inclusion for the many create exclusion for the few?
+            * Task: identify 2 pupils in each year group that may be excluded from current practice. Why?
+                * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
+            * Task: discuss an implementation of targeted support for one of these students
+                * #5/b-AdaptTeach-LearnHow-targeted_support
+                * #5/e-AdaptTeach-LearnHow-observe_targeted_support
+                * #5/f-AdaptTeach-LearnHow-discuss_targeted_support
 
 
 SPR2 Out
+
+### (No Session) WB 15th January
+* Mentor
+    * How does your department promote literacy in this subject? 
+    * How does a literacy focus support EAL students 
+    * Share your school EAL data.  
+    * Discuss strategies used by the department to support any EAL student. Do they match the strategies suggested by this weeks reading? 
+
+### (No Session) WB 22nd January
+* Mentor
+    * How do you use your subject knowledge to effectively structure learning that meet the needs of the pupils? 
+    * How is homework managed for different learners? 
+    * What's the difference between Adapting Learning and Differentiation? 
+    * Adapting learning by resource or by outcome? 
 
 ### SP14 (PGCE Only)
 
@@ -791,24 +876,39 @@ Subject
     * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
 * Computing unplugged - Computing concepts without a computer
 
-Mentor
-* Task: Case study 2 SEND pupils from each key stage - contrast how the different support is constructed
-    * #5/b-AdaptTeach-LearnHow-targeted_support
-    * #5/e-AdaptTeach-LearnHow-observe_targeted_support
-    * #5/f-AdaptTeach-LearnHow-discuss_targeted_support
-* Task: Find a case study of - How is pair/group work explicitly scaffolded to include SEND pupils?
-    * #5/m-AdaptTeach-LearnHow-group_pair_guidance
-    * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
-    * #5/o-AdaptTeach-LearnHow-group_pair_stretch
-* How do you make the curriculum accessible for pupils with SEND and all learners?
-    * #4/a-Classroom-LearnHow-observe_task_breakdown
-    * #4/b-Classroom-LearnHow-scaffold_novices
-* How does the department integrate planning, pedagogy, subject knowledge and other factors to achieve impact on individual pupil progress?
+* Mentor
+    * OneNote
+        * How do we best manage LGBTQIA+ students and those who are transitioning? 
+    * Guidance
+        * Task: Case study 2 SEND pupils from each key stage - contrast how the different support is constructed
+            * #5/b-AdaptTeach-LearnHow-targeted_support
+            * #5/e-AdaptTeach-LearnHow-observe_targeted_support
+            * #5/f-AdaptTeach-LearnHow-discuss_targeted_support
+        * Task: Find a case study of - How is pair/group work explicitly scaffolded to include SEND pupils?
+            * #5/m-AdaptTeach-LearnHow-group_pair_guidance
+            * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
+            * #5/o-AdaptTeach-LearnHow-group_pair_stretch
+        * How do you make the curriculum accessible for pupils with SEND and all learners?
+            * #4/a-Classroom-LearnHow-observe_task_breakdown
+            * #4/b-Classroom-LearnHow-scaffold_novices
+        * How does the department integrate planning, pedagogy, subject knowledge and other factors to achieve impact on individual pupil progress?
+### (no session) WB 5th Feb
+* Mentor
+    * How do you use your subject knowledge to effectively structure learning that meet the needs of the pupils? 
+    * Can you adapt the curriculum? Where would you start? 
+    * SPR2 Needs to be submitted by the end of this week. 
 
+### (no session) WB 19th Feb
+* Mentor
+    * What departmental strategies or SENCO advice might support individual learners with Cognition and Learning needs such as Dyslexia, Dyspraxia, general learning difficulties? 
+    * Do coloured layovers/coloured paper actually support dyslexic students? 
+    * Review SPR2 Targets from contrasting placement. 
 
-* How do you use your subject knowledge to effectively structure learning that meet the needs of the pupils?
+### (no session ) WB 26th Feb
+* Mentor
+    * Discuss what departmental strategies or SENCO advice might support individual learners with Social, Emotional & Mental health needs such as ASD, ADHD, ADD, Anxiety, Attachment disorders, Behavioural difficulties? 
 
-
+ 
 
 ### SP15
 Friday 9th March - 09:00
@@ -821,15 +921,18 @@ Friday 9th March - 09:00
             * to work together effectively pupils need guidance, support and practice
             * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
     * AMA (Academically more able)
-Mentor
-* Task: Case study 2 AMA pupils from each key stage - contrast how the different support is constructed
-    * #5/l-AdaptTeach-LearnHow-questioning_support_stretch
-    * #4/4-Classroom-LearnThat-remove_scaffolds
-* Task: Find a case study of - How is pair/group work explicitly structured to enhance/stretch the students?
-    * #5/m-AdaptTeach-LearnHow-group_pair_guidance
-    * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
-    * #5/o-AdaptTeach-LearnHow-group_pair_stretch
-    * #1/a-HighExp-LearnHow-set_stretch
+* Mentor
+    * OneNote
+        * How do you use your subject knowledge to effectively structure learning that meet the needs of the pupils? 
+    * Guidance
+        * Task: Case study 2 AMA pupils from each key stage - contrast how the different support is constructed
+            * #5/l-AdaptTeach-LearnHow-questioning_support_stretch
+            * #4/4-Classroom-LearnThat-remove_scaffolds
+        * Task: Find a case study of - How is pair/group work explicitly structured to enhance/stretch the students?
+            * #5/m-AdaptTeach-LearnHow-group_pair_guidance
+            * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
+            * #5/o-AdaptTeach-LearnHow-group_pair_stretch
+            * #1/a-HighExp-LearnHow-set_stretch
 
 
 SPR2 Due Friday 9th March
@@ -884,13 +987,18 @@ Subject
 * [[computingAcrossCurriculum]] and your school
 * Giving computing context in the wider world/community [[context_wider]]
 
-Mentor
-* How do we work with other subject areas to capitalise on or contribute to wider learning?
-* What are the literacy and numeracy school policies and how are they embedded in planning and teaching?
-    * #3/p-SubjCur-LearnHow-build_written_fluency
-    * #3/r-SubjCur-LearnHow-build_reading_enjoyment
-* How do we recognise and celebrate diversity in the curriculum?
-    * Task: Find examples of how Computing in your school address's this - find example of ideas online/from-research and discuss integration/trial of some of these ideas in upcoming lesson planning
+* Mentor
+    * OneNote
+        * How do we work with other subject areas to capitalise on or contribute to wider learning?
+        * What are the literacy and numeracy school policies and how are they embedded in planning and teaching?
+        * How do we recognise and celebrate diversity in the curriculum? 
+    * Guidance
+        * How do we work with other subject areas to capitalise on or contribute to wider learning?
+        * What are the literacy and numeracy school policies and how are they embedded in planning and teaching?
+            * #3/p-SubjCur-LearnHow-build_written_fluency
+            * #3/r-SubjCur-LearnHow-build_reading_enjoyment
+        * How do we recognise and celebrate diversity in the curriculum?
+            * Task: Find examples of how Computing in your school address's this - find example of ideas online/from-research and discuss integration/trial of some of these ideas in upcoming lesson planning
 
 ### EP17
 Friday 15th March - 16:30
@@ -900,17 +1008,22 @@ Friday 15th March - 16:30
 ### SP17
 Friday 22nd March - 11:00
 
-Generic
-* SoW; Sequencing and progression in learning over time considering post KS; Post –16 in subject
-* AFL and ‘adapting teaching’
-* Curriculum and PCK - leading to level 4
-Mentor
-* What are the contextual factors used to support pupil engagement and success in the subject?
-* How do we gather feedback from pupils about subject curriculum content and design?
-* How do we address health and wellbeing concerns for our students as part of our curriculum?
-    * Task: How is [[eSafety]] conveyed/revisited at an age appropriate level KS3/KS4/KS5
-* Task: Liaise with a teacher of another subject; how can elements of their curriculum be contextually combined with computing. If there an opportunity to try this?
-* Task: How are [[fundamental_british_values]] considered in the schools delivery of Computing
+* Generic
+    * SoW; Sequencing and progression in learning over time considering post KS; Post –16 in subject
+    * AFL and ‘adapting teaching’
+    * Curriculum and PCK - leading to level 4
+* Mentor
+    * OneNote
+        * What are the contextual factors used to support pupil engagement and success in the subject? 
+        * How do we gather feedback from pupils about subject curriculum content and design? 
+        * What is the hidden curriculum and how does it manifest in this school? 
+    * Guidance
+        * What are the contextual factors used to support pupil engagement and success in the subject?
+        * How do we gather feedback from pupils about subject curriculum content and design?
+        * How do we address health and wellbeing concerns for our students as part of our curriculum?
+            * Task: How is [[eSafety]] conveyed/revisited at an age appropriate level KS3/KS4/KS5
+        * Task: Liaise with a teacher of another subject; how can elements of their curriculum be contextually combined with computing. If there an opportunity to try this?
+        * Task: How are [[fundamental_british_values]] considered in the schools delivery of Computing
 
 
 
@@ -921,6 +1034,11 @@ Friday 22nd March - 16:30
 * Exploring and critiquing behaviour policy (EP18 within day session)	
 
 
+### (no session) WB 25th March
+* Mentor
+    * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
+    * How do we support conversations around careers? 
+    * How do I effectively liaise with support staff to secure learning and progression?  
 
 
 SQ 9: How do you lead learning?
@@ -947,7 +1065,7 @@ Developing classroom practice to become an autonomous practitioner who has an im
 * Mental health and well-being; EI and cross-curricular learning
 
 ### SP18
-Friday 18th April
+Friday 19th April
 * Tutorial Day
 * Managing pressures and time constraints 
 * Other theories of education
@@ -956,33 +1074,44 @@ Friday 18th April
 * Developing criticality, Tod and Ellis Step 2	
 
 
-Mentor
-* How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
-* How do we support conversations around careers?
-    * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
-* How do I effectively liaise with support staff to secure learning and progression?
-    * #5/g-AdaptTeach-LearnHow-teaching_assistants
-    * #8/5-Wider-LearnThat-teaching_assistants
-    * #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
-    * #8/l-Wider-LearnHow-teaching_assistants_utilised_guided
-* How does teaching at KS5 differ from KS3/4? What pedagogical approaches? Revisit content knowledge and audit for KS5
+* Mentor
+    * OneNote
+        * How does teaching at KS5 differ from KS3/4? What pedagogical approaches?  
+        * How do I independently lead learning in my subject? 
+        * How do you use data to support learning for all pupils, and to target specific and timely interventions?  
+    * Guidance
+        * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
+        * How do we support conversations around careers?
+            * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
+        * How do I effectively liaise with support staff to secure learning and progression?
+            * #5/g-AdaptTeach-LearnHow-teaching_assistants
+            * #8/5-Wider-LearnThat-teaching_assistants
+            * #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
+            * #8/l-Wider-LearnHow-teaching_assistants_utilised_guided
+        * How does teaching at KS5 differ from KS3/4? What pedagogical approaches? Revisit content knowledge and audit for KS5
 
 
 
-### EP19
+### EP19 ???
 Friday 31st Match
 * Exploring and critiquing assessment policy
 
 
 ### SP18
-Friday 21th April - 09:00
+Friday 26th April - 09:00
 
-* SoW; Sequencing and progression in learning over time considering Post–16 in Computing
-    * A-Level course structure
-    * BTEC + Vocational qualifications
-    * Differing technique's for older more advanced learners
-* Curriculum and PCK - Subject Knowledge Audit leading to level 4
-
+* Generic
+    * SoW; Sequencing and progression in learning over time considering Post–16 in Computing
+        * A-Level course structure
+        * BTEC + Vocational qualifications
+        * Differing technique's for older more advanced learners
+    * Curriculum and PCK - Subject Knowledge Audit leading to level 4
+* Computing
+* Mentor
+    * OneNote
+        * How is data most effectively used within the department?  
+        * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them? 
+        * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning? 
 
 ### EP20
 Thursday 31st April - 16:30
@@ -1006,6 +1135,9 @@ Subject
         * Task: What opportunities are there for students to participate in autonomous projects or creativity in Computing? 
             * Consider how creativity/autonomy could be included in an upcoming lesson
 
+### (no session) WB 29th April
+* Mentor
+    * Review targets and foci in ITP and ensure your Trainee knows what they have to do to work towards final grading?  
 
 SPR3 Due Friday 28th April
 Last SD?
@@ -1044,13 +1176,16 @@ Generic
 ??
 * [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
 
-Mentor
-* What are my targets and foci in ITP and towards final grading?
-* How can I progress further? What support do I need?
-* What evidence do I have of my impact on student learning? Revisit subject knowledge and audit, specifically in relation areas of priority considering transition to ECT
-* What is my impact with my learners and classes? In the department and in the wider school? How do I know?
-* Final grading – review of the year/placement and the progress made. How is this evidenced?
-* What subject specific targets for ECT year 1? Supporting the ECT transition process
+* Mentor
+    * OneNote
+        * Discuss the impact your student has had with Questioning. In the department and in the wider school?
+    * Guidance
+        * What are my targets and foci in ITP and towards final grading?
+        * How can I progress further? What support do I need?
+        * What evidence do I have of my impact on student learning? Revisit subject knowledge and audit, specifically in relation areas of priority considering transition to ECT
+        * What is my impact with my learners and classes? In the department and in the wider school? How do I know?
+        * Final grading – review of the year/placement and the progress made. How is this evidenced?
+        * What subject specific targets for ECT year 1? Supporting the ECT transition process
 
 
 
@@ -1058,6 +1193,17 @@ Mentor
 Thursday 5th May - 17:30
 * Structuring an argument critiquing policy 
 * Writing at distinction
+
+
+### (no session) WB 13th May
+* Mentor
+    * Discuss the impact your student has had with marking.
+        * In the department and in the wider school?
+
+### (no session) WB 20th May
+* Mentor
+    * Discuss the impact your student has had with Stretch and Challenge.
+        * In the department and in the wider school?
 
 
 ### EP2?
@@ -1076,6 +1222,21 @@ Half Term
 
 ---
 
+### (No session) WB 3rd June
+* Mentor
+    * Discuss the impact your student has had with behaviour. 
+        * In the department and in the wider school?  
+
+### (No session) WB 10th June
+* Mentor
+    * Discuss the impact your student has had with planning lessons.
+        * In the department and in the wider school?
+
+### (No session) WB 17th June
+* Mentor
+    * Discuss the impact your student has had with relationships
+        * In the department and in the wider school?  
+
 SPR4 Due 21st June
 
 ### GP7 Final
@@ -1084,10 +1245,13 @@ Friday 28th June - 09:00
 * Review transition document in preparation for ECT year QA and peer review e-portfolio.
 * Recognise and celebrate achievements!
 
-Subject?
-* QA and peer review e-portfolio. 
-* SPR targets - What are my next steps?
-* Return to ‘professional purpose’ statement from induction 1, how has this evolved?
+* Subject?
+    * QA and peer review e-portfolio. 
+    * SPR targets - What are my next steps?
+    * Return to ‘professional purpose’ statement from induction 1, how has this evolved?
+* Mentor
+    * Discuss the impact your student has had being adaptable and inclusive. 
+        * In the department and in the wider school?  
 
 
 Misplaced?
