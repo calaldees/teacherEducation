@@ -44,8 +44,8 @@ Personal and Professional Identity
     * This is one of the biggest transitions in your life!
 
 * Bombshell 2
-    * You're not a student any more - you need to abide by a new set of professional rules
-        * Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
+    * You're not a student any more - you need to abide by a new set of professional rules (and therefore expected responsibilities)
+        * Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a _professional in training_.
         * Some young student teachers struggle with being close in age but having a full professional role
         * [Handbook for Education Professionals: Bristol Guide](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
             * Succinctly outlines education professionals’ duties, legal responsibilities, and rights.  This includes data protection, safeguarding and equality.
@@ -311,7 +311,7 @@ Bombshell Summary
 -----------------
 
 1. One of the biggest transitions of your life - you are "contributing back" for the first time
-2. You're not a student any more - you need to abide by a new set of professional rules
+2. You're not a student any more - you need to abide by a new set of professional rules (and therefore expected responsibilities)
 3. You can still be a professional and still be yourse lf
 4. You don't have to be _friends_ with your colleagues
 5. You have a duty of care for your colleagues just as much as you students

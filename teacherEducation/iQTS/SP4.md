@@ -14,7 +14,7 @@ Objectives
     * [[knowledge_organisers]]
     * [[parsons_problems]]
     * [[instructional_continuum]]
-        * [[constructivisum]]
+        * [[constructivism]]
 
 * [[education_research]]
 

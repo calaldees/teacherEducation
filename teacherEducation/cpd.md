@@ -1,6 +1,11 @@
 CPD
 ===
 
+* @GrumpyCompSci 
+    * [School CPD Bingo](https://twitter.com/GrumpyCompSci/status/1698345753104593228)
+        * Hilarious
+        * ![School CPD Bingo](https://pbs.twimg.com/media/F5G8dULWkAACekp?format=jpg&name=large)
+
 TODO: [National Institute to Teaching](https://niot.org.uk/)
 https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd-experience
 

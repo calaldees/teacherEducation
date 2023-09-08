@@ -63,6 +63,7 @@ General Information and Pre Reading
 * Organisations
     * National Centre for Computing Education [TeachComputing.org](https://teachcomputing.org/)
     * [Computing at School](https://www.computingatschool.org.uk/)
+        * [#CASChat](https://twitter.com/caschat_uk)
     * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
         * [HelloWorld](https://helloworld.raspberrypi.org/) Computing Pedagogy Magazine (subscribe to physical magazine for free)
             * [online articles](https://helloworld.raspberrypi.org/articles)

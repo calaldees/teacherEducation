@@ -113,7 +113,7 @@ The CCF is not the whole story. It misses out other statutory requirements like
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. l Providing tasks that support pupils to learn key ideas securely (e.g. quizzing pupils so they develop fluency with times tables).  #3/l-SubjCur-LearnHow-embed_retrieval
 7. Help pupils apply knowledge and skills to other contexts, by:
-    1. m Observing how expert colleagues interleave concrete and abstract examples, slowly withdrawing concrete examples and drawing attention to the underlying structure of problems and deconstructing this approach.  #3/m-SubjCur-LearnHow-interleave_concrete_abstract
+    1. m Observing how expert colleagues interleave concrete and abstract examples, slowly withdrawing concrete examples and drawing attention to the underlying structure of problems and deconstructing this approach.  #3/m-SubjCur-LearnHow-interleave_concrete_abstract_context
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. n Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject #3/n-SubjCur-LearnHow-domain_knowledge_criticality
 9.  Develop pupils’ literacy, by:
@@ -207,7 +207,7 @@ scaffold talk?
     1. m Discussing and analysing with expert colleagues how the placement school changes groups regularly, avoiding the perception that groups are fixed. #5/m-AdaptTeach-LearnHow-group_pair_guidance
     2. n Discussing and analysing with expert colleagues how the placement school ensures that any groups based on attainment are subject specific. #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. o Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5/o-AdaptTeach-LearnHow-group_pair_stretch
+    1. o Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5/o-AdaptTeach-LearnHow-all_practice_feedback_stretch
 
 
 ## Assessment (Standard 6 – ‘Make accurate and productive use of assessment’)
@@ -313,7 +313,7 @@ scaffold talk?
     5. g Engaging critically with research and using evidence to critique practice. #8/g-Wider-LearnHow-research_critique
 3. Build effective working relationships, by:
     1. h Discussing and analysing with expert colleagues how experienced colleagues seek ways to support individual colleagues and working as part of a team. #8/h-Wider-LearnHow-contribute_team
-    2. i Observing how expert colleagues communicate with parents and carers proactively and make effective use of parents’ evenings to engage parents and carers in their children’s schooling and deconstructing this approach. #8/i-Wider-LearnHow-observe_engage_parents
+    2. i Observing how expert colleagues communicate with parents and carers proactively and make effective use of parents’ evenings to engage parents and carers in their children’s schooling and deconstructing this approach. #8/i-Wider-LearnHow-carers_engage_parents
     3. j Receiving clear, consistent and effective mentoring in how to work closely with the SENCO and other professionals supporting pupils with additional needs, including how to make explicit links between interventions delivered outside of lessons with classroom teaching. #8/j-Wider-LearnHow-special_needs_linked_outside_lessons
     4. k Discussing with mentor and expert colleagues how to share the intended lesson outcomes with teaching assistants ahead of lessons.  #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
     5. l Receiving clear, consistent and effective mentoring in how to ensure that support provided by teaching assistants in lessons is additional to, rather than a replacement for, support from the teacher. #8/l-Wider-LearnHow-teaching_assistants_utilised_guided

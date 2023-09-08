@@ -108,7 +108,7 @@ ITP = Independent Teaching Phase
 PGCE: 20 Session (6 hours per session) = 120 hours
 SD: 14 Sessions = 84 hours (-14hours admin and surveys and folders) = 70hours
 
-SD == 70% of Session time
+SD == 70% of Session time that PGCE have
 
 * PGCE: I write your reference
     * (You probably want a school mentor as a second?)
@@ -124,7 +124,15 @@ SD == 70% of Session time
 Placement 1: CTP + DTP
 Placement 2: ITP (but need to get up to speed with new context)
 
-
+|Phase|Dates | School days per week |Solo teaching |Collaborative teaching|Observation|Professional activities|
+|-----|------|----------------------|--------------|----------------------|-----------|-----------------------|
+| Collaborative Teacher Phase (CTP) | 2nd Oct – 27th Oct:| See Guidance Below for Induction, tasks, activities and teaching|
+| Intensive Training and Practice (ITAP)| 30th Oct – 2nd Nov | 3 | 0% | 30% |60% | 10%
+|Development Teaching Phase (DTP)| 6th Nov – 15th Dec: | 4 |10% |30% |20% |40% 
+|DPT|2nd Jan – 8th Feb: |4 |40% |20% |10% |30% 
+|Induction Days, Independent  Teaching Phase (ITP)|4th Mar – 8th Mar:  |4 |0% |20% |45% |35% 
+|ITP|11th Mar – 3rd May: |4 - 5 |40% |15% |15% |30% |
+|ITP|7th May – 27th  Jun:|4 - 5 |50% |10% |10% |30%  |
 
 
 Subject Session

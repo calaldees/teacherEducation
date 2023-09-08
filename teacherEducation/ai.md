@@ -8,6 +8,8 @@ Different between tcp and udp and when they would be used
 https://quizbot.ai/ai-templates
 Copy and paste from gcse exam spec
 
+* [Empowering the next generation: A literature review of AI Education interventions in K–12](https://computingeducationresearch.org/empowering-the-next-generation-a-literature-review-of-ai-education-interventions-in-k-12/)
+
 
 * [AI education resources: What do we teach young people?](https://www.raspberrypi.org/blog/ai-education-resources-what-to-teach-seame-framework/)
     * The SEAME framework as a tool for research on AI education

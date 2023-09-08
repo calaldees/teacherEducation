@@ -2,7 +2,7 @@ Instructional Continuum - Range of structured tasks
 -----------------------
 
 * See also 
-    * [[constructivisum]]
+    * [[constructivism]]
     * [[rosenshine]]
 
 

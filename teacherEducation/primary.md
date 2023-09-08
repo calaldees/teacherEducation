@@ -424,7 +424,7 @@ Nebraska USA
 
 * [Integrated Curriculum in the Primary Program](https://www.education.ne.gov/wp-content/uploads/2017/07/IC.pdf)
 
-[Constructivisum](./constructivisum.md)
+[Constructivisum](constructivism.md)
 
 ### CBIC - Competency Based Integrated Curriculum
 

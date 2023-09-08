@@ -1,6 +1,8 @@
 ITE Quality
 ===========
 
+* [Initial teacher training (ITT): criteria and supporting advice](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1181568/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf) Statutory guidance for accredited ITT providers Academic year 2024/25
+
 from [sharepoint](https://cccu.sharepoint.com/:w:/r/sites/FacultyofArtsHumanitiesandEducation/School%20of%20Teacher%20Education/School%20Information/School%20Meetings/ACM%205th%20January%202023/Meeting%20Documents/02.%20Accreditation/00.%20CCCU%20Successful%20submission.docx?d=w72b0178a0d324578be648144d07e4e0c&csf=1&web=1&e=2Trq3z)
 
 The 2024 Quality Requirements at CCCU

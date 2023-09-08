@@ -244,7 +244,7 @@ Building Code Comprehension
     * [/exercises](https://github.com/ratfactor/ziglings/tree/main/exercises)
         * Each program is broken and the task is described with comments
 
-* [[constructivisum]]
+* [[constructivism]]
 
 
 Computational Thinking
