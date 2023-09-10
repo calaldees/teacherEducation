@@ -621,6 +621,7 @@ Friday 17th November - 09:00
 ### SP9
 Friday 17th November - 11:00
 * Computing
+    * #6/l-Assessment-LearnHow-marking_only_for_improving_pupils
     * (G8) Asking not telling – an introduction to effective exposition and questioning
         * #4/6-Classroom-LearnThat-questioning_feedback
     * (G) AfL strategies and feedback to inform Computing practice
@@ -634,6 +635,8 @@ Friday 17th November - 11:00
     * Reducing assessment workload
         * High impact high quality feedback
             * [[feed_forward]]
+                * #6/h-Assessment-LearnHow-feedback_appropriate_for_learner
+                * #6/j-Assessment-LearnHow-feedback_actionable
         * Whole class feedback
     * [[all_student_response_systems]]
     * [[diagnostic_questions]]
@@ -642,6 +645,7 @@ Friday 17th November - 11:00
         * #3/4-SubjCur-LearnThat-anticipate_misconceptions
         * #3/g-SubjCur-LearnHow-planning_for_misconceptions
     * [[verbal_feedback]]
+        * #6/m-Assessment-LearnHow-more-than-written-feedback
     * [[automated_tests]] and fast feedback cycle
     * [[bebras]] problems
 * Mentor
@@ -838,16 +842,18 @@ Friday 12th January - 09:00
 
 * Computing
     * Planning for inclusion - key strategies in Computing
-        * How are different groups alienated
+        * How are different groups alienated? [[girls]], LGBTQIA, Ethnicity
+        * [[culturallyRelevantComputing]]
+        * [[digital-poverty]]
     * Integrating inclusively
         * Understand pupils’ differences
-        * _artificially_ creating distinct tasks?
+        * [[ssdd]] not _artificially_ creating distinct tasks?
         * Pupils do not have distinct and identifiable learning styles
     * Planning to aid learning in Computing
         * short to medium term, catering for all needs
     * Making use of data in Computing
         * aid planning of inclusion
-        * What might this mean in the context of Computing
+        * [[managingData]]
 * Mentor
     * How do we best manage LGBTQIA+ students and those who are struggling to integrate socially? 
     * What are the pedagogical approaches that enable inclusion in this subject?
@@ -868,7 +874,7 @@ SPR2 Out
 * Mentor
     * How does your department promote literacy in this subject? 
     * How does a literacy focus support EAL students 
-    * Share your school EAL data.  
+    * Share your school EAL data.
     * Discuss strategies used by the department to support any EAL student. Do they match the strategies suggested by this weeks reading? 
 
 ### (No Session) WB 22nd January
@@ -1061,7 +1067,6 @@ Friday 22nd March - 16:30
 ### (no session) WB 25th March
 * Mentor
     * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
-    
     * How do I effectively liaise with support staff to secure learning and progression?  
 
 
@@ -1107,9 +1112,6 @@ Friday 19th April
             * #8/l-Wider-LearnHow-teaching_assistants_utilised_guided
     * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
 
-* TODO
-    * How do you use data to support learning for all pupils, and to target specific and timely interventions?  
-
 
 ### EP19 ???
 Friday 31st Match
@@ -1131,17 +1133,16 @@ Friday 26th April - 09:00
         * Networking with other Computing practitioners leading to career development [[wider_knowledge_network]]
     * Effective long term targets
 * Mentor
-    * Guidance
-        * How do I independently lead learning in my subject?
-        * How do you use data to support learning for all pupils, and to target specific and timely interventions? How is data most effectively used within the department?
-        * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them?
-        * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning?
-            * Task: What opportunities are there for students to participate in autonomous projects or creativity in Computing? 
-                * Consider how creativity/autonomy could be included in an upcoming lesson
-    * OneNote
-        * How is data most effectively used within the department?  
-        * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them? 
-        * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning? 
+    * Effective use of data
+        * How do you use data to support learning for all pupils, and to target specific and timely interventions? 
+        * How is data most effectively used within the department?
+            * #6/c-Assessment-LearnHow-monitor_data
+            * #6/l-Assessment-LearnHow-marking_only_for_improving_pupils
+    * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them? 
+    * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning?
+        * Task: What opportunities are there for students to participate in autonomous projects or creativity in Computing? 
+            * Consider how creativity/autonomy could be included in an upcoming lesson
+        
 
 SPR3 Due Friday 26th April
 Last SD!
@@ -1270,15 +1271,6 @@ Friday 28th June - 09:00
             * How do you know? How do others know?
 
 
-Misplaced
-=========
-
-* SP14 (PGCE)
-    * Planning to aid learning in subject
-        * short to medium term, catering for all needs
-
-
-
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [digitalLiteracy]: digitalLiteracy.md "Digital Literacy"
 [ofstedComputing]: ofstedComputing.md "Ofsted Computing"
@@ -1310,6 +1302,11 @@ Misplaced
 [version_control]: version_control.md "Version Control"
 [creativity]: creativity.md "Creativity"
 [physical]: physical.md "physical"
+[girls]: girls.md "Girls in Computing"
+[culturallyRelevantComputing]: culturallyRelevantComputing.md "Culturally Relevant Computing"
+[digital-poverty]: digital-poverty.md "digital-poverty"
+[ssdd]: ssdd.md "Same Surface - Different Depth"
+[managingData]: managingData.md "Managing Data"
 [primary]: primary.md "Computing in Primary Schools"
 [unplugged]: unplugged.md "CS Unplugged"
 [academicallyMoreAble]: academicallyMoreAble.md "Academically More Able"
