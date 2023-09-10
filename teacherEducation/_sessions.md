@@ -964,6 +964,11 @@ Friday 9th March - 09:00
             * to work together effectively pupils need guidance, support and practice
             * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
     * [[academicallyMoreAble]]
+    * Measuring provision
+        * Ofsted criteria for schools [[educationInspectionFramework]]
+            * revisit [[ofstedComputing]] research review
+        * [[computing_quality_framework]]
+            * prelude to Board and Balanced and Careers in upcoming sessions
 * Mentor
     * Task: Case study 2 AMA pupils from each key stage - contrast how the different support is constructed
         * #5/l-AdaptTeach-LearnHow-questioning_support_stretch
@@ -973,6 +978,7 @@ Friday 9th March - 09:00
         * #5/n-AdaptTeach-LearnHow-subject_specific_ability_groups
         * #5/o-AdaptTeach-LearnHow-all_practice_feedback_stretch
         * #1/a-HighExp-LearnHow-set_stretch
+    * Task: Consider how your school ranks on the NCCE Quality Framework
 
 
 SPR2 Due Friday 9th March
@@ -1056,6 +1062,7 @@ Friday 22nd March - 11:00
     * (G) Revisit subject knowledge audit PCK
         * considering level 4
         * considering KS5
+    * [[careers]] guidance in the area of computing
 * Mentor
     * How does teaching at KS5 differ from KS3/4? What pedagogical approaches?  
     * How do we address health and wellbeing concerns for our students as part of our curriculum?
@@ -1145,14 +1152,19 @@ Friday 31st Match
 
 ### SP19
 Friday 26th April - 09:00
-Generic
-* Risk taking and innovation in Computing
-* Creativity and fun in learning Computing
-* Promoting pupil independence
-Subject
-* Your professional role: Supporting colleagues in your institution with Computing
+* Computing
+    * (G) Risk taking and innovation in Computing
+    * (G) [[creativity]] and fun in learning Computing
+    * (G) Promoting pupil independence
+    * Understanding your [[impact]]
+    * Your wider professional role: Supporting colleagues in your institution with Computing
+    * Effective [[cpd]] (Continued Professional Development)
+        * Measuring impact
+        * Ways to Share good practice
+        * Networking with other Computing practitioners leading to career development [[wider_knowledge_network]]
+    * Effective long term targets
 * Mentor
-    * Guidence
+    * Guidance
         * How do I independently lead learning in my subject?
         * How do you use data to support learning for all pupils, and to target specific and timely interventions? How is data most effectively used within the department?
         * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them?
@@ -1205,12 +1217,9 @@ Friday 10th May
 
 Generic
 * Professional practice and relationships, identifying my impact on pupil progress through reflection, evaluation and research. 
-* Meaningfully using [subject] data and Pupil Progress Bundles
+* Meaningfully using data and Pupil Progress Bundles
 * What are the key questions for me? What is and what is not my impact? What innovative practice will I take with me to ECT year?
-* SPR targets - What are my next steps?
-
-??
-* [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
+* Consider [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
 
 * Mentor
     * OneNote
@@ -1275,7 +1284,8 @@ Half Term
 
 SPR4 Due 21st June
 
-### GP7 Final
+
+### GP7 (PGCE) Final
 Friday 28th June - 09:00
 
 * Review transition document in preparation for ECT year QA and peer review e-portfolio.
@@ -1286,25 +1296,15 @@ Friday 28th June - 09:00
     * SPR targets - What are my next steps?
     * Return to ‘professional purpose’ statement from induction 1, how has this evolved?
 * Mentor
-    * Discuss the impact your student has had being adaptable and inclusive. 
+    * Discuss the impact your student has had being adaptable and inclusive.
         * In the department and in the wider school?  
 
 
 Misplaced?
 ===========
 
-* AFL and ‘adapting teaching’
-* Ofsted criteria for schools
-    * revisiting the Education inspection framework in context of wider curriculum
-* Careers Guidance in the area of computing
 
-* Effective CPD (Continued Professional Development)
-    * Measuring impact
-    * Sharing good practice
-    * Networking with other Computing practitioners
-* What are the key questions for me?
-* What is and what is not my impact?
-* What innovative practice will I take with me to ECT year?
+
 
 
 
@@ -1339,6 +1339,13 @@ Misplaced?
 [creativity]: creativity.md "Creativity"
 [physical]: physical.md "physical"
 [academicallyMoreAble]: academicallyMoreAble.md "Academically More Able"
+[educationInspectionFramework]: educationInspectionFramework.md "Education Inspection Framework (EIF)"
+[ofstedComputing]: ofstedComputing.md "Ofsted Computing"
+[computing_quality_framework]: national_documentation/computing_quality_framework.md "Computing Quality Framework"
 [computingAcrossCurriculum]: computingAcrossCurriculum.md "Computing Across the Curriculum"
 [context_wider]: context_wider.md "Context"
+[careers]: careers.md "Careers"
+[impact]: impact.md "Impact"
+[cpd]: cpd.md "CPD"
+[wider_knowledge_network]: national_documentation/wider_knowledge_network.md "Wider"
 [//end]: # "Autogenerated link references"
