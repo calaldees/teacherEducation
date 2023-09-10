@@ -214,7 +214,7 @@ Friday 22nd September
             * #8/c-Wider-LearnHow-cpd_subject_external
     * (G) Accessing and understanding research in Computing
         * Library Search
-        * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
+        * [[ofstedComputing]] research review series: computing  (May 2022)
         * NCCE [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
         * [[education_research]]
             * EEF Teacher Toolkit
@@ -222,7 +222,7 @@ Friday 22nd September
     * Course Mechanics - Collaborative Teaching Phase
         * How to observe a lesson (not just a list of descriptions)
         * Which students struggled with in previous years in Computing
-
+    * check 'Professional purpose' statement?
 * Mentor Foci
     * Discuss with your trainee
         * how progress in learning is evidenced and used in the short and long term in your subject?
@@ -261,13 +261,8 @@ Johnston, S., et al. (2016) [Adolescents’ Character Role Models: Exploring Who
 ### SP2 (PGCE only)
 Tuesday 26th September
 
-* Generic
-    * What is a subject teacher?
-    * What is subject specific pedagogy and how is it defined in subject research? 
-    * Differences between subject knowledge and subject pedagogy
-    * SKA and development
 * Computing
-    * What is a Computing teacher?
+    * (G) What is a Computing teacher?
     * Academic ethos, academic writing and academic research
         * [[education_research]]
         * #3/6-SubjCur-LearnThat-criticality_requires_knowledge
@@ -308,13 +303,6 @@ Friday 29th September - 09:00
 ### SP3
 Friday 29th September - 11:00
 
-* Generic
-    * Learning to date re what is a teacher What is a curriculum/ subject curriculum? 
-    * What is subject education? Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
-    * Identifying conceptions of SK and PCK and own development
-    * NC and recent policy
-    * Key influential subject documents, reports and research; current and over time.
-    * How has subject changed and been influenced over recent times?
 * Computing
     * (G) What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / subject curriculum?
         * > planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
@@ -327,7 +315,7 @@ Friday 29th September - 11:00
             * vocabulary to facilitate thinking about Computing
     * [[digitalLiteracy]]
         * [[eSafety]]
-    * Planning a lesson
+    * (G+) Planning to aid learning in subject; making effective use of a lesson plan
         * talk less teaching (talk for less than 15min)
         * scaffold scaffold scaffold
             * #4/a-Classroom-LearnHow-observe_task_breakdown
@@ -341,7 +329,7 @@ Friday 29th September - 11:00
         * #4/e-Classroom-LearnHow-practice_to_master
         * #7/i-Behaviour-LearnHow-routines_transitions
 * Mentor
-    * Discuss with your trainee -    
+    * Discuss with your trainee -
         * What is a subject teacher?
         * What is subject specific pedagogy and how is it different to other subjects?
         * What differences are there between subject knowledge and subject pedagogy?
@@ -365,11 +353,9 @@ Friday 29th September - 16:30
 ### SP4 (PGCE)
 Thursday 5th October
 
-* Generic
-    * What, and how, has teaching and learning of subject been affected in this area/my placement school? 
-    * What are current subject practices?
 * Computing
     * Microteach
+    * (G) What are current subject practices?
     * What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these? (KS3/KS4/KS5)
     * Planning for progression - Schemes of Work - Building schemata
         * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
@@ -414,14 +400,13 @@ Friday 6th October - 09:00
 ### SP5
 Friday 6th October - 11:00
 
-* Generic
-    * Planning to aid learning in subject; making effective use of a lesson plan
 * Computing
     * [[progression_model]] KS3->KS5
         * #8/s-Wider-LearnHow-use_shared_resources
+        * (G10) Sequencing and structuring learning in subject
     * [[howStudentsLearn]] [[learningTheories]], General education theories
         * #5/6-AdaptTeach-LearnThat-no_learning_styles
-    * Prior knowledge, memory and recall; scaffolding learning
+    * (G8) Prior knowledge, memory and recall; scaffolding learning
     * scaffolding learning for prior knowledge, [[cognitive_load]] working memory and long-term memory
         * retrieve information from memory, and spacing practice
         * Interleaving
@@ -431,7 +416,7 @@ Friday 6th October - 11:00
     * Novice v experts (schemata)
         * explicit, direct instruction with guided practice and relevant feedback
         * Problems are: good for experts, hard for novices. Worked Examples: Degrade performance of experts, help notices
-    * [[metaCognition]]
+    * (G8) [[metaCognition]]
         * #4/j-Classroom-LearnHow-narrate_metacognitive
     * Concept maps
     * #notional-machine
@@ -469,8 +454,6 @@ Friday 6th October - 16:30
 ### SP6
 Friday 13th October
 
-* Generic
-    * Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
 * Computing
     * (G) Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
     * PRIMM pedagogy
@@ -559,13 +542,6 @@ Friday 20th October - 11:00
                 * #7/e-Behaviour-LearnHow-least_intrusive_intervention
 
 
-Differed:
-* Making Computing connections – unfamiliar and familiar
-
-
-
-
-
 ### EP4
 Friday 21st 16:30
 * What different approaches are there to research in education?
@@ -590,11 +566,6 @@ A submersive experience week where you have a university day on Monday to prepar
 Friday 3rd November (After Inclusion Week)
 
 
-* Generic
-    * Asking not telling – an introduction to effective exposition and questioning
-    * Prior knowledge, memory and recall; scaffolding learning 
-    * Meta-cognition and cognitive load
-    * Critical evaluation of learning theories
 * Computing
     * (G) Critical evaluation of learning theories
     * The inclusion conundrum
@@ -650,7 +621,7 @@ Friday 17th November - 09:00
 ### SP9
 Friday 17th November - 11:00
 * Computing
-    * (G) Asking not telling – an introduction to effective exposition and questioning
+    * (G8) Asking not telling – an introduction to effective exposition and questioning
         * #4/6-Classroom-LearnThat-questioning_feedback
     * (G) AfL strategies and feedback to inform Computing practice
         * feedback supporting pupils to monitor and regulate their own learning
@@ -702,11 +673,10 @@ Friday 17th November - 16:30
 
 ### SP10
 Friday 24th November
-* Generic
-    * Formative assessment to inform planning and teaching in subject
-    * Sequencing and structuring learning in subject
+
 * Computing
     * [[teacherEducation/assessment]]
+        * (G) Formative assessment to inform planning and teaching in computing
         * activating learners as instructional resources for one another
     * Cooperative and collaborative Computing learning
         * [[collaboration]] [[pairProgramming]] [[code-review]] [[version_control]]
@@ -753,7 +723,7 @@ Friday 1st December
             * #5/j-AdaptTeach-LearnHow-plan_link_prior_knowledge
             * #2/a-HowLearn-LearnHow-prior_knowledge_in_planning
             * #3/g-SubjCur-LearnHow-planning_for_misconceptions
-    * [[creativity]]
+    * [[creativity]] (revisited SP19)
         * mitigating the attainment hierarchy by leveraging leaner autonomy
     * eLearning environments and tools
     * [[physical]] Technologies for teaching Computing
@@ -808,12 +778,12 @@ Friday 8th December - 11:00
         * Strategies to aid individual students with different specific needs;
             * #5/a-AdaptTeach-LearnHow-special_needs_wider
             * #5/f-AdaptTeach-LearnHow-discuss_targeted_support
-    * Differentiation: inclusion v adaptation in Computing
+    * (G12) Differentiation: inclusion v adaptation in Computing
         * #5/1-AdaptTeach-LearnThat-pupils_different
         * #5/4-AdaptTeach-LearnThat-no_separate_tasks_ssdd
         * #5/o-AdaptTeach-LearnHow-all_practice_feedback_stretch
         * Discussion: Segregation to improve inclusion?
-    * Teacher Assistant collaboration
+    * (G12) Teacher Assistant collaboration
         * #5/g-AdaptTeach-LearnHow-teaching_assistants
         * #8/5-Wider-LearnThat-teaching_assistants
         * #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
@@ -825,7 +795,6 @@ Friday 8th December - 11:00
         * Task: evidence this in planning?
     * How do you ensure that your curriculum meets the needs of all pupils?
         * Task: Identify groups that may/may-not be engaging with Computing lessons (FSM, EAL, SEN, Gender) #5/a-AdaptTeach-LearnHow-special_needs_wider how could the curriculum engage them more (consider an adaption)
-            * 
     * How do I effectively liaise with SENDCO, SEND department and other colleagues, families and pupils to identify effective strategies?
         * Task: discuss case study of effective parent engagement - Identify 2 pupils where building communication with home could be beneficial
         * #7/k-Behaviour-LearnHow-engage_parents
@@ -914,14 +883,11 @@ SPR2 Out
 ? BETT Show?
 
 Friday 2nd February - 09:00
-Generic
-* Planning to aid learning in subject
-    * short to medium term, catering for all needs
-Subject
-* Understanding primary education in Computing
-    * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
-* Computing unplugged - Computing concepts without a computer
 
+* Computing
+    * Understanding [[primary]] education in Computing
+        * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
+    * Computing [[unplugged]] - Computing concepts without a computer
 * Mentor
     * Task: Case study 2 SEND pupils from each key stage - contrast how the different support is constructed
         * #5/b-AdaptTeach-LearnHow-targeted_support
@@ -955,10 +921,10 @@ Subject
 
 ### SP15
 Friday 9th March - 09:00
-* Generic
-    * Differentiation: inclusion v adaptation in subject linked to subject concept
-    * TA collaboration
-* Subject
+* TODO Original Generic
+    * (covered SP12) Differentiation: inclusion v adaptation in subject linked to subject concept
+    * (covered SP12) TA collaboration
+* Computing
     * Cooperative and collaborative subject learning
         * Paired and group activities
             * to work together effectively pupils need guidance, support and practice
@@ -1054,7 +1020,7 @@ Friday 15th March - 16:30
 ### SP17
 Friday 22nd March - 11:00
 
-* Generic
+* Computing
     * (G) SoW; Sequencing and progression in learning over time considering post Post–16 in Computing
         * A-Level course structure
         * BTEC + Vocational qualifications
@@ -1077,6 +1043,7 @@ Friday 22nd March - 11:00
             * #1/d-HighExp-LearnHow-engage_parents
             * #8/i-Wider-LearnHow-carers_engage_parents
         * Consider contemporary/emerging careers
+        * Task: refer to NCCE Computing Quality Framework sections on careers, could you include something in lessons that link to careers
 
 * TODO: OneNote
     * What are the contextual factors used to support pupil engagement and success in the subject? 
@@ -1215,23 +1182,20 @@ Evaluating impact on pupil learning, progress and development of professional id
 ### SP20 (PGCE)
 Friday 10th May
 
-Generic
-* Professional practice and relationships, identifying my impact on pupil progress through reflection, evaluation and research. 
-* Meaningfully using data and Pupil Progress Bundles
-* What are the key questions for me? What is and what is not my impact? What innovative practice will I take with me to ECT year?
-* Consider [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
-
+* Generic
+    * Professional practice and relationships, identifying my impact on pupil progress through reflection, evaluation and research. 
+    * Meaningfully using data and Pupil Progress Bundles
+    * What are the key questions for me? What is and what is not my impact? What innovative practice will I take with me to ECT year?
+    * Consider [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
 * Mentor
     * OneNote
         * Discuss the impact your student has had with Questioning. In the department and in the wider school?
+            * How do you know? How do others know?
     * Guidance
-        * What are my targets and foci in ITP and towards final grading?
         * How can I progress further? What support do I need?
-        * What evidence do I have of my impact on student learning? Revisit subject knowledge and audit, specifically in relation areas of priority considering transition to ECT
-        * What is my impact with my learners and classes? In the department and in the wider school? How do I know?
+        * What are my targets and foci in ITP and towards final grading?
         * Final grading – review of the year/placement and the progress made. How is this evidenced?
         * What subject specific targets for ECT year 1? Supporting the ECT transition process
-
 
 
 ### EP2?
@@ -1244,11 +1208,13 @@ Thursday 5th May - 17:30
 * Mentor
     * Discuss the impact your student has had with marking.
         * In the department and in the wider school?
+            * How do you know? How do others know?
 
 ### (no session) WB 20th May
 * Mentor
     * Discuss the impact your student has had with Stretch and Challenge.
         * In the department and in the wider school?
+            * How do you know? How do others know?
 
 
 ### EP2?
@@ -1270,17 +1236,20 @@ Half Term
 ### (No session) WB 3rd June
 * Mentor
     * Discuss the impact your student has had with behaviour. 
-        * In the department and in the wider school?  
+        * In the department and in the wider school?
+            * How do you know? How do others know?
 
 ### (No session) WB 10th June
 * Mentor
     * Discuss the impact your student has had with planning lessons.
         * In the department and in the wider school?
+            * How do you know? How do others know?
 
 ### (No session) WB 17th June
 * Mentor
     * Discuss the impact your student has had with relationships
         * In the department and in the wider school?  
+            * How do you know? How do others know?
 
 SPR4 Due 21st June
 
@@ -1291,25 +1260,28 @@ Friday 28th June - 09:00
 * Review transition document in preparation for ECT year QA and peer review e-portfolio.
 * Recognise and celebrate achievements!
 
-* Subject?
-    * QA and peer review e-portfolio. 
-    * SPR targets - What are my next steps?
-    * Return to ‘professional purpose’ statement from induction 1, how has this evolved?
+* COmputing
+    * (G) QA and peer review e-portfolio. 
+    * (G) SPR targets - What are my next steps?
+    * (G) Return to ‘professional purpose’ statement from induction 1, how has this evolved?
 * Mentor
     * Discuss the impact your student has had being adaptable and inclusive.
-        * In the department and in the wider school?  
+        * In the department and in the wider school?
+            * How do you know? How do others know?
 
 
-Misplaced?
-===========
+Misplaced
+=========
 
-
-
+* SP14 (PGCE)
+    * Planning to aid learning in subject
+        * short to medium term, catering for all needs
 
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [digitalLiteracy]: digitalLiteracy.md "Digital Literacy"
+[ofstedComputing]: ofstedComputing.md "Ofsted Computing"
 [education_research]: education_research.md "Education Research"
 [fundamental_british_values]: fundamental_british_values.md "Fundamental British Values"
 [literacy]: literacy.md "Literacy"
@@ -1338,9 +1310,10 @@ Misplaced?
 [version_control]: version_control.md "Version Control"
 [creativity]: creativity.md "Creativity"
 [physical]: physical.md "physical"
+[primary]: primary.md "Computing in Primary Schools"
+[unplugged]: unplugged.md "CS Unplugged"
 [academicallyMoreAble]: academicallyMoreAble.md "Academically More Able"
 [educationInspectionFramework]: educationInspectionFramework.md "Education Inspection Framework (EIF)"
-[ofstedComputing]: ofstedComputing.md "Ofsted Computing"
 [computing_quality_framework]: national_documentation/computing_quality_framework.md "Computing Quality Framework"
 [computingAcrossCurriculum]: computingAcrossCurriculum.md "Computing Across the Curriculum"
 [context_wider]: context_wider.md "Context"
