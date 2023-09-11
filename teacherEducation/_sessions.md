@@ -842,9 +842,9 @@ Friday 12th January - 09:00
 
 * Computing
     * Planning for inclusion - key strategies in Computing
-        * How are different groups alienated? [[girls]], LGBTQIA, Ethnicity
+        * How are different groups alienated? [[girls]], LGBTQIA, Ethnicity, Autism
         * [[culturallyRelevantComputing]]
-        * [[digital-poverty]]
+        * [[digital-poverty]] FSM
     * Integrating inclusively
         * Understand pupils’ differences
         * [[ssdd]] not _artificially_ creating distinct tasks?
@@ -915,8 +915,8 @@ Friday 2nd February - 09:00
 
 ### (no session) WB 19th Feb
 * Mentor
-    * What departmental strategies or SENCO advice might support individual learners with Cognition and Learning needs such as Dyslexia, Dyspraxia, general learning difficulties? 
-    * Do coloured layovers/coloured paper actually support dyslexic students? 
+    * What departmental strategies or SENCO advice might support individual learners with Cognition and Learning needs such as Dyslexia, Dyspraxia, general learning difficulties?
+    * Do coloured layovers/coloured paper actually support dyslexic students?
     * Review SPR2 Targets from contrasting placement. 
 
 ### (no session ) WB 26th Feb
@@ -1111,6 +1111,8 @@ Friday 19th April
             * #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
             * #8/l-Wider-LearnHow-teaching_assistants_utilised_guided
     * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
+        * #8/a-Wider-LearnHow-cpd_specific_sustained
+        * #8/c-Wider-LearnHow-cpd_subject_external
 
 
 ### EP19 ???

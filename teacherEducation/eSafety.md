@@ -153,3 +153,12 @@ More
     * [Educational Resources](https://saferinternet.org.uk/safer-internet-day/safer-internet-day-2023/educational-resources)
 
 * [Surviving the Online world: A Teacher’s Guide to Pupils favourite sites](https://rachelarthurwrites.wordpress.com/2023/02/07/surviving-the-online-world-a-teachers-guide-to-pupils-favourite-apps/)
+
+
+Further Wider Reading
+=====================
+
+* [Honestly, it's probably the phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones) - The most plausible explanation for teenage unhappiness.
+* [Reading on a smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0) 2022
+* [People with a greater tendency for victimhood are more likely to engage in cyberbullying, according to new research](https://www.psypost.org/2023/05/people-who-feel-like-victims-are-more-likely-to-engage-in-cyberbullying-according-to-new-research-163703)
+
