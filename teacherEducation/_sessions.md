@@ -1050,25 +1050,14 @@ Friday 22nd March - 11:00
         * considering level 4
         * considering KS5
     * [[careers]] guidance in the area of computing
-* Mentor
+* Mentor WB 25th March (week before Easter)
     * How does teaching at KS5 differ from KS3/4? What pedagogical approaches?  
     * How do we address health and wellbeing concerns for our students as part of our curriculum?
         * Task: How is [[eSafety]] conveyed/revisited at an age appropriate level KS3/KS4/KS5
     * What other topics are wider ICT/digitalLiteracy concepts are revisited at KS5?
-    * How do we support conversations around careers? 
-        * Consider careers in digital and tech, Computing skills that can be used in other domains. 
-            * Data visualisation? DataMining? Training LLMs? Social media co-ordinator? Bioinfomatics? Modelling/Simulation?
-        * How are these conveyed in Computing lessons?
-        * Are appropriate role models conveyed? guest speakers?
-            * #1/2-HighExp-LearnThat-role_model
-            * #1/d-HighExp-LearnHow-engage_parents
-            * #8/i-Wider-LearnHow-carers_engage_parents
-        * Consider contemporary/emerging careers
-        * Task: refer to NCCE Computing Quality Framework sections on careers, could you include something in lessons that link to careers
 
-* TODO: OneNote
-    * What are the contextual factors used to support pupil engagement and success in the subject? 
-    * How do we gather feedback from pupils about subject curriculum content and design? 
+
+
 
 
 
@@ -1081,8 +1070,8 @@ Friday 22nd March - 16:30
 
 ### (no session) WB 25th March
 * Mentor
-    * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
-    * How do I effectively liaise with support staff to secure learning and progression?  
+    * See SP17 above
+
 
 
 ---
@@ -1111,31 +1100,46 @@ Developing classroom practice to become an autonomous practitioner who has an im
 * Darling-Hammond, L. (2009) [Professional Learning in the Learning Profession](https://edpolicy.stanford.edu/sites/default/files/publications/professional-learning-learning-profession-status-report-teacher-development-us-and-abroad.pdf) (Chpt. 1)
 
 
+### WB 25th April
+* Mentor
+    * How do we support conversations around careers? 
+        * Consider careers in digital and tech, Computing skills that can be used in other domains. 
+            * Data visualisation? DataMining? Training LLMs? Social media co-ordinator? Bioinfomatics? Modelling/Simulation?
+        * How are these conveyed in Computing lessons?
+        * Are appropriate role models conveyed? guest speakers?
+            * #1/2-HighExp-LearnThat-role_model
+            * #1/d-HighExp-LearnHow-engage_parents
+            * #8/i-Wider-LearnHow-carers_engage_parents
+        * Consider contemporary/emerging careers
+        * Task: refer to NCCE Computing Quality Framework sections on careers, could you include something in lessons that link to careers
+
 
 ### GP6
+Friday 19th April
 * How do I contribute to the wider curriculum? What is the hidden curriculum?
 * Mental health and well-being; EI and cross-curricular learning
-
 ### SP18
 Friday 19th April
-* Tutorial Day
+First week after easter - preparing for SPR3
+* Tutorial Day - Check point 2
 * Generic
     * Managing pressures and time constraints 
     * Other theories of education
     * Pastoral, Gender, LGBTQ, ethnicity and ‘culture’ – othering 
     * First teaching position
     * Developing criticality, Tod and Ellis Step 2	
-* Mentor
-    * How do I independently lead learning in my subject? 
+* Mentor WB 22nd April
+    * Effective use of data
+        * How do you use data to support learning for all pupils, and to target specific and timely interventions? 
+        * How is data most effectively used within the department?
+            * #6/c-Assessment-LearnHow-monitor_data
+            * #6/l-Assessment-LearnHow-marking_only_for_improving_pupils
     * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
         * How do I effectively liaise with support staff to secure learning and progression?
             * #5/g-AdaptTeach-LearnHow-teaching_assistants
             * #8/5-Wider-LearnThat-teaching_assistants
             * #8/k-Wider-LearnHow-teaching_assistants_lesson_objectives
             * #8/l-Wider-LearnHow-teaching_assistants_utilised_guided
-    * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
-        * #8/a-Wider-LearnHow-cpd_specific_sustained
-        * #8/c-Wider-LearnHow-cpd_subject_external
 
 
 ### EP19 ???
@@ -1144,7 +1148,8 @@ Friday 31st Match
 
 
 
-### SP19
+### SP19 (Last SD)
+Last SD!
 Friday 26th April - 09:00
 * Computing
     * (G) Risk taking and innovation in Computing
@@ -1157,35 +1162,36 @@ Friday 26th April - 09:00
         * Ways to Share good practice
         * Networking with other Computing practitioners leading to career development [[wider_knowledge_network]]
     * Effective long term targets
-* Mentor
-    * Effective use of data
-        * How do you use data to support learning for all pupils, and to target specific and timely interventions? 
-        * How is data most effectively used within the department?
-            * #6/c-Assessment-LearnHow-monitor_data
-            * #6/l-Assessment-LearnHow-marking_only_for_improving_pupils
-    * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them? 
+* Mentor WB 29th April
+    * Task: How do school give cpd opportunities to facilitate staff growth/experimentation/time in computing compared to other subject
+        * #8/a-Wider-LearnHow-cpd_specific_sustained
+        * #8/c-Wider-LearnHow-cpd_subject_external
+    * How do I independently lead learning in my subject? 
     * How does this department build a sense of pupil agency, enjoyment of a subject and a willingness to take creative risks in their learning?
         * Task: What opportunities are there for students to participate in autonomous projects or creativity in Computing? 
             * Consider how creativity/autonomy could be included in an upcoming lesson
-        
+
 
 SPR3 Due Friday 26th April
-Last SD!
+
 
 ### EP20
 Thursday 31st April - 16:30
 * Exploring and critiquing equality, diversity and inclusion policy
 
 
-### (no session) WB 29th April
-* Mentor
-    * Review targets and foci in ITP and ensure your Trainee knows what they have to do to work towards final grading?  
-
-
 
 
 ### EP21
 Friday 28th April - 16:30 
+
+### (Pre SP20 PGCE) WB 6th May
+* Mentor
+    * How can I progress further? What support do I need?
+    * What are my targets and foci in ITP and towards final grading?
+    * Final grading – review of the year/placement and the progress made. How is this evidenced?
+    * What subject specific targets for ECT year 1? Supporting the ECT transition process
+
 
 
 KSQ 10: What is my impact?
@@ -1213,15 +1219,8 @@ Friday 10th May
     * Meaningfully using data and Pupil Progress Bundles
     * What are the key questions for me? What is and what is not my impact? What innovative practice will I take with me to ECT year?
     * Consider [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
-* Mentor
-    * OneNote
-        * Discuss the impact your student has had with Questioning. In the department and in the wider school?
-            * How do you know? How do others know?
-    * Guidance
-        * How can I progress further? What support do I need?
-        * What are my targets and foci in ITP and towards final grading?
-        * Final grading – review of the year/placement and the progress made. How is this evidenced?
-        * What subject specific targets for ECT year 1? Supporting the ECT transition process
+* Mentor 
+    * See below
 
 
 ### EP2?
@@ -1231,10 +1230,10 @@ Thursday 5th May - 17:30
 
 
 ### (no session) WB 13th May
-* Mentor
-    * Discuss the impact your student has had with marking.
-        * In the department and in the wider school?
-            * How do you know? How do others know?
+* Mentor WB 13th May
+    * Discuss the impact your student has had being adaptable and inclusive. 
+        * In the department and in the wider school? 
+        * How do you know? How do others know? 
 
 ### (no session) WB 20th May
 * Mentor
@@ -1277,7 +1276,15 @@ Half Term
         * In the department and in the wider school?  
             * How do you know? How do others know?
 
+
+### (pre GP7 SP21) WB 24th June
+* Mentor
+    * Discuss the impact your student has had with assessment leading to longer term strategic decisions. 
+        * In the department and in the wider school?
+        * How do you know? How do others know?
+
 SPR4 Due 21st June
+
 
 
 ### GP7 (PGCE) Final
@@ -1305,6 +1312,20 @@ Misplaced
     * How do we work with other subject areas to capitalise on or contribute to wider learning? 
     * What are the literacy and numeracy school policies and how are they embedded in planning and teaching? 
     * How do we recognise and celebrate diversity in the curriculum? 
+
+* TODO: OneNote
+    * What are the contextual factors used to support pupil engagement and success in the subject? 
+    * How do we gather feedback from pupils about subject curriculum content and design? 
+
+* Mentor
+    * How do staff in this department lead learning for their pupils? Others: TA’s and technicians, parents and carers. 
+    * How do I effectively liaise with support staff to secure learning and progression?  
+
+From 22nd april
+    * How does the department build pupil resilience and motivation? What are the barriers and what works to overcome them? 
+
+29th April
+    * Review targets and foci in ITP and ensure your Trainee knows what they have to do to work towards final grading?
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [digitalLiteracy]: digitalLiteracy.md "Digital Literacy"
