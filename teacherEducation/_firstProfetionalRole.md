@@ -13,7 +13,15 @@ Welcome!
         * This is provided for accessibility if needed.
         * These notes contain _answers_ and _spoilers_. It is a reference for later.
 
-![QRCode to these notes](https://api.qr-code-generator.com/v1/create?access-token=aSoFzoi2JntHsa6s6NoQAD2TEnJla-wqu_YlrN3797mHEJdb9SgKisaeKBQ4HOOZ&qr_code_text=https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_firstProfetionalRole.md)
+![QRCode to these notes](_images\qrcode_firstProfettional.gif =500x500)
+
+
+Why this session exists
+-----------------------
+
+* Most trainees that struggle with this course, struggle with [Teacher Standards PART TWO: PERSONAL AND PROFESSIONAL CONDUCT](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
+    * > A teacher is expected to demonstrate consistently high standards of personal and professional conduct
+        * What does this actually mean?
 
 
 Learning Objectives
@@ -26,12 +34,13 @@ Learning Objectives
 Times
 -----
 
-* Your changing role in society (12min)
+Loose overview:
+* Your changing role in society (15min)
 * Business Process (15min)
 * Formal communication (10min)
 * My stories highlighting some of above (10min?)
 
-Look out for the 10 mind blown bombshells!
+Look out for the 10 mind blown bombshells! ("Nobody ever told me this before")
 
 
 Personal and Professional Identity
@@ -150,6 +159,7 @@ TASK: Word Vomit Whiteboard? Meti Meter
     * Be part of the solution - not the problem
 * Identify the *spirit* of conversations/actions
     * Are you colleagues being offensive? or are they expressing frustration?
+    * (don't _cancel_ your colleagues over staff room venting. They have already dedicated their life to this profession)
 
 
 Business Process
@@ -179,7 +189,7 @@ Think - Pair - Share
     * Why do we have an absence process?
     * What incidents should you report? and to who?
         * Accidents? behaviour?
-    * Why is there a process for handling peoples names, address genders?
+    * Why is there a process for handling peoples names, address, genders?
 
 
 
@@ -190,7 +200,7 @@ Think - Pair - Share
 * Bombshell 6
     * Organisations run on process specifications (not people)
 * Bombshell 7
-    * Rules and Process make things better
+    * Rules and Process make things better (they exist for a reason)
 
 There are established
 * Processes
@@ -202,7 +212,8 @@ There are established
 * Codes of conduct
     * What standards are you required to hold?
 
-* TODO [placement policy]()
+* Example [placement policy](https://cccu.sharepoint.com/:w:/r/sites/FacultyofArtsHumanitiesandEducation/_layouts/15/Doc.aspx?sourcedoc=%7B39593151-3B6B-4962-8E86-9377B90B6E81%7D&file=Policies%20and%20Procedures%20in%20ITE%20Placments%20DRAFT%20FOR%20SEG%20REVIEW%20240322.docx&action=default&mobileredirect=true)
+    * Comments - evolving
 
 * Bombshell 8
 * Separate _process_ from _individuals_
@@ -276,6 +287,7 @@ TASK: Take 120 seconds to look at `hemingwayapp.com`. Hover over the colours.
 
 * Bombshell 9
     * You probably need to upskill in your ability to write _Plain English_
+        * This is a recurring weakness for most 20-ish year olds in probational context's
 
 
 Formal Communication
@@ -296,7 +308,7 @@ Why is email so important?
 
 Tips:
 * Learn how to use _cc_ and _bcc_ effectively
-* Use 'reply' and 'replyall' effectively
+* Use 'reply' and 'reply-all' effectively
 * You need to be able to cope with significant volumes of email from multiple sources with limited time
     * Setup email forwarding or filter-rules to automatically sort incoming email into folders
 
@@ -312,7 +324,7 @@ Bombshell Summary
 
 1. One of the biggest transitions of your life - you are "contributing back" for the first time
 2. You're not a student any more - you need to abide by a new set of professional rules (and therefore expected responsibilities)
-3. You can still be a professional and still be yourse lf
+3. You can still be a professional and still be yourself
 4. You don't have to be _friends_ with your colleagues
 5. You have a duty of care for your colleagues just as much as you students
 6. Organisations run on process specifications (not people)
@@ -346,8 +358,10 @@ Summary
     * Reminder of the distinction of "Formal Communication"
 
 
-* Have knowledge of your role/organisation
-    * Understand business process
+* Have knowledge of:
+    * your organisation
+        * Understand business process
+    * your role
 
 
 The defined trait of a professional is someone that can 

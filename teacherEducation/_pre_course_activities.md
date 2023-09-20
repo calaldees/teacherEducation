@@ -119,6 +119,7 @@ General Information and Pre Reading
         * Excellent criticality. Demystifying our traditional approaches to teaching and learning and why they might be wrong
     * [Learning to Teach in the Secondary School: A Companion to School Experience](https://www.amazon.co.uk/Learning-Teach-Secondary-School-Experience/dp/1032062290/) 9th edition 2022
         * General secondary teaching book
+    * [Making Room for Impact: A De-implementation Guide for Educators: A De-implementation Guide for Educators Paperback](https://www.amazon.co.uk/Making-Room-Impact-implementation-Educators/dp/1071917072/) Hamilton, Hattie, Wiliam 2023
 * Subject Knowledge Development
     * [NCCE: Computer Science Accelerator](https://teachcomputing.org/cs-accelerator)
         * Bursaries and certificates for doing CPD

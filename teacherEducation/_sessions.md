@@ -45,8 +45,7 @@ Readings
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
 8. What is a broad and balanced curriculum?
-    * [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) Jayathirtha & Kafia 2021
-9.  How do you lead learning?
+9. How do you lead learning?
     * 
 10. What is my impact?
 
@@ -78,6 +77,7 @@ Readings
     * Hello World [Assessment in secondary computing](https://helloworld.raspberrypi.org/articles/hw12-insiders-guide) 2020 Alan O’Donohoe and John Woollard
     * [Computational Thinking Test: Design Guidelines And Content Validation](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
     * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) Shute and Rahimi 2016
+    * [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) Jayathirtha & Kafia 2021
 7. What does inclusion really mean?
     * [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://ncwit.org/resource/csedguide/) Microsoft + National Center for Women & Information Technology (NCWIT) 2019
     * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspberry Pi Foundation 2021
@@ -89,8 +89,10 @@ Readings
     * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
 9.  How do you lead learning?
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) 2020
-    * [Computing Quality Framework](https://computingqualityframework.org/)
+    * [NCCE Computing Quality Framework](https://computingqualityframework.org/) [md](https://github.com/calaldees/teacherEducation/blob/main/teacherEducation/national_documentation/computing_quality_framework.md)
     * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
+    * [Making Room for Impact: A De-implementation Guide for Educators: A De-implementation Guide for Educators Paperback](https://www.amazon.co.uk/Making-Room-Impact-implementation-Educators/dp/1071917072/) Hamilton, Hattie, Wiliam 2023
+        * Chapter 1 available as "read sample" on Amazon
 10. What is my impact?
     * (non-cs) [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
 
@@ -272,7 +274,7 @@ Tuesday 26th September
 * Mentor
     * Discuss with your trainee
         * What is a Computing teacher?
-        * What is subject specific pedagogy and how is it different to other subjects?
+        * What is computing specific pedagogy and how is it different to other subjects?
             * #8/d-Wider-LearnHow-extend_pedagogy
         * What differences are there between subject knowledge and subject pedagogy?
     * Arrange time for your trainee to meet with your Head of Department or 2nd in Dept, to discuss the department’s rationale of the choice of KS4 & 5 Exam board & Syllabus
@@ -304,7 +306,7 @@ Friday 29th September - 09:00
 Friday 29th September - 11:00
 
 * Computing
-    * (G) What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / subject curriculum?
+    * (G) What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / computing curriculum?
         * > planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
     * (G) [National Curriculum](./curriculum.md) and recent policy
         * (G) Key influential subject documents, reports and research; current and over time
@@ -330,8 +332,8 @@ Friday 29th September - 11:00
         * #7/i-Behaviour-LearnHow-routines_transitions
 * Mentor
     * Discuss with your trainee
-        * What is a subject teacher?
-        * What is subject specific pedagogy and how is it different to other subjects?
+        * What is a computing teacher?
+        * What is computing specific pedagogy and how is it different to other subjects?
         * What differences are there between subject knowledge and subject pedagogy?
         * What is your schools local area like? What is the student demographic? What % of students are PP/FSM/SEND etc.? 
     * Arrange time for your trainee to meet with your Head of Department or 2nd in Dept, to discuss the department’s rationale of the choice of KS4 & 5 Exam board & Syllabus
@@ -403,7 +405,7 @@ Friday 6th October - 11:00
 * Computing
     * [[progression_model]] KS3->KS5
         * #8/s-Wider-LearnHow-use_shared_resources
-        * (G10) Sequencing and structuring learning in subject
+        * (G10) Sequencing and structuring learning in computing
     * [[howStudentsLearn]] [[learningTheories]], General education theories
         * #5/6-AdaptTeach-LearnThat-no_learning_styles
     * (G8) Prior knowledge, memory and recall; scaffolding learning
@@ -455,11 +457,11 @@ Friday 6th October - 16:30
 Friday 13th October
 
 * Computing
-    * (G) Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
+    * (G) Effective pedagogical and theoretical approaches to computing learning and teaching - a variety of approaches, benefits and limitations
     * PRIMM pedagogy
     * Fuller Model and Taxonomies for Computing
     * Further reaching into Computing pedagogies
-    * (G) Making subject connections – unfamiliar and familiar (NOTE: Sematic Waves)
+    * (G) Making computing connections – unfamiliar and familiar (NOTE: Sematic Waves)
         * #3/m-SubjCur-LearnHow-interleave_concrete_abstract_context
         * #4/3-Classroom-LearnThat-model_concrete_abstract
 * Mentor WB 16th Oct
@@ -493,7 +495,7 @@ Friday 20th October - 11:00 (Day before half term)
 * Computing
     * (G) How can we aid B4L through our planning and teaching in Computing?
         * #7/i-Behaviour-LearnHow-routines_transitions
-    * (G) Barriers to learning and key research and practice in subject
+    * (G) Barriers to learning and key research and practice in computing
         * Technical (reliable?, responsive?)
         * Mental/Emotional (99% of the time software is broken) - Anxiety
             * #7/3-Behaviour-LearnThat-regulate_emotions
@@ -684,7 +686,10 @@ Friday 24th November
         * (G) Formative assessment to inform planning and teaching in computing
         * activating learners as instructional resources for one another
     * Cooperative and collaborative Computing learning
-        * [[collaboration]] [[pairProgramming]] [[code-review]] [[version_control]]
+        * [[collaboration]] 
+        * [[pairProgramming]] 
+        * [[code-review]] 
+        * [[version_control]]
 * Mentor WB 27th Nov
     * Consider how different forms of assessment (e.g. [[bebras]], EU Digital Competency Framework, Past exam papers, peer marking guidance) form a wider picture of progression in Computing.
         * What is an effective assessment?
@@ -735,7 +740,7 @@ Friday 1st December
         * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
 * Mentor WB 4th Dec
     * Task: Identify a range of misconception that have been encountered for each year group taught.
-        * Where do many of the subject misconceptions originate?
+        * Where do many of the computing misconceptions originate?
             * #2/e-HowLearn-LearnHow-identify_misconception
         * Can these misconceptions be anticipated?
         * How are other computing teachers using 'misconceptions' positively in learning?
@@ -848,7 +853,8 @@ Friday 12th January - 09:00
         * [[digital-poverty]] FSM
     * Integrating inclusively
         * Understand pupils’ differences
-        * [[ssdd]] not _artificially_ creating distinct tasks?
+        * Same Surface Different Depth [[ssdd]] 
+            * not _artificially_ creating distinct tasks?
         * Pupils do not have distinct and identifiable learning styles
     * Planning to aid learning in Computing
         * short to medium term, catering for all needs
@@ -857,7 +863,7 @@ Friday 12th January - 09:00
         * [[managingData]]
 * Mentor WB 15th Jan
     * How do we best manage LGBTQIA+ students and those who are struggling to integrate socially? 
-    * What are the pedagogical approaches that enable inclusion in this subject?
+    * What are the pedagogical approaches that enable inclusion in this computing?
         * Task: find an example of supporting EAL in a computing classroom. How is this handled?
     * What data is used in department and school to inform practice and learning?
     * When does inclusion for the many create exclusion for the few?
@@ -873,7 +879,7 @@ SPR2 Out
 
 ### (No Session) WB 15th January
 * Mentor WB 22nd Jan
-    * How does your department promote literacy in this subject? 
+    * How does your department promote literacy in computing? 
     * How does a literacy focus support EAL students 
     * Share your school EAL data.
     * Discuss strategies used by the department to support any EAL student. Do they match the strategies suggested by this weeks reading?
@@ -921,7 +927,7 @@ Friday 9th Feb - 09:00
     * (covered SP12) Differentiation: inclusion v adaptation in subject linked to subject concept
     * (covered SP12) TA collaboration
 * Computing
-    * Cooperative and collaborative subject learning
+    * Cooperative and collaborative computing learning
         * Paired and group activities
             * to work together effectively pupils need guidance, support and practice
             * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
@@ -1100,7 +1106,7 @@ Developing classroom practice to become an autonomous practitioner who has an im
 * Darling-Hammond, L. (2009) [Professional Learning in the Learning Profession](https://edpolicy.stanford.edu/sites/default/files/publications/professional-learning-learning-profession-status-report-teacher-development-us-and-abroad.pdf) (Chpt. 1)
 
 
-### WB 25th April
+### WB 15th April
 * Mentor
     * How do we support conversations around careers? 
         * Consider careers in digital and tech, Computing skills that can be used in other domains. 
