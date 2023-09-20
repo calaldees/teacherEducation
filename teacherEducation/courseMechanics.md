@@ -96,13 +96,15 @@ P2 = Placement 2
 CTP = Collaborative Teaching Phase
 DTP = Developing Teaching Phase
 ITP = Independent Teaching Phase
+SPR = Student Progress Review
 
-| Course | Term1 | Term2 | Xmas | Term3 | Term4 | Easter | Term5 | Term6 |
+|        | Term1 | Term2 | Xmas | Term3 | Term4 | Easter | Term5 | Term6 |
 |--------|-------|-------|------|-------|-------|--------|-------|-------|
-| Phase | CTP   | CPT>DTP|| DTP| DTP>ITP  |  | ITP   | ITP  |
-| SD     | Base    | Base    |      | Contrast    | Base    |        | Base    | Base    |
+| Phase  | CTP   | CPT>DTP|     | DTP   | DTP>ITP|       | ITP   | ITP   |
+| SD     | Base  | Base  |      | Contrast| Base |       | Base  | Base  |
 | PGCE   | P1    | P1    |      | P1    | P2    |        | P2    | P2    |
-| PGCE Coursework | SP1 | SP2 |  | REE  | REE |  | PP | PP |
+| PGCE Coursework | SP1 | SP2 | | REE   | REE   |        | PP    | PP    |
+| SPR    |       | SPR1 |       | SPR2  |       |        | SPR3  | SPR4  |
 
 
 PGCE: 20 Session (6 hours per session) = 120 hours
@@ -227,16 +229,18 @@ Tutor Role
 
 ### My Role
 
-* QA Mentors
+* QA Mentors (I visit the mentors, not you)
     * NOT assess you teach
+        * I can observe you teach to help support your mentor
 * Support you - PAT
-* Mark academic assignments
+* Mark academic assignments (PGCE)
 * Assess folders at end
 * PGCE
     * Write your reference
-    * Mark your ePortfolios
 * SD
     * Final assessment
+* Verify your ePortfolio before recommending QTS
+
 
 ### My Role as course tutor (the reality)
 
@@ -249,11 +253,9 @@ Tutor Role
     * Professional communication (to me or between each other)
         * > 8.3 ... supporting and developing effective professional relationships with colleagues.
 
-* PGCE Mark final folder (or SD Final assessment panel) + Assignment (Not SD) + Reference (Not SD)
-
 * I'm kind of your line manager
 * BUT you hold all the power
-    * You fill in the exit survey
+    * You fill in the exit survey of your experience of the course
 
 
 Tools
@@ -261,7 +263,7 @@ Tools
 
 ### Notes about tooling
 
-* Do not suffer dataloss.
+* Do not suffer data-loss.
     * Use the right tools.
     * There will be little excuse for you as Computing professionals to loose data.
     * Dropbox, OneDrive, GoogleDrive, Google Docs, Microsoft Office 365
@@ -287,7 +289,9 @@ Tools
 ### Handling the tidal-wave of Communication
 
 * Setup email rules
+    * ![email rules examples](_images/email-rules.png)
 * Setup account as a _forwarding account_?
+    * ![email forwarding settings](_images/email-forwarding.png)
 
 * Complaints in the past that communication has been fragmented, late or mistimed
 * Lots of moving parts
@@ -325,10 +329,12 @@ TASK: In your ePortfolio - make a reflection point to ...
     * "Low _ability_" !!!?!!
         * "Low attainment"
     * (Verbal) You _Just_, _Simply_ (Don't trivialise)
-    * Uneeded words: Um, So,
+    * Unneeded words: Um, So, Ok, Just, Basically, Simply
+    * Differentiation ("DIFFERENT") -> Adaptive/Adaption
 * Action Point
     * Listen to the language the professionals use around you
     * Make notes on phrases you hear
+    * (Specific Focus of observations)
 
 ### Judging other teachers
 
@@ -369,16 +375,19 @@ See my Sessions on
     * Mortgage, Car, I have knowledge far beyond your comprehension as I have a child and have achieved true enlightenment but I suffer the eternal burden of childcare.
 
 
-### Who struggles with this course
+### What do people struggle with (on this course)
+
+Your answers
 
 * Misaligned expectations
-    * Masters Level - Not 'tips for teaching'
+    * Masters Level - Not 'tips for teaching', no 'tick-list'
 * Social Awareness/integration
-    * Part2 of Teachers Standards'
+    * Part2 of Teachers' Standards
 * Renegotiate identity
 * Previous Teaching Confidence
-    * If you've taught in other contexts/countries this will be different
+    * If you've taught in other contexts/countries this WILL be different
 * Fear
     * (Read Chaucer Letter)
     * Be responsive to feedback
-    * I'm the one who has to engage with the difficult conversations - I'm "the threat" (please don't)
+    * Please don't consider me "The Threat"
+        * I may have to engage with the difficult conversations

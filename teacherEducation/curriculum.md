@@ -193,7 +193,10 @@ WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
     * Number are dropping
     * Time allocated is dropping
 
-
+* NCCE: [Exam results 2023: highlights for computing](https://blog.teachcomputing.org/exam-results-2023/)
+    * This year saw a surge in popularity for computing as an A level choice, with entries growing the most of any subject – 16.7% – from 15,693 in 2022, to 18,306 this year.
+    * At GCSE, there has also been a large percentage increase with an 11.6% rise in entries – from 81,120 in 2022 to 90,558 this year
+    * Record numbers of young people are applying to study computing at university, with an 11% growth in the number of 18-year-old UK women due to start at university, compared to last year
 
 
 Friction with Society (30min)
