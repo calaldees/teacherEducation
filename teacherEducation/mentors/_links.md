@@ -8,10 +8,10 @@ Canterbury Christ Church University
 * [ccccumentors.org.uk](http://ccccumentors.org.uk) username: cccu-mentors password: CCCUmentors
     * [Mentor Padlett](https://cccu.padlet.org/emilysmith35/t5bd4d9p3bxhqd57)
         * Weekley Bulletins
-    * Computing Curriculum Guidance 2022-23 [browser](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=mGtTbQ) [docx](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computing%20Curriculum%20Guidance%202022-23.docx)
+    * Computing Curriculum Guidance 2023-24 [browser]() [docx]()
 * ePortfolios
-    * [OneNote SD (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/EkBfcWviqntOsaZqF612OqEBU-azYP__gZixz4a5W_W1CQ)
-    * [OneNote PGCE (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eo40z-O4Xo1MlIMt9o_1z1ABzG8B_pKH8ULDobbS7PYVIQ)
+    * [OneNote SD 23/24 (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eg339CoktNZOsWIF9RQyu8ABPb1axqBqnpVzEfds_9a5cQ)
+    * [OneNote PGCE 23/24 (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/EpSlUNPf7uxPvIaXNgbESyUBd_MHoNDpymTBSxGIOskLXw)
 
 <details>
 
