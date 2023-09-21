@@ -13,7 +13,8 @@ Welcome!
         * This is provided for accessibility if needed.
         * These notes contain _answers_ and _spoilers_. It is a reference for later.
 
-![QRCode to these notes|500x500](_images/qrcode_firstProfettional.gif)
+<img src="_images/qrcode_firstProfettional.gif" width="500" height="500" />
+<!-- ![QRCode to these notes](){height=500px width=500px} -->
 
 
 Why this session exists
