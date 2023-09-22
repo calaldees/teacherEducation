@@ -1,22 +1,17 @@
 How do you learn to teach
 =========================
 
-Targets: talk through - (already done in induction, double )
+Discussed earlier:
+Sustained Targets and Reflection
 
-
-* Aims and purposes of our teaching and learning
-* Meta-pedagogy (not _tips for teaching_)
-* Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-* Reflection
 
 Aims of Subject Pedagogy
 ------------------------
 
-* What is Subject Pedagogy?
-* You already have foundation subject knowledge
-* We are learning HOW to teach someone about Computing
+* You already have foundation 'subject knowledge'
+* We are learning HOW to teach someone about Computing (the pedagogy)
 * I will not be showing you tips for teaching
-* I will not give you resources
+* My job is is not to give you resources (you can find loads online)
 * I don't know the 'right' way to teach. Nobody does. It's contextual.
 * Training _you_ as teachers to _reinvent the profession_ (and not be cones of us teacher trainers)
 * Preparing students for a future we are unsure of
@@ -102,7 +97,7 @@ Many tutorials start with this complex line
 3. how to translate that into computer instructions/syntax (people seem to obsess about this!?)
 
 ### Task example:
-* Task: Find the highest number in the list
+* Programming Task: Find the highest number in the list
     * how to unpick it?
     * how do they actually solve this?
 * Worked examples (backwards fading)
@@ -118,7 +113,7 @@ https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-scie
 ### Misconceptions
 (what misconceptions) (show code from before)
 
-If they are learning - shut up! stop talking
+If students are learning - as a teacher stop talking (teachers talk A LOT)
 
 ### More able? More Support?
 Not the lockstep march
@@ -126,7 +121,9 @@ Concept: Advanced ones - cheat sheet - another language?
 
 ### Teach the long way
 * don't use `in` (just use a loop)
+    * step though the list yourself
 * don't use `input("this string is output!")`
+    * use `print("")` and `input()`
 
 
 The Block Model
@@ -140,9 +137,9 @@ plan your (I)nvestigate questions
 
 | | (T) Text Surface | (P) Program execution | (F) Function (relevance/intention) |
 |-|-|-|-|
-| (M) Macro structure | Understand the overall strcuture of the program text | Understand the algorithum underleying a program | Understand the goal/purpose the program in the current context |
-| (R) Relationships | Relationships between blocks | Sequence of function calls, object sequence diagrams | Understand how subgoals are related to goals |
-| (B) Blocks | Regions of interst that build a unit (systematically or sematically) | Operation of a block or function | Understanding of the function of a block of code |
+| (M) Macro structure | Understand the overall structure of the program text | Understand the algorithm underlying a program | Understand the goal/purpose the program in the current context |
+| (R) Relationships | Relationships between blocks | Sequence of function calls, object sequence diagrams | Understand how sub-goals are related to goals |
+| (B) Blocks | Regions of interest that build a unit (systematically or semantically) | Operation of a block or function | Understanding of the function of a block of code |
 | (A) Atoms | Language elements | Operation of a statement | function of a statement |
 
 Example
@@ -154,7 +151,7 @@ Example
 * (BP) Draw the flow of control
 * (AF) Identify the purpose of a single statement
 
-```python
+```python {.line-numbers}
 answer = input("What is the best subject?")
 
 if answer == "Computing":
@@ -168,7 +165,7 @@ else:
 * (AT) What is the condition in the code?
 * (AF) What is the purpose of line 1 in the code
 
-```python
+```python {.line-numbers}
 print("Hi What's your name?")
 
 name = "Turnip"
@@ -180,6 +177,7 @@ You do
 ### Modify
 Pure focus (at first) (working memory)
 Swap a `for` loop for a `while` loop
+(can you swap a `while` loop for a `for` loop?) 
 
 repl.it `.draw` file
 
@@ -211,7 +209,7 @@ Maynard and Furlong - development
 We don't really know much about education
 -----------------------------------------
 
-* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouYube 15min
+* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) Veretasium 2021 - learning styles YouYube 15min
     * you are not a visual learner
     * be critical
 
@@ -343,10 +341,11 @@ Public Blog Concept?
 My technique/approach to Student teacher reflections
 ----------------------------------------------------
 
-* Students have limited time. The activity has to feel worthwhile.
+* Students have limited time. 
+    * The activity has to feel worthwhile.
 * Students don't want to show others their "incorrect and floundering" inner monologue and scribbles
     * But without an audience/viewer they see little point in doing it
-* Student feel threatened when big scary tutor demands to see their reflections. It's too much like marking and judgment.
+* Student feel threatened when big a scary tutor demands to see their reflections. It's too much like marking and judgment.
 
 So!
 
@@ -357,12 +356,6 @@ So!
 * Your targets on your weekly mentor meeting sheet are your _leavers_
     * [Leverage observations](https://improvingteaching.co.uk/2014/12/15/archimedean-leadership-2-what-are-leverage-observations-or-how-would-yo-yo-ma-feed-back/) 2014 Harry Fletcher-Wood
 * One document. One place. Consistent "judgment free" low stakes discussion.
-
-
-
-
-
-
 
 
 

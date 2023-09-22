@@ -1,7 +1,10 @@
 How to observe a lesson
 =======================
 
-* Why would you observe a lesson - what is the purpose?
+* QUESTION: Why would you observe a lesson - what is the purpose?
+
+---
+
 
 * "General Observations" are NOT effective
     * To much is happening to lead to meaningful observations -> meaningful conclusions -> meaningful impact/manifestation in your teaching
@@ -12,6 +15,7 @@ How to observe a lesson
 * Do not just write a list of 'descriptions' of what happened with timestamps.
 * Reflective model
     * What -> So What -> Now What
+    * The 'Why' is all important
 
 
 * Possible focus ideas

@@ -96,7 +96,8 @@ Where is the AI in the National Curriculum? (5min)
     * Where is the AI?
 
 * Commentary
-    * [NCCE Digital Skills Forum - AI and the Future of Education](https://www.youtube.com/watch?v=tvtJdi8u7vU&t=218s) YouTube NCCE Simon Peyton Jones 2021 (One of the team that wrote the NC)
+    * [NCCE Digital Skills Forum - AI and the Future of Education](https://www.youtube.com/watch?v=tvtJdi8u7vU&t=218s) YouTube NCCE Simon Peyton Jones 2021 (One of the team that wrote the NC) 
+        * (watch 3:38 to 6:ish)
         * Keep National Curriculum
         * Challenge _magic_
         * Shift of emphasis -> from _computation_ more to information and data

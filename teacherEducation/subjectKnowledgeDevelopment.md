@@ -5,8 +5,9 @@ Subject Knowledge Development
 Subject Knowledge Audit (30min)
 -----------------------
 
-* [Subject Knowledge Tracker 2022-2023](https://computingteachers.uk/subjectKnowledge/subject-knowledge-2022.html)
+* [Subject Knowledge Tracker 2022-2023](https://computingteachers.uk/subjectKnowledge/subject-knowledge-2023.html)
     * Also in the handbook + ePortfolio
+    * Read the notes at the beginning
 
 TASK: Read and complete the new audit
 

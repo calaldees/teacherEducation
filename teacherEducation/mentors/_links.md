@@ -15,9 +15,10 @@ Canterbury Christ Church University
 
 <details>
 
-* [Arrangements for reviewing e-Portfolios](https://cccu-my.sharepoint.com/:w:/g/personal/lt229_canterbury_ac_uk/EYpC7JEw_GpEuMSuJHcKmDIB7ryEO6W2VJTvuA2pLIR6IQ?e=h6AZLN)
+* [Arrangements for reviewing e-Portfolios]()
     * Who, When, What
 </details>
+
 
 Kent Computing Mentors - Collaboration
 --------------------------------------

@@ -22,6 +22,9 @@ Imagine if I started talking to you and as long as I kept talking, then by the t
 We need PCK.
 
 * [Exploring the Correlation Between Teacher Pedagogical Content Knowledge and Content Knowledge in Computer Science Classrooms](https://dl.acm.org/doi/10.1145/3304221.3325556) 2019
+    * (A poster was presented - but we can't see it - references useful)
+    * > 18 teachers and 473 consenting students reveals how teachers identify and address student misconceptions. 
+    * > A multi-level modelling analysis shows a significant relationship between teacher pedagogical content knowledge and student content knowledge.
 
 
 Task1: Draw ven diagram of subject knowledge and pedagogical knowledge - discuss as class
@@ -72,7 +75,6 @@ What is Computer Science Pedagogy
 General Pedagogy
 ----------------
 
-
 * [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
     * The research underpinning these claims is outlined in the article
     1. Effective pedagogies give serious consideration to pupil voice.
@@ -84,7 +86,6 @@ General Pedagogy
     7. Effective pedagogies focus on developing higher order thinking and metacognition, and make good use of dialogue and questioning in order to do so.
     8. Effective pedagogies embed assessment for learning.
     9. Effective pedagogies are inclusive and take the diverse needs of a range of learners, as well as matters of student equity, into account. 
-    
 
 Magnusson et al. (1999)
 * knowledge of goals and objectives for teaching a specific topic in the curriculum, (GO)
@@ -160,43 +161,43 @@ This is going to be hard ...
 <sub>From [ictevangelist.com](https://ictevangelist.com/technological-pedagogical-and-content-knowledge/)</sub>
 
 TASK: Let's build the model as a group
-* For each area, ask "What would I be able to do? What would this look like"
+* For each area of the venn diagram, ask "What would I be able to do? What would this look like"
 * Reveal slowly
-
-pk1	I can adapt my teaching based upon what students currently understand or do not understand.
-pk2	I can adapt my teaching style to different learners.
-pk3	I can use a wide range of teaching approaches in a classroom setting.
-pk4	I can assess student learning in multiple ways.
-
-ck1	I have sufficient knowledge about my teaching subject.
-ck2	I can use a subject-specific way of thinking in my teaching subject.
-ck3	I know the basic theories and concepts of my teaching subject.
-ck4	I know the history and development of important theories in my teaching subject.
-
-tk1	I keep up with important new technologies.
-tk2	I frequently play around with the technology.
-tk3	I know about a lot of different technologies.
-tk4	I have the technical skills I need to use technology.
-
-pck1	I know how to select effective teaching approaches to guide student thinking and learning in my teaching subject.
-pck2	I know how to develop appropriate tasks to promote students complex thinking of my teaching subject.
-pck3	I know how to develop exercises with which students can consolidate their knowledge of my teaching subject.
-pck4	I know how to evaluate students' performance in my teaching subject.
-
-tpk1	I can choose technologies that enhance the teaching approaches for a lesson.
-tpk2	I can choose technologies that enhance students' learning for a lesson.
-tpk3	I can adapt the use of the technologies that I am learning about to different teaching activities.
-tpk4	I am thinking critically about how to use technology in my classroom.
-
-tck1	I know how technological developments have changed the field of my subject.
-tck2	I can explain which technologies have been used in research in my field.
-tck3	I know which new technologies are currently being developed in the field of my subject.
-tck4	I know how to use technologies to participate in scientific discourse in my field.
-
-tpck1	I can teach lessons that appropriately combine my teaching subject, technologies, and teaching approaches.
-tpck2	I can use strategies that combine content, technologies, and teaching approaches that I learned about in my coursework in my classroom.
-tpck3	I can choose technologies that enhance the content of a lesson.
-tpck4	I can select technologies to use in my classroom that enhance what I teach, how I teach, and what students learn.
+    * Pedagogical Knowledge (PK)
+        * pk1	I can adapt my teaching based upon what students currently understand or do not understand.
+        * pk2	I can adapt my teaching style to different learners.
+        * pk3	I can use a wide range of teaching approaches in a classroom setting.
+        * pk4	I can assess student learning in multiple ways.
+    * Content Knowledge (CK)
+        * ck1	I have sufficient knowledge about my teaching subject.
+        * ck2	I can use a subject-specific way of thinking in my teaching subject.
+        * ck3	I know the basic theories and concepts of my teaching subject.
+        * ck4	I know the history and development of important theories in my teaching subject.
+    * Technological Knowledge (TK)
+        * tk1	I keep up with important new technologies.
+        * tk2	I frequently play around with the technology.
+        * tk3	I know about a lot of different technologies.
+        * tk4	I have the technical skills I need to use technology.
+    * Pedagogical + Content Knowledge (PCK)
+        * pck1	I know how to select effective teaching approaches to guide student thinking and learning in my teaching subject.
+        * pck2	I know how to develop appropriate tasks to promote students complex thinking of my teaching subject.
+        * pck3	I know how to develop exercises with which students can consolidate their knowledge of my teaching subject.
+        * pck4	I know how to evaluate students' performance in my teaching subject.
+    * Technological + Pedagogical Knowledge (TPK)
+        * tpk1	I can choose technologies that enhance the teaching approaches for a lesson.
+        * tpk2	I can choose technologies that enhance students' learning for a lesson.
+        * tpk3	I can adapt the use of the technologies that I am learning about to different teaching activities.
+        * tpk4	I am thinking critically about how to use technology in my classroom.
+    * Technological + Content Knowledge (TCK)
+        * tck1	I know how technological developments have changed the field of my subject.
+        * tck2	I can explain which technologies have been used in research in my field.
+        * tck3	I know which new technologies are currently being developed in the field of my subject.
+        * tck4	I know how to use technologies to participate in scientific discourse in my field.
+    * Technological + Pedagogical + Content Knowledge (TPCK)
+        * tpck1	I can teach lessons that appropriately combine my teaching subject, technologies, and teaching approaches.
+        * tpck2	I can use strategies that combine content, technologies, and teaching approaches that I learned about in my coursework in my classroom.
+        * tpck3	I can choose technologies that enhance the content of a lesson.
+        * tpck4	I can select technologies to use in my classroom that enhance what I teach, how I teach, and what students learn.
 
 
 How do we develop PCK?
@@ -237,8 +238,8 @@ Key point
 * [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) NARST 1997
     * Recomendations from Shulman, 1986
 
-TASK: Read the recommendations
-How is Item 3 relevant when you enter school?
+TASK: Read the "Recommendations for Teachers" section of the article above
+How is Item 3 relevant when 'you enter school?
 (reminder missing lesson plan metadata)
 What questions would you ask
 
