@@ -10,32 +10,27 @@ Targets
     * What class are we likely to see this with?
 
 
-* Menu of Targets (MoTa)
-
-
-* Students should be clear about current expected behaviour. e.g. Listening, engaged in individual activity, engaged in focused pair discussion on topic, etc
-    * Actions
-        * 1. The teacher identify students that are not displaying expected behaviour 
-        * 2. teacher performs intervention to correct the intended behaviour.
-    * Lesson observations that identify that students are engaging with the specified activity.
-    * There is a reduction in the amount of off-task/disruption time in lessons over a sequence of lessons (6-weeks/term)
-* Ensure each Computing lesson explicitly promotes the national literacy strategy.
-    * Each computing lesson should explicitly attempt to build vocabulary and promote some form of written communication.
-    * Lesson plans should identify provision.
-    * Student answers/work could be used to evidence student use/improvement in literacy/terminology/vocabulary/understanding over a period of 6 lessons (term?)
-* Explicitly build routines that facilitate a smooth start to lessons
-    * Weekly starter quiz tech xxx to review last lessons learning. Students access this automatically while register is being taken
-* Every lesson plan should list the initials of student that were absent last lesson. There should be a plan/action/instruction/acknowledgement to these students.
-
-
 Dylan Wiliam 
-"We spend so much time trying to be changing the way teachers think to get them to change what they do. We need to change what they do to get them into a new way of thinking"
-Students should be aware (flip the script) - they were part of the discussions
+> "We spend so much time trying to be changing the way teachers think to get them to change what they do. We need to change what they do to get them into a new way of thinking"
 
 * Your mentor may need help formulating targets
 * There is not absolute 'Right' and 'Wrong'
 
-Task:
+
+Target Task
+-----------
+
+* The targets below are all targets set to actual computing teachers last year.
+* I have not selected these because they are 'good' or 'bad'. I have just taken a sample
+
+TASK:
+Have a look at some of the targets
+Discuss 
+* What is good about them - Why
+* What is bad about them - Why
+
+
+
 1. Identify good classroom principles, positives and what would I avoid - specific 
     * Mentor: Speak to student in mentor meeting 
     * Trainee: Observe other classes in other subjects during free periods and produce a short reflection on it. 
@@ -59,5 +54,29 @@ Task:
     * Mentor: Continue to support with this subject knowledge development. 
     * Trainee: Be prepared for the graphs and charts lesson coming up in the next two weeks. 
 
+Unsorted
+========
+
 Model
 "Questioning" - how do we improve this target?
+
+
+Students should be aware (flip the script) - they were part of the discussions
+
+
+* Menu of Targets (MoTa)
+
+
+* Students should be clear about current expected behaviour. e.g. Listening, engaged in individual activity, engaged in focused pair discussion on topic, etc
+    * Actions
+        * 1. The teacher identify students that are not displaying expected behaviour 
+        * 2. teacher performs intervention to correct the intended behaviour.
+    * Lesson observations that identify that students are engaging with the specified activity.
+    * There is a reduction in the amount of off-task/disruption time in lessons over a sequence of lessons (6-weeks/term)
+* Ensure each Computing lesson explicitly promotes the national literacy strategy.
+    * Each computing lesson should explicitly attempt to build vocabulary and promote some form of written communication.
+    * Lesson plans should identify provision.
+    * Student answers/work could be used to evidence student use/improvement in literacy/terminology/vocabulary/understanding over a period of 6 lessons (term?)
+* Explicitly build routines that facilitate a smooth start to lessons
+    * Weekly starter quiz tech xxx to review last lessons learning. Students access this automatically while register is being taken
+* Every lesson plan should list the initials of student that were absent last lesson. There should be a plan/action/instruction/acknowledgement to these students.
