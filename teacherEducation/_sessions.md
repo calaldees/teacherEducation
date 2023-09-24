@@ -281,7 +281,6 @@ Tuesday 26th September
     * Arrange time for your trainee to meet with your Head of Department or 2nd in Dept, to discuss the department’s rationale of the choice of KS4 & 5 Exam board & Syllabus
         * #3/1-SubjCur-LearnThat-curriculum_breath
 
-TODO: !! Eplicit - Aademic - helps with HOD in futures years - planting the seed
 
 
 SQ 4: What is education?

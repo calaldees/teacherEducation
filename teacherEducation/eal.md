@@ -1,6 +1,11 @@
 English as an Additional Language (EAL)
 =================================
 
+https://labs.heygen.com/video-translate
+https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20English%20(original).mp4
+https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20French%20(AI%20Translated).mp4
+
+
 * [Sounds Right - by British Council](https://learnenglish.britishcouncil.org/apps/learnenglish-sounds-right)
     * Online Phoneme Chart
     * Interactive phonemic chart, primarily for ESOL/EAL learners and teachers.

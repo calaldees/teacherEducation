@@ -4,14 +4,20 @@ School Direct
 First Contact September 2023
 -------------
 
-Dear ,
+Hi  (Computing Subject Mentor - XXXSchool)
+(cc'ing as part of process
+   (Trainee Teacher - xxx School),
+   (Professional Mentor - xx School),
+  Tanya Barwick (Lead Mentor - CCCU),
+)
 
 I am the subject pedagogy tutor from Canterbury Christ Church University for Computing. 
 I want to extend a warm welcome to you as new mentor to our programme.
-I look forward to getting to know you and your school over the next few months. 
-Given that you are working with a School Direct student, I hope that you have already been able to build a good working relationship with them since the start of term. 
+I look forward to getting to know you and your school over the next few months.
 
-Firstly, I want to thank you for the work that you have undertaken so far with your Computing student. 
+I was delighted to meet XXXX last Friday (22nd September). He was enthusiastic about the year to come.
+
+I want to thank you for the work that you have undertaken so far with XXXX.
 This initial period of Induction is always important to help them settle into their new school. 
 
 Whilst I appreciate that this might appear to be quite a long email, what I have tried to do here is to pull together the main points that will help you in supporting your student as they set out on their journey towards gaining QTS.
@@ -19,10 +25,11 @@ Whilst I appreciate that this might appear to be quite a long email, what I have
 We will be using Microsoft OneNote as a single repository to hold all of the course documentation and chronicle your students progress.
 Below is a link to a OneNote Notebook for "All Documents for School Direct Computing":
 https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eg339CoktNZOsWIF9RQyu8ABPb1axqBqnpVzEfds_9a5cQ
+(The documents I refer to throughout this document are available in the OneNote link above)
 
-I am aware the amount of documentation may initially feel overwelming, but I hope with the support your profetional mentor,  my support with school visits and our mentor training sessions, that you will be well supported with your role as a mentor.
+I am aware the amount of documentation may initially feel overwhelming, but I hope with the support from XXXX as your professional mentor, my support with school visits and our mentor training sessions, that you will be well supported with your role as a mentor.
 
-I want to draw your attention to a few key Elements at this time.
+I want to draw your attention to a few key items:
 
 --- Teaching % Time
 The School Direct Handbook can be found at
@@ -62,20 +69,23 @@ Students can upload documents and write to this, mentors only have “read only 
 Student teachers are expected to use their e-portfolio as their essential working space, including to plan lessons, to complete their mentor meeting journal, to set their weekly targets and to reflect on observing other’s lessons. 
 Other sections may be added over the course of the year.
 
-You can access XXXXX’s ePortfolio here:
+You can access XXXX’s OneNote ePortfolio here:
 
+This is a "Read Only" link for you as a mentor
 (Please get back to me if you hit a problem with this link)
 
---
-
-Above all, and in summary, I see my role as being one of assisting you in helping your student teacher to reach their full potential over the course of the year. 
+--- Contacting me
+I see my role as being one of assisting you in helping your student teacher to reach their full potential over the course of the year. 
 I also believe in open channels of communication, so if you should need to contact me on any issue regarding either the placement requirements or the progress of your student teacher, please do so by:
 allan.callaghan@canterbury.ac.uk
 Booking an MSTeams online meeting at
 https://outlook.office.com/bookwithme/user/3e0385ef8fb340e38b6686624a78dda0@canterbury.ac.uk?anonymous&ep=pcard
 (Both of these are echoed in my email signature)
 
+It would be good to have a 15min "Early Impressions" remote video call with you over the next couple of weeks to see how XXX is settling in and to answer any questions of yours. Please use the booking system link above to select a time that is continent for you.
+
+---
+
 I am very grateful for your assistance in helping to train our next generation of outstanding teachers in Computing and I look forward to working with you over the course of the year.
 
 Kind regards,
-
