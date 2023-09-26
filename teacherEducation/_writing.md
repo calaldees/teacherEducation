@@ -1,7 +1,14 @@
 Academic Writing
 ================
 
-* [The Only Academic Phrasebook You'll Ever Need: 600 Examples of Academic Language](https://www.amazon.co.uk/Only-Academic-Phrasebook-Youll-Ever-ebook/dp/B01M0QFVHL/)
+
+## Criticality (Level 7)
+
+* Criticality is not 'calling things shit'
+* > analysing information to understand a problem or topic from more than one perspective; 
+  > making logical connections between ideas; 
+  > offering your own perspective on the topic based on your evaluation of the available evidence.
+
 
 ## Some Academic Terminology
 
@@ -17,7 +24,7 @@ Academic Writing
 * [Autoethnography](https://en.wikipedia.org/wiki/Autoethnography)
     * a form of qualitative research in which an author uses self-reflection and writing to explore anecdotal and personal experience and connect this autobiographical story to wider cultural, political, and social meanings and understandings
     * > autoethnographers are themselves the primary participant/subject of the research
-
+    * (This comes under some criticism as an approach)
 
 
 ## Comedy enactment to convey academic writing
@@ -46,6 +53,9 @@ Academic Writing
 Citation needed
 
 
+### Phasing
+
+* [The Only Academic Phrasebook You'll Ever Need: 600 Examples of Academic Language](https://www.amazon.co.uk/Only-Academic-Phrasebook-Youll-Ever-ebook/dp/B01M0QFVHL/)
 
 
 ### Academic Writing Tips
@@ -77,7 +87,7 @@ Narrative, journey, headings
 * Use citations for both positive and negative
     * [Why is there no Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
         * If we have 'negative' relationships between things, this is helpful.
-        * We only tend to record the positive. e.g: friend of, rather than devorced, estranged
+        * We only tend to record the positive. e.g: friend of, rather than divorced, estranged
         * Are all academic citations endorsements? or are they calling out bullshit?
 
 
@@ -97,12 +107,13 @@ Assignment
 TASK: Read the Assignment from last year (CAUTION! This may change)
 Start to consider areas of focus
 
-* [(Old) Assignment Brief Subject Pedagogy 2021-22](https://cccu.padlet.org/sharron_mackenzie1/mhqf3wfen2yb/wish/1752637128)
+* (Old) Assignment Brief Subject Pedagogy
     * 2000 Word literature review on Computing Subject Pedagogy
 
 I am genuinely interested in the reading you are about to do. Teach me something about Computing pedagogy.
 
-* Due Monday 14th November 2022 14:00 - 7 weeks from now
+* Due Monday 13th November 2023 14:00 - 7 weeks from now
+
 
 Proposal for Literature Review
 ------------------------------
@@ -257,7 +268,7 @@ https://research-methodology.net/research-philosophy/interpretivism/
     * Why use source
     * Why 
 
-
+---
 
 * https://www.touro.edu/departments/writing-center/tutorials/affect-or-effect/
     * > A is for action (affect); E is for end result (effect)

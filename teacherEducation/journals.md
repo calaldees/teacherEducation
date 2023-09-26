@@ -3,8 +3,6 @@ Journals
 
 * [[ofstedComputing]] Research review summary
 
-
-
 ### General
 
 * [Impact: Journal of the chartered college of teaching](https://impact.chartered.college/)
@@ -13,22 +11,6 @@ Journals
 
 ### Computing
 
-* [SIGCSE: Computer Science Education](https://dl.acm.org/conference/sigcse/proceedings) Toronto Canada
-    * 50 years - Pure GOLD!
-    * [SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2](https://dl.acm.org/doi/proceedings/10.1145/3545947)
-    * Each annual event has a website
-        * [2023 accepted papers](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-papers#event-overview)
-* Conference [ITiCSE: Innovation and Technology in Computer Science Education](https://dl.acm.org/conference/iticse/proceedings)
-    * [ITiCSE '19](https://dl.acm.org/doi/proceedings/10.1145/3304221)
-* Conference [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
-    * 20 Years of computing education research conference.
-    * The best place to look for Computing Pedagogy research
-* [AUS-CE: Australian Computing Education](https://dl.acm.org/conference/aus-ce/proceedings)
-    * 
-* [AACE Association for the Advancement of Computing in Education](https://www.aace.org/pubs/)
-    * [Journal of Interactive Learning Research](http://www.learntechlib.org/c/JILR/)
-* [OLYMPIADS IN INFORMATICS](https://ioinformatics.org/page/ioi-journal-index/)
-    * No RSS! damnit!
 * [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)
   * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
 * [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)
@@ -58,6 +40,26 @@ Journals
             * Join us at our free online research seminars
         * https://www.raspberrypi.org/cambridge-computing-education-research-symposium/presentations/
             * Recording of presentations
+* [SIGCSE: Computer Science Education](https://dl.acm.org/conference/sigcse/proceedings) Toronto Canada
+    * 50 years
+    * A list of "topics that were talked about at a conference" - They want you to go to the conference
+    * Each talk has a list of references - follow the references to topics of interest
+    * [SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2](https://dl.acm.org/doi/proceedings/10.1145/3545947)
+        * [simplified html list](https://sigcse2023.sigcse.org/getImage/orig/accessProgram.html)
+    * Each annual event has a website and has "accepted papers" (which are readable)
+        * [2023 "accepted papers"](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-papers#event-overview)
+* Conference [ITiCSE: Innovation and Technology in Computer Science Education](https://dl.acm.org/conference/iticse/proceedings)
+    * [ITiCSE '19](https://dl.acm.org/doi/proceedings/10.1145/3304221)
+* Conference [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
+    * 20 Years of computing education research conference.
+    * The best place to look for Computing Pedagogy research
+* [AUS-CE: Australian Computing Education](https://dl.acm.org/conference/aus-ce/proceedings)
+    * 
+* [AACE Association for the Advancement of Computing in Education](https://www.aace.org/pubs/)
+    * [Journal of Interactive Learning Research](http://www.learntechlib.org/c/JILR/)
+* [OLYMPIADS IN INFORMATICS](https://ioinformatics.org/page/ioi-journal-index/)
+    * No RSS! damnit!
+
 
 
 Teacher Education
