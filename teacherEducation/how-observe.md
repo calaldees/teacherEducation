@@ -38,3 +38,16 @@ How to observe a lesson
     * How is technology used by the teacher and students
     * What routines are in place
         * Why were these created? How do they assist learning
+
+---
+
+TASK:
+Using 
+
+1. Curriculum CTP Guidelines (Mentor Journal WB xxx)
+2. All Documents -> Observing Experts examples
+3. My List above
+4. Your own interests/focus
+
+Compile a list of questions/tasks/items that could focus your observations in your first week.
+(By "you" creating this list, you will have taken ownership of development and this will hopefully have more impact/relevance)
