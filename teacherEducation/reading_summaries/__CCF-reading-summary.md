@@ -50,7 +50,7 @@ Mentor Knowledge
 
 ### My headline summary
 * Mentors rely on their practical skills. They do not have the time to deeply engage with theory
-* > ‘referring to theory’ appears to range low on most mentors' agenda
+* > ‘referring to theory’ appears to rate low on most mentors' agenda
 * > the less time mentors have, the more they will tend to rely on knowledge acquired in the course of their professional practice and personal experience,
   > resorting to established strategies ‘that work’, rather than attempting new approaches in search of solutions to problematic situations
 * > we need to enable mentors to free themselves from the idiosyncratic practices they may have developed over the years by providing access to adequate training and developmental programmes

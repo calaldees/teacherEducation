@@ -18,6 +18,7 @@ Planning
 * Context and Relevancy (30min lecture)
 Total 3 hours
 
+
 Computational Thinking
 ----------------------
 
@@ -163,7 +164,7 @@ Young people can smell bullshit.
 Things I try to avoid:
 * Fake themes
     * Harry potter tuck shop spreadsheets
-    * Ponys
+    * Ponies
 * Try to avoid computer games as a theme
     * These can alienate some demographics immediately
     * > Games are pointless, they don't do anything (for the world)
