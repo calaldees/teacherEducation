@@ -69,8 +69,11 @@ Readings
     * [Teaching programming in schools: A review of approaches and strategies](https://www.raspberrypi.org/app/uploads/2021/11/Teaching-programming-in-schools-pedagogy-review-Raspberry-Pi-Foundation.pdf) Sentence, Waite, 2021
 5. How do children learn?
     * NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/) 2020
+        * [Teaching computer programming with PRIMM: a sociocultural perspective](https://doi.org/10.1080/08993408.2019.1608781)
+        * > Sentance, S., Waite, J. and Kallia, M. (2019). Teaching computer programming with PRIMM: a sociocultural perspective. Computer Science Education, [online] 29(2-3), pp.136–176. doi:https://doi.org/10.1080/08993408.2019.1608781.
     * [Developing a computer science-specific learning taxonomy](https://dl.acm.org/doi/10.1145/1345375.1345438) (Fuller 2007)
-    * NCCE [The importance of practical programming](https://blog.teachcomputing.org/the-importance-of-practical-programming/) white paper 2022
+    * NCCE [The importance of practical programming](https://blog.teachcomputing.org/the-importance-of-practical-programming/) white paper 2022 [pdf](https://static.teachcomputing.org/Practical+Work+in+Computing+Apr+22.pdf)
+        * > Berry, M., Curzon, P., Cutts, Q., Hoyles, C., Jones, S., Saeed, S. and Academic Board, N. (2022). Practical programming in computing education. [online] National Center for Computing Education. Available at: https://static.teachcomputing.org/Practical+Work+in+Computing+Apr+22.pdf.
     * Hello World [Inspiring young people with contexts they care about](https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about) Oliver Quinlan 2021
     * Hello World [Behaviour management in the computing classroom](https://helloworld.raspberrypi.org/articles/hw17-behaviour-management-in-the-computing-classroom) 2022
 6. How do you plan and assess for learning?
@@ -86,15 +89,21 @@ Readings
     * [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
     * http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf
     * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
-    * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
 9.  How do you lead learning?
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) 2020
     * [NCCE Computing Quality Framework](https://computingqualityframework.org/) [md](https://github.com/calaldees/teacherEducation/blob/main/teacherEducation/national_documentation/computing_quality_framework.md)
+        * > Department for Education and STEM Learning (2022). The NCCE Computing Quality Framework for Schools. [online] computingqualityframework.org. Available at: https://computingqualityframework.org [Accessed 27 Sep. 2023].
     * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
     * [Making Room for Impact: A De-implementation Guide for Educators: A De-implementation Guide for Educators Paperback](https://www.amazon.co.uk/Making-Room-Impact-implementation-Educators/dp/1071917072/) Hamilton, Hattie, Wiliam 2023
         * Chapter 1 available as "read sample" on Amazon
 10. What is my impact?
     * (non-cs) [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
+
+
+
+
+
+
 
 
 

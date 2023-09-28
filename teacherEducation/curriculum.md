@@ -1,30 +1,6 @@
 Curriculum
 ==========
 
-TODO:
-https://helloworld.raspberrypi.org/issues/12 https://helloworld.raspberrypi.org/issues/12/pdf page 62 Learning Graphs
-https://www.raspberrypi.org/app/uploads/2020/04/Learning-graphs-a-strategic-approach-to-computing-curriculum-planning.pdf Andy Bush
-NCCE have this in Schemes of work
-https://helloworld.raspberrypi.org/issues/14 Page 46 WRITING A COMPLETE COMPUTING CURRICULUM: LESSONS LEARNT - Sway Grantham and her colleagues began writing the Teach Computing Curriculum 18 months ago. She shares some insights into what they learnt along the way
-
-* What is a curriculum. What is a subject curriculum?
-* NC and recent policy
-* What is Computing?
-    * 3 strands Computer Science, ICT, Digital Literacy
-    * What is a Computer Science teacher?
-    * What are the expectations/misconceptions teaching Computer Science?
-        * Explore the backlash and confusion about computer science in education and wider society
-            * The rise of STEM
-            * Perceptions of gender and ethnicity in Computing
-    * Preparing students for a future we are unsure of
-* Digital-literacy
-* Literacy and numeracy in Computing
-* Literacy in Computing and technical language
-    * vocabulary to facilitate thinking about Computing
-* Key influential subject documents, reports and research; current and over time
-* How has the subject of Computing has changed in education over the years (in school and society)
-
-
 
 * [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Gert Biesta 2015
     * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
@@ -138,17 +114,64 @@ ANSWERS: As a group, Let's compare against CAS allocations - where are your misu
 The NC was written in 2013. Computing moves so fast, does it need to be re-written?
 (If the answer is 're-write', would a single student have ever completed the NC from KS1 to KS4 == 12 years?)
 
-TASK: Read the NC. Where could AI fit in? (Hint: It IS in there ... but where?)
+* TASK: Think Pair Share (10min)
+    * Investigate [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+    * Where is the AI?
+
+* Commentary (5min)
+    * [NCCE Digital Skills Forum - AI and the Future of Education](https://www.youtube.com/watch?v=tvtJdi8u7vU&t=218s) YouTube NCCE Simon Peyton Jones 2021 (One of the team that wrote the NC) 
+        * (watch 3:38 to 6:ish)
+        * Keep National Curriculum
+        * Challenge _magic_
+        * Shift of emphasis -> from _computation_ more to information and data
+        * AI is another way to get the computer to do what you want - you give it data
+        * Overfitting (exactly and only that cat) to precisely to one dataset. Eg.g a self driving car that can only drive to sainsburys
 
 
-Progression Model
+
+NCCE Curriculum (10min aside)
+---------------
+
+* [Writing A Complete Computing Curriculum: Lessons Learnt](https://helloworld.raspberrypi.org/articles/hw14-writing-a-complete-computing-curriculum-lessons-learnt) Sway Grantham
+    * [issue 14](https://helloworld.raspberrypi.org/issues/14) Page 46
+    * Sway Grantham and her colleagues began writing the Teach Computing Curriculum 18 months ago. She shares some insights into what they learnt along the way
+    * The completed work (2020): [teachcomputing.org/curriculum](https://teachcomputing.org/curriculum)
+    * Lesson 1 - Segmentation?
+        * > it can be tempting to break it into specific parts — either to make it seem less overwhelming or to share the workload more easily. These specific parts could be year groups, topics within the curriculum content, or units within year groups. 
+        * > the journey between those points — where they fell and what they looked like — was unknown. 
+        * Before writing "lesson plans" - stop - more work you do before anyone starts,
+        * My Addition: Computing is fundamentally interconnected
+    * Lesson 2 - Lots of input
+        * > academic backgrounds, practising teachers, former teachers, specialist teachers, non-specialist teachers, and industry connections 
+        * Work with peers outside of your direct colleagues. Try those in different phases or year groups, or even contacts in different schools,
+    * Lesson 3: Ongoing ...
+        * > we have realised that the curriculum we have written will never be ‘finished’.
+        * Creating a curriculum should be a process, and not a destination; it will never be ‘finished’.
+
+Question: Seeing as all the work has been done by so many teachers that are way more experienced than you. Do you need to worry about to much about planning your own lessons? Why? Why not?
+
+<details>
+<summary>(I've got my own opinions)</summary>
+
+* See SP01 - You learn from construing ideas yourself
+* You don't have the metadata 'why' it was created this way
+* Some of the content sucks and is not engaging
+
+Use the lessons as a starting point to get examples about material for the area. But this is not you or your school.
+</details>
+
+
+Progression Model (30 min)
 -----------------
 
 * [[progression_model]]
 
 
+
 Science Vs Engineering
 ----------------------
+
+People don't understand Computing
 
 * [Computing Science or Engineering? Language](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641367-dt-content-rid-3959384_1/courses/E20MTETT4SPD/Is%20Computer%20Science%20a%20Science%20-%20Denning.pdf) Interview with Denning 2007
     * > Because computers are man-made and not natural. We can't study them like a science. People in other fields think we are just programmers. We've be unsuccessful in communicating the breath and depth of our discipline
@@ -197,6 +220,11 @@ WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
     * This year saw a surge in popularity for computing as an A level choice, with entries growing the most of any subject – 16.7% – from 15,693 in 2022, to 18,306 this year.
     * At GCSE, there has also been a large percentage increase with an 11.6% rise in entries – from 81,120 in 2022 to 90,558 this year
     * Record numbers of young people are applying to study computing at university, with an 11% growth in the number of 18-year-old UK women due to start at university, compared to last year
+
+
+
+Further Reading
+===============
 
 
 Friction with Society (30min)

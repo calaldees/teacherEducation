@@ -21,10 +21,13 @@ How to observe a lesson
 * Possible focus ideas
     * Transitions
         * How does the teacher move between different activities and how is this co-ordinated
+        * How many segments are their in lessons?
     * Use of language
         * Technical/subject?
+            * Do they highlight key vocabulary/language?
         * How do they relate to the students
         * Use of voice (to class, to individuals)
+        * What % of the time are students using computers? Is this different from different year groups?
     * Non verbal communication
         * Position in room
         * Use of hands, face, gestures
@@ -38,6 +41,10 @@ How to observe a lesson
     * How is technology used by the teacher and students
     * What routines are in place
         * Why were these created? How do they assist learning
+    * What wall displays are in place - are they actively used in lessons?
+    * What % of time are TeacherTalking, StudentsCollaborating, StudentsIndependent
+
+
 
 ---
 

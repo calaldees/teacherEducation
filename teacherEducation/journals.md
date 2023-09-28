@@ -40,6 +40,7 @@ Journals
             * Join us at our free online research seminars
         * https://www.raspberrypi.org/cambridge-computing-education-research-symposium/presentations/
             * Recording of presentations
+* [WiPSCE: Workshop in Primary and Secondary Computing Education](https://dl.acm.org/conference/wipsce) Conference
 * [SIGCSE: Computer Science Education](https://dl.acm.org/conference/sigcse/proceedings) Toronto Canada
     * 50 years
     * A list of "topics that were talked about at a conference" - They want you to go to the conference

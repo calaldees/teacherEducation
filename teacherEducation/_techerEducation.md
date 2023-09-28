@@ -25,4 +25,4 @@ Teacher Education
 Mentors
 -------
 
-See [__CCF-reading-summary.md](__CCF-reading-summary.md)
+See [__CCF-reading-summary.md](reading_summaries/__CCF-reading-summary.md)

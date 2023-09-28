@@ -8,6 +8,8 @@ Different between tcp and udp and when they would be used
 https://quizbot.ai/ai-templates
 Copy and paste from gcse exam spec
 
+* [QAA guidance: ChatGTP and AI](https://www.qaa.ac.uk/membership/membership-areas-of-work/academic-integrity/chatgpt-and-artificial-intelligence)
+
 * HE [Assessment Menu: Designing assessment in an AI enabled world](https://nationalcentreforai.jiscinvolve.org/wp/2023/09/12/designing-assessment-in-an-ai-enabled-world/)
     * [Expanded Assessment Top Trumps](https://lydia-arnold.com/2022/11/14/expanded-assessment-top-trumps/)
         * Menu of assessment ideas

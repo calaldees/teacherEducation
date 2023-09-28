@@ -24,6 +24,9 @@ Using
 
 <details>
 
+* [Learning graphs: Tools to plan for progression](https://helloworld.raspberrypi.org/articles/hw12-learning-graphs-progression) 2020
+    * [issue 12](https://helloworld.raspberrypi.org/issues/12) [pdf](https://helloworld.raspberrypi.org/issues/12/pdf) page 62
+    * [Learning graphs: A strategic approach to computing curriculum planning](https://www.raspberrypi.org/app/uploads/2020/04/Learning-graphs-a-strategic-approach-to-computing-curriculum-planning.pdf) Andy Bush poster pdf
 * NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5
     * ![Progression model from KS1 to KS5](https://raspberrypi-education.s3.eu-west-1.amazonaws.com/NCCE+Reports/Programming+and+Algorithms+(Concepts).png)
     * ![Skill Progress with programming and algorithms](https://raspberrypi-education.s3.eu-west-1.amazonaws.com/NCCE+Reports/Programming+and+Algorithms+(Skills).png)
@@ -31,5 +34,6 @@ Using
 * [NCCE Taxonomy](https://blog.teachcomputing.org/categorising-national-centre-content/)
     * Algorithms, Programming, Data and Information, Computer systems, Networks, Creating media, Design and development, Effective use of tools, Impact of technology, Safety and security
     * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
-        * NCCE program Taxonomy - pg 9 + pg 10 - radar chart - Figure 3
+        * NCCE program Taxonomy - pg 9 + pg 10 - radar chart - Figure 3 + scroll down a bit to see DL for each KS
+
 </details>

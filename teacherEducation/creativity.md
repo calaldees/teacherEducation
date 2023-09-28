@@ -136,6 +136,7 @@ They appear correlated
 * Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
 
 
+
 * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
     * > The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works (David Deutsch)
     *  the definitions (of creativity) are very informal, given in a natural language, 
