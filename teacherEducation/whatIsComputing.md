@@ -60,7 +60,7 @@ Computer Science as a field/discipline
 
 * [computer science: student myths and misconceptions](https://www.researchgate.net/publication/234832735_Computer_science_student_myths_and_misconceptions) of the field in general (Beaubouef, McDowell 2008)
     * > common myths and misconceptions about the field of computer science. It addresses and attempts to dispel these notions in an effort to provide prospective computer science students and the general public with a more realistic view of the field
-* [Misconceptions About Computer Science](https://cacm.acm.org/magazines/2017/3/213837-misconceptions-about-computer-science/fulltext) - The profession of IT
+* The profession of IT [Misconceptions About Computer Science](https://cacm.acm.org/magazines/2017/3/213837-misconceptions-about-computer-science/fulltext) 2017 Peter J. Denning, Matti Tedre, Pat Yongpradit 
     * Computing occupations are projected to grow at a higher rate than all other STEM areas combined.
     * Regardless of their career, many professionals will be using computer science at work.
     * most "human executable recipes" cannot be implemented by a machine. This misconception actually leads people to misunderstand algorithms and therefore overestimate what a machine can do.

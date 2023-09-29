@@ -5,18 +5,19 @@ Digital Literacy
 TODO: [[digital-natives]]
 
 * HotKeys
-    * Every lesson routine (Dales Example)
+    * Every lesson routine 
+    * (Dales Example - asking for a hotkey the next person what it does)
 * Document Titles - Styles (Not just font size)
-* Cultrial Capital
+* Cultural Capital
     * Use of Windows, MacOS, Linux
 
 * [Exploring digital literacy concepts through Philosophy for Children](https://tpea.ac.uk/exploring-digital-literacy-concepts-through-philosophy-for-children/) TEPA 2023
     * Questions are philosophical when they make us wonder, when there are different viewpoints, when they cannot simply be answered by asking an expert.
-        *  Should you always tell the truth? 
-        *  How do we know who we can trust? 
-        *  Which is more important, freedom or safety? 
-        *  Should you be free to say anything that you want? 
-        *  What is the difference between secrecy and privacy? 
+        *  Should you always tell the truth?
+        *  How do we know who we can trust?
+        *  Which is more important, freedom or safety?
+        *  Should you be free to say anything that you want?
+        *  What is the difference between secrecy and privacy?
         *  ... more
     * By engaging in dialogue with peers, children can expand their understanding of these concepts. They can look at them in real depth, from different perspectives and start to understand different people’s views. 
 
@@ -151,6 +152,7 @@ ACTIVITY:
     * iPads have no filesystem can cant save
     * Understand your filesystem
 * [Apple AirTags - 'A perfect tool for stalking'](https://www.bbc.co.uk/news/technology-60004257)
+* Consider faked content
 * Terminology
     * [dox](https://www.google.com/search?q=define%3A+dox)
 

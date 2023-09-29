@@ -12,9 +12,15 @@ https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy practice being t
     * [Mother in carpark](https://twitter.com/mouthofmorrison/status/1675548124293603329?t=2786wvDhOu84klxvOC737Q&s=19)
 
 TODO: Get students to do this!
+
+
 * [UKCIS Online Safety Audit Tool](https://www.gov.uk/government/publications/ukcis-online-safety-audit-tool)
     * > The UK Council for Internet Safety (UKCIS) Online Safety Audit Tool helps mentors of trainee teachers and early career teachers induct mentees and provide ongoing support, development and monitoring.
+    * TASK: Read though the questions (You have 5min - it's a big document, we don't have hours)
+
 * American Psychological Association (APA) [Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use) May 2023
+    * 3. In early adolescence (i.e., typically 10–14 years), adult monitoring (i.e., ongoing review, discussion, and coaching around social media content) is advised for most youths’ social media use; autonomy may increase gradually as kids age and if they gain digital literacy skills. However, monitoring should be balanced with youths’ appropriate needs for privacy.
+    * 9. Adolescents’ social media use should be preceded by training in social media literacy to ensure that users have developed psychologically-informed competencies and skills that will maximize the chances for balanced, safe, and meaningful social media use.
 
 * [Keeping children safe in education 2022 - Statutory guidance for schools and colleges](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) - Keeping children safe in education 2022: for school and college staff (part 1) (the 43 page one - not the 179 page one)
     * 24.) 
