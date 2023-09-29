@@ -1,22 +1,12 @@
 eSafety
 =======
 
-https://helloworld.raspberrypi.org/articles/hw20-computer-networks-a-fresh-approach-to-online-safety
-https://helloworld.raspberrypi.org/articles/hw18-addressing-the-cybersecurity-skills-gap
-https://helloworld.raspberrypi.org/articles/hw18-capture-the-flag-to-capture-interest
-https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy practice being the bad guys
-
-
-
-* [@josemonkey](https://twitter.com/josemonkey) - I find people who ask to be found. #OSINT #GEOINT #geolocation
-    * [Mother in carpark](https://twitter.com/mouthofmorrison/status/1675548124293603329?t=2786wvDhOu84klxvOC737Q&s=19)
-
-TODO: Get students to do this!
-
-
 * [UKCIS Online Safety Audit Tool](https://www.gov.uk/government/publications/ukcis-online-safety-audit-tool)
     * > The UK Council for Internet Safety (UKCIS) Online Safety Audit Tool helps mentors of trainee teachers and early career teachers induct mentees and provide ongoing support, development and monitoring.
-    * TASK: Read though the questions (You have 5min - it's a big document, we don't have hours)
+    * TASK: Read though the questions (10min)
+        * Make notes on the most impactful and important questions for you
+        * PGCE Add these questions for when you enter your school - SD can you add any to your list
+
 
 * American Psychological Association (APA) [Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use) May 2023
     * 3. In early adolescence (i.e., typically 10–14 years), adult monitoring (i.e., ongoing review, discussion, and coaching around social media content) is advised for most youths’ social media use; autonomy may increase gradually as kids age and if they gain digital literacy skills. However, monitoring should be balanced with youths’ appropriate needs for privacy.
@@ -93,6 +83,19 @@ TODO: Get students to do this!
     * discuss - can you assess/track/monitor your students understanding of these concepts?
 * [ProjectEVOLVE](https://projectevolve.co.uk/about/)
 
+
+Further Reading
+---------------
+
+* https://helloworld.raspberrypi.org/articles/hw20-computer-networks-a-fresh-approach-to-online-safety
+* https://helloworld.raspberrypi.org/articles/hw18-addressing-the-cybersecurity-skills-gap
+* https://helloworld.raspberrypi.org/articles/hw18-capture-the-flag-to-capture-interest
+* https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy practice being the bad guys
+
+
+
+* [@josemonkey](https://twitter.com/josemonkey) - I find people who ask to be found. #OSINT #GEOINT #geolocation
+    * [Mother in carpark](https://twitter.com/mouthofmorrison/status/1675548124293603329?t=2786wvDhOu84klxvOC737Q&s=19)
 
 
 
