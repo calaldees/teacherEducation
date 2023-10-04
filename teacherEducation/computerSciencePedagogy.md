@@ -10,6 +10,7 @@ NCCE Funding Sue Sentence explains
 TODO
 ----
 
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/) The argument for visual IDE features
 * [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773) 2014 Jarman and Bell
     * "Packet Attack"
 * [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
@@ -514,7 +515,7 @@ TODO:
 [taxonomies]: taxonomies.md "taxonomies"
 [instructional_continuum]: instructional_continuum.md "instructional_continuum"
 [parsons_problems]: parsons_problems.md "parsons_problems"
-[constructivisum]: constructivisum.md "Counterpoint"
+[constructivism]: constructivism.md "Counterpoint"
 [computational_thinking]: computational_thinking.md "Computational Thinking"
 [questioning]: questioning.md "Questioning"
 [inclusion]: inclusion.md "Inclusion"

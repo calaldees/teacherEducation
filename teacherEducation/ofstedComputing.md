@@ -2,6 +2,21 @@ Ofsted Computing
 ================
 
 * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
+    * > We will use this understanding of subject quality to examine how computing is taught in England’s schools.
+    * You are a tick list
+
+* [Research and analysis: Principles behind Ofsted’s research reviews and subject reports ](https://www.gov.uk/government/publications/principles-behind-ofsteds-research-reviews-and-subject-reports/principles-behind-ofsteds-research-reviews-and-subject-reports)
+    * > When selecting literature for the reviews, we are drawing on research that aligns with the established principles for quality of education, as outlined in the education inspection framework (EIF) and summarised in our ‘Education inspection framework: overview of research’.
+        * They are selecting evidence that aligns with them
+        * No authors on the research ... Who wrote the document?
+        * No acknowledgement of the mythologies and consequent limits of applicability of these articles
+            * Most from the USA? (come from a region we are out-performing?)
+        * No target age range? 11? 18? Primary?
+            * How many times does the computing review mention "undergrad"uate
+    * No contradictory research or counter arguments
+    * > Our aim is that the reviews will support and inform those leading the thinking on subject education in our schools. 
+        * They want this to happen in school - but the background to what they are asking for is questionable
+    * Declarative/procedural happens across the other subjects? So all are the same?
 
 * Insufficient curriculum time
     * > The 2017 report by the Royal Society highlighted that 1 hour a week of computing teaching was not adequate to teach the key stage 3 curriculum
@@ -95,7 +110,7 @@ Assessment
 ==========
 
 * > ‘urgent need’ for a better understanding of formative assessment in computing that focuses on the building blocks of knowledge or assessment that targets misconceptions
-* Concept Inventories as an assessment tool
+* 'Concept Inventories' (CI) as an assessment tool
 * Consider careful _distractors_. These can make problems needlessly difficult
 * > focuses on the knowledge and skills identified in the curriculum and not generic competencies
 

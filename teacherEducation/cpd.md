@@ -6,6 +6,9 @@ CPD
         * Hilarious
         * ![School CPD Bingo](https://pbs.twimg.com/media/F5G8dULWkAACekp?format=jpg&name=large)
 
+* [There’s nothing new in this CPD…and that’s a good thing](https://apsychologyteacherwrites.wordpress.com/2023/10/03/theres-nothing-new-in-this-cpdand-thats-a-good-thing/)
+    * > “Nothing new but it was nice to hear that I’m doing everything right”
+
 TODO: [National Institute to Teaching](https://niot.org.uk/)
 https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd-experience
 

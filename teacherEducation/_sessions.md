@@ -365,7 +365,7 @@ Friday 29th September - 16:30
 Thursday 5th October
 
 * Computing
-    * Microteach
+    * [[microTeaching]]
     * (G) What are current subject practices?
     * What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these? (KS3/KS4/KS5)
     * Planning for progression - Schemes of Work - Building schemata
@@ -1354,6 +1354,7 @@ From 22nd april
 [literacy]: literacy.md "Literacy"
 [numeracy]: numeracy.md "Numeracy"
 [eSafety]: eSafety.md "eSafety"
+[microTeaching]: microTeaching.md "Microteaching"
 [constructivism]: constructivism.md "Counterpoint"
 [progression_model]: progression_model.md "progression_model"
 [howStudentsLearn]: howStudentsLearn.md "How Students Learn"

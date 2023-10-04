@@ -28,12 +28,18 @@ Spirit of the exercise
     * We are not looking for polished lessons or skills
     * This may be the first time any of you have delivered a lesson
     * It is a REALLY scary experience
-* Recordings/Observations are normal practice throughout your carrier
-    * I review and reflect on recordings of my own sessions
-        * Members of my teaching department review session recordings
-        * Members of my teaching department may join our sessions in future to observe my practice
+* Observations 
+    * are normal practice throughout your carrier
+    * Members of my teaching department may join our sessions in future to observe my practice
     * This ongoing transparency is normal and is done to help everyone grow
         * For your own piece of mind and sanity, try to embrace this concept whole heartedly
+* Recordings for reflection
+    * It's hard to reflect/capture/examine 'on the fly'. Recordings help us reflect and take a step back
+    * No recordings will kept beyond the end of the session. It is a tool to facility the session feedback only
+        * If recording are to be kept longer - an ethics form will need to be completed
+    * I review and reflect on recordings of my own sessions sometimes
+* The future?
+    * Research suite for recording lessons (cool concept)
 
 
 Random order

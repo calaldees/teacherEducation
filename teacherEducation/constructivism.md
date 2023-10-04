@@ -16,17 +16,17 @@ TODO
             * Instructivist
                 *  Learning depends on the demonstrations an practice of required skill
                 *  Knowledge is transmitted to the learner by a teacher though presentation and examination of the topic
-            *  Constructivist
-                *  One must help a student discover the knowledge that is naturally found in his cognition
-                *  It is important to complement personal knowledge and experience by scientific or cultural information
-    *  > all parameters indicate a higher quality of student artifacts created under guidance of constructivist teachers.
-    *  Shows diagram of progression of instructivist Psychology and pedagogy through to constructivist Psychology and pedagogy
+            * Constructivist
+                * One must help a student discover the knowledge that is naturally found in his cognition
+                * It is important to complement personal knowledge and experience by scientific or cultural information
+    * > all parameters indicate a higher quality of student artifacts created under guidance of constructivist teachers.
+    * Shows diagram of progression of instructivist Psychology and pedagogy through to constructivist Psychology and pedagogy
         *  Pedagogical change comes before Psychological change
             *  e.g. get teachers doing the "right things" and their psychology will eventually change to match. Given time and seeing it first hand
-    *  > the beginning of the process, artifacts of students guided by instructivist teachers were found to be higher in their programming level quality, compared to the products of students guided by constructivist teachers.
-    *  > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
-    *  > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
-    *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
+    * > the beginning of the process, artifacts of students guided by instructivist teachers were found to be higher in their programming level quality, compared to the products of students guided by constructivist teachers.
+    * > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
+    * > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
+    * > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
 
 
 
@@ -38,32 +38,12 @@ Discussion about
 ITT CCF 4.6
 > Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
 
+
+
+
 TASK: Find out ... (10min) Async
 Explore the concept of "constructivism", what is it?
 
-
-TASK: Activity Concept (15 min) Async
-* Previously you have considered leading knowledge transfer to the class (e.g. our small microteaching experiment)
-
-With this new knowledge about constructivism we are to:
-* Construct a possible concepts for a Computing based activities that could be considered constructivist/discovery/collaborative based
-    * What would we need to prepare in advance?
-        * resources? Scaffolds?
-    * How would you define a task/goal?
-    * EXTENSION (for the advanced): How would use assess them? what would the criteria be?
-
-TASK: (Overall 15min? to 30min?)
-* Consider Solo 5-10min
-* Consider Pairs 5-10min
-* Consider Class 5-10min
-
-<details>
-
-Pretty hard right
-How can a young person build understanding of something when they have very little pre-requisite knowledge
-
-You can use these techniques to consolidate/practice, but to generate the initial learning concepts??!?
-</details>
 
 ### Description
 
@@ -109,6 +89,32 @@ Working with tangible real world objects is a central tenet of Papert’s constr
     * > Kids are not adults in miniature
     * Children should never feel stressed or asked to do anything they do not want
 
+
+### TASK: Task construction? (30min)
+
+* You've just delivered your microteach.
+    * This was probably instructivist - "instruction based" - you leading the learning
+* TASK 1: (10min) 
+    * Can you think of how you would deliver the same concepts with a constructivist approach?
+* DISCUSS (10min)
+* TASK 2: (10min)
+    * Can you think of what 'in general' you would need to move to a more constructivist/discovery/collaborative stratergy
+    * What would we need to prepare in advance?
+        * resources? Scaffolds?
+    * How would you define a task/goal?
+    * EXTENSION (for the advanced): How would use assess them? what would the criteria be?
+
+
+<details>
+
+Pretty hard right
+How can a young person build understanding of something when they have very little pre-requisite knowledge
+
+You can use these techniques to consolidate/practice, but to generate the initial learning concepts??!?
+</details>
+
+
+
 ### Competency Based Curriculum
 
 * [Teaching and learning in a competence-based curriculum: the case of four secondary schools in England](https://www.tandfonline.com/doi/abs/10.1080/09585176.2012.731008?src=recsys&journalCode=rcjo20) Byrne 2013
@@ -123,7 +129,7 @@ Working with tangible real world objects is a central tenet of Papert’s constr
 
 ### Discovery Based Learning
 
-* [Discovery learning](https://en.wikipedia.org/wiki/Discovery_learning#Assisted_vs._unassisted_discovery)
+* [Discovery learning](https://en.wikipedia.org/wiki/Discovery_learning#Assisted_vs._unassisted_discovery) Assisted_vs._unassisted_discovery wikipedia
     * > is a technique of inquiry-based learning and is considered a constructivist based approach to education.
       > It is also referred to as problem-based learning, experiential learning and 21st century learning.
     * > A critical success factor to discovery learning is that it must be teacher assisted.
@@ -144,20 +150,84 @@ Aggerholm, Standal and Hordvik
 low level competition in pe can provide students with meaningful positive experiences. (small groups)
 Give _option_ for competition gives sense of ownership of their leaning
 
-### Consider the phrase 'Asking not telling'
+
+Consider the phrase 'Asking not telling' (Modelled Lesson demo 45min)
+----------------------------------------
 
 (Some notes I had and left them here)
+Your whole approach is just "Questions". (I will try and model this - correct me if I slip up)
+
+* Starter
+    * Log on
+    * In your books - new page - write the date write your answers
+    * ```python
+        for k in range(4):
+            print(k)
+        # Q1. What does this do?
+        # Q2. What is this called?
+        ```
+    * ```python
+        def aa(n):
+            print("I'm adding three")
+            print(n + 2)
+        aa(2)
+        # Q3. What will this do?
+        # Q4. What is `aa`?
+        ```
+
+* Objective
+    * We are going to _reverse engineer_ some code ("Detective work")
+        * > We don't know, but we're going to find out
+            * (Our motto - maybe on a wall display?)
+    * Understand the process/steps/questions professional engineers take to _decompose_ code
+        * In our books we will have a list of steps/questions
+    * NEXT WEEK: You will _reverse engineer_ code yourself in pairs
+* Teacher Goal: Direct you with only 'asking questions'
+
+
+```python
+def aa(n):
+    for i in range(n):
+        print(' ' * (n-1-i), end='')
+        print('#' * (i*2+1), end='')
+        print()
+```
+
 
 * What does this code do?
-* How would we find out what it does?
-    * Run it?
+    * How would we find out what it does?
+        * Run it?
 * How does it work?
     * Dry run it?
     * More debug output?
 * How would we modify it to (new thing)?
-    * Slightly different values
+    * Slightly different values?
+    * Make it more readable?
 * What additions could we make?
-* How can we make those additions?
+    * How can we make those additions?
+
+
+
+<details>
+
+* How does it work?
+    * What does the `for` do?
+    * What does `"#"*5` do
+* What additions could we make?
+    * Rename the function or variables to be more descriptive
+    * change `#` to another `^`
+    * Make it a diamond (inverse bottom)
+    * Make each line have a start and end `<--->`
+    * Omega advanced - contaminated with output - return a string
+
+* Is this 'constructivism' why? why not?
+* Why is the example above effective?
+    * Delivery?
+    * code
+        * visual (in terminal)
+        * No branching/if/comparisons 
+            * limiting the scope to this activity to purely focus on approach to code comprehension (dry run, bounded iteration)
+</details>
 
 
 Counterpoint
