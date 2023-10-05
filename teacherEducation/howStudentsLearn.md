@@ -3,15 +3,7 @@ How Students Learn
 
 * [[how_we_learn]]
 
-https://edcentral.uk/edblog/beginner-guides/a-beginners-guide-to-professor-doug-lemov-1
-* Jamie Clarke (Graphic Artist) [Explicit Instruction](https://www.jamieleeclark.com/graphics) poster
-* Jamie Clarke (Graphic Artist) [Making Every Lesson Count](https://www.jamieleeclark.com/graphics) poster
-* Jamie Clarke (Graphic Artist) [Meaningful Learning](https://www.jamieleeclark.com/graphics) poster
-
-![Leaning Theories Graph](https://helpfulprofessor.com/wp-content/uploads/2019/11/31-learning-theories.jpg)
-Who's theories are in which domain
-
-* [Learning Theories Simplified: ...and how to apply them to teaching Paperback – 31 Jan. 2019](https://www.amazon.co.uk/Learning-Theories-Simplified-apply-teaching/)
+* [[learningTheories]]
 
 Entire section of CCF
 [[CCF]] 2. How Pupils Learn (Standard 2 – ‘Promote good progress’)
@@ -49,13 +41,25 @@ If I talk at you, that may feel easy. All the great knowledge going at you. But 
 * You explore a range of theories. Keep discussing "what is this, what does this mean for my teaching"
 * Stockpile a range of reference amo for academic writing
 
-Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand and in the back of your mind
+Have the [Computing National Curriculum](https://www.gov.uk/government/mpublications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand and in the back of your mind
 
 
 Old Theories
 ------------
 
 * [[old_theories]]
+
+
+Will studying cognitive science really classroom practice?
+----------------------------------------------------------
+
+No - if you don't apply it thoughtfully
+
+* [Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) Jult 2021 - Report summarising the evidence for cognitive science approaches in school settings
+    * > Cognitive science principles of learning can have a real impact on rates of learning in the classroom. There is value in teachers having working knowledge of cognitive science principles.
+    * > The evidence for the application of cognitive science principles in everyday classroom conditions (applied cognitive science) is limited, with uncertainties and gaps about the applicability of specific principles across subjects and age ranges.
+        * e.g Dual coding not used effectively
+    * > Applying the principles of cognitive science is harder than knowing the principles and one does not necessarily follow from the other. Principles do not determine specific teaching and learning strategies or approaches to implementation. Considering how cognitive science principles are implemented in the classroom is critical.
 
 
 Required-Reading
@@ -96,35 +100,12 @@ Required-Reading
         * > be wary of praising second-rate work
 
 
-### The Science of Learning
 
-* [The Science of Learning](https://deansforimpact.org/resources/the-science-of-learning/) Deans for Impact 2015
-    * Super super summary of core teaching ideas
-    * An invitation to think - this is not gospel
-    * American based
-    * These are not panacea's
-* [Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) Jult 2021 - Report summarising the evidence for cognitive science approaches in school settings
-    * > Cognitive science principles of learning can have a real impact on rates of learning in the classroom. There is value in teachers having working knowledge of cognitive science principles.
-    * > The evidence for the application of cognitive science principles in everyday classroom conditions (applied cognitive science) is limited, with uncertainties and gaps about the applicability of specific principles across subjects and age ranges.
-        * e.g Dual coding not used effectively
-    * > Applying the principles of cognitive science is harder than knowing the principles and one does not necessarily follow from the other. Principles do not determine specific teaching and learning strategies or approaches to implementation. Considering how cognitive science principles are implemented in the classroom is critical.
-
+Neuroscience
+------------
 
 * [[how_we_learn]]
-
-
-
-### How will this affect planning our computing lessons?
-
-* Test/Quiz == Retrieval/Recall == better learning
-* Test/Quiz regularly
-* Test/Quiz past topics
-* Test, Test, Test, Assess, Assess, Assess, Quiz, Quiz, Quiz - use that to plan
-
-My Take: The practical act of coding is not separate to the theory. If we are trying to manifest aspects/concepts/topics of computing in code, we are repeating/strengthening/solidifying our programming understanding.
-
-
-* [[dual_coding]]
+    * [[dual_coding]]
 
 Cognitive Load
 
@@ -132,6 +113,25 @@ Cognitive Load
     * [[parsons_problems]]
     * [[conversational_programming]]
 
+
+### The Science of Learning
+
+* [The Science of Learning](https://deansforimpact.org/resources/the-science-of-learning/) Deans for Impact 2015
+    * Super super summary of core teaching ideas
+        * Well referenced
+    1. HOW DO STUDENTS UNDERSTAND NEW IDEAS?
+        1. well sequenced curriculum
+        2. worked examples
+    2. HOW DO STUDENTS LEARN AND RETAIN NEW INFORMATION?
+        1. Spaced repetition
+    3. HOW DO STUDENTS SOLVE PROBLEMS?
+        1. good feedback: Focused on the task rather than the student
+        2. focused on improvement rather than merely verifying performance
+    4. HOW DOES LEARNING TRANSFER TO NEW SITUATIONS IN OR OUTSIDE OF THE CLASSROOM?
+    5. WHAT MOTIVATES STUDENTS TO LEARN?
+        1. Appropriate praise
+        2. Belief in high standards
+    6. WHAT ARE COMMON MISCONCEPTIONS ABOUT HOW STUDENTS THINK AND LEARN?
 
 
 
@@ -148,18 +148,22 @@ A Mental Model of the Learner - Daniel Willingham
 TASK: What does this mean for your planning?
 
 
-Rosenshine
-----------
+Teaching Theories
+-----------------
 
 * [[rosenshine]]
-* [[retrieval_practice]]
-
-
-
-
+    * [[retrieval_practice]]
 * [[liminal_space]]
 * [[mastery]]
 * [[knowledge_organisers]]
+
+* [A beginner’s guide to Doug Lemov](https://edcentral.uk/edblog/beginner-guides/a-beginners-guide-to-professor-doug-lemov-1)
+* Jamie Clarke (Graphic Artist) [Explicit Instruction](https://www.jamieleeclark.com/graphics) poster
+    * I Do, We Do, You Do
+* Jamie Clarke (Graphic Artist) [Making Every Lesson Count](https://www.jamieleeclark.com/graphics) poster
+    * Explain, Model, Practice, Questioning, Feedback, Challenge
+* Jamie Clarke (Graphic Artist) [Meaningful Learning](https://www.jamieleeclark.com/graphics) poster
+    * State Connections, Motivate Meaningful Learning in the minds of learners
 
 
  
@@ -178,8 +182,12 @@ Reading Code is not analogous to Reading
 High Expectations
 -----------------
 
-TODO: Read and take notes
-[Great Teaching.  The Power of Expectations.](https://teacherhead.com/2018/09/02/great-teaching-the-power-of-expectations/)
+* [Great Teaching.  The Power of Expectations.](https://teacherhead.com/2018/09/02/great-teaching-the-power-of-expectations/) Tom Sherrington 2018
+    * > in reality we’ll let things go, accept mediocrity, sloppy writing, half-finished work and allow lessons to drift without addressing the behaviour issues, then that is what we get.  
+      > If we establish that calling out, ‘low-level disruption’ and rudeness will go under-challenged or only weakly addressed, these become embedded behaviours all too easily.
+    * > When you observe a teacher who has mastered this aspect of the craft, it’s interesting to note that, nearly always, their expectations are enforced at the earliest lowest levels. 
+      > They’re not shouters; it’s not about being angry or over-controlling.  It’s about firm, warm, insistence:  sustained eye contact, a firm look, gesture or gentle command – keeping everyone listening, focused, attentive, picking up on drifting
+
 
 * [@MrStoneEnglish](https://twitter.com/MrStoneEnglish/status/1496241068039364609) @MrStoneEnglish
     * Four strategies to support high expectations in the classroom: 
@@ -202,10 +210,15 @@ Growth Mindset
         * The intervention had less effect if the school was already effective (most students did well there), and if peer norms about achievement were negative.
         * I can't fault the study. Worth noting that this was designed by a stellar team - but it's scalable and powerful: 0.1 SD increase in GPA for an hour's intervention. So I'm having to update: growth mindset is more promising than I'd thought
 * Growth Mindset does not work
-    * [Is growth mindset bollocks?](https://learningspy.co.uk/psychology/growth-mindset-bollocks/)
+    * [Is growth mindset bollocks?](https://learningspy.co.uk/psychology/growth-mindset-bollocks/) David Didau 2017
+        * > But what if a student is trying as hard as they are able? What if they’ve already tried a range of approaches and still failed? Is telling them their performance can be enhanced with even greater effort likely to be motivational? Having a ‘growth mindset’ does not confer magical powers. Maybe we can all be cleverer, but maybe there’s also a limit?
+        * >  we tend to know more about the perceived benefits of growth mindset than most other people and so there’s a huge social pressure to fall into line. But just saying you have a growth mindset does not (quelle surprise!) mean you actually have one. What you actually have is a false growth mindset.
+        * >  If no amount of data or evidence can prove Dweck’s claims false because she can just say, Well, that’s a false growth mindset, not a real one,
+        * > Hard work and a growth mindset are not enough. In fact, it seems likely that practising more without getting results will probably erode beliefs about self-efficacy. No wonder children learn that they “can’t do maths” or that “French is impossible” if they’re practising in the wrong way. If we believe that the difference between successful and unsuccessful students is their mindset, we could be adding to a potentially toxic cocktail.
+        * > this 2016 report suggests that over 80% of teachers who have implemented Dweck’s suggestions have failed to make effective changes in their classrooms. It could be that they’re just doing it wrong and have a ‘false growth mindset’, or it could be that such appealingly simplistic ideas about making profound changes to children’s academic attainment are bollocks?
     * [The one variable that makes growth mindset interventions work](https://russellwarne.com/2020/01/03/the-one-variable-that-makes-growth-mindset-interventions-work/) Russell T. Warne 2020
         * > Then I discovered the one characteristic that the studies that support mindset theory share and that all the studies that contradict the theory lack: Carol Dweck. Dweck is a coauthor on all three studies that show that teaching a growth mindset can improve students’ school performance. She is also not a coauthor on all of the studies that cast serious doubt on mindset theory.
-    * [Debate Arises over Teaching “Growth Mindsets” to Motivate Students](https://www.scientificamerican.com/article/debate-arises-over-teaching-growth-mindsets-to-motivate-students/)
+    * [Debate Arises over Teaching “Growth Mindsets” to Motivate Students](https://www.scientificamerican.com/article/debate-arises-over-teaching-growth-mindsets-to-motivate-students/) Scientific American (Lydia Denworth) 2019 
     * [In the Know: Debunking 35 Myths about Human Intelligence](https://www.amazon.co.uk/Know-Debunking-Myths-about-Intelligence/dp/1108717810/) Russell T Warne 2020
 
 
@@ -269,15 +282,6 @@ TASK: What does this mean for your planning?
 
 
 
-Summaries
----------
-
-
-* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
-    * Poster with hyperlinks to main theories
-* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
-    * (twitter post, I downloaded the pdf)
-
 
 
 
@@ -295,6 +299,18 @@ Closing Thoughts
 Feedback:
 * You are now on your way to become professional educations.
 * Given the material I have just introduced you to, how could this online 3 hours could have been constructed to cement these concepts in more detail? More active learning? how? was it appropriate to introduce you to these topics and allow you to explore them?
+
+
+
+### How will this affect planning our computing lessons?
+
+* Test/Quiz == Retrieval/Recall == better learning
+* Test/Quiz regularly
+* Test/Quiz past topics
+* Test, Test, Test, Assess, Assess, Assess, Quiz, Quiz, Quiz - use that to plan
+
+My Take: Teach theory with code where possible. The practical act of coding is not separate to the theory. If we are trying to manifest aspects/concepts/topics of computing in code, we are repeating/strengthening/solidifying our programming understanding. 
+
 
 
 Unsorted
@@ -524,6 +540,7 @@ The basic model of Working memory and Long term memory felt very much like 1970�
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [how_we_learn]: how_we_learn.md "how_we_learn"
+[learningTheories]: learningTheories.md "Learning Theories"
 [CCF]: national_documentation/CCF.md "Core Content Framework"
 [old_theories]: old_theories.md "old_theories"
 [dual_coding]: dual_coding.md "dual_coding"

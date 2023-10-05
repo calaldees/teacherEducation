@@ -5,7 +5,7 @@ Dual Coding
     * words and images
     * Audio is sequential, linear, temporal
     * Visual - composited in disjointed order and your eyes scan and compose/digest
-* [ALLAN PAIVIO’S DUAL CODING THEORY - poster](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5d00def50187cc00011c166d/1560338166118/Paivio%27s+DCT+model.pdf) Oliver Caviglioli
+* [ALLAN PAIVIO’S DUAL CODING THEORY - poster](https://www.olicav.com/posters/kocleo6t4611775mznpbhol9038c7m) Oliver Caviglioli
 * [HOW TO TEACH LIKE AN ATTENTION MEGALOMANIAC](https://rclutterbucked.files.wordpress.com/2020/05/teach-like-an-attention-megalomaniac-pdf-2.pdf)
 
 

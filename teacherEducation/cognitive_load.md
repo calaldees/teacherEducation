@@ -8,14 +8,15 @@ Cognitive load theory
 
 > Dylan Wiliam tweeted on 26 January 2017 that he had ‘come to the conclusion Sweller’s Cognitive Load Theory is the single most important thing for teachers to know
 
-* [Dylan Wiliam, Mind the Gap, Ep. 55 (S3E11)](https://www.youtube.com/watch?v=7ynsMwzsCsg&t=1775s)
+* YouTube: [Dylan Wiliam, Mind the Gap, Ep. 55 (S3E11)](https://www.youtube.com/watch?v=7ynsMwzsCsg&t=1779s) see 2mins of this video
     * > It's counter intuitive that a student can do a task unaided, but then can't remember how to do it 2 weeks later. That's because all of their cognitive resource was taken doing the task, but not on understanding how/why.
     * This is the single most important thing for teachers to know
     * Just because a student did the task, does not mean they know it
-    * wall displays (showcasing work) to be shown at the back of the class to remove distraction from teaching
+    * wall displays (showcasing work) 'distract and decrease learning' 
+        * Move to the back of the class to remove distraction from teaching
     * REALLY important for low working memory students!! Equity! (high working memory students are rarely overloaded)
 
-* achiment movivates more then motivation makes achivement
+* achievement motivates > motivation makes achievement
 
 Attention is a finite resource and can be depleted quickly.
 
@@ -42,8 +43,15 @@ Help sheets or Knowledge Organisers can help reduce cognitive load.
 * CESE NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation 2018
     * Understanding prior knowledge is VITAL to your planning for cognitive load
     * Lots of classroom examples - beautifully presented
+    1. Tailor lessons according to students’ existing knowledge and skill
+    2. Use worked examples to teach students new content or skills
+    3. Gradually increase independent problem-solving as students become more proficient
+    4. Cut out inessential information
+    5. Present all the essential information together
+    6. Simplify complex information by presenting it both orally and visually
+    7. Encourage students to visualise concepts and procedures that they have learnt
 * NCCE [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
-
+* [Cognitive Load - Implications for Course Design](https://www.olicav.com/posters/k05t1z336vif3xn6c260hwwzrpurwt) Poster - Oliver Ca
 
 
 * [[parsons_problems]]

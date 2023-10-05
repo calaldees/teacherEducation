@@ -52,7 +52,7 @@ Retrieval Practice (cont)
 * [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266) 2021 Jonathan Firth, Ian Rivers, James Boyle
     * Repeat things with subtle differences to get maximum retention of 0.65
 * [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
-    * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
+    * Students are inclined to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
     * ISBN 9781914351013
     * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
 

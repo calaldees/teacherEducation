@@ -2,6 +2,16 @@ Learning Theories
 =================
 
 
+![Leaning Theories Graph](https://helpfulprofessor.com/wp-content/uploads/2019/11/31-learning-theories.jpg)
+Who's theories are in which domain
+* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+    * Poster with hyperlinks to main theories
+* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
+    * (twitter post, I downloaded the pdf)
+* [Learning Theories Simplified: ...and how to apply them to teaching](https://www.amazon.co.uk/Learning-Theories-Simplified-apply-teaching/) 31 Jan. 2019
+
+
+
 Summary's
 ---------
 

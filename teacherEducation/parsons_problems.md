@@ -9,7 +9,7 @@ Parsons Problems
     * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
     * [js-parsons.github.io](https://js-parsons.github.io/)
     * [Js-parsons Problem Generator](https://acos.cs.hut.fi/jsparsons-generator)
-* [Parsons problems](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68422)
+
 
 TASK: create a parsons problem for "Bubble Sort" (postit notes)
 * Pair (communicate with technical terminology) - you are not alone to fail alone

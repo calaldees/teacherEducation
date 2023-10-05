@@ -1,6 +1,10 @@
 Creativity
 ==========
 
+TODO:
+* Research: The Torrance Tests of Creative Thinking-Figural (TTCT-F) from
+    * [Effect of Mind Mapping on Creative Thinking of Children in Scratch Visual Programming Education](https://journals.sagepub.com/doi/full/10.1177/07356331211053383) 2021
+
 * [The Four C Model of Creativity](https://www.waldenu.edu/online-masters-programs/ms-in-education/resource/the-four-c-model-of-creativity) Kaufman  2009
     * Mini C - any attempt at new task (meaningful/value to learner)
     * Little C - might be of value to others

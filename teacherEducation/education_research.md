@@ -1,12 +1,6 @@
 Education Research
 ==================
 
-* [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
-    * [teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
-* [Effect size](https://www.simplypsychology.org/effect-size.html)
-    * ![Effect Size table](https://www.simplypsychology.org/wp-content/uploads/Pearson-r.png)
-
-
 * [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
     * You do not learn something better if you figure it out for yourself
     * Learning styles are a myth
@@ -17,6 +11,12 @@ Education Research
     * You cannot just Google facts when you need them
     * Achievement boosts motivation
 * Jamie Clarke (Graphic Artist) [Education Research](https://www.jamieleeclark.com/graphics) posters for all the core education research principles
+
+* [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
+    * [teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
+* [Effect size](https://www.simplypsychology.org/effect-size.html)
+    * ![Effect Size table](https://www.simplypsychology.org/wp-content/uploads/Pearson-r.png)
+
 
 * [[journals]]
 * [[CharteredCollegeDylan2023]]
