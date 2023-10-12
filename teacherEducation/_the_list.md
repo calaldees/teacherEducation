@@ -1,6 +1,9 @@
 The list
 ========
 
+What should be happening in most lessons
+----------------------------------------
+
 * Students should be doing
     * What active tasks will they be doing? (plan from what you what them to be doing, then design your part)
     * don't talk for more than 15min cumulative in a lesson (maybe even less)
@@ -23,7 +26,7 @@ The list
     * #8/m-Wider-LearnHow-careers_long_term_pastoral career (Part of Computing Quality Framework) 
 * When teachers ask questions - you must be able to justify the _intent_ of the question
     * What did you use the data you collected for? why did you collect it? (extend or review - constantly - not a linear process (a contingent one) - "I don't know what to do next until I find out what sense my students made of that") responsive teaching
-* Make students less dependent on teachers (us) 
+* Make students less dependent on teachers (us)
     * long term and short term (make yourself obsolete)
 * #6/j-Assessment-LearnHow-feedback_actionable
 * Justify your pedagogical choices
@@ -38,7 +41,7 @@ Lesson Plan (Simplified list)
     * (Initials of who achieved? Who didn't achieve? who was absent? - have a plan for them)
 * Explicitly call out adaptions (not teach to the middle)
     * There is an entire column for this
-* Students active on tasks (they are doing)
+* Planned students active on tasks (they are doing)
     * Reduce your talk
 * Plan strategy for "how do you know they have made progress?"
     * Record your assessment (initials of students?)

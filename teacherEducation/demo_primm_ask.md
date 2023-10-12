@@ -25,6 +25,7 @@ Your whole approach is just "Questions". (I will try and model this - correct me
         # Q4. What is `aa`?
         # Q5. Why is this bad code?
         ```
+    3. If I was to "engineer a solution", what does that mean?
 
 <details>
 
@@ -33,14 +34,13 @@ Your whole approach is just "Questions". (I will try and model this - correct me
 
 * Objective
     * We are going to _reverse engineer_ some code ("Detective work")
-        * > We don't know, but we're going to find out
-            * (Our motto - maybe on a wall display?)
+        * > We don't know ... but we're going to find out (our motto - wall display?)
     * Understand the process/steps/questions professional engineers take to _decompose_ code
-        * In our books: have a list of steps/questions
+        * In our books: have a list of steps/questions (MetaCognitive Planning)
 * NEXT WEEK: You will _reverse engineer_ code yourself in pairs
 * Teacher Goal:
     * I can "only ask questions" or "repeat what you say"
-    * (2 new skills conveyed silently)
+    * (+2 new skills conveyed silently)
 
 
 ```python
@@ -74,12 +74,15 @@ def aa(n):
 
 
 * Summary
-    * What steps/questions/process so we take to _reverse engineer_ code?
-    * What were the two new skills we learnt?
+    1. What steps/questions/process do we take to _reverse engineer_ code?
+    2. What were the two new skills we learnt?
         * What is `breakpoint()`?
         * What is DryRun?
-    * What key terms have we covered?
-    * What are we going to do next lesson?
+    3. What key terms have we covered?
+        * what does that mean?
+    4. What are we going to do next lesson?
+    5. MetaCognition
+        * What was hard this lesson? How will you do things differently next lesson?
 
 
 <details>

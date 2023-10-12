@@ -4,42 +4,47 @@ Meta-cognition
 * Thinking about 'Thinking'
     * Reflection is a meta-cognitive skill
 * We should set time aside to explicitly teach/name/model metacognitive skills
-* (Make Zone of Proximal Development Visible to learners)
+    * (Make Zone of Proximal Development Visible to learners - make them aware that they were able to accomplish the task because of the xxx support)
 
-#4/5-Classroom-LearnThat-build_metacognitive_explicit
-#4/j-Classroom-LearnHow-narrate_metacognitive
 
 ITT CCF 4.5
 > Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
+#4/5-Classroom-LearnThat-build_metacognitive_explicit
+
 
 ITT CCF 4
 > scaffold pupils through meta-cognitive and procedural processes
 
+#4/j-Classroom-LearnHow-narrate_metacognitive
 
-EEF Research (Read 15 min)
+The goal is to make our job as a teacher obsolete.
+
+
+EEF Research 
 ------------
+
+TASK: Read MetaCognition Poster PDF (8min)
 
 * EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition)
     * See PDF poster
         * Planning (Pre-Task), Monitoring, Evaluating (Post-Task)
         * Computing Emotion (scared, uncomfortable)
 
-> Evidence suggests the use of ‘metacognitive strategies’ – which get pupils to think about their own learning - can be worth the equivalent of an additional +7 months’ progress when used well.
-> However, while the potential impact of these approaches is very high, particularly for disadvantaged pupils, less is known about how to apply them effectively in the classroom.
-
-> metacognitive strategies should be taught in conjunction with specific subject content as pupils find it hard to transfer these generic tips to specific tasks.
+* > Evidence suggests the use of ‘metacognitive strategies’ – which get pupils to think about their own learning - can be worth the equivalent of an additional +7 months’ progress when used well.
+* > However, while the potential impact of these approaches is very high, particularly for disadvantaged pupils, less is known about how to apply them effectively in the classroom.
+* > metacognitive strategies should be taught in conjunction with specific subject content as pupils find it hard to transfer these generic tips to specific tasks.
 
 * Teachers should support pupils to plan, monitor, and evaluate their learning
 * Explicitly teach pupils metacognitive strategies, including how to plan, monitor, and evaluate their learning
 * Teachers should verbalise their metacognitive thinking (‘What do I know about problems like this? What ways of solving them have I used before?’) as they approach and work through a task.
-* dialogue needs to be purposeful, with teachers guiding and supporting the conversation 
+* Dialogue needs to be purposeful, with teachers guiding and supporting the conversation 
 * Carefully designed guided practice, with support gradually withdrawn as the pupil becomes proficient, can allow pupils to develop skills and strategies before applying them in independent practice.
-* Metacognition shouldn’t be an ‘extra’ task for teachers to do but should be built into their teaching activities
+* MetaCognition shouldn’t be an ‘extra’ task for teachers to do but should be built into their teaching activities
 
 Training our students to think about thinking
 
-TASK: Read (15min)?
-TASK2: Discuss Table 1 with class - Strategies for integrating into lessons
+
+
 * [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/) Chick, N. (2013). Vanderbilt University Center for Teaching
     * > for students to become more metacognitive, they must be taught the concept and its language explicitly (Pintrich, 2002; Tanner, 2012), 
     * > most effective when it is adapted to reflect the specific learning contexts of a specific topic, course, or discipline (Zohar & David, 2009).
@@ -47,12 +52,15 @@ TASK2: Discuss Table 1 with class - Strategies for integrating into lessons
         * (Find this table!) Table 1. Sample self-questions to promote student metacognition about learning
             * Cols: Planning Questions, Monitoring Questions, Evaluating Questions
             * Rows: Class session, Active-learning task and/or homework assignment, Quiz or exam, Overall course
-Idea: Structured Meta-cognition for homework?
 
-Volet described "metacognitive strategies" in teaching and learning as the use of metacognition elements to aid learning, including checking, planning, selecting, monitoring, evaluating and revising.
+TASK2: (10min)
+Discuss Table 1 with class - Strategies for integrating into lessons
+
+
 
 ### Some ideas of mine
 
+* Possible Idea: Structured Meta-cognition for homework?
 * What was the hardest thing about this project? Why was this the hardest thing? What skills would have helped you if you had had them? How would you have go those skills? What could you do in the next project to improve?
 * Planning - Always seek to clarify the problem
     * How will you know the task is complete and works correctly?

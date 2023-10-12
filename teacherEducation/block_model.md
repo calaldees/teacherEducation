@@ -45,23 +45,3 @@ name = "Turnip"
 print("Hi " + name + "! How are you today?")
 ```
 You do
-
-### Modify
-* Pure focus (at first) (working memory)
-* Swap a `for` loop for a `while` loop
-    * (can you swap a `while` loop for a `for` loop?)
-
-repl.it `.draw` file
-
-### Make
-From scratch? Parson?
-Level of detail of instruction
-* SUPER DETAILED
-    * enter a name and say Hello name
-* or more vague (plain english - top level)
-    * name and special message
-
->> I taught my dog to sing
-> what can he sing?
->> I said I taught him, I didn't say he's learnt it
-
