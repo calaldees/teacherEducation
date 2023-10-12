@@ -1,6 +1,8 @@
 CPD
 ===
 
+https://impact.chartered.college/article/how-retrieval-practice-embedded-classrooms-10-principles-cpd-leadership/
+
 * @GrumpyCompSci 
     * [School CPD Bingo](https://twitter.com/GrumpyCompSci/status/1698345753104593228)
         * Hilarious

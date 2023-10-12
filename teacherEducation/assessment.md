@@ -6,6 +6,10 @@ TODO:
     * [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
         * ASSESSMENT IN SECONDARY COMPUTING -  offer practical, common-sense advice on how to assess Computing for ages 11 to 16
 
+* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
+    * > an attempt to develop a classification scheme for programming exams ... 12 experienced teachers rate example questions on dimensions including topic areas, necessary skills, explicitness, difficulty, and several kinds of complexity. ... “Essentially, there was little or no consensus on whether questions were easy, moderate, or difficult.” This is a difficult starting point for building well-targeted assessment!
+    * > In summary, our motivations for a focus on assessment are that it has a strong effect on learning outcomes and that there is not yet a widely agreed theory, or even consensus on the practical details, of how to conduct assessment in our field
+    * > “reviewers regularly underestimated the number of CS1 concepts required to answer these questions,” ...  Similar conclusions about the highly integrated nature of the knowledge required by programming assessments
 
 Objectives
 

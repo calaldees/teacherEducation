@@ -1,8 +1,16 @@
 Computer Science Specific Pedagogy
 ==================================
 
+* [[notional-machine]]
+* [[gamification]]
 
-
+* [ Table 15.1 ](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6#TN-tblw-1002)
+    * Active Learning
+    * Collaborative learning
+    * Cooperative Learning
+    * Contribution student pedagogy
+    * Blended Learning
+    * MOOC
 
 NCCE Funding Sue Sentence explains
 * [Moving to mainstream: developing computing for all](https://dl.acm.org/doi/epdf/10.1145/3361721.3362117) Sue Sentence 2019
@@ -18,7 +26,7 @@ TODO
 
 ![Declarative, procedural and conditional knowledge](https://pbs.twimg.com/media/FuBXLVoWwAIq2uU?format=jpg&name=medium) KA Lawless, AV Robins, Ofsted Research Review
 
-| Form of KNowlege | Computer Science | Information Technology | Digtital Literacy |
+| Form of Knowledge | Computer Science | Information Technology | Digital Literacy |
 |-|-|-|-|
 |Declarative (knowing what) | Variables are used to store data | Data on internet sent in packs | Features of unreliable data |
 | Procedural (knowing how) | how to define a variable and implement it in a programming language e.g. scratch | Each packet carries the information that will help it get to tis destination - IP address and how many this particular packet| how to perform an advanced web search |
@@ -142,6 +150,7 @@ PRIMM
 -----
 
 * [[primm]]
+* [[demo_primm_ask]]
 
 
 The Block Model
@@ -206,7 +215,7 @@ todo
 todo
 ----
 
-* [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) 2020
+* [[physical]]
 
 
 Concept Maps
@@ -522,13 +531,127 @@ TODO:
     * 
 
 
+Computing in the curriculum: Challenges and strategies from a teacher’s perspective
+-----------------------------------------------------------------------------------
+
+* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+    * (This is a superb item of research. Please read in detail)
+    * Asked 300 active Computing teachers how they recommend teaching the subject
+        * What _pedagogical strategies_ do teachers report work well for teaching computer science in school?
+            * What good techniques/strategies have you found for helping students to understand programming?
+            * Please describe any good techniques/strategies you use for helping students to understand other aspects of Computing?
+        * What _challenges_ do teachers report that they face?
+            * What difficulties, if any, have you experienced teaching programming?
+            * What difficulties, if any, have you experienced teaching other aspects of Computing?
+
+### Challenges
+
+* challenges
+    * teacher - Finger and Houguet (2009)
+        * extrinsic
+            * Lack of resources
+            * practicality of implementation
+            * Lack of time
+            * varying methods of student assessment
+            * lack of history and tradition with technology education
+            * Lack of support
+            * Technical problems 
+        * intrinsic
+            * Subject knowledge
+            * Differentiation (skills in)
+            * Approaches to teaching topics (pedagogy) 
+            * extent to which the teacher holds ownership of the curriculum
+    * students
+        * extrinsic
+            * Time to practise
+            * School and others’ expectations 
+        * intrinsic
+            * Mathematical aptitude
+            * Literacy skills
+            * Resilience
+            * Problem-solving skills
+            * Engagement 
+
+> 6% of teachers in the survey reported to have _no problems_ with respect to teaching Computing
+
+* Teachers’ own subject knowledge (1st)
+* Differentiation to meet different levels of ability (2nd)
+    * Primary school and personal interest
+    * > The gap between those that engage and achieve very quickly grows at an alarming rate
+* Students lack of understanding of content
+    * > Students do not realise nature of subject before they start and sometimes find it very challenging
+        * > Often the subject is viewed as ICT and most students do not know the difference. For many it comes as a shock that there is a lot of problem solving as opposed to ICT
+    * > students lack a basic understanding and can want to progress to work on projects beyond their ability
+    * > students tend to try to learn ‘rules’ and then cannot apply the theory to their practical work
+    * > Getting across the concept of a variable and why / how variables are used is always a challenge
+* Technical problems in school
+    *  > lack of support and understanding from their managers of the complexities of teaching Computing and unwillingness on the part of technical staff to contemplate installing software that they consider could compromise the integrity and security of the school’s computer network.
+* Students willingness or ability to problem solve
+    * > finding ways to encourage pupils to logically think through their problems, rather than ask for assistance at the first sign of difficulty
+    * A student can know a _FOR Loop_ and _IF Statement_ but cant combine them
+    * > Students giving up easily. Not wanting to check their code. Finding it too difficult and not being prepared to “find out for themselves”. Students are too spoon fed in ICT, and other subjects,
+    * > If there is a problem, they want the teacher to correct it for them... they do not have to get it correct first time, but they do need the skills to be able to correct it and see why there was a mistake in the first place
+* Dry
+    * > some of the theory is quite dry so finding ways to make it interesting to students is a challenge
+    * Weaker pupils struggle with the relevance of binary
+
+
+> Bridging the gap from graphical programming (Scratch etc.) to text-based programming is a challenge
+
+
+### Strategies
+
+* Unplugged/practical (active learning) activities 
+    * Unplugged strategies
+    * Hands-on experiences
+    * > Ben-Ari (1998) advised teachers: “Do not run to the computer”
+* Collaborative work
+    * Team coding/pair programming
+    * Peer mentoring
+    * Collaboration
+* Computational thinking
+    * > computational thinking can be explicitly taught as part of the new curriculum (Csizmadia et al. 2015).
+    * Break down/decomposition
+    * Problem solving
+    * Algorithms
+* Scaffolding programming tasks
+    * Scaffolding
+    * Code manipulation
+    * > Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own
+* Contextualisation
+    * > (Black et al. 2013). The key aspects that they identified were the importance to teachers of making Computing fun and relevant.
+    * Relate to real world activities
+    * Using examples
+    * Learn through examples
+    * Contextualisation
+
+
+* Investigate
+    * What does this code do?
+    * Trace, Modify, observe
+* Exploration (open-ended tasks)
+* solving problems (self-directed project)
+* strategies that build resilience in learners 
+    * > Students tend to understand the process better if they work through wrong answers, rather than being given program code each time”
+      > “Letting them have a go and allowing them to get it wrong
+      > ...
+      > The students must code for themselves without too much intervention from the teacher in terms of theory
+    * > I am finding it hard not to just show how to solve a programming problem, and instead teach pupils to think for themselves.”
+    * [Men in Black 2: That's how I fight (clip)](https://www.youtube.com/watch?v=5NY_8ulSutc) An analogy of what coding is like. Always on the back foot, then it works! 95% getting your ass kicked
+
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[notional-machine]: notional-machine.md "Notional Machine"
+[gamification]: gamification.md "Gamification"
 [project_based]: project_based.md "Project Based"
 [primm]: primm.md "PRIMM"
+[demo_primm_ask]: demo_primm_ask.md "demo_primm_ask"
 [block_model]: block_model.md "block_model"
 [taxonomies]: taxonomies.md "taxonomies"
 [instructional_continuum]: instructional_continuum.md "instructional_continuum"
+[physical]: physical.md "physical"
 [parsons_problems]: parsons_problems.md "parsons_problems"
 [constructivism]: constructivism.md "Counterpoint"
 [computational_thinking]: computational_thinking.md "Computational Thinking"

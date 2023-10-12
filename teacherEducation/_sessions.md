@@ -326,7 +326,7 @@ Friday 29th September - 11:00
             * vocabulary to facilitate thinking about Computing
     * [[digitalLiteracy]]
         * [[eSafety]]
-    * (G+) Planning to aid learning in subject; making effective use of a lesson plan
+    * (Move to SP6) (G+) Planning to aid learning in subject; making effective use of a lesson plan
         * talk less teaching (talk for less than 15min)
         * scaffold scaffold scaffold
             * #4/a-Classroom-LearnHow-observe_task_breakdown
@@ -1361,7 +1361,7 @@ From 22nd april
 [learningTheories]: learningTheories.md "Learning Theories"
 [cognitive_load]: cognitive_load.md "cognitive_load"
 [parsons_problems]: parsons_problems.md "parsons_problems"
-[threshold_concepts]: threshold_concepts.md "Threshold Concepts"
+[threshold_concepts]: threshold_concepts.md "Threshold Concepts and Liminal Space"
 [liminal_space]: liminal_space.md "liminal_space"
 [metaCognition]: metaCognition.md "Meta-cognition"
 [assessment_markscheme]: assessment_markscheme.md "assessment_markscheme"

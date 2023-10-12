@@ -1,4 +1,8 @@
 
+* [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) 2020
+
+* [The Cambridge Handbook of Computing Education Research: Chapter 22 Tangible Computing](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/tangible-computing/3BE6A6D5D94493EF725C46896DACD46C) 2019
+
 * [Are There Differences in Learning Gains When Programming a Tangible Object or a Simulation?](https://dl.acm.org/doi/10.1145/3304221.3319747) ITiCSE '19: Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science EducationJuly 2019
     * > we aimed to determine whether the programming of a tangible object or its digital simulation yields significantly different learning gains.
     * > no significant difference was found when comparing the learning gains between the two groups.

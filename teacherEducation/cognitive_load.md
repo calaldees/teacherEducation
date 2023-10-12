@@ -1,6 +1,8 @@
 Cognitive load theory
 ---------------------
 
+https://impact.chartered.college/article/cognitive-load-theory-in-practice/
+
 * Jamie Clarke (Graphic Artist) [Cognitive Load Theory](https://www.jamieleeclark.com/graphics) poster
 
 * [Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load) John Sweller 198x?

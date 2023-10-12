@@ -5,9 +5,6 @@
 Journal articles
 -------
 
-* [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
-* [“It Must Include Rules”: Middle School Students’ Computational Thinking with Computer Models in Science](https://dl.acm.org/doi/10.1145/3415582)
-    * Using computational thinking in science
 * [Measuring Success in Education: The Role of Effort on the Test Itself](https://www.aeaweb.org/articles?id=10.1257/aeri.20180633) Comparison of Shanghi and US Math tests with effort
 
 Use of technology report and recomendations
@@ -98,9 +95,6 @@ Blended Learning
 * wonkhe.com [problem based learning](https://wonkhe.com/blogs/challenger-institutions-focus-on-problem-based-learning/)
 
 
-* [VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
-    * [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
-        * Comments and commentary
 
 [What makes a good teacher: opinions from around the world](https://www.unicef.org/teachers/teacher/teacher.htm)
 
@@ -268,114 +262,6 @@ Lets Be Hope Carriers
 
 ---
 
-Computing in the curriculum: Challenges and strategies from a teacher’s perspective
------------------------------------------------------------------------------------
-
-* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
-    * (This is a superb item of research. Please read in detail)
-    * Asked 300 active Computing teachers how they recommend teaching the subject
-        * What _pedagogical strategies_ do teachers report work well for teaching computer science in school?
-            * What good techniques/strategies have you found for helping students to understand programming?
-            * Please describe any good techniques/strategies you use for helping students to understand other aspects of Computing?
-        * What _challenges_ do teachers report that they face?
-            * What difficulties, if any, have you experienced teaching programming?
-            * What difficulties, if any, have you experienced teaching other aspects of Computing?
-
-### Challenges
-
-* challenges
-    * teacher - Finger and Houguet (2009)
-        * extrinsic
-            * Lack of resources
-            * practicality of implementation
-            * Lack of time
-            * varying methods of student assessment
-            * lack of history and tradition with technology education
-            * Lack of support
-            * Technical problems 
-        * intrinsic
-            * Subject knowledge
-            * Differentiation (skills in)
-            * Approaches to teaching topics (pedagogy) 
-            * extent to which the teacher holds ownership of the curriculum
-    * students
-        * extrinsic
-            * Time to practise
-            * School and others’ expectations 
-        * intrinsic
-            * Mathematical aptitude
-            * Literacy skills
-            * Resilience
-            * Problem-solving skills
-            * Engagement 
-
-> 6% of teachers in the survey reported to have _no problems_ with respect to teaching Computing
-
-* Teachers’ own subject knowledge (1st)
-* Differentiation to meet different levels of ability (2nd)
-    * Primary school and personal interest
-    * > The gap between those that engage and achieve very quickly grows at an alarming rate
-* Students lack of understanding of content
-    * > Students do not realise nature of subject before they start and sometimes find it very challenging
-        * > Often the subject is viewed as ICT and most students do not know the difference. For many it comes as a shock that there is a lot of problem solving as opposed to ICT
-    * > students lack a basic understanding and can want to progress to work on projects beyond their ability
-    * > students tend to try to learn ‘rules’ and then cannot apply the theory to their practical work
-    * > Getting across the concept of a variable and why / how variables are used is always a challenge
-* Technical problems in school
-    *  > lack of support and understanding from their managers of the complexities of teaching Computing and unwillingness on the part of technical staff to contemplate installing software that they consider could compromise the integrity and security of the school’s computer network.
-* Students willingness or ability to problem solve
-    * > finding ways to encourage pupils to logically think through their problems, rather than ask for assistance at the first sign of difficulty
-    * A student can know a _FOR Loop_ and _IF Statement_ but cant combine them
-    * > Students giving up easily. Not wanting to check their code. Finding it too difficult and not being prepared to “find out for themselves”. Students are too spoon fed in ICT, and other subjects,
-    * > If there is a problem, they want the teacher to correct it for them... they do not have to get it correct first time, but they do need the skills to be able to correct it and see why there was a mistake in the first place
-* Dry
-    * > some of the theory is quite dry so finding ways to make it interesting to students is a challenge
-    * Weaker pupils struggle with the relevance of binary
-
-
-> Bridging the gap from graphical programming (Scratch etc.) to text-based programming is a challenge
-
-
-### Strategies
-
-* Unplugged/practical (active learning) activities 
-    * Unplugged strategies
-    * Hands-on experiences
-    * > Ben-Ari (1998) advised teachers: “Do not run to the computer”
-* Collaborative work
-    * Team coding/pair programming
-    * Peer mentoring
-    * Collaboration
-* Computational thinking
-    * > computational thinking can be explicitly taught as part of the new curriculum (Csizmadia et al. 2015).
-    * Break down/decomposition
-    * Problem solving
-    * Algorithms
-* Scaffolding programming tasks
-    * Scaffolding
-    * Code manipulation
-    * > Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own
-* Contextualisation
-    * > (Black et al. 2013). The key aspects that they identified were the importance to teachers of making Computing fun and relevant.
-    * Relate to real world activities
-    * Using examples
-    * Learn through examples
-    * Contextualisation
-
-
-* Investigate
-    * What does this code do?
-    * Trace, Modify, observe
-* Exploration (open-ended tasks)
-* solving problems (self-directed project)
-* strategies that build resilience in learners 
-    * > Students tend to understand the process better if they work through wrong answers, rather than being given program code each time”
-      > “Letting them have a go and allowing them to get it wrong
-      > ...
-      > The students must code for themselves without too much intervention from the teacher in terms of theory
-    * > I am finding it hard not to just show how to solve a programming problem, and instead teach pupils to think for themselves.”
-    * [Men in Black 2: That's how I fight (clip)](https://www.youtube.com/watch?v=5NY_8ulSutc) An analogy of what coding is like. Always on the back foot, then it works! 95% getting your ass kicked
-
 
 
 ---
@@ -385,7 +271,7 @@ Computing in the curriculum: Challenges and strategies from a teacher’s perspe
 
 ---
 
-[Flexible Autonomy: How online resources and live tutorials have been used successfully to develop and enhance subject knowledge in trainee teachers](https://impact.chartered.college/article/flexible-autonomy-how-online-resources-live-tutorials-used-successfully-develop-enhance-subject-knowledge-trainee-teachers/)
+
 
 
 * social constructivism - Vygotsky’s (1980) zone of proximal development
@@ -423,24 +309,6 @@ Monthly induction
 ---
 
 
-The Canterbury Partnership Teacher
-----------------------------------
-
-Old document [Grading Students against Teachers’ Standards](https://shepwayts.co.uk/wp-content/uploads/2016/11/Grading-Students-against-Teachers-Standards-FULL-version-July-2016.pdf) 2016
-
-The Canterbury Partnership is committed to the development of outstanding teachers who have a transformative impact on learners’ lives. 
-We work together to ensure that the teachers we educate bring about progress in learning which transforms learners’ knowledge, skills and understanding and their opportunities in life. 
-The Canterbury Partnership Teacher:
-* is a reflective practitioner who applies creative and critical approaches to professional practice and academic learning, and who uses an extensive repertoire of knowledge, skills and understanding to make learning transformative. 
-* takes responsibility for his or her own professional development and demonstrates this through a sustained drive to excellence in professional practice and academic learning through initial training and beyond. 
-* benefits from and contributes to outstanding research informed teaching and experiences learning environments where the challenge and support needed to achieve outstanding outcomes for learners are constantly sustained.  
-* ’s practice is informed by a demanding professional and academic curriculum enriched by international and global perspectives and an understanding of and commitment to our collective stewardship of the natural world. 
-* is a champion of equality, diversity and inclusion. He or she is a resilient, resourceful professional, driven by a personal and collaborative quest to make a difference to the life of every learner.
-
-This definition is underpinned by the values emanating from Canterbury Christ Church University’s Church of England foundation,
-especially the belief in our responsibility to find and develop the God-given potential in all learners.
-The University works with partners whose values enable them to make a shared enthusiastic commitment to the development of teachers who have a transformative effect on learners’ lives.
-
 
 ----
 
@@ -468,9 +336,9 @@ Menti meter?
 [Categorizing Variants of Goodhart’s Law](https://arxiv.org/pdf/1803.04585.pdf)
 
 https://impact.chartered.college/article/maximising-impact-defining-purpose-formative-assessment/
-https://impact.chartered.college/article/cognitive-load-theory-in-practice/
+
 https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/
-https://impact.chartered.college/article/how-retrieval-practice-embedded-classrooms-10-principles-cpd-leadership/
+
 
 
 
@@ -513,8 +381,6 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
     * > Students have a problem when schools care more about grades than actual learning.
 
 
-* [Why become a teacher? Student teachers’ perceptions of the teaching profession and motives for career choice](https://www.tandfonline.com/doi/full/10.1080/02619768.2018.1448784)
-    * todo - read
 
 ---
 

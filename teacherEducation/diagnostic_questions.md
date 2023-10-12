@@ -31,7 +31,7 @@ https://helloworld.raspberrypi.org/articles/hw20-it-all-hinges-on-this-question
 
 ### Summary/References/FurtherReading
 
-* [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
+* Project Quantum [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
     * Computing Question Bank
 * > Incorrect answers can distract pupils and reinforce misconceptions
     * Roedinger, KarPicke - Qfsted computing research review

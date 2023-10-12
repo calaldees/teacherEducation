@@ -97,33 +97,47 @@ TASK 2: Explore other KS3 SOW online (20min)
     * > buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
     * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_1.html)
     * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
+* [Compute-IT](https://www.hoddereducation.com/compute-it) Hodder Education - TextBooks
+    * See "Samples: Student Book 1" and "Scheme of Work: Compute-IT 1 Year 7"
 * [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
     * There is a wealth of resources out there! Go and explore!
 * [PG Online: KS3 Computer Science](https://www.pgonline.co.uk/resources/computer-science/ks3/) + Curriculum Map
     * 22 downloadable teaching units (samples free)
 
-[queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
+* [queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
 
+
+<details>
+
+Boost From Hodder Education 
+https://boost-learning.com/courses/listing
+
+</details>
 
 
 Practical Exploration (30min)
 ---------------------
 
-Explore 3 shape drawing tools
+* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
+    * > Media computation is a pedagogic approach for teaching introductory programming whereby manipulation of media, such as digital images and sounds, is used as a context to teach programming concepts.
+
+* Part1: Explore 3 shape drawing tools (30min)
+    * Scratch, Python-Turtle, Javascript-Canvas
+    * (Depending on your confidence/skill level - TimeBox each of these tools)
+        * Javascript is optional
 
 #### Scratch
-15min?
 
-https://scratch.mit.edu/
-![Scratch Pattern](./_images/scratch_algorithm_art.png)
+* https://scratch.mit.edu/
+    * ![Scratch Pattern](./_images/scratch_algorithm_art.png)
 
 (Can't fill shapes in scratch)
 
 #### Python 'Turtle' Graphics
-15min?
+
 [turtle](https://docs.python.org/3/library/turtle.html) documentation
 
-* local machine?
+* local machine? (IDLE 3.xx 64-bit)
 * https://create.withcode.uk/
 * https://repl.it/ (account required)
 
@@ -133,26 +147,70 @@ t = turtle.Turtle()
 t.forward(100)
 ```
 ```python
-def example_function(my_para1, my_param2):
-    t.fd(my_para1)
-    t.rt(my_param2)
+def example_function(a, b):
+    t.fd(a)
+    t.rt(b)
+    t.fd(a)
+    t.rt(b)
 
 example_function(10,20)
 ```
 
+<details>
+
+Draw a square - see the repetition - use a loop
+
+```python
+def sides(sides, size):
+    for i in range(sides):
+        t.rt(360/sides)
+        t.fd(size)
+```
+</details>
+
 #### Javascript Canvas
 
-* [graphics.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/game/graphics.html) boilerplate
+* [graphics.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/game/graphics.html) 
+    * HTML Boilerplate
 
 
-#### Possible Tasks
+#### TASK: Task Generation
 
-* Tasks - Personal exploration? Attempt to build a function that draws ...
-    * House?
-    * Snowman?
-    * Tree (filled circles or triangles)?
-(More on my slant on this later)
+Now you have a crude understanding of the drawing tools...
+Deep end!
 
+* TASK:
+    * (5min) Individual - Devise a sequence tasks for students
+    * (5min) Pair - Confer/Compare (describe 'why' you structured/sequenced the tasks in that way)
+    * (5min) Pair - Collaborate on improvements to your tasks/sequence ('why' are you making those changes)
+
+Meta: If I tell you a list of tasks, it won't be as impactful - I need you to wrestle with the problem to get maximum impact of my ideas later.
+
+<details>
+
+* Tasks
+    * A function to draw (Guided Training)
+        * Square
+        * Triangle
+        * Hexagon
+        * A function to draw a shape of "number of sides"
+        * Fill the shape?
+    * Personal exploration? Attempt to build a function that draws ...
+        * House?
+        * Snowman?
+        * Tree? (filled circles or triangles)?
+        * [Compute-IT CPD Video Lessons: Sample Resource 3](https://www.youtube.com/watch?v=A0rxQnxEdiI&list=PL_8st1egDh7av261LnYKAe1guRlM1M9eB&index=3)
+        * (More on my slant on this later)
+            * The above task is cognitively interesting and creative - but is not overly a good task
+    * Decompose artwork - see below
+    * Marking Criteria?
+    * Animate/Move the shape - draw/clear/draw
+        * `turtle.tracer(n=None, delay=None)`
+        * `clearscreen()`
+        * `sleep(1)`
+
+
+</details>
 
 
 Context Based Learning and Relevancy (15min lecture)
@@ -195,7 +253,7 @@ By adding context you immediately unlock further computational thinking skills: 
 
 ### Relevancy/Context Reading
 
-* [Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/)
+* [Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/) 2010 K12 USA
     * Invite guest speakers
     * Developing empathy for others (societal)
     * Current events, Use the news
@@ -207,7 +265,7 @@ By adding context you immediately unlock further computational thinking skills: 
     * Simulate a real-world experience
     * Community work
     * Life skills
-* [Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/)
+* 3P Learning [Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/) 2019 
 
 TASK: Now we have explored the skills and the context. Refer back to the Compute-IT teaching resource examples
 
@@ -244,7 +302,7 @@ Differentiation works best when class's are not working on unrelated tasks
     * A reusable function/subroutine to create a shape
         * that takes parameters for size and number of sides
     * Compose a new shape from multiple shapes
-* Knowledge goal
+* Knowledge goal(s)
     * Understand the concept of (but maybe not do) recursion - drawing a smaller shape within a shape
 
 * Meta
@@ -287,7 +345,9 @@ SSDD
 ----
 
 Same Surface different depth (SSDD)
-Maths example https://ssddproblems.com/
+
+* [Same Surface, Different Deep Structure maths problems](https://ssddproblems.com/) Craig Barton @mrbartonmaths
+    * Maths example 
 
 Imagine creating resource for topics in computing that have resources/plan for KS2 though to KS5.
 The Scratch, Turtle, Canvas example was one
@@ -332,11 +392,10 @@ As well as free resources teachers share online. There are also paid for resourc
     * Endorsed by Computing at School
     * 3 textbook series (a Computing textbox for students. How much is a class set?)
     * Additional teaching resources online
+    * [Student’s Book 1](https://www.hoddereducation.com/media/Documents/ICT/801921-Compute-IT-sample-pages_1.pdf)
     * Example Lesson progression - Shapes
-        * [Compute-IT 1: Unit 3 Lesson 1](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556958&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true) - Shapes
-        * [Compute-IT 1: Unit 3 Lesson 2](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556964&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true) - context VanDoesburg
-        * [Compute-IT 1: Unit 3 Lesson 3](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556999&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true) - composite shapes
-    * [CPD Video Lessons](https://www.youtube.com/watch?v=A0rxQnxEdiI&list=PL_8st1egDh7av261LnYKAe1guRlM1M9eB&index=3)
+        * (Sample removed online)
+
 
 TASK: Explore this lesson progression (15min)
 Questions:

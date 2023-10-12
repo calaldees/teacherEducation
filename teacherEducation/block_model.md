@@ -47,9 +47,9 @@ print("Hi " + name + "! How are you today?")
 You do
 
 ### Modify
-Pure focus (at first) (working memory)
-Swap a `for` loop for a `while` loop
-(can you swap a `while` loop for a `for` loop?) 
+* Pure focus (at first) (working memory)
+* Swap a `for` loop for a `while` loop
+    * (can you swap a `while` loop for a `for` loop?)
 
 repl.it `.draw` file
 

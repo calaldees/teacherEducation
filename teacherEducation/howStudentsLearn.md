@@ -320,6 +320,8 @@ Unsorted
 Further Reading
 ---------------
 
+* [The mysterious workings of the adolescent brain](https://www.ted.com/talks/sarah_jayne_blakemore_the_mysterious_workings_of_the_adolescent_brain?language=en) TED 2012
+    * 50% - Director move the truck TED talk 
 
 * [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
     * Learning measured in adulthood - chess every day for 2+ years - mapped
@@ -518,9 +520,6 @@ Kinsella 2012 CLT for prorgamming - has business - TODO reference?
 
 
 
-* [Gamification and physical education. Viability and preliminary views from students and teachers](https://www.tandfonline.com/doi/abs/10.1080/17408989.2020.1743253) Javier Fernandez-Rio 2020
-
-Fernandez-Rio, J., de las Heras, E., González, T., Trillo, V. and Palomares, J., 2020. Gamification and physical education. Viability and preliminary views from students and teachers. Physical Education and Sport Pedagogy, 25(5), pp.509-524.
 
 
 The basic model of Working memory and Long term memory felt very much like 1970’s, 80’s cognitive models of memory with no consideration of the later work within academic psychology of the impact of emotion on memory (e.g Loftus, Loftus & Palmer)

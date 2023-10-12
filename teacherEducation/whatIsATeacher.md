@@ -1,6 +1,12 @@
 What is a Teacher
 =================
 
+
+* [Why become a teacher? Student teachers’ perceptions of the teaching profession and motives for career choice](https://www.tandfonline.com/doi/full/10.1080/02619768.2018.1448784)
+    * todo - read
+
+
+
 * Journal of Teacher Education: [The Work of Teaching and the Challenge for Teacher Education](https://journals.sagepub.com/doi/abs/10.1177/0022487109348479) 2009
     * 'Training' has fallen out of favour over 'Education', but we don't object to 'Medical Training'
     * Teaching as _Unnatural_ Work - learning to do things that are not common in daily life
@@ -72,6 +78,27 @@ Unsorted
 ========
 
 * [How Teacher Education Matters](https://journals.sagepub.com/doi/full/10.1177/00224871231161863) 2023
+
+
+
+The Canterbury Partnership Teacher
+----------------------------------
+
+Old document [Grading Students against Teachers’ Standards](https://shepwayts.co.uk/wp-content/uploads/2016/11/Grading-Students-against-Teachers-Standards-FULL-version-July-2016.pdf) 2016
+
+The Canterbury Partnership is committed to the development of outstanding teachers who have a transformative impact on learners’ lives. 
+We work together to ensure that the teachers we educate bring about progress in learning which transforms learners’ knowledge, skills and understanding and their opportunities in life. 
+The Canterbury Partnership Teacher:
+* is a reflective practitioner who applies creative and critical approaches to professional practice and academic learning, and who uses an extensive repertoire of knowledge, skills and understanding to make learning transformative. 
+* takes responsibility for his or her own professional development and demonstrates this through a sustained drive to excellence in professional practice and academic learning through initial training and beyond. 
+* benefits from and contributes to outstanding research informed teaching and experiences learning environments where the challenge and support needed to achieve outstanding outcomes for learners are constantly sustained.  
+* ’s practice is informed by a demanding professional and academic curriculum enriched by international and global perspectives and an understanding of and commitment to our collective stewardship of the natural world. 
+* is a champion of equality, diversity and inclusion. He or she is a resilient, resourceful professional, driven by a personal and collaborative quest to make a difference to the life of every learner.
+
+This definition is underpinned by the values emanating from Canterbury Christ Church University’s Church of England foundation,
+especially the belief in our responsibility to find and develop the God-given potential in all learners.
+The University works with partners whose values enable them to make a shared enthusiastic commitment to the development of teachers who have a transformative effect on learners’ lives.
+
 
 
 

@@ -17,6 +17,8 @@ Education Research
 * [Effect size](https://www.simplypsychology.org/effect-size.html)
     * ![Effect Size table](https://www.simplypsychology.org/wp-content/uploads/Pearson-r.png)
 
+* [The Cambridge Handbook of Computing Education Research](https://www.cambridge.org/core/books/the-cambridge-handbook-of-computing-education-research/F8CFAF7B81A8F6BF5C663412BA0A943D) 2019
+    * Free online
 
 * [[journals]]
 * [[CharteredCollegeDylan2023]]

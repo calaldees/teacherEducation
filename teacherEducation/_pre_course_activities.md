@@ -107,6 +107,7 @@ General Information and Pre Reading
         * print copy available - July 2021 £12
     * [Hello World — Issue 0](https://helloworld.raspberrypi.org/books) - The Big Book of Computing Pedagogy 2021
         * Subscribe to magazine delivery for free
+    * [The Cambridge Handbook of Computing Education Research](https://www.cambridge.org/core/books/the-cambridge-handbook-of-computing-education-research/F8CFAF7B81A8F6BF5C663412BA0A943D) 2019
 * Computing Teaching Books
     * [Computer Science Education: Perspectives on Teaching and Learning in School 2nd Edition](https://www.bloomsbury.com/uk/computer-science-education-9781350296909/) Sue Sentence 2023
         * Researched backed targeted perspectives for teaching Computing

@@ -34,10 +34,21 @@ The list
 
 Lesson Plan (Simplified list)
 -----------
-* Previous lesson student notes (who achieve? didnt achieve? who was absent? - have a plan for them)
+* Previous lesson student notes 
+    * (Initials of who achieved? Who didn't achieve? who was absent? - have a plan for them)
 * Explicitly call out adaptions (not teach to the middle)
-* Students active on tasks - Reduce your talk
+    * There is an entire column for this
+* Students active on tasks (they are doing)
+    * Reduce your talk
 * Plan strategy for "how do you know they have made progress?"
     * Record your assessment (initials of students?)
+    * When are you going to do this?
 * Explicit Keywords/Terminology/Literacy
-* 'why' and context (even if it's brief)
+* Include meta 'why' you've structured it this way and 'context' (even if it's brief)
+
+
+Evaluation
+----------
+
+* Rolf
+    * What - So what - now what (actions for your teaching)

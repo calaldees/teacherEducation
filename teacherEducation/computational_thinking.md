@@ -29,3 +29,8 @@ Traditional Computational Thinking - New Computational Thinking
     * > use competency-based skill assessments to measure student progress. Be wary of the claim of universal value, for it has little empirical support
     * > Focus on helping students learn to design useful and reliable computations in various domains of interest to them
     * > It would do all of us good to tone down the rhetoric about the universal value of computational thinking. Advocates should conduct experiments that will show the rest of us why we should accept their claims.
+
+
+* [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
+* [“It Must Include Rules”: Middle School Students’ Computational Thinking with Computer Models in Science](https://dl.acm.org/doi/10.1145/3415582)
+    * Using computational thinking in science

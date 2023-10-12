@@ -1,6 +1,9 @@
 Pair Programming (1 Hour)
 -------------------------
 
+* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
+    * > Mentz, and Meyer (Reference Hahn, Mentz and Meyer2009) consider the practicalities of assessment in a pair programming context, comparing peer-, self-, and facilitator-based measures. More work is needed in this area, given that pair programming has emerged as a particularly effective teaching method within CEd (see Chapters 29 and 30).
+
 * [[cross_age_mentoring]]
 
 https://helloworld.raspberrypi.org/articles/hw17-researching-virtual-pair-programming-in-a-pandemic

@@ -48,6 +48,11 @@ Reminders of existing taxonomy pyramids
 
 * [Developing a computer science-specific learning taxonomy](https://dl.acm.org/doi/10.1145/1345375.1345438) (Fuller 2007) 
     * Bloom's taxonomy and SOLO don't match computer science
+    * > “Our evaluators had difficulty agreeing on SOLO level, and persuasive arguments could often be made to categorise a question in more than one level,”
+* [cambridge-handbook-of-computing-education-research/assessment-and-plagiarism](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
+    * > “Our evaluators had difficulty agreeing on SOLO level, and persuasive arguments could often be made to categorise a question in more than one level,”
+* Structural Learning [A teacher's guide to SOLO Taxonomy](https://www.structural-learning.com/post/what-is-solo-taxonomy) Paul Martin 2021
+    * > SOLO (Structure of Observed Learning Outcomes) offers a structured outline for the learners to use to build their learning and thinking. It motivates students to ponder where they are presently in terms of their level of understanding, and what they must do to progress.
 
 ### TASK
 

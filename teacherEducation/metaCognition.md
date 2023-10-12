@@ -4,6 +4,7 @@ Meta-cognition
 * Thinking about 'Thinking'
     * Reflection is a meta-cognitive skill
 * We should set time aside to explicitly teach/name/model metacognitive skills
+* (Make Zone of Proximal Development Visible to learners)
 
 #4/5-Classroom-LearnThat-build_metacognitive_explicit
 #4/j-Classroom-LearnHow-narrate_metacognitive
