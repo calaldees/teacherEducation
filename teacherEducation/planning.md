@@ -19,23 +19,6 @@ Planning
 Total 3 hours
 
 
-Computational Thinking
-----------------------
-
-What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these?
-
-* Computational Thinking
-    * Components
-        * Decomposition
-        * Pattern Recognition/DataOrganisation
-        * Generalisation/Abstraction
-        * Algorithms
-    * Info
-        * [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1)
-        * [Wikipedia](https://en.wikipedia.org/wiki/Computational_thinking)
-        * [Computational Thinking for a Computational World - digitalpromise.org](http://digitalpromise.org/wp-content/uploads/2017/12/dp-comp-thinking-v1r5.pdf)
-        * > When defining what computational thinking is, it is also helpful to establish what it is not: that is, humans thinking like a computer. In fact, it is just the opposite. Computational thinking is a uniquely human ability
-
 
 Schemes of Work
 ---------------
@@ -91,27 +74,28 @@ TASK 2: Explore other KS3 SOW online (20min)
 * [teachcomputing.org: Key stage 3 resources](https://teachcomputing.org/curriculum/key-stage-3/)
     * [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf)
         * Hundreds of KS3 and KS4 lessons
-* [interactiveclassroom.net](https://www.interactiveclassroom.net/?page_id=163)
-* [CAS - community contribution](https://community.computingatschool.org.uk/files/5130/original.pdf)
+* [interactiveclassroom.net: Key Stage 3](https://www.interactiveclassroom.net/?page_id=163)
 * [KS3 Computing and GCSE Computer Science](https://www.advanced-ict.info/theory/NC/index.html)
     * > buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
     * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_1.html)
     * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
 * [Compute-IT](https://www.hoddereducation.com/compute-it) Hodder Education - TextBooks
     * See "Samples: Student Book 1" and "Scheme of Work: Compute-IT 1 Year 7"
-* [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
-    * There is a wealth of resources out there! Go and explore!
 * [PG Online: KS3 Computer Science](https://www.pgonline.co.uk/resources/computer-science/ks3/) + Curriculum Map
     * 22 downloadable teaching units (samples free)
-
 * [queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
+* [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
+    * There is a wealth of resources out there! Go and explore!
 
 
 <details>
 
+Other
+
 Boost From Hodder Education 
 https://boost-learning.com/courses/listing
 
+* [CAS - community contribution](https://community.computingatschool.org.uk/files/5130/original.pdf)
 </details>
 
 

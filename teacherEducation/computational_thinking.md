@@ -1,6 +1,22 @@
 Computational Thinking
 ======================
 
+What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these?
+
+* Computational Thinking
+    * Components
+        * Decomposition
+        * Pattern Recognition/DataOrganisation
+        * Generalisation/Abstraction
+        * Algorithms
+    * Info
+        * [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1)
+        * [Wikipedia](https://en.wikipedia.org/wiki/Computational_thinking)
+        * [Computational Thinking for a Computational World - digitalpromise.org](http://digitalpromise.org/wp-content/uploads/2017/12/dp-comp-thinking-v1r5.pdf)
+        * > When defining what computational thinking is, it is also helpful to establish what it is not: that is, humans thinking like a computer. In fact, it is just the opposite. Computational thinking is a uniquely human ability
+
+
+
 Traditional Computational Thinking - New Computational Thinking
 ---------------------------------------------------------------
 

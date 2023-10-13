@@ -1,4 +1,5 @@
-
+Email Templates
+===============
 
 First Contact SD September 2023
 -------------
@@ -185,3 +186,76 @@ It would be good to have a 15min "Early Impressions" remote video call with you 
 I am very grateful for your assistance in helping to train our next generation of outstanding teachers in Computing and I look forward to working with you over the course of the year.
 
 Kind regards,
+
+
+
+Early Impressions
+=================
+
+Subject: Mentor Early Impressions Conversation and School Visit
+
+
+Hi xxx (Computing Subject Mentor)
+(cc'ing 
+  xx (Professional Mentor) as part of process,
+  xxx as Student Teacher
+)
+
+Thank you for supporting xxx with his first few weeks of placement.
+
+Now that the intense period of induction sessions has finished, my next priority is to connect with mentors.
+
+1.) 
+I'm required to have a 15min MSTeams remote meeting with mentors within the first few weeks of placement to check on initial progress.
+I'm interested in how XXX has settled in but I'm also interested to ensure you are supported in your mentoring.
+Could you book a 15min call with me next week using my booking system link below.
+
+https://outlook.office.com/bookwithme/user/3e0385ef8fb340e38b6686624a78dda0@canterbury.ac.uk?anonymous&ep=pcard
+
+2.) 
+We need to organise a 2 hour visit to your school over the next couple of months (before December).
+Although I am interested in xxx's progress, visits are 'Mentor facing' to support the mentoring process.
+During the visit we can spend some focused time discussing mentoring techniques and the university curriculum.
+We should also take part in a joint mentoring activity. (This could be performing a segment of a weekly mentor meeting together.)
+It would also be beneficial to me to see xxx teach, but this is not a requirement of my visit.
+Again; you can use the booking system to see my availability and arrange a full 2 hour visit.
+(If you require any dates/times that are not listed on the booking system please contact me and I can move some existing meetings to meet your availability)
+
+If there are any questions in the meantime please feel free to email me.
+
+xxx has made an excellent start to the year and engaging in university subject sessions with gusto.
+
+I'm looking forward to working with you this year.
+
+
+
+---
+
+Hi (as Computing Subject Mentor)
+(cc'ing as part of process
+  as Professional Mentor
+  as Trainee Teacher
+)
+
+I got in touch last week with information about supporting XXX as a mentor.
+
+-- Initial Impressions (15min MSTeams call)
+
+
+
+-- School Visit
+
+I'm required to visit 
+
+•	Has the student settled into school/department routines? 
+•	Are they showing initiative?  
+•	How is their professionalism including attendance and punctuality?
+•	Working relationships – are they building these? 
+•	Observations of experts - is this happening?
+•	Working with whole class/Collaborative Teaching Phase – are they still in the CTP? What have they been doing as a part of this?
+•	Development needs of student – what are they?
+•	Subject knowledge/curriculum needs – how is their subject knowledge developing? 
+•	Are they proactive and open to mentoring?
+•	Are their fundamental skills (e.g. literacy and numeracy) proficient? 
+•	What are the student’s strengths? 
+•	Where are mentors in their training? What is your experience as a mentor?
