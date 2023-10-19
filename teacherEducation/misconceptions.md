@@ -15,6 +15,7 @@ Use diagnostic questions, such as multiple-choice questions, and deliberately in
 * The biggest Misconception
     * Using Google and as "Answer engine" not a "Search engine"
         * They are not the answers
+    * Using AI to solve you're problem - you don't if it's right or not
 
 
 * TS 3.1 
@@ -37,7 +38,8 @@ Greg Wilson
         * These errors are often deeply connected to the learner’s social identity, so they resist evidence and rationalize contradictions.
         * Using Google and as "Answer engine" not a "Search engine"
             * They are not the answers
-        * There is only one network. It's called the internet.
+        * There is only one network that all devices connect to. It's called the internet. 
+            * My desktop (via ethernet) and my mobile phone are on the same network
 * > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.”
     * For example, mistaking = (assignment) and == (equality) wasn’t nearly as common as most teachers believed.
 
@@ -51,12 +53,15 @@ Greg Wilson
 CAS Misconceptions List
 -----------------------
 
-* CAS [Computing Misconceptions - Any Key Stage](https://community.computingatschool.org.uk/resources/4725/single)
+* CAS [Computing Misconceptions - Any Key Stage](https://www.computingatschool.org.uk/resources/2016/october/computing-misconceptions-any-key-stage)
     * This is just a first attempt at trying to categorise the misconceptions we see in our classrooms.
-    * [Exploring Programming Misconceptions: An Analysis of Student Mistakes in Visual Program Simulation Exercises](https://dl.acm.org/doi/10.1145/2401796.2401799) [dropbox](https://www.dropbox.com/s/bar756coeuyn3b2/p19-sirkia.pdf?dl=0)  
-        * Teemu Sirkiä, Juha Sorva 
+* [Exploring Programming Misconceptions: An Analysis of Student Mistakes in Visual Program Simulation Exercises](https://dl.acm.org/doi/10.1145/2401796.2401799) [dropbox pdf](https://www.dropbox.com/s/bar756coeuyn3b2/p19-sirkia.pdf?dl=0)
+    * Teemu Sirkiä, Juha Sorva
+    * Look at this % tables
+    * Misc1: Inverted assignment 38% `first = second` The student assigns the value of the left-hand variable to the right-hand side variable, rather than the other way around
 
-Copy&Paste from article above - the list is amazing!
+Copy&Paste from CAS article above
+(notice how the teachers article has hunches and the research article has data)
 
 ### Variables
 
@@ -161,7 +166,7 @@ j = 2
 thing(i, j)
 ```
 
-are the characters you type the same as copy and paste?
+> are the characters you type the same as copy and paste?
 
 * Wrong branch
     * Getting the `if (condition) {false bit} else {true bit}`

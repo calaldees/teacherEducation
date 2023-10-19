@@ -43,7 +43,7 @@ Your whole approach is just "Questions". (I will try and model this - correct me
     * (+2 new skills conveyed silently)
 
 
-```python
+```python {.line-numbers}
 def aa(n):
     for i in range(n):
         print('.' * (n-1-i), end='')

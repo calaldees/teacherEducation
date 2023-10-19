@@ -1,9 +1,16 @@
 Gamification
 ============
 
+ #7/6-Behaviour-LearnThat-intrinsic_motivation
+* > 7.6. Pupils are *motivated by intrinsic* factors (related to their identity and values) and extrinsic factors (related to reward).
+    * motivated by intrinsic
+
 * [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
 * > While numerous studies exist applying gamification and badges as a motivational approach, there is evidence that these forms of extrinsic motivation may be problematic for long-term learning gain and broader learning motivation (Falkner & Falkner, Reference Falkner and Falkner2014)
 
 * [Gamification and physical education. Viability and preliminary views from students and teachers](https://www.tandfonline.com/doi/abs/10.1080/17408989.2020.1743253) Javier Fernandez-Rio 2020
 
 Fernandez-Rio, J., de las Heras, E., González, T., Trillo, V. and Palomares, J., 2020. Gamification and physical education. Viability and preliminary views from students and teachers. Physical Education and Sport Pedagogy, 25(5), pp.509-524.
+
+* My thoughts: If gamification is the answer to education - then education is just a conveyor-belt and a factory for workers
+    * Just give them YouTube and a website with structured tasks. Your job is done.

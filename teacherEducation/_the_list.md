@@ -33,6 +33,7 @@ What should be happening in most lessons
     * (Why group work? Why scaffold in this way? why choose assessment mechanism)
 * Can justify/evidence what adaptions you have made for which students and why
 * Explicit literacy Literacy/terminology
+* (cant really be planned for, but ...) did you make eye contact with every single student at least once each?
 
 
 Lesson Plan (Simplified list)
@@ -55,3 +56,5 @@ Evaluation
 
 * Rolf
     * What - So what - now what (actions for your teaching)
+        * Where might we see the impact/manifestation of this action
+            * e.g. next lesson with 8it2

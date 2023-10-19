@@ -11,3 +11,9 @@ See more at https://github.com/calaldees/mapOfComputing/blob/main/computing/visu
     * Superb and in depth review of all the visual programming constructs
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) - Designing a programming system for understanding programs
 
+* [Exploring programming misconceptions: an analysis of student mistakes in visual program simulation exercises](https://dl.acm.org/doi/10.1145/2401796.2401799)
+    * [uuhistle](http://www.uuhistle.org/) No longer developed
+    * [kelmu](https://github.com/Aalto-LeTech/kelmu)
+        * [Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education ](https://www.youtube.com/watch?v=Q3T_QLRWb78) 5min
+            * Python average function animation - really cool!
+    
