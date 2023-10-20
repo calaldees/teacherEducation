@@ -517,21 +517,21 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 1. Regulate
     * give them time before immediately engaging
     * clam them down - deal the immediate distress
-    * Are they ok - ask 'has anything happened today to unsettle you?"
+    * Are they ok - ask 'has anything happened today to unsettle you?'
 * Reassure Tone of conversation
     * Separate 'The Person' from 'The Behaviour'
         * I want 'you' in my classroom, but that 'behaviour' should stay outside (super explicit)
     * It's a adult to adult conversation (pupil agency)
     * It's not an attack
     * (subtext: you are reassuring them they are safe)
-1. Relate
+2. Relate
     * Why am I (the teacher) here? ... I'm here help you ... I'm not your enemy
     * Acknowledge their struggle (because you're human too): You're trying to get through your own stuff (social group pressure, parents shouting at them, tired, overworked). I have a job to teach the others.
-2. Reason
+3. Reason
     * Resolution: Explain Why (meta behaviour)
         * The number 1 factor for success/happiness == socialisation. This is more important than ANY subject knowledge/skill
     * de-compact what happened
-3. Reintegrate
+4. Reintegrate
     * What are we going to do so that we can both have a better experience moving forward?
         * This time? Next time?
     * Agree together.
