@@ -33,7 +33,7 @@ Curriculum
 The Key Factor?
 --------
 
-* [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/) Lorna Shires - September 2020 - Chartered College of Teaching [[metaCognition]]
+* [Scaffolding by novice and expert teachers: The difference](https://my.chartered.college/impact_article/scaffolding-by-novice-and-expert-teachers-the-difference/) Lorna Shires - September 2020 - Chartered College of Teaching [[metaCognition]]
     * _Trust_ is a key factor
     * > The students of the expert teachers felt safe to take those risks in moving out of easy work that they couldn’t yet do, and towards being able to
     * #7/4-Behaviour-LearnThat-resilience_meaningful_success
@@ -43,11 +43,8 @@ The Key Factor?
 Reading segment (30min)
 -----------------------
 
-* Education Endowment Foundation - [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf) (5min) 2019
+* Education Endowment Foundation - [Guidance reports > Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/behaviour) Summary of Recommendations Poster (5min) 2019
     * > Universal behaviour systems are unlikely to meet the needs of all your students
-    * Source for poster
-        * [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/) (2019)
-        * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
 * Hello World Issue 17 2022 [Behaviour management in the computing classroom](https://helloworld.raspberrypi.org/articles/hw17-behaviour-management-in-the-computing-classroom)
     * more later on [[classroom-management-software]]
 * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet 20xx - Oliver Caviglioli (5min)
@@ -81,7 +78,7 @@ Reading segment (30min)
             * Have clear routines for transitions and for stopping the class.
             * Teach children the class routines.
         * Parents
-            *Give feedback to parents about their child’s behaviour - let them know about the good days as well as the bad ones.
+            * Give feedback to parents about their child’s behaviour - let them know about the good days as well as the bad ones.
 * (If you complete these - read ahead to the 2 readings in _Detentions_ section this session)
 
 
