@@ -155,7 +155,8 @@ ACTIVITY:
 * Consider faked content
 * Terminology
     * [dox](https://www.google.com/search?q=define%3A+dox)
-
+    * Native Application (is this to do with colonialisum?) Why do I want a native?
+    * 'Setup Wallet' - but I have one in my hand - what does this mean?s
 
 ### DigiComp
 

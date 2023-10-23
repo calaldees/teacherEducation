@@ -132,7 +132,10 @@ Things I try to avoid:
 ### Real World Context for the Pen/Turtle/Graphics skills learnt above
 * Decomposition of geomentirc artwork - cultural context
     * [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) (artist using geometric squares and lines)
+        * ![](https://www.theartstory.org/images20/works/van_doesburg_theo_6.jpg)
+        * ![](https://upload.wikimedia.org/wikipedia/commons/2/20/GUGG_Composition_d%C3%A9centralis%C3%A9e.jpg)
     * [Simple Celtic artwork](https://www.google.com/search?q=simple+celtic+artwork&tbm=isch) (circles)
+        * ![](https://blog.udemy.com/wp-content/uploads/2014/05/bigstock-Celtic-Knots-Isolated-on-Bl-63093613-1-620x602.jpg)
     * [Simple Islamic artwork](https://www.google.com/search?q=simple+islamic+artwork&tbm=isch) (repeating geometric patterns/colors)
 
 By adding context you immediately unlock further computational thinking skills: analysis, decomposition, algorithms
