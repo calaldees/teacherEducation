@@ -11,6 +11,22 @@ Safer Recruitment
 * Has a hstory of inapproriate interacitons with chilren, for example on social media
 * Seems to have an overy informal relationship with pupils
 
+Do you think there are there any situations that can be excluded from the Safer Recruitment process?
+> Using phone interviews to save money on travel expenses 
+..Interesting
+
+
+Outcomes of investigation
+* Substantiated
+    * there is sufficient evidence to prove the allegation 
+* Malicious
+    * there is sufficient evidence to disprove the allegation and there has been a deliberate act to deceive 
+* False
+    * there is sufficient evidence to disprove the allegation 
+* Unsubstantiated
+    * there is insufficient evidence to either prove or disprove the allegation. The term, therefore, does not imply guilt or innocence 
+* Unfounded
+    * to reflect cases where there is no evidence or proper basis which supports the allegation being made 
 
 * Duty of care 1989 and 2004
 * Promote health and welbring (Education Act 2002)
@@ -82,6 +98,10 @@ Any safgarding issue is also the schools responsibity to show they are following
                 * Conduct (investigations/disciplinaries)
                 * Suitability to work with young people
                 * Skills related to position
+            * Referees should know that: 
+                * They have a legal liability for references, and they should include no material misstatement or omission 
+                * What they say in the reference may be discussed with the applicant at interview 
+                * They may be contacted later for clarification on any part of the reference 
         * Salary and Holiday specifics
 * Selection
     * "Objective evidence" for the shortlist of candidate applications

@@ -1,6 +1,9 @@
 Diversity (1 hour)
 =========
 
+(This session has be cut aspart and broken into other bits)
+(Everything below needs re-reading and sorting)
+
 
 Disclaimer
 ----------
@@ -69,8 +72,7 @@ Define (15min)
 * Define
     * Diversity
     * Inclusion
-    * Equality
-    * Equity
+
 * Difference between
     * Diversity and Inclusion?
     * Equality and Equity?
@@ -83,128 +85,12 @@ Define (15min)
     * > the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc.
 * Inclusion
     * > the practice or policy of providing equal access to opportunities and resources for people who might otherwise be excluded or marginalized
-* Equality
-    * > the state of being equal, especially in status, rights, or opportunities.
-* Equity
-    * > education equity is based on the premise that an individual's level of education directly correlates to future quality of life. Therefore, an academic system that practices educational equity is a strong foundation of a society that is fair and thriving
 * Diversity vs Inclusion
     * > Diversity refers to the traits and characteristics that make people unique while inclusion refers to the behaviors and social norms that ensure people feel welcome.
-* Equality vs Equity
-    * > Equality means each individual or group of people is given the same resources or opportunities. Equity recognizes that each person has different circumstances and allocates the exact resources and opportunities needed to reach an equal outcome.
-
-### Equality VS Equity: Famous illustration
-
-![Illustrating Equality VS Equity](https://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png)
-![equitytool.org/equity](https://www.equitytool.org/wp-content/uploads/2015/06/Equity-vs-Equality-1024x670.png)
-![The difference between the terms equality, equity, and liberation, illustrated; © Interaction Institute for Social Change | Artist: Angus Maguire](https://www.researchgate.net/profile/Shrehan-Lynch/publication/340777978/figure/fig1/AS:882312354988036@1587371066584/The-difference-between-the-terms-equality-equity-and-liberation-illustrated-C.png)
-
-### Criticality
-
-Ongoing debate about equity in education. Juxtaposed sides arguing passionately.
-
-* Discovery Institute (USA) Opinion piece - [‘Equity’ in Education: Equal Opportunity or Equal Outcome?](https://www.discovery.org/education/2021/07/28/equity-in-education-equal-opportunity-or-equal-outcome/)
-
-* [Dylan Wiliam Embedding Formative Assessment SSAT/EEF celebration event keynote](https://youtu.be/zwGaG1b_T2w?t=172)
-    * > If you get the bell curve in your school, I would suggest that you are not doing your job, because the bell curve is what nature gives us, the bell curve is what happens when we treat every single kid the same
-    * > I don't want to live in a world where taller people are better at basketball, but that's the reality we live in
 
 
 
-Protected Characteristics (15min)
--------------------------
 
-* TASK: 
-    * What are the legally protected characteristics?
-    * What are other characteristics possible characters that are not protected by law?
-    * In pairs (5min)
-
-
-* [Protected characteristics](https://www.equalityhumanrights.com/en/equality-act/protected-characteristics)
-    * > It is against the law to discriminate against someone because of a protected characteristic. 
-    * age
-    * disability
-    * gender reassignment
-    * marriage and civil partnership
-    * pregnancy and maternity
-    * race
-    * religion or belief
-    * sex
-    * sexual orientation
-* not a protected characteristics by law
-    * Class
-    * Weight
-    * Tattoos/piercings
-    * Accent (class? and race?)
-    * Neuro-diverse?
-    * ... more ...
-
-* Question: 
-    * Could you legally be turned down for a teaching position based on any of these characteristics?
-    * (I don't know the answer - We may need an employment lawyer)
-
-
-Situation Discussion
---------------------
-
-Mental thinking - upfront now - when a situation does occur we have some grounding for how to act
-
-### Situation 1 (15min)
-
-* Real school situation
-    * [Head Tracking for Desktop VR Displays using the WiiRemote](https://www.youtube.com/watch?v=Jd3-eiid-Uw)
-    * I built the ir goggles + battery over the weekend and wanted to demo the technique
-    * I started playing the video and one student remarked
-        * > It's a chinky
-    * What was the intension of the young person?
-* TASK1: (Whole group consolidation) Think (2min) What actions could be taken? Why? (10min)
-
-
-<details>
-
-* Suggestion: 
-    * Be prepared to drop all planned activities and focus on this more important topic
-    * Don't use aggression to convey your urgency. Use enquiry.
-        * What does aggression and authority convey in our hidden curriculum?
-        * The fact you have completely stopped the previous activity already conveys the gravity of the situation
-    * Have a plan - just talking may not be enough - 
-        * Decide on the goal - vocalise the goal - write it
-        * Other prep
-            * Could you have paper printed? power-point ready?
-</details>
-
-* TASK2: (Pairs) Consider a diversity/inclusion situation that you may have encountered in school. What actions should be taken? Why? (10min)
-    * Share with group (5min)
-
-
-
-### Situation 2 (10min)
-
-* Vertical tutor group - my form
-* Socially alienated year 9
-    * overweight
-    * ADHD (difficulty focusing/remembering)
-    * difficulty wearing uniform correctly
-    * loud
-    * effeminate voice
-    * hygiene issues
-* Pleasant manner and (seemingly) acknowledges instructions
-    * Repeated instructions
-        * "I forgot"; repeated response
-        * No impact or meaningful change in behaviour either short term or long term
-* TASK: Consider strategies/action-plan for social integration for:
-    * The student?
-    * Parents?
-    * Form group?
-    * Subject teachers?
-    * Wider school staff?
-    * Other support?
-
-<details>
-
-* My form were between 'tolerant' to 'accepting' - One of us
-    * peer - planner and pen check each day
-    * The wider school was more challenging
-</details>
 
 
 
@@ -253,21 +139,6 @@ Do any members of your team feel excluded, alienated, outsiders?
     * ???
 
 
-### Name Pronunciation
-
-* [Teachers, please learn our names!: racial microagressions and the K-12 classroom](https://www.tandfonline.com/doi/full/10.1080/13613324.2012.674026)
-    * US context (the UK is a different context)
-* [If You Don’t Know How to Say Someone’s Name, Just Ask](https://hbr.org/2020/01/if-you-dont-know-how-to-say-someones-name-just-ask) Ruchika Tulshyan 2020
-    * > white-sounding names were 28% more likely to get a callback for a job interview. 
-    * > “I’m sorry I mispronounced that. Could you please repeat your name for me?” 
-    * > Don’t be arrogant or flippant. I’ve had a number of instances where people say, “I’ll never get it right — can I call you another name?” 
-* Online service
-    * a quick first attempt
-    * [pronouncenames.com/Ruchika](https://www.pronouncenames.com/Ruchika)
-* Research how to pronounce student names in advance
-    * ECT year - pronounce their names correctly for the first lesson/register
-    * ACTION POINT!: Ask your mentor or other staff before your first lesson
-    * [Pronouncing Non-English Names For English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers 
 
 Request for support and Advice - My Undergraduate class's
 ------------------

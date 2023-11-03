@@ -16,4 +16,7 @@ See more at https://github.com/calaldees/mapOfComputing/blob/main/computing/visu
     * [kelmu](https://github.com/Aalto-LeTech/kelmu)
         * [Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education ](https://www.youtube.com/watch?v=Q3T_QLRWb78) 5min
             * Python average function animation - really cool!
-    
+
+* [Joy.js](https://ncase.me/joy/)
+    * a pedagogic tool?
+    * cross curricular? could you approach a science, maths or music teachers? would they be interested?

@@ -567,7 +567,7 @@ ACW - Half term
 Inclusion week PGCE
 30/10 – 2/11
 An introduction to inclusion.
-A submersive experience week where you have a university day on Monday to prepare you for your short placement in an alternative educational setting.
+A submers​ive experience week where you have a university day on Monday to prepare you for your short placement in an alternative educational setting.
 
 ---
 

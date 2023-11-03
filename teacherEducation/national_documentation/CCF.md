@@ -269,7 +269,7 @@ scaffold talk?
     2. c Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues). #7/c-Behaviour-LearnHow-wider_systems
     3. d Giving manageable, specific and sequential instructions. #7/d-Behaviour-LearnHow-specific_sequential_instruction
     4. e Checking pupils’ understanding of instructions before a task begins. #7/e-Behaviour-LearnHow-check_understanding_instruction
-    5. f Using consistent language and non-verbal signals for common classroom directions. #7/d-Behaviour-LearnHow-non_verbal
+    5. f Using consistent language and non-verbal signals for common classroom directions. #7/f-Behaviour-LearnHow-non_verbal
     6. g Using early and least-intrusive interventions as an initial response to low level disruption. #7/e-Behaviour-LearnHow-least_intrusive_intervention
 3. Establish effective routines and expectations, by:
     1. h Discussing and analysing with expert colleagues how routines are established at the beginning of the school year, both in classrooms and around the school #7/h-Behaviour-LearnHow-routines_wider

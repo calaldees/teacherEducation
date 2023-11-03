@@ -12,10 +12,12 @@ How to observe a lesson
     * The _Focus_
     * _Why_ have you chosen this focus
     * _Future actions_ (either on observation or in weekley reflections - signpost this in either direction for an external examiner)
-* Do not just write a list of 'descriptions' of what happened with timestamps.
+* Do NOT just write a list of 'descriptions' of what happened with timestamps.8
 * Reflective model
     * What -> So What -> Now What
     * The 'Why' is all important
+* you have preconceived ideas from your own education and growth - the teachers you see and the students you see are not you. Shift your perspective and learn from these observations.
+* Identify things that you do not understand which can provide the basis for a discussion with the class teacher after
 
 
 * Possible focus ideas
