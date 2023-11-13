@@ -12,7 +12,7 @@ How to observe a lesson
     * The _Focus_
     * _Why_ have you chosen this focus
     * _Future actions_ (either on observation or in weekley reflections - signpost this in either direction for an external examiner)
-* Do NOT just write a list of 'descriptions' of what happened with timestamps.8
+* Do NOT just write a list of 'descriptions' of what happened with timestamps.
 * Reflective model
     * What -> So What -> Now What
     * The 'Why' is all important

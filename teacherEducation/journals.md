@@ -15,6 +15,9 @@ Journals
   * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
 * [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)
     * [rss](https://www.tandfonline.com/feed/rss/ncse20)
+* [WiPSCE: Workshop in Primary and Secondary Computing Education](https://dl.acm.org/conference/wipsce)
+    * accessible papers from conferences
+    * [since 2012](https://dl.acm.org/conference/wipsce/proceedings)
 * [ILE: Interactive Learning Environments](https://www.tandfonline.com/toc/nile20/current)
 * [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
     * List of UK research

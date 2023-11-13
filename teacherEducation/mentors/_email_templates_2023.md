@@ -259,3 +259,38 @@ I'm required to visit
 •	Are their fundamental skills (e.g. literacy and numeracy) proficient? 
 •	What are the student’s strengths? 
 •	Where are mentors in their training? What is your experience as a mentor?
+
+
+
+Pre First Visit
+---------------
+
+Computing Mentor Visit - 
+
+Hi xxx (as Computing Subject Mentor)
+(cc'ing as part of process
+  xxx as Professional Mentor
+  xxx as Trainee Teacher
+)
+
+Thank you for booking a school visit slot via my online booking system.
+I am due to visit tomorrow (Thursday 9th November 2023) between 11:00 and 13:00.
+I hope to report to reception around 10:45.
+
+The purpose of my visit is to support you with the mentoring process.
+
+My initial thoughts for the timing of this visit could be:
+ - 45min xxx and Allan - Discuss curriculum and progress 
+ - 45min xxx, xxx and Allan - A normal mentoring activity (weekly-meeting?/lesson-observation?) with tutor participating.
+ - 15min xxx and Allan - Catchup progress
+ - 15min xxx, (xxx?) and Allan - Summary and next steps
+I'm happy for the order/timing to be flexible.
+
+Some thoughts about my areas of focus:
+ - Looking at xxx's ePortfolio, there are significant gaps appearing already. 
+ - We should discuss the upcoming Student Progress Review 1 (SPR1) that is due in December and what this entails.
+
+I'm looking forward to visiting tomorrow.
+See you soon.
+
+

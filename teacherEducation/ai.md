@@ -1,6 +1,55 @@
 AI in the classroom (30min)
 ===================
 
+* https://experience-ai.org/
+    * 6 lessons - VERY well thought out
+    * Learning objective mapping
+    * 52 objectives - ks1 to ks5 - mapped to SEAME model
+    * [Learning Graph - Experience-AI](https://drive.google.com/file/d/1ZEEPaiV5VzyE1AL9jcXM3tw738J6Ry6t/view)
+* Don't animate or personalise ai - it is a tool/applicaiton/
+    * "AI Learns" NO "AI Does" NO - "AI Developers build applications to .."
+        * AI Can be trained via statistics
+        * Computational Thinking 1.0 Rule based programming (the old way - algorithums, debugging, stepwise determenistic, desreat flow, structured data)
+        * Computational THinking 2.0 Data Driven (the new way) (you can't debug it, black box based, how to evaluate it, what is our confidence, unstructred data)
+
+
+* FATPS (when you use ai for teaching) acronym from Jane Waite
+    * Fair (no bias?)
+    * Accountable (you are accountable)
+    * Transparent (Where you got it from and how it was made)
+    * Privacy ()
+    * Security
+
+* Miles Berry Question:
+    * There are no way for LLM's for under 13's - So how the hell do we teach it?
+
+
+* [Generative AI: Implications for Teaching and Learning](https://www.it.uu.se/research/group/upcerg/events/CompetenciesAI) November 13, 2023
+    * Conference?
+
+
+* Academic Misconduct?
+    * https://docs.google.com/document/d/1Wdo1fbJpl2AbW2A6HzQagX7bWVzRxCOpl_FMEYvPvdg/edit#heading=h.m7k3weujotcb
+    * "How is high cultral capital students asking for help from an adult - different from - a student using chatGPT?"
+        * If it is a legitimate question they would ask a peer or tutor should be allowed
+            * What about the of what was done with ai - log?
+            * must acknowledge they "use" and how it was used
+    * Supportive use - or - malpractice
+    * Exams, (Vivas, Presentaion, e.g. face to face verbal assessment is the only way)
+        * "Personal reflection based on experience" can be chatgtped "Give me a first hand response"
+    * If we cant detect it - we cant do anything about it - just asking them is insufficent - they will lie
+    * Trojan horse - get staff to present a session on AI in education - so they have to review the material
+
+https://teachmateai.com/
+Matt Wimpenny: Jon Chip has been in touch with his TeachMateAi hat on and offered us at Oxford Brookes Uni PGCE primary trainees a free subscription.
+https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education
+
+Ask AI to generate questions - and get students to check if they are correct
+
+* How it works - is different from - how to use it
+
+
+
 * [[ai-syntax-error]]
 
 * Raspberry Pi Foundation [Experience AI: AI Data Lifecycle](https://www.youtube.com/watch?v=UEIsKJbF1BA) YouTube (1 hour)
