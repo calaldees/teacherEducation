@@ -104,6 +104,12 @@ Any safgarding issue is also the schools responsibity to show they are following
                 * They may be contacted later for clarification on any part of the reference 
         * Salary and Holiday specifics
 * Selection
+    * Don't look at "self-disclosure" before interview
+    * Do a web search online for candidates (really? are we given time to do this?)
+    * References should be followed up beforehand (really?)
+        * References must contain character information
+        * Dates of employment must match
+        * Challenge glowing references
     * "Objective evidence" for the shortlist of candidate applications
         * Don't reject candidates on self disclosure forms at the shortlisting stage
     * Incomplete forms returned - look for false hoods or reasons

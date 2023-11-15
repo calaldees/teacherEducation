@@ -1,63 +1,57 @@
 Pre Interview Communication
 =============
 
-Congratulations on having been offered an interview for a place on the PCGE course for September 2023. As you will have read from the pre-interview information online, the interview process provides an insight into the course and an opportunity for you to ask questions. The interview will comprise of several different activities that enable you to demonstrate a variety of attributes and skills that successful teachers draw upon to enable learning to happen in the classroom and therefore is fair and rigorous.
- 
-This document provides an overview of the subject element of the interview and should be read in conjunction with the main webpage. There are two key processes that make up the subject element of the selection process
-The Subject Interview
-In the specialist subject interview, you will explore a range of topics; these are likely to include:
-* Your view of how computing could/should be taught in the classroom
-* Your proficiency in at least one programming language
-* Your previous experience of working with young people in educational settings
-Initial Subject Knowledge Audit in Computer Science
-Below you will find a copy of the Initial Subject Knowledge Audit in computer science. I would be grateful if you would return your completed version of this document to me via email at least two days prior to the interview day. Should this not be possible, I would ask you to contact me in advance. My email address is allan.callaghan@canterbury.ac.uk 
+* [CCCU SharePoint: Interview Breifings 2024: Computing](https://cccu.sharepoint.com/:w:/r/sites/FacultyofArtsHumanitiesandEducation/Operations/Marketing,%20Recruitment%20%26%20Events/Interviews/2023%20-%202024%20Interviews/PGCE%20Secondary/Subject%20briefings/interview-briefing-computing-2024.docx?d=w1e1d5d6882354d789f5b381b10a14da7&csf=1&web=1&e=h9amXa)
 
-We look forward to meeting you. 
+Congratulations on having been offered an interview for a place on the PCGE course for September 2024. As you will have read from the pre-interview information online, the interview process provides an insight into the course and an opportunity for you to ask questions. The day will comprise of several different activities that enable you to demonstrate a variety of attributes and skills that successful teachers draw upon to enable learning to happen in the classroom and therefore is fair and rigorous. 
+
+This document provides an overview of the subject element of the interview day and should be read in conjunction with the main webpage. There are two key processes that make up the subject element of the selection process. 
+
+## The Subject Interview 
+
+In the afternoon, you will have a specialist subject interview in which you will explore a range of topics; these are likely to include: 
+* Your view of how computing could/should be taught in the classroom and how that could link to the current UK Computing curriculum. 
+* Your proficiency in at least one programming language. 
+* Be able to verbally explain the technical journey of how typing a URL into a browser becomes a functional webpage that user can interact with. 
+* A discussion about your creative lesson planning task from the morning’s Group interview – remember this should not be based on your specialist subject. See notes about the Group interview   
+* Examples of working-with or understanding of working-with young people. 
+
+## Initial Subject Knowledge Audit in Computer Science 
+
+Below you will find a copy of the Initial Subject Knowledge Audit in Computing, which you should complete and bring a copy with you to the interview day to discuss. 
+We look forward to meeting you.  
   
-Best wishes, 
 
-Initial Subject Knowledge Audit
-This audit aims to help you:
-* Understand what “subject knowledge” means for your subject
-* Perform a gap analysis of your own skills 
-* Guide you with building subject knowledge before you start the course
-No teacher knows everything about their subject. 
-There are no defined list of topics or other information that must be known by subject practitioners. 
-But it is important that you have the fundamental concepts.
-What the PGCE “is” and “isn’t”
-* The one-year PGCE course will be focused on developing your “Subject Pedagogy” e.g. How do you effectively teach computing concepts like a 'bubble sort'.
-* The course will not be focused on developing “Subject Knowledge” e.g. Your skills or knowledge about algorithms, or software packages.
-You will be taking responsibility for learning new material and raising your level of subject knowledge. This is an aspect of the course in which you need to develop independent strategies for learning.
+Best wishes,  
 
-What do your levels of competence look like in different topic areas?
+Allan Callaghan 
+Subject Lead for Secondary Computing in Initial Teacher Education   
 
-For each area listed below indicate where you assess your level of competence to be currently. Please use the descriptions provided and be frank and honest in your self-assessment.
 
-Important note:
-The level descriptions should be used as a guide rather than a check list, to aid you. We are not expecting you to be able to demonstrate many areas at level 3 or 4 at this stage, therefore do not worry about ticking any of the boxes as this audit is used as a tool to help support and develop your subject knowledge rather than a judgement tool.
- 
-1. None
-    * No idea or unsure, insecure knowledge. 
-2. Some: 
-    * Need to look it up or refresh knowledge Know the rules but need to refresh knowledge/skills
-3. I know and can do: 
-    * Quickly recall, answer exam style questions without a prompt. 
-    * Know the key information, meanings and have the knowledge
-4. I understand and can explain: 
-    * Focus on teaching: Can explain how and why to someone else. 
-    * Can use analogies, models or similar. 
-    * Can link prior knowledge and next development stages. 
-    * Understands the progression in a topic
-5. I can help others to learn: 
-    * Focus on individual learning and understanding: Can interconnect and link to other topics. 
-    * Use relevance and everyday applications to motivate. 
-    * Anticipate problems and difficulties through use of common misconceptions and other strategies. 
-    * Understand conceptual structure. 
-    * Deconstruct learning into manageable chunks. 
-    * Enable meta-cognition 
 
-Additional Subject Skills
-Describe any additional experience/understanding you have related to the discipline of computing:
+## Initial Subject Knowledge Audit 
+
+This audit aims to help you: 
+* Understand what “subject knowledge” means for your subject. 
+* Perform a gap analysis of your own skills. 
+* Guide you with building subject knowledge before you start the course. 
+No teacher knows everything about their subject.  
+There are no defined list of topics or other information that must be known by subject practitioners.  
+It is important that you have a map of the wider concepts. 
+What the PGCE “is” and “isn’t” 
+* The one-year PGCE course will be focused on developing your “Subject Pedagogy” e.g. How do you effectively teach XYZ. 
+* The course will not be focused on developing “Subject Knowledge” e.g. Your skills or knowledge about XYZ 
+You will be taking responsibility for learning new material and raising your level of subject knowledge. This is an aspect of the course in which you need to develop independent strategies for learning. 
+
+### Subject Knowledge Level Descriptors 
+
+What do your levels of competence look like in different Computing topic areas? 
+For each area listed, indicate where you assess your level of competence to be currently. Please use the descriptions provided and be frank and honest in your self-assessment. Do not spend more than 30min on this task. 
+The level descriptions should be used as a guide rather than a check list, to aid you. We are not expecting you to be able to demonstrate many areas at level 3 or 4 at this stage, therefore do not worry about ticking any of the boxes as this audit is used as a tool to help support and develop your subject knowledge rather than a judgement tool. 
+0. Some/None: No idea or unsure, insecure knowledge. Need to look it up or refresh knowledge Know the rules but need to refresh knowledge/skills 
+1. I know and can do: Quickly recall, answer exam style questions without a prompt. Know the key information, meanings and have the knowledge 
+2. I understand and can explain: Focus on teaching: Can explain how and why to someone else. Can use analogies, models or similar. Can link prior knowledge and next development stages. Understands the progression in a topic 
+3. I can help others to learn: Focus on individual learning and understanding: Can interconnect and link to other topics. Use relevance and everyday applications to motivate. Anticipate problems and difficulties through use of common misconceptions and other strategies. Understand conceptual structure. Deconstruct learning into manageable chunks. Enable meta-cognition 
 
 
 Computing Candidate Interview Questions
@@ -340,8 +334,27 @@ Other Institutions Interview Reference
 * [University of Southampton: Computing interview process](https://www.efolio.soton.ac.uk/blog/itcs/what-is-the-interview-process/)
 
 
+Pre Course Recommendations/Conditions
+=====================================
+
+School Experience
+-----------------
+
+* [DfE: Get school experience](https://schoolexperience.education.gov.uk/)
+
+
+Subject Knowledge Enhancement
+-----------------------------
+
+If a candidate is a strong but lacks a level of subject knowledge to teach effectively. We can recommend as a condition of enrolment that they complete a subject knowledge enhancement course.
+
+* [TES Institute: Subject Knowledge Enhancement](https://www.tes.com/institute/courses/subject-knowledge-enhancement#frequently-asked-questions)
+    * Our preferred provider
+    * Bursaries available
+
+
 Safeguarding
-------------
+============
 
 (copy and paste from reference document)
 
@@ -387,7 +400,6 @@ some of these may have entirely satisfactory explanations; others may raise seri
 4. How would you help all pupils achieve their potential?
 5. How would you contribute to making a school a safe environment for the children? Can you give some examples of this from your experience?
 
----
 
 ### Child Centred Approach/Safeguarding 
  
@@ -404,7 +416,6 @@ some of these may have entirely satisfactory explanations; others may raise seri
 
 ### Sense of Purpose/Resilience and Dedication 
 	
-
 * What makes a school “safe and caring”? 
 * What motivates you to work with young people? 
 * Tell us about your interests outside work? 
@@ -417,6 +428,10 @@ some of these may have entirely satisfactory explanations; others may raise seri
 * Tell me about a time when you worked with someone you didn’t agree with. 
 * How would you respond if you received negative feedback from someone in a leadership position? 
 
+
+Unsorted
+========
+
 ### Conflict Resolution 
 * Tell me about a time when you disagreed with an idea a friend, colleague or family member wanted to pursue. How did you approach the disagreement? 
 * Think about a situation in which you disagreed with the direction or idea that your boss suggested. What did you do to professionally disagree? If not, what were your thoughts about the situation? 
@@ -424,10 +439,3 @@ some of these may have entirely satisfactory explanations; others may raise seri
 * When you think about your experience with disagreement and conflict resolution, how would you rate your skills in handling differences of opinion? Please give an example that illustrates that skill. 
 * How comfortable are you, in general, with dealing with differences of opinion and disagreement? Can you provide a work-related example that illustrates your comfort level? 
 
-  
-
- 
-
----
-
-https://schoolexperience.education.gov.uk/
