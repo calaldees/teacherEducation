@@ -1,27 +1,34 @@
 Misconceptions
 ==============
 
-https://helloworld.raspberrypi.org/articles/hw17-managing-misconceptions
-Vernacular misconceptions
-Accidental misconceptions
-Deliberate misconceptions
-Thinking about the tools
-Addressing misconceptions
-Learn as much as you can about the topic you’re teaching
-Plan specific questions to expose and challenge misconceptions
-Explore a range of pedagogies that focus on understanding as well as skills 
-Use diagnostic questions, such as multiple-choice questions, and deliberately introduce the misconception as a possible answer
-
-* The biggest Misconception
-    * Using Google and as "Answer engine" not a "Search engine"
-        * They are not the answers
-    * Using AI to solve you're problem - you don't if it's right or not
-
-
 * TS 3.1 
     * > have a secure knowledge of the relevant subject(s) and curriculum areas, foster and maintain pupils’ interest in the subject, and address misunderstandings
 * ITT CCF 3.3
     * > Anticipating common misconceptions within particular subjects is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
+
+
+* Hello World Issue 17: [Managing misconceptions](https://web.archive.org/web/20221210053521/https://helloworld.raspberrypi.org/articles/hw17-managing-misconceptions)
+    * Types
+        * Vernacular misconceptions
+            * same words and phrases are associated with multiple concepts
+            * e.g. belief that "the internet" and the "World Wide Web" are the same thing
+        * Accidental misconceptions
+            * accidentally introduced, simply by using common language or phrasing
+            * e.g. use of the word ‘cloud’ is in this instance a paradox
+        * Deliberate misconceptions
+            * teachers sometimes introduce misconceptions deliberately, to make concepts more accessible
+            * We simplify things for younger learners and have to refine/undo
+    * Plan specific questions to expose and challenge misconceptions
+        * Q: The internet was invented in the 1960s. When was the World Wide Web invented?
+        * Q: When photos are saved to the cloud, where do they actually go?
+        * Q: When you cannot access the internet, does that mean your WiFi is down?
+    * Explore a range of pedagogies that focus on understanding as well as skills 
+    * Use diagnostic questions, such as multiple-choice questions, and deliberately introduce the misconception as a possible answer
+
+* The biggest Misconception of all ...
+    * Using Google and as "Answer engine" not a "Search engine"
+        * They are not the answers
+    * Using AI to solve you're problem - you don't if it's right or not
 
 
 

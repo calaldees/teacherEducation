@@ -13,4 +13,13 @@ Feed Forward
         * from varied viewpoints
         * focused
         * what if xyz
-![Feedback/FeedForward Comparison](https://x78251kcpll2l2t9e46kf96a-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Feedforward-Chart.png)
+![Feedback/FeedForward Comparison](https://www.cultofpedagogy.com/wp-content/uploads/2018/01/Feedforward-Chart.png)
+
+| Feedback | FeedForward |
+|----------|-------------|
+| Affirms what the person already knows | Regenerates Talent |
+| Points out Problems | Expands possibilities |
+| Is an information dump | is Particular |
+| Tries not to be mean | is Authentic |
+| doesn't always offer a plan of action | Has Impact |
+| Comes from the top down | Refines group dynamics |

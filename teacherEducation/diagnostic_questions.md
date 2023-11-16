@@ -1,40 +1,45 @@
 
-Diagnostic/Hinge Questions (2.5 hours)
+Diagnostic/Hinge Questions (1 hour)
 --------------------------
 
-https://helloworld.raspberrypi.org/articles/hw18-multiple-choice-question-construction
-https://helloworld.raspberrypi.org/articles/hw20-it-all-hinges-on-this-question
+* See [[misconceptions]]
 
 
-(Previously Async - 1 hour)
+
+
 * Read [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)
     * History
 * [Building a responsive teaching culture by designing and using hinge questions](https://impact.chartered.college/article/building-responsive-teaching-culture-hinge-questions/) 2020 impact.chartered.college
-* Watch [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/watch?v=HlRJIsZnITs&list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0&index=1)
-    * All videos are 40min in total - You can get the majority of information in the first 30min
+* [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/watch?v=HlRJIsZnITs&list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0&index=1)
+    * All videos are 40min in total - You can get the majority of information in the first 3min
+* Hello World - Computing Diagnostic Questions
+    * https://web.archive.org/web/20230603171325/https://helloworld.raspberrypi.org/articles/hw18-multiple-choice-question-construction
+    * https://web.archive.org/web/20230603173141/https://helloworld.raspberrypi.org/articles/hw20-it-all-hinges-on-this-question
 
-### TASK: Explore Computing Diagnostic Questions (10min)
+
+### TASK: Explore Computing Diagnostic Questions (15min)
 * Find/Browse examples of Computing [Diagnostic Questions](https://diagnosticquestions.com/) on the the site
+    * Computing Question Bank - Project Quantum [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
 
-### TASK: Create Diagnostic Questions (30min)
-* Attempt to devise 3 simple standalone diagnostic questions for Computing (10 min per question?)
+* Find a question on (8min)
+    * [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
+* Present a the question to the group (10min)
+
+
+### TASK: Create Diagnostic Questions (10min)
+* Attempt to devise 1 standalone diagnostic questions for Computing
     * THIS IS HARD!
     * Extension: Create an additional multi-part diagnostic question
 * Topic reminders
-    * KS3 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
     * KS4 [AQA Spec](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content)
 
-### TASK: Sync 30min
+### TASK: 20min
 * Present diagnostic questions 
 * The group will commentate on what they think the correct answer is and what misconceptions the incorrect answers are addressing before the presenter reveal the intention
 * Omega springboard - Go Meta - see below
 
 ### Summary/References/FurtherReading
 
-* Project Quantum [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
-    * Computing Question Bank
-* > Incorrect answers can distract pupils and reinforce misconceptions
-    * Roedinger, KarPicke - Qfsted computing research review
 
 Some of my references for diagnostic/hinge questions
 
@@ -73,16 +78,52 @@ Some of my references for diagnostic/hinge questions
         * [Blog: Diagnostic Questions: How to ...](http://www.mrbartonmaths.com/blog/diagnostic-questions/)
             * [Diagnostic Questions Video Guide](https://www.youtube.com/c/mrbartonmaths/playlists?view=50&sort=dd&shelf_id=8) Youtube playlist
                 * [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/watch?v=HlRJIsZnITs&list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0&index=1)
-* [STEM Learning - Assessment for Learning - Hinge Point Questions](https://www.stem.org.uk/assessment-for-learning)
+
+### Criticality
+
+* > Incorrect answers can distract pupils and reinforce misconceptions
+    * Roedinger, KarPicke - Qfsted computing research review
+* Many facets of Computing are a combination of concepts - leading to diagnostic questions loosing value as skills improve
+* The students don't engage and guess - you get misleading results
+
+
+Hinge Questions
+---------------
+
+Slightly different concept to diagnostic questions
+
+* [STEM Learning - Assessment for Learning - "Hinge Point" Questions](https://www.stem.org.uk/assessment-for-learning)
+    * multiple correct answers are included to make it difficult for students to get the correct answer for the wrong reason.
+    * the incorrect distractor answers have been purposefully chosen and they link to alternative conceptions or ideas.
 * [Improving Teaching](https://improvingteaching.co.uk/) Harry Fletcher-Wood [@HFletcherWood](https://twitter.com/HFletcherWood)
-    * [Hinge Questions](https://improvingteaching.co.uk/hinge-questions-hub/)
+    * [Hinge Questions](https://improvingteaching.co.uk/hinge-questions-hub/) ImprovingTeaching.co.uk
         * [Do they understand this well enough to move on? Introducing hinge questions](https://improvingteaching.co.uk/2013/08/17/do-they-understand-this-well-enough-to-move-on-introducing-hinge-questions/)
             * [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)
                 * > Whatever a student chooses, I will know what they were thinking, that they can only have been thinking that, and that there’s nothing else they might have thought of that I’ve missed.
 
-Task
-----
+### My example of hinge
 
-* Find a question on (8min)
-    * [diagnosticquestions.com/Quantum](https://diagnosticquestions.com/Quantum)
-* Present a the question to the group (10min)
+Taking from Harry Fletcher Wood.
+* Have a question with 6(?) responses
+    * with multiple answers being 'true/correct'
+        * Not a guessing/most likely - have to think about each one
+    * Even none of them being correct
+    * Each wrong selection will reveal a misconception
+* (show example of my socrative - https://b.socrative.com/teacher/#results/75196146/questions/5 )
+    * Look at the wrong
+    * Students can justify why they put that answer - sometimes they are correct - this really makes you think about your wording
+    * Give them time to write why the incorrect answer was wrong in workbooks (?)
+
+
+
+Summary
+=======
+
+* TASK: Describe how diagnostic questions are different from hinge questions
+* To use these - questions need to be planned carefully in advance!
+
+
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[misconceptions]: misconceptions.md "Misconceptions"
+[//end]: # "Autogenerated link references"

@@ -650,14 +650,14 @@ Friday 17th November - 11:00
             * [[feed_forward]]
                 * #6/h-Assessment-LearnHow-feedback_appropriate_for_learner
                 * #6/j-Assessment-LearnHow-feedback_actionable
-        * Whole class feedback
+        * [[feedback-whole-class]]
     * [[all_student_response_systems]]
     * [[diagnostic_questions]]
         * #2/6-HowLearn-LearnThat-misconceptions
         * #2/e-HowLearn-LearnHow-identify_misconception
         * #3/4-SubjCur-LearnThat-anticipate_misconceptions
         * #3/g-SubjCur-LearnHow-planning_for_misconceptions
-    * [[verbal_feedback]]
+    * [[feedback-verbal]]
         * #6/m-Assessment-LearnHow-more-than-written-feedback
     * [[automated_tests]] and fast feedback cycle
     * [[bebras]] problems
@@ -1366,9 +1366,10 @@ From 22nd april
 [metaCognition]: metaCognition.md "Meta-cognition"
 [assessment_markscheme]: assessment_markscheme.md "assessment_markscheme"
 [feed_forward]: feed_forward.md "feed_forward"
+[feedback-whole-class]: feedback-whole-class.md "Feedback - Whole Class"
 [all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
 [diagnostic_questions]: diagnostic_questions.md "diagnostic_questions"
-[verbal_feedback]: verbal_feedback.md "verbal_feedback"
+[feedback-verbal]: feedback-verbal.md "feedback-verbal"
 [automated_tests]: automated_tests.md "automated_tests"
 [bebras]: bebras.md "bebras"
 [teacherEducation/assessment]: assessment.md "Formative Assessment"

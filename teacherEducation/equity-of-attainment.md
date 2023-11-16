@@ -38,6 +38,8 @@ Ongoing debate about equity in education. Juxtaposed sides arguing passionately.
 * [Dylan Wiliam Embedding Formative Assessment SSAT/EEF celebration event keynote](https://youtu.be/zwGaG1b_T2w?t=172)
     * > If you get the bell curve in your school, I would suggest that you are not doing your job, because the bell curve is what nature gives us, the bell curve is what happens when we treat every single kid the same
     * > I don't want to live in a world where taller people are better at basketball, but that's the reality we live in
+    * https://youtu.be/zwGaG1b_T2w?si=tlkPX5FlEPF9p8o5&t=300
+    * I no longer believe in "equality of opportunity" - because that means the bell curve all over again. We need to give more help to the kids that need it
     * lower achieving students (literacy/numeracy) have worse lives - can't participate properly in society - we should address that
 
 

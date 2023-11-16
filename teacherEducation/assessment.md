@@ -1,12 +1,20 @@
 Formative Assessment
 ====================
 
+
+* [How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
+    * > Our current knowledge-based system only goes part of the way towards equipping young people with the skills that will give them the confidence and resilience to shape their own path through life.  They need to make the best of human capacity for imagination and critical judgment, especially with our ever-greater dependency on technology and artificial intelligence.”
+    * > The world is moving fast, and education risks falling behind. 
+
 TODO:
 * Hello World [Assessment in secondary computing](https://helloworld.raspberrypi.org/articles/hw12-insiders-guide) 2020 Alan O’Donohoe and John Woollard
     * [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
         * ASSESSMENT IN SECONDARY COMPUTING -  offer practical, common-sense advice on how to assess Computing for ages 11 to 16
+            * Danger 1: Don’t seek the holy grail of assessment. Be wary of the dangers of being oversold apparently attractive assessment solutions by enthusiastic advocates.
+            * Danger 2: Consider the workload impact. Your well-being is incredibly important, and there is little value in creating a wonderful-sounding assessment strategy if it is impractical to use on a regular basis.
+            * Danger 3: Beware false success. Some commercially available assessment solutions do not limit or control students’ attempts at multiple choice quizzes, meaning that students can choose to repeat the tests until they score 100%
 
-* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
+* The Cambridge Handbook of Computing Education Research: Chapter [14 - Assessment and Plagiarism](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
     * > an attempt to develop a classification scheme for programming exams ... 12 experienced teachers rate example questions on dimensions including topic areas, necessary skills, explicitness, difficulty, and several kinds of complexity. ... “Essentially, there was little or no consensus on whether questions were easy, moderate, or difficult.” This is a difficult starting point for building well-targeted assessment!
     * > In summary, our motivations for a focus on assessment are that it has a strong effect on learning outcomes and that there is not yet a widely agreed theory, or even consensus on the practical details, of how to conduct assessment in our field
     * > “reviewers regularly underestimated the number of CS1 concepts required to answer these questions,” ...  Similar conclusions about the highly integrated nature of the knowledge required by programming assessments
@@ -155,7 +163,6 @@ Other
 
 [[feed_forward]]
 
-* Jamie Clarke (Graphic Artist) [Defining Excellence: Whole class feedback](https://www.jamieleeclark.com/graphics) poster Andrew Atherton
 
 
 EEF Trial (30min)
@@ -301,79 +308,10 @@ Sync (10min)
 
 
 
-Feedback Cycle and Tools (30min)
-------------------------
-
-### Make Students Think
-
-* Below are a list of general feedback and marking techniques that prompt students to engage with the feedback
-* Read (7min)
-* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015
-    1. Marking for improvement
-        * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
-    2. Mastery marking
-        * Only accept student work when it is of a specific quality. You might only give one grade, an A. Students are expected to continue to redraft and resubmit their work as many times as necessary in order to achieve an A. The overall grade is then determined by the number of As.
-    3. +, –, = (Plus, Minus, Equals) 
-        * Mark student work in relation to previous work. If the latest work is of the same quality as the last, it receives an ‘=’, if it is better than the last, it receives a ‘+’, and if it is not as good as the last, it receives a ‘–‘. 
-    4. Responding to marking
-        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided.
-    5. Focused marking
-        * Mark student work against one or two specific criteria, even though there may be many criteria that could be marked. This allows you to provide more focused and detailed feedback on these criteria than if everything was marked. The grade-book contains the skill marked rather than the title of the work set.
-    6. Find and fix your mistakes
-        * Instead of marking answers as correct or incorrect, tell the students the number of answers that were wrong. Give them time in class to find and correct their mistakes, either individually or in groups.
-    7. Margin marking
-        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them
-    8. Traffic lights
-        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks
-    9. Aim for the next level
-        * Students identify areas of improvement by comparing their work to exemplars at the next level of achievement. Students realize that they need to set themselves higher standards. Able students find that they can improve a good piece of work.
-    10. Match comments to work 
-        * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
-
-Consider the question below
-* Most of these examples are about a student having a paper workbook (some computing teachers do this!)
-    * Can you describe an example of any of these that map to the context of teaching Computing in a digital/remote classroom?
-
-
-### Feedback Loop/Cycle
-
-* Teacher needs to actively monitor work
-    * Students need to know that you care about the work (if you don't care, why should they care)
-* Teacher give actionable feedback
-* Students needs to digest and then action
-* Teacher identify that action has been taken based on the feedback
-
-```mermaid
-graph TD
-    s[Student]
-    t[Teacher]
-    t --actionable feedback--> s
-    s --action--> t
-```
-
-Show you care - two way process
-
-### Discuss tooling and workflows (15min)
-
-* In the context of the modern Computing classroom - how would we accomplish this 'feedback cycle'?
-    * How do we quickly comment on students code? and quickly see their progress?
-
-* TASK: What tools could be used to:
-    * facilitate this feedback exchange?
-    * record this feedback exchange?
-    * facilitate the feedback exchange in a timely manner?
-        * provide alerts?
-* I've got some ideas ... I'm interested to hear yours
-    * git? 
-        * (anonymous?, comments, script assisted)
-    * [repl.it](https://replit.com/site/teams-for-education)
-        * https://replit.com/curriculum/Intro-to-Python
-    * physical workbook?
 
 
 
 * [[all_student_response_systems]]
-* [[verbal_feedback]]
 * [[assessment_feedback_task]]
 
 
@@ -440,178 +378,10 @@ Further Reading
 
 
 
+Formative Assessment (Responsive Teaching)
+--[[feedback-verbal]]---------------------
 
-Dylan Wiliam - Formative Assessment
-------------
-
-* Dylan-Wiliam
-    * [dylanwiliam.org](http://www.dylanwiliam.org)
-    * [dylanwiliamcenter.com](https://www.dylanwiliamcenter.com/)
-    * [@dylanwiliam](https://twitter.com/dylanwiliam)
-    * [Author: Amazon](https://www.amazon.co.uk/Dylan-Wiliam/e/B004X8F5IC)
-
-
-Formative assessment is more effective steaming/setting
-* [Inside the Black Box](https://journals.sagepub.com/doi/10.1177/003172171009200119) (Black and Wiliam, 1998) [alternate](https://weaeducation.typepad.co.uk/files/blackbox.pdf)
-    * Present policy treats the classroom like a _black box_ and offers no help with as to how to raise attainment. Inputs are money, teachers, resources. Outputs are grades. Whats happens inside the black box?
-    * > Feedback to any pupil should be about the particular qualities of his or her work, with advice on what he or she can do to improve, and should avoid comparisons with other pupils
-    * > For formative assessment to be productive, pupils should be trained in self-assessment so that they can understand the main purposes of their learning and thereby grasp what they need to do to achieve
-    * > Opportunities for pupils to express their understanding should be designed into any piece of teaching, for this will initiate the interaction whereby formative assessment aids learning
-    * > The dialogue between pupils and a teacher should be thoughtful, reflective, focused to evoke and explore understanding, and conducted so that all pupils have an opportunity to think and to express their ideas
-    * > Tests and homework exercises can be an invaluable guide to learning, but the exercises must be clear and relevant to learning aims. The feedback on them should give each pupil guidance on how to improve, and each must be given opportunity and help to work at the improvement
-* [Working inside the Black Box: Assessment for Learning in the Classroom](https://journals.sagepub.com/doi/10.1177/003172170408600105) 2004 Wiliam, Black, et al
-* [Inside the Black Box: Raising Standards through Classroom Assessment](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
-    * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
-        * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
-* [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
-    * Research suggests consistent effects
-    * "Assessment of learning" helps teacher - not learner
-    * focusing on the intention rather than the action.
-    * "Assessment for learning" strategy by the government is all about recording and reporting achievement - if the impact is not with the student then it's not having an effect
-    * > Formative assessment == Such assessment becomes formative  when the evidence is actually used to adapt the teaching work to meet the learning needs (Black 2002)
-    * Short term - In the moment - impact before they leave the classroom
-    * > Changing what teaching think doesn't benefit students until it changes what teachers do
-      > ... we've been trying to get teachers to think there way into a new way of acting. We need teachers to act their way into a new way of thinking
-    * Aspects of formative assessment
-
-|       | Where is the learner going | Where the learner is | How to get there |
-|-------|----------------------------|----------------------|----------------|
-| Teacher | Clarify and share learning intentions | Engineering effective discussions, tasks, and activities that elicit evidence of learning | providing feedback that moves learners forward |
-| Peer | Understand and share the learning intentions | Activating students are learning resources for one another |
-| Learner | Understand the learning intentions | Activating students as owners of their own learning |
-* cont ...
-    * Activating students as owners of their own learning
-        * Self assessment
-        * Meta cognition
-        * Emotional response (resilience to difficulties/failure)
-        * Self efficacy
-    * Activating students are learning resources for one another
-        * Peer assessment
-        * Peer tutoring
-        * Mentoring
-    * Providing feedback that moves learners forward
-        * often the view from the rear view mirror - what was wrong with the last assignment - but they are never going to do that assignment again
-        * Feedback should take out of the last assignment, what they need for the next assignment
-    * How often should we do formative assessment - not more than once per minuet
-* [Formative assessment: The bridge between teaching and learning in high school mathematics](https://www.dylanwiliam.org/Dylan_Wiliams_website/Presentations_files/2013-08-02%20NCTM%20HS%20Institute.pptx) NCTM High School Interactive Institute, August 2nd , 2013: Washington, DC Dylan Wiliam
-    * Formative assessment/ Assessment for learning = 8 months additional learning a year = £3,000 per class per year
-* [Dylan Wiliam Embedding Formative Assessment SSAT/EEF celebration event keynote](https://www.youtube.com/watch?v=zwGaG1b_T2w) 2017 38min
-    * If you don't think you can get better you will reject feedback
-    * Create a culture where teachers want to improve - not because they are not good enough
-    * Schools are talent refinery's - some kid get it, some kid don't - the good are sifted to the top.
-    * Talent incubators or talent factories
-    * IQ is 80% of GCSE grade - IQ inhabitability 60%
-    * Because it is the case - does not mean it ort to be the case
-    * If you get a bell curve - you are not doing your job. A bell curve is what nature gives us
-    * I don't want to live in a world where taller people are better at basketball
-    * I don't believe in equality of opportunity - because that means the bell curve all over again. We need to give more help to the kids that need it
-    * Send all the clever kids home on Thursday/Friday - that will close the achievement gap
-    * Lower achieving pupils need a better chance of a good life
-    * Consider control/impact matrix
-        * some things are outside of your control and have high impact - _poverty_
-    * Set's don't seem to impact on achievement - it's not an argument about data, the data is clear - it's about what middle class parents want
-    * Some teachers are better than other teacher - so we drive teacher accountability - let's grade teachers - most people cant identify good teachers
-    * More struggle more learning - less struggle less learning
-    * 7 teachers
-        * 3 have performed 0.5 standard deviations above consistently for 3 years
-        * 4 have performed 0.5 standard deviations below consistently for 3 years
-        * People shown video clips and asked to say good/bad teacher
-        * nobody could tell (Strong 2011) - a coinflip was better odds - school principles, mentors, students, parents
-    * You need 11 years worth of data to get an estimate predictor of how good a teacher is
-    * We have better things to do with our time. There is no upside to grading teachers. Let's stop. Let's just help every teacher get better
-    * How can you improve teachers if you cant measure them
-    * Pareto 80:20 rule
-        * Don't raise money for tax's until you can be sure you are doing the best you can with your current money
-        * If have to take away from one thing to add to another - that's a political decision
-        * If you can add to something without taking away from another - that's a technical matter and you should do it straight away
-        * Can we improve education without adding more money?
-        * If anything that you add damages what you have - then you are pareto optimal and only more money will improve it
-    * Research will never tell you _what_ to do - it tells you what currently is
-        * don't work
-            * Smarter teachers
-            * paying teachers more
-            * learning styles
-            * brain gym
-        * Might work
-            * differentiated instruction
-            * grit (only for westpoint graduates)
-            * growth mindset (impact on student achievement is not significant - never been validated)
-            * social and emotional aspects of teaching
-        * work a bit
-            * firing bad teachers
-            * charter schools
-            * class size reduction
-        * work a lot
-            * curriculum improvement
-            * formative assessment
-    * Everything was hard before it was easy - remind children how hard it was to tie their shoe laces
-    * Expertise is 
-        * Specific and limited
-        * Weakly related to general ability
-        * Not reproducible to propositional knowledge - cant be reduced to words
-        * Involves perception fo meaningful patters
-    * Most teachers could be as good as the very best teachers within 10 years
-    * You could have the very best school - it will just take you 10 years
-    * In a collaborative environment teachers reach average of 1.0 in 3 years, in an average school this take teachers 7 years
-    * Takeuchi 1995 - companies that manage tacit knowledge well - socialisation of staff
-    * You get given advice - you sort of do it but don't really understand it until you were doing it yourself
-* [Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event](https://www.youtube.com/watch?v=aPTZpLaJvUA) 2017 1h15min
-    * Schools are hyper optimised - everything you do is valuable - so improving education is hard - you can only improve it by stopping people doing good things so that they can do better things - teachers resist change because the things they are doing are good and needed - it's not laziness that _not everything gets marked_
-    * SLT should not be advising in breakout groups - they are too detached - they change the dynamic, they are not the ground workers
-        * Theory X - people are lazy and leaders need to monitor
-        * Theory Y - people are ok and just need support
-        * Better to start the conversation with Theory Y - turns out just asking most people to do their best is a pretty good strategy
-        * If the metric is just make sales - that's easy - sell everything at a loss and boost sales ... but that's not what we want, we actually want is profit. 
-        * We need corporate alignment. Cascaded objectives (OKRs based on OKRs) - direct reports had objectives that are aligned with theirs. 
-        * Everybody made/succeeded in their objectives but the organisation did not get better/more-efficient
-            * You MUST fail some of your objectives, otherwise they are not challenging enough.
-        * there are no _experts_ in the group - equality of communication
-    * A good teacher on their first day will be better than an average teacher after 20 years in the classroom
-        * right now teachers are born, because we are not very good at making them
-        * High IQ chess players improve in first few years but hit wall of experience. Sometimes the only way to progress is experience
-        * Aim to reduce the variation in teacher quality
-    * Effective & scaleable teacher professional development
-        * better teachers are better, but it's impractical and expensive to replace the whole teacher workforce.
-        * It's clear you have to invest in the teachers you've got
-    * Formative assessment independent of any curriculum
-    * Formative assessment is needed because children do not learn what we teach
-    * The most important factor is what the learner already knows. Ascertain this and teach accordingly.
-    * "You should know this you're in year 5" ... how do you get into year 5 ... be in year 4 and have a birthday
-    * High priest of the spreadsheet - worship it and it would predict
-    * Formative assessment is very subject specific
-    * Don't ever take in input from one volunteer - at minimum get them to discuss. Every person is active
-    * Hold hand up and wait for silence
-    * ask everyone to vote with fingers 1,2,3,4,5
-    * responsiveness
-    * Factors with most difference - 1. high socioeconomic status 2. teacher responsive instruction (formative assessment)
-    * Least difference - exploration learner (because teachers probably do it badly). absence.
-    * 'Area of Tapesium' 43:00 - introduce one method + formula - then in groups find all other ways
-        * https://youtu.be/aPTZpLaJvUA?t=2580
-        * couple be useful in computing (how many ways of doing this)
-            * one of these methods uses while loops - or uses a stack
-        * teacher can 'ramp up' difficulty by prompts during the activity
-    * Good teaching looks like - Big question - student discussion - teacher lead - students consolidating
-        * setting doesn't work - we get 50% of kid in the right set
-    * Lesson Study 50:00 - no guarantee this will help
-    * Genuine Peer observation of lessons - no SLT - nothing formerly recorded - teacher request - genuinely formative 52:00
-        * Skip the formal assessment, just get to 'things that matter'
-    * Don't solve problems that there is no guarantee these will improve learning
-        * 4 domains of practice - 2 domains don't matter
-        * Teachers can get better at stuff that doesn't matter
-    * Stop talking about comment only marking - all engagement and response is more important
-    * only 3% can get the top grade (? not overly useful for universities or anyone)
-    * Growth mindset is good for saying "you will be more able in this area if you put in effort" - higher achievement not higher intelligence
-    * 01:12:20 "You have to have slack to do formative assessment"
-    * The thinking capacity of novices and experts is the same. Experts can draw on long term memory
-
-Using evidence of achievement to adapt what happens in classrooms to meet learner needs
-
-Students will resist formative assessment stratergies
-> Why am I doing your marking?
-
-Teachers time is 100% full. There is nothing that teachers do that is 'not useful'. To make progress we need to prove that doing X is more effective than doing Y. You need to replace something with something more effective. https://youtu.be/7ynsMwzsCsg?t=2840
-
-`+` `-` `=` for all students every two weeks to parents - why bother writing lengthy comments - if you want to talk, talk to us
+* [[assessment_formative]]
 
 
 Computer-Based Assessment (CBA) - Computer Adaptive Testing (CAT)
@@ -1106,9 +876,7 @@ Sentence says - assess abilities
 assess design - assess by interview
 
 
-* [How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
-    * > Our current knowledge-based system only goes part of the way towards equipping young people with the skills that will give them the confidence and resilience to shape their own path through life.  They need to make the best of human capacity for imagination and critical judgment, especially with our ever-greater dependency on technology and artificial intelligence.”
-    * > The world is moving fast, and education risks falling behind. 
+
 
 
 * NCCE [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf) - Poster of KS1 to KS4 progress with assessment objectives
@@ -1178,8 +946,9 @@ ITT Core Framework
 [feed_forward]: feed_forward.md "feed_forward"
 [assessment_ks3]: assessment_ks3.md "Assessment - KS3"
 [all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
-[verbal_feedback]: verbal_feedback.md "verbal_feedback"
 [assessment_feedback_task]: assessment_feedback_task.md "assessment_feedback_task"
+[feedback-verbal]: feedback-verbal.md "feedback-verbal"
+[assessment_formative]: assessment_formative.md "Formative Assessment"
 [bebras]: bebras.md "bebras"
 [live_marking]: live_marking.md "Live Marking"
 [assessment_online]: assessment_online.md "Assessment Online"

@@ -38,7 +38,7 @@ I spent 3 hours this holiday making a proof of concept mobile feedback capture s
     * it saves comments in memory that can downloaded as json
     * the seating plan is currently hard coded
     * I've tested it with desktop chrome (It may need a few tweaks to be used on mobile?)
-* [github.com/calaldees/teacherTools](https://github.com/calaldees/teacherTools)
+    * [github.com/calaldees/teacherTools](https://github.com/calaldees/teacherTools)
 
 TASK: Give it a try
 Can we think of any other simple tools that could help us with data management for feedback?
