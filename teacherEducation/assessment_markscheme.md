@@ -1,6 +1,8 @@
 Assessment Mark-scheme (1.5 hours)
 -----------------------
 
+TS 6 - Make accurate and productive use of assessment  
+* know and understand how to assess the relevant subject and curriculum areas, including statutory assessment requirements  
 #6/b-Assessment-LearnHow-external_resources
 
 ### Exam Boards

@@ -1,7 +1,53 @@
 Formative Assessment
 ====================
 
-* Jamie Clarke (Graphic Artist) [Formative Assessment Moving Learners Forward](https://www.jamieleeclark.com/graphics) poster - This one-pager summarises Dylan Wiliam and Siobhán Leahy’s five formative assessment strategies that teachers can use to support learning.
+* Jamie Clarke (Graphic Artist) [Formative Assessment Moving Learners Forward](https://www.jamieleeclark.com/graphics) [pdf poster](https://www.jamieleeclark.com/s/FA.pdf) - This one-pager summarises Dylan Wiliam and Siobhán Leahy’s five formative assessment strategies that teachers can use to support learning.
+
+
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018 +2months
+    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
+        1. clarifying, sharing and understanding learning intentions
+        2. engineering effective classroom discussions and activities
+        3. providing [[feedback]] that moves learning forward
+        4. activating learners as instructional resources for one another
+        5. activating learners as owners of their own learning
+    1. CONSISTENT: Design a school feedback policy that prioritises and exemplifies the principles of effective feedback
+
+### Deference of "Formative Assessment" (responsive teaching) and AfL (Assessment for Learning)
+
+* [Formative assessment, assessment for learning, and all that jazz](https://www.schooleducationgateway.eu/en/pub/viewpoints/experts/formative-assessment-learning.htm) SchoolEducationGateway.eu 2020
+    * Assessment for learning (the purpose of the assessment is to promote learning)
+        * is any use of assessment that is primarily intended to improve, rather than measure, learning. 
+        * If I tell my students on Monday that there is going to be a test on Friday, and the students study for the test, then the assessment is likely to improve the students’ learning, even if I do not actually give the test on Friday. 
+        * Testing can also be highly effective as a study technique: as literally hundreds of psychological experiments have shown, taking a test improves learning even if the test is not scored, because it provides practice in retrieving items from memory, which is known to improve long-term learning.
+    * Formative Assessment (the results of the assessment need to be used to improve instruction)
+        * An assessment functions formatively to the extent that evidence from the assessment is used – by teachers, by students, or by their peers – to make better decisions about the next steps in instruction.
+    * ... “formative” and “summative” ... (are)... different kinds of conclusions that might be drawn from assessment outcomes
+
+* 'Formative assessment' should have been called 'responsive teaching' - 'assessment' makes people think of tests
+<sub>Dylan Wiliam</sub>
+
+### Summary
+
+* [Revisiting Dylan Wiliam’s Five Brilliant Formative Assessment Strategies](https://teacherhead.com/2019/01/10/revisiting-dylan-wiliams-five-brilliant-formative-assessment-strategies/) Tom Sherrington 2019 - Referencing Wiliam 2005
+    * > the five strategies should be there, part of the core curriculum for teacher development
+    * Five Formative Assessment Strategies
+        * Clarifying, understanding, and sharing learning intentions
+            * > if you don’t know where you’re going, you’ll never get there
+        * Engineering effective classroom discussions, 
+            * tasks and activities that elicit evidence of learning
+            *  question design – including good diagnostic multiple choice questions
+            *  and the role of all-student response techniques.
+        * Providing [[feedback]] that moves learners forward
+            * their capacity to understand the feedback and inclination to accept and act on it
+            * goal is to change the students’ capacity to produce better work
+            * if learner is reliant on external feedback == SatNav style learning
+        * Activating students as learning resources for one another
+            * Teacher must NOT be the bottleneck of knowledge. Remove yourself from this role
+        * Activating students as owners of their own learning
+    * ![Formative Assessment Strategies - Table](https://headguruteacher.files.wordpress.com/2019/01/dwaauk1xqaegxl8.jpg)
+    * > Truth be told, a lot of ‘AfL’ was and is a mile away from the formative assessment practice Wiliam is talking about.
+
 
 
 Dylan Wiliam - Formative Assessment (Responsive Teaching)
@@ -42,8 +88,8 @@ Formative assessment is more effective then steaming/setting
 |       | Where is the learner going | Where the learner is | How to get there |
 |-------|----------------------------|----------------------|----------------|
 | Teacher | Clarify and share learning intentions | Engineering effective discussions, tasks, and activities that elicit evidence of learning | providing feedback that moves learners forward |
-| Peer | Understand and share the learning intentions | Activating students are learning resources for one another |
-| Learner | Understand the learning intentions | Activating students as owners of their own learning |
+| Peer | Understand and share the learning intentions | Activating students are learning resources for one another | <-
+| Learner | Understand the learning intentions | Activating students as owners of their own learning | <-
 * cont ...
     * Activating students as owners of their own learning
         * Self assessment
@@ -237,5 +283,6 @@ Further Reading
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[feedback]: feedback.md "feedback"
 [responsive_teaching]: conferences/responsive_teaching.md "Assessment for learning - Responsive teaching"
 [//end]: # "Autogenerated link references"

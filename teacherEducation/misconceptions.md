@@ -180,7 +180,7 @@ thing(i, j)
 *execution function instead of defining it
 * mismatched brackets - Brackets MUST match
 * Wrong type of brackets (there are 4 different types of brackets - it's hard to even know where they are on the keyboard)
-* Cannot comprehend 'i'ndentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
+* Cannot comprehend 'i'ndentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said. (TODO Stride? The Michal Koling Frame based editing)
 
 ```python
 # use of if and else-if

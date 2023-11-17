@@ -1,10 +1,25 @@
-Feedback Cycle and Tools (30min)
-------------------------
+Feedback (30min)
+--------
+
+TS6 - Make accurate and productive use of assessment  
+* give pupils regular feedback, both orally and through accurate marking, and encourage pupils to respond to the feedback.
 
 * See
     * [[feedback-verbal]]
     * [[feed_forward]]
     * [[feedback-whole-class]]
+
+
+* > The main purpose of feedback is to improve the student and not the work <sub>Wiliam</sub>
+
+
+* EEF [Teacher Feedback to Improve Pupil Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/feedback/) 2018 - Six recommendations for using teacher feedback to improve pupil learning
+    1. SET EXPECTATIONS: Lay the foundations for effective feedback
+    2. TIMELY: Deliver appropriately timed feedback that focuses on moving learning forward
+    3. PLAN TO USE: Plan for how pupils will receive and use feedback
+    4. WRITTEN: Carefully consider how to use purposeful, and time-efficient, written feedback
+    5. VERBAL: Carefully consider how to use purposeful verbal feedback
+* https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback
 
 
 ### Make Students Think
@@ -34,7 +49,7 @@ Feedback Cycle and Tools (30min)
         * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
 Consider the question below
-* Most of these examples are about a student having a paper workbook (some computing teachers do this!)
+* Most of these examples are about a student having a paper workbook 
     * Can you describe an example of any of these that map to the context of teaching Computing in a digital/remote classroom?
 
 
@@ -59,7 +74,7 @@ Show you care - two way process
 ### Discuss tooling and workflows (15min)
 
 * In the context of the modern Computing classroom - how would we accomplish this 'feedback cycle'?
-    * How do we quickly comment on students code? and quickly see their progress?
+    * How do we quickly comment on students work? and quickly see their progress?
 
 * TASK: What tools could be used to:
     * facilitate this feedback exchange?
