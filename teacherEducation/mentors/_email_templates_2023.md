@@ -261,6 +261,40 @@ I'm required to visit
 •	Where are mentors in their training? What is your experience as a mentor?
 
 
+Visit Prompt
+------------
+
+Computing Mentor Visit - Arranging a date?
+
+Hi,
+  xxx (as Computing Subject Mentor), 
+  xxx (as Professional Mentor),
+  xxx (as trainee teacher)
+
+
+xxx
+
+As part of process, I should visit schools once per placement.
+I would like to extend the offer to visit your school and support your mentoring.
+This visit can be before or after Christmas. My hope is that an earlier visit will lead to more impact.
+
+A mentor visit normally looks something like:
+ - 45min xxx and Allan - Discuss curriculum and progress 
+ - 45min xxx,xxx and Allan - A normal mentoring activity (weekly-meeting?/joint-lesson-observation?) with tutor participating.
+ - 15min xxx and Allan - Catchup progress
+ - 15min xxx (xxx?) and Allan - Summary and next steps
+
+I have a booking system that is linked to my calendar availability to book school visits available at
+https://outlook.office.com/bookwithme/user/3e0385ef8fb340e38b6686624a78dda0@canterbury.ac.uk?anonymous&ep=pcard
+
+My presence is purely to help and support.
+Please fit this visit into a timescale that is comfortable for you.
+
+Hope to see you soon.
+Keep in touch.
+
+
+
 
 Pre First Visit
 ---------------
@@ -281,7 +315,7 @@ The purpose of my visit is to support you with the mentoring process.
 
 My initial thoughts for the timing of this visit could be:
  - 45min xxx and Allan - Discuss curriculum and progress 
- - 45min xxx, xxx and Allan - A normal mentoring activity (weekly-meeting?/lesson-observation?) with tutor participating.
+ - 45min xxx, xxx and Allan - A normal mentoring activity (weekly-meeting?/joint-lesson-observation?) with tutor participating.
  - 15min xxx and Allan - Catchup progress
  - 15min xxx, (xxx?) and Allan - Summary and next steps
 I'm happy for the order/timing to be flexible.

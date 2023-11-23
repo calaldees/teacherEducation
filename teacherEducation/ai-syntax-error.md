@@ -1,20 +1,24 @@
 AI syntax error
 ===============
 
+* To improve students awareness of AI tools, we need to model using them and critique the output
+* Use AI in front of students - and together critique it's output
+    * Show them how misleading and bad it is
 
 ```
 I am learning python
 
 Here is my program
 a = 3
-b = input("enter a number to add to 3")
+print("enter a number to add to 3")
+b = input()
 answer = a + b
 print("the answer is " + answer)
 
 Here is my error
 enter a number to add to 35
 Traceback (most recent call last):
-  File "/mnt/c/Users/ac954/code/temp/test.py", line 3, in <module>
+  File "/mnt/c/Users/ac954/code/temp/test.py", line 4, in <module>
     answer = a + b
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 
@@ -44,7 +48,7 @@ With this modification, your code will first convert the user input to an intege
 ```
 
 ```
-I am 12 and new at this
+I am 13 and new at this
 in simple language - what should I remember in future
 ```
 
@@ -74,3 +78,23 @@ Remember, coding is like learning a new language or a musical instrument. It tak
     * Post Task
         * Left to their own devices - most students will move on to the next task (and probably get stuck again)
         * 
+
+
+Students using this as part of normal use in class - e.g. like spell checker is used now.
+
+---
+
+```
+Int, Float or String
+1
+3
+3.0
+3.3333
+10
+01
+23a
+CT2 1CT (or the schools postcode)
+2023
+07980123456
+3/12/2023
+```

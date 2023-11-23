@@ -185,7 +185,7 @@ Extra: some of my thoughts
 * 'Driver + Navigator' may be too ridged - maybe should be more fluid - equal party's - two inputs
 * Code is a team sport in industry - education should match
 * Pair programming takes longer - Quality of solutions is better
-* Students have to be explicitly taught how to communicate - words parses
+* Students have to be explicitly taught how to communicate - words phrases
     * Explicitly highlight the 3 types of communication - cumulative, disruptive, exploratory - get pairs to self identify these
     * "What are we trying to do here?"- Clarify/communicate inputs and outputs (goal)
     * What data are we storing/using/remembering?

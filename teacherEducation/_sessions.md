@@ -994,7 +994,7 @@ ITP + Placement2 Starts ? March
     * Task: How are [[fundamental_british_values]] considered in the schools delivery of Computing
 
 * Mentor WB 11th March (week before SP16)
-    * What is the hidden curriculum and how does it manifest in this school?
+    * What is the [[hidden-curriculum]] curriculum and how does it manifest in this school?
     * What are the literacy and numeracy school policies and how are they embedded in planning and teaching?
         * #3/p-SubjCur-LearnHow-build_written_fluency
         * #3/r-SubjCur-LearnHow-build_reading_enjoyment
@@ -1039,7 +1039,7 @@ Friday 15th March - 09:00
     * [[computingAcrossCurriculum]] and your school
     * [[eSafety]]
     * Giving computing context in the wider world/community [[context_wider]]
-    * The 'hidden curriculum'
+    * The [[hidden-curriculum]]
 * Mentor WB 18th March
     * How do we work with other subject areas to capitalise on or contribute to wider learning?
         * Task: Collaborate with another teacher cross subject (maybe another trainee?) to incorporate elements of their curriculum in a computing lesson
@@ -1368,11 +1368,11 @@ From 22nd april
 [feed_forward]: feed_forward.md "feed_forward"
 [feedback-whole-class]: feedback-whole-class.md "Feedback - Whole Class"
 [all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
-[diagnostic_questions]: diagnostic_questions.md "diagnostic_questions"
+[diagnostic_questions]: diagnostic_questions.md "Summary"
 [feedback-verbal]: feedback-verbal.md "feedback-verbal"
 [automated_tests]: automated_tests.md "automated_tests"
 [bebras]: bebras.md "bebras"
-[teacherEducation/assessment]: assessment.md "Formative Assessment"
+[teacherEducation/assessment]: assessment.md "Assessment"
 [collaboration]: collaboration.md "Collaboration"
 [pairProgramming]: pairProgramming.md "Unsorted"
 [code-review]: code-review.md "code-review"
@@ -1389,6 +1389,7 @@ From 22nd april
 [academicallyMoreAble]: academicallyMoreAble.md "Academically More Able"
 [educationInspectionFramework]: educationInspectionFramework.md "Education Inspection Framework (EIF)"
 [computing_quality_framework]: national_documentation/computing_quality_framework.md "Computing Quality Framework"
+[hidden-curriculum]: hidden-curriculum.md "Hidden Curriculum"
 [computingAcrossCurriculum]: computingAcrossCurriculum.md "Computing Across the Curriculum"
 [context_wider]: context_wider.md "Context"
 [careers]: careers.md "Careers"

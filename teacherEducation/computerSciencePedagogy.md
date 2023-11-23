@@ -383,9 +383,7 @@ Unsorted
     * Have the same question/example but have questions with different levels of depth
     * [[questioning]]
     * [[inclusion]]
-* Convert from block, text, flowchart, pseudo code and vice-versa
-* Scratch -> python
-    * Scratch is very visual
+
 
 * Ease Charts
     * [Expired Link :(](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart) extra-supported-syntax Flow-Chart

@@ -1,7 +1,11 @@
 Automated Tests (1 hour)
 ---------------
 
-https://helloworld.raspberrypi.org/articles/hw19-self-marking-python-resources
+* Hello World [Self-marking Python resources](https://web.archive.org/web/20230127052824/https://helloworld.raspberrypi.org/articles/hw19-self-marking-python-resources)
+    * By CAS Assessment Working Group. 
+    * Hello World Issue 19: Sustainability and Computing June 2022
+    * [Create your own self-marking python tests](https://blog.withcode.uk/create-with-code-getting-started/create-your-own-self-marking-python-tests/)
+        * Powerful because it looks for statements in the code - this is required for crediting beginners with partial solutions (e.g. using the correct relational operator `>=` in their solution even if their solution does not run)
 
 * A super power for our subject discipline with code.
 
@@ -10,22 +14,28 @@ https://helloworld.raspberrypi.org/articles/hw19-self-marking-python-resources
     * python `assert my_value == 3, f"I wanted my_value to be 3 but I got {my_value}"`
     * csharp `Debug.Assert(val != 2, " Value should not be 2.");` [example assert-in-csharp](https://www.educba.com/assert-in-c-sharp/)
 
-* https://replit.com/@calaldees/DoctestMarkdownTest
+* https://replit.com/@AllanCallaghan/DoctestMarkdownTest
     * An example of using different types of automated test in python.
         * Tests via Main method and assertions
             * (no real test framework)
         * Doctests
-        * Doctest in separate MarkDown file
-            * `python -m doctest --fail-fast -v main.md`
+            * `python example_assertions.py`
         * Doctests inline with code
-            * `python -m doctest --fail-fast -v example_doctest_inline.py`
+            * `python -m doctest --fail-fast example_doctest_inline.py`
+        * Doctest in separate MarkDown file
+            * `python -m doctest --fail-fast example_markdown.md`
+        * Other options `-v` `--fail-fast`
     * TASKS
         1. Complete the tests that fail when you hit the run button
-        2. Add a repl.it unit test for subtract (the _tick_ icon on the left)
-        3. Using the shell command-line run the (total of) 3 other methods for writing/running tests in python
+        2. Using the shell command-line run the (total of) 3 other methods for writing/running tests in python
             * see `.replit` for the commands for each type of test
-        4. Attempt to use replit's built in unit-tests
-            * I don't like the idea of vendor lock-in, but let's investigate what these tools do
+        3. Attempt to use replit's built in unit-tests
+            * I don't like the idea of vendor lock-in. We can't move between providers. Let's investigate what these tools do
+            * (Since writing, replit tests are now behind paywall from August 2023) 
+            * (original task) Add a repl.it unit test for subtract (the _tick_ icon on the left)
+            * https://docs.replit.com/teams-edu/unit-testing
+            * https://docs.replit.com/teams-edu/input-output-testing video/demo on this page
+
 * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/crypto.md
 * An example of use semi-professionally - inline doctest
     * https://github.com/calaldees/libs/blob/71a86ada8d641b49215893c53b92c31190254e13/python3/calaldees/music.py#L27

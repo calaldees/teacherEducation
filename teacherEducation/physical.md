@@ -73,6 +73,8 @@ Manifest your code in the real world!
 more [microbot](../physicalProgramming/microbit/README.md)
 TODO: Magic trick - on shake send message - move image to another microbit
 
+https://projects.raspberrypi.org/en/pathways/microbit-intro
+
 * Possible use for whole class teaching because of good web simulators
     * You don't need physical devices for every student (they can share - in non covid times)
 * Block + Python + Javascript

@@ -7,4 +7,3 @@ Assessment Example
     * ![Whole class feedback: Networks](./_images/networks1.png)
     * ![Whole Class feedback: Student Response](./_images/networks2.png)
 * [Google Drive - Shared Resources for Twitter](https://drive.google.com/drive/folders/19RLPhltrd3jUEyzu3p1D9qbZoA0GoDRT)
-    * 

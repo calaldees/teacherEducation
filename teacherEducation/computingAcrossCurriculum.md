@@ -752,6 +752,8 @@ Young people can build these - real things
 * Nursing
     * [The Royal Marsden Manual of Clinical Nursing Procedures, Professional Edition, 9th](https://www.amazon.co.uk/Marsden-Clinical-Nursing-Procedures-Professional/dp/1118745922)
     * [Malnutrition Universal Screening Tool](https://www.bapen.org.uk/pdfs/must/must_full.pdf)
+        * > The BMI calculation divides an adult's weight in kilograms (kg) by their height in metres (m) squared. For example, if you weigh 70kg (around 11 stone) and are 1.73m (around 5 feet 8 inches) tall, you work out your BMI by: squaring your height: 1.73x1.73 = 2.99. dividing 70 by 2.99 = 23.41.
+        * `bmi = weight_kg / (height_meters * height_meters)`
 
 
 Discipline's related to computing that are universal (demo 15min)
