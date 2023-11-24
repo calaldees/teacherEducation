@@ -1,23 +1,6 @@
 Pair Programming (1 Hour)
 -------------------------
 
-* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
-    * > Mentz, and Meyer (Reference Hahn, Mentz and Meyer2009) consider the practicalities of assessment in a pair programming context, comparing peer-, self-, and facilitator-based measures. More work is needed in this area, given that pair programming has emerged as a particularly effective teaching method within CEd (see Chapters 29 and 30).
-
-* [[cross_age_mentoring]]
-
-https://helloworld.raspberrypi.org/articles/hw17-researching-virtual-pair-programming-in-a-pandemic
-
-TODO:
-* [Facilitating Group Learning Using an Apprenticeship Model: Which Master is More Effective in Programming Instruction?](https://journals.sagepub.com/doi/abs/10.1177/07356331231170382?ai=2b4&mi=ehikzz&af=R)
-* Following an apprenticeship model, each group has a designated master: 
-    * drivers in pair programming (PP)
-    * peer leaders in peer-led team learning (PLTL)
-    * practitioners in practitioner-assisted group learning (PAGL)
-    * the PP group received the lowest mean scores.
-    * Meanwhile, no significant difference was found between the PLTL and PAGL groups.
-    * Both PLTL and PAGL groups reported a significant increase in social factors after 14 weeks of intervention.
-
 * ITT CCF #4/l-Classroom-LearnHow-group_pair_guidance
     * Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 * ITT CCF 4.10 #5/5-AdaptTeach-LearnThat-group_pair_monitor
@@ -41,13 +24,13 @@ TODO:
     * [khanacademy.org - Pair programming in the classroom](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/pair-programming-in-the-classroom?modal=1)
         * [Pair Programming-in-a-Box: The Power of Collaborative Learning](https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning) - National Center for Women in IT
 * Tech
-    * Remote code tools
-        * [repl.it](https://repl.it/) - ks3/ks4
-        * [GitPod.io](https://gitpod.io) - full VSCode dev env in the cloud (ks5?)
-        * [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
-            * [Collaboration made easy with Visual Studio Live Share](https://www.youtube.com/watch?v=9QXwSg9-2qQ) YouTube Video
     * One dev-environment - multiple inputs
         * Single machine with two keyboards plugged in
+    * Remote code tools
+        * [repl.it](https://repl.it/)
+        * [codebunk](https://codebunk.com) - live collaboration
+        * [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
+            * [Collaboration made easy with Visual Studio Live Share](https://www.youtube.com/watch?v=9QXwSg9-2qQ) YouTube Video
 
 ### Benefits
 * Social communication
@@ -88,35 +71,26 @@ TODO:
 
 ### Rules/Notes/Guide for Pair programming 
 
+It's a SKILL!
+
 * [Summary of A Comparison of Two Pair Programming Configurations for Upper Elementary Students](https://blog.teachcomputing.org/summary-of-a-comparison-of-two-pair-programming-configurations-for-upper-elementary-students/)
     * Pair programming with primary students
     * 2 Computers + live edit tooling
     * Research categorised 3 types of conversations
         * Exploratory conversation - learners challenge each other, offering explanation and alternative ideas.
-        * Cumulative conversation - learners seek to avoid conflict and therefore converse uncritically.
-        * Disputational conversation - learners tend to have unresolved disagreements.
+        * avoid
+            * Cumulative conversation - learners seek to avoid conflict and therefore converse uncritically.
+            * Disputational conversation - learners tend to have unresolved disagreements.
 
-* Do 50% of the typing (really try to keep to this)
-* Do 50%ish of the talking
-    * If you talk more than 75% of the time - ask your partner questions
-* One person can be coding while another looks something up (make sure you both fully understand the code when you return)
-* We should never ridicule each other for mistakes, even in a joking way (from list below)
-* [Formative Teaching Methods - Geoff Petty Jan 2004](http://geoffpetty.com/wp-content/uploads/2012/12/FormativeTeachingMethods2.doc) - from [Active Learning](http://geoffpetty.com/for-teachers/active-learning/)
-    * We will learn best if we all agree that:
-        * It’s okay if you don’t fully understand a concept first time, learning takes time
-        * If work is graded, aim to beat your own record, not someone else’s
-            * However, grading should be avoided where possible
-        * What counts is whether you understand the problem and solution, or question and answer eventually:
-            * not whether you got it right first time
-            * not whether you got it wrong just because of a silly slip
-        * It is not humiliating to make a mistake
-            * We all make mistakes when we learn
-            * Indeed is part of how we learn
-            * If we don’t make mistakes the work is too easy for us to learn at our maximum rate
-        * Mistakes are useful because they tell us where we can improve
-        * Its good for learning to admit to not understanding and to admit to mistakes and then ask for clarification
-        * we should never ridicule each other for mistakes, even in a joking way
-        * You will learn from mistakes if you find out how to do it without mistakes next time, and really understand this
+* My Rules
+    * Sit equidistant from screen with equal space/access to keyboard
+    * Do 50% of the typing (really try to keep to this)
+    * Do 50%ish of the talking
+        * If you talk more than 75% of the time - ask your partner questions
+    * One person can be coding while another looks something up (make sure you both fully understand the code when you return)
+    * We should never ridicule each other for mistakes, even in a joking way (from list below)
+    * Focus talk on "the problem" (Really!!!)
+
 
 * [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) - the case for professional pair programming and guide
     * [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
@@ -170,6 +144,25 @@ TODO:
                 * Don’t give up after a difficult first experience. Don’t assume experienced developers are automatically good pairing partners. Don’t expect to be good without practice.
                 * Consider reflecting with your pair or asking for feedback after each session. What could have been better?
 
+* Slight aside ...
+    * [Formative Teaching Methods - Geoff Petty Jan 2004](http://geoffpetty.com/wp-content/uploads/2012/12/FormativeTeachingMethods2.doc) - from [Active Learning](http://geoffpetty.com/for-teachers/active-learning/)
+        * We will learn best if we all agree that:
+            * It’s okay if you don’t fully understand a concept first time, learning takes time
+            * If work is graded, aim to beat your own record, not someone else’s
+                * However, grading should be avoided where possible
+            * What counts is whether you understand the problem and solution, or question and answer eventually:
+                * not whether you got it right first time
+                * not whether you got it wrong just because of a silly slip
+            * It is not humiliating to make a mistake
+                * We all make mistakes when we learn
+                * Indeed is part of how we learn
+                * If we don’t make mistakes the work is too easy for us to learn at our maximum rate
+            * Mistakes are useful because they tell us where we can improve
+            * Its good for learning to admit to not understanding and to admit to mistakes and then ask for clarification
+            * we should never ridicule each other for mistakes, even in a joking way
+            * You will learn from mistakes if you find out how to do it without mistakes next time, and really understand this
+
+
 * [Collaborative Behaviors Patterns of Students in Programming Instruction](https://journals.sagepub.com/doi/full/10.1177/07356331211062260) 2022, Hopcan, Polat
     *  During the program development process, students hesitated to create an algorithm and to improve an existing one while proposing the next step.
     *  In addition, they constantly waited for approval. 
@@ -182,7 +175,8 @@ TODO:
 Extra: some of my thoughts
 --------------------------
 
-* 'Driver + Navigator' may be too ridged - maybe should be more fluid - equal party's - two inputs
+* Equity with: tech (distance/access), speaking time, typing time, 
+* Traditional 'Driver + Navigator' roles may be too ridged - maybe should be more fluid - equal party's - two inputs
 * Code is a team sport in industry - education should match
 * Pair programming takes longer - Quality of solutions is better
 * Students have to be explicitly taught how to communicate - words phrases
@@ -192,16 +186,25 @@ Extra: some of my thoughts
     * Don't use "No" - (stretch vocabulary) use - unlikely, probably not, unsure, possibly
         * Psychology of "Yes and" in improvisation
         * (Can't say "Yes" too much either - maybe add justification as to why 'yes')
-    * You may not _like_ your partner. I don't _like_ all the other teachers, but I work with them. Develop professional working practices - you will have to work professionally with people you don't like in future.
-    * Add your thoughts as comments
+    * Add your thoughts as code comments
     * Advanced must explain - weaker must ask clarifications
     * Identify and praise/highlight/reaffirm good use of language
-* strategies
-    * rotate partners (during task) - induct/explain to your new partner (peril - ownership of login)
+* partner/pair
+    * You may not _like_ your partner - you have to communicate professionally
+        * Develop professional working practices
+        * you will have to work professionally with people you don't like in future.
+        * I don't _like_ all the other teachers, but I work with them. 
+    * Choice?
+        * This week: You choose your partner?
+        * Next week: I will allocate you a partner?
+* School strategies
+    * rotate partners (during task/class) - induct/explain to your new partner (peril - ownership of login)
     * At the end of a pair session
         * explicitly get students to highlight one good and one bad from the list from "Tuple's Pair Programming" list
         * Have this captured somewhere!
         * Refer to this before the next pair programming session
+
+
 
 Task
 ----
@@ -211,14 +214,14 @@ Task
     * [OneCompiler](https://onecompiler.com/) pre-readline
     * [mycompiler.io](https://www.mycompiler.io/) pre-readline
     * [w3schools.com/tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python) no-readline
-* Option 2 : Live Share
+* Option 2 : Online Live Share
     * [repl.it](https://repl.it/) (login with github)
         * Create a new repl
         * Get share link and share with your partner
             * you need to create an account for this feature
             * only one of your pair needs to do this
         * Have voice comms
-* Try to pick a language you have not used before
+* Try to pick a language you have both not used before
     * I have solutions/stubs for `java`, `csharp`, `python`, `javascript`
 * Requires understanding of:
     * Define variables (`bool`, `string`)
@@ -227,7 +230,8 @@ Task
     * Concatenate strings
     * Compare strings
 * Cheat Sheets
-    * https://computingteachers.uk/static/langauge_reference.html
+    * https://tools.withcode.uk/quickref/
+    * https://computingteachers.uk/static/langauge_reference.html#py,cs
     * [Code-cademy - All Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
 * ADVANCED: If you are HARDCORE you could create a stub and solution for another language (`c`, `ruby`, `golang`, `rust`, `php`) - I would love to see some of these! please make a GitHubPR!
 
@@ -374,28 +378,25 @@ Further discussion
     * ?
 
 
-Unsorted
-========
+Further Reading
+===============
 
+* [The Cambridge Handbook of Computing Education Research - Chapter 14 - Assessment and Plagiarism](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/assessment-and-plagiarism/E77348A0456C3B352F317DFF7D9F5361)
+    * > Mentz, and Meyer (Reference Hahn, Mentz and Meyer2009) consider the practicalities of assessment in a pair programming context, comparing peer-, self-, and facilitator-based measures. More work is needed in this area, given that pair programming has emerged as a particularly effective teaching method within CEd (see Chapters 29 and 30).
 
-Pair Programming
-----------------
+* [[cross_age_mentoring]]
 
-* Pair programming IS slower - but the quality of the result is higher
-* Aim to
-    * Talk 50% of the time
-    * Type 50% of the time
-* Methods
-    1. Plug two keyboards into one machine
-    2. Take turns with keyboard (driver and navigator)
-    3. Live share
-* Don't use the word "No" - (stretch your vocabulary) use - unlikely, probably not, unsure, possibly
-    * Psychology of "Yes and" in improvisation
-* You may not _like_ your partner - you have to communicate professionally
-* Choice of partner
-    * This week: You choose your partner
-    * Next week: I will allocate you a partner
-* Focus talk on "the problem"
+* Hello World [Researching virtual pair programming in a pandemic](https://web.archive.org/web/20230603170437/https://helloworld.raspberrypi.org/articles/hw17-researching-virtual-pair-programming-in-a-pandemic)  Issue 17: Health and well-being, October 2021
+
+TODO:
+* [Facilitating Group Learning Using an Apprenticeship Model: Which Master is More Effective in Programming Instruction?](https://journals.sagepub.com/doi/abs/10.1177/07356331231170382?ai=2b4&mi=ehikzz&af=R)
+* Following an apprenticeship model, each group has a designated master: 
+    * drivers in pair programming (PP)
+    * peer leaders in peer-led team learning (PLTL)
+    * practitioners in practitioner-assisted group learning (PAGL)
+    * the PP group received the lowest mean scores.
+    * Meanwhile, no significant difference was found between the PLTL and PAGL groups.
+    * Both PLTL and PAGL groups reported a significant increase in social factors after 14 weeks of intervention.
 
 
 

@@ -20,7 +20,7 @@ Collaboration
 
 Task (1 hour)
 -------------
-* TASK 1: Read the "How to make the most of group work" (5min) (every word is a gem! great little article)
+* TASK 1: Read the "How to make the most of group work" (6min) (every word is a gem! great little article)
 * TASK 2: Make individual notes on: (10min)
     * group work you've observed
     * How was it done?
@@ -33,7 +33,7 @@ Task (1 hour)
 
 
 
-* [How to make the most of group work](https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/)
+* [How to make the most of group work](https://my.chartered.college/research-hub/how-to-make-the-most-of-group-work/)
     * Summary
         * In general, don’t do group work for the sake of it or without the right conditions.
             * > Cooperative learning or group work can be extremely effective, but it needs the right conditions.
@@ -62,7 +62,7 @@ Task (1 hour)
     * Top tip
         * Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
 
-Don't let one or two people do all the work - the AIM is that EVERY member of the group learns - the structures teachers use do not normally facilitate that. (One person doing the presentation)
+Don't let one or two people do all the work - the AIM is that EVERY member of the group learns - the structures teachers use do not normally facilitate that. (e.g. One person doing the presentation)
 
 
 Socratic Circle/Debate
@@ -109,7 +109,7 @@ Further Computing Group-work insights
         * Sole responsibility
         * Don't have to "Carry the weak"
         * Not wanting to deal with interpersonal problems
-        * Every assignment is a product
+        * Every assignment is a prod.uct
     * > Procrastination hinders collaboration because it does not leave time for discussion
     * The world is simple and understandable if you are alone
     * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.

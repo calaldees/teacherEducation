@@ -12,6 +12,9 @@ Education Research
     * Achievement boosts motivation
 * Jamie Clarke (Graphic Artist) [Education Research](https://www.jamieleeclark.com/graphics) posters for all the core education research principles
 
+* National Education Policy Center [NEPC Review: Small Class Sizes for Improving Student Achievement in Primary and Secondary Schools: A Systematic Review (Campbell Collaboration, October 2018) ](https://nepc.colorado.edu/review/class-size-reduction)
+    * USA Collerado study
+
 * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
     * [teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
 * [Effect size](https://www.simplypsychology.org/effect-size.html)

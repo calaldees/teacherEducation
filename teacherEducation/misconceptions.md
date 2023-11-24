@@ -57,15 +57,22 @@ Greg Wilson
 * Share (12min) - Create omega list
 
 
+Research
+--------
+
+* [Exploring Programming Misconceptions: An Analysis of Student Mistakes in Visual Program Simulation Exercises](https://dl.acm.org/doi/10.1145/2401796.2401799) [dropbox pdf](https://www.dropbox.com/s/bar756coeuyn3b2/p19-sirkia.pdf?dl=0)
+    * Teemu Sirkiä, Juha Sorva
+    * Look at this % tables for the different categories of misconceptions
+    * Misc1: Inverted assignment 38% `first = second` The student assigns the value of the left-hand variable to the right-hand side variable, rather than the other way around
+    * UUhistle.org
+
+
+
 CAS Misconceptions List
 -----------------------
 
 * CAS [Computing Misconceptions - Any Key Stage](https://www.computingatschool.org.uk/resources/2016/october/computing-misconceptions-any-key-stage)
     * This is just a first attempt at trying to categorise the misconceptions we see in our classrooms.
-* [Exploring Programming Misconceptions: An Analysis of Student Mistakes in Visual Program Simulation Exercises](https://dl.acm.org/doi/10.1145/2401796.2401799) [dropbox pdf](https://www.dropbox.com/s/bar756coeuyn3b2/p19-sirkia.pdf?dl=0)
-    * Teemu Sirkiä, Juha Sorva
-    * Look at this % tables
-    * Misc1: Inverted assignment 38% `first = second` The student assigns the value of the left-hand variable to the right-hand side variable, rather than the other way around
 
 Copy&Paste from CAS article above
 (notice how the teachers article has hunches and the research article has data)
