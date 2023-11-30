@@ -733,10 +733,8 @@ Friday 25th November - 16:30
 ### SP11
 Friday 1st December
 
-* Generic
-    * Subject misconceptions: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
 * Computing
-    * (G) Subject misconceptions: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
+    * (G) Subject [[misconceptions]]: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
         * Using assessment to inform planning
             * #4/n-Classroom-LearnHow-plan_focus
             * #5/j-AdaptTeach-LearnHow-plan_link_prior_knowledge
@@ -1374,9 +1372,10 @@ From 22nd april
 [bebras]: bebras.md "bebras"
 [teacherEducation/assessment]: assessment.md "Assessment"
 [collaboration]: collaboration.md "Collaboration"
-[pairProgramming]: pairProgramming.md "Unsorted"
+[pairProgramming]: pairProgramming.md "Further Reading"
 [code-review]: code-review.md "code-review"
 [version_control]: version_control.md "Version Control"
+[misconceptions]: misconceptions.md "Misconceptions"
 [creativity]: creativity.md "Creativity"
 [physical]: physical.md "physical"
 [girls]: girls.md "Girls in Computing"

@@ -121,7 +121,7 @@ A useful tool for planning
 
 ### Computing Specific Literacy Strategies
 
-* [Scaffolded Reading In Computing](https://helloworld.raspberrypi.org/articles/hw20-scaffolded-reading-in-computing) 
+* [Scaffolded Reading In Computing](https://web.archive.org/web/20230603182703/https://helloworld.raspberrypi.org/articles/hw20-scaffolded-reading-in-computing) 
     * HelloWorld Issue 20 [pdf](https://helloworld.raspberrypi.org/issues/20/pdf) pg70, Rachel Arthur
     * Example with reading a news article about Phishing and getting students to dissect it
     * Scaffolded Reading
@@ -150,7 +150,7 @@ A useful tool for planning
     * activities designed to decode words and understand language should require prior knowledge and understanding
 * vocabulary should be revisited in different ways to cement it
     * collaborative learning. students should be given the opportunity to discuss vocabulary
-* DARTS - directed activities relating to texts:
+* Bell Foundation [Great Idea: DARTs](https://www.bell-foundation.org.uk/eal-programme/guidance/effective-teaching-of-eal-learners/great-ideas/darts/) - directed activities relating to texts:
     * analyse or reconstruct
     * highlight words in different categories (e.g words they did not understand is a category)
     * match key words to their definitions

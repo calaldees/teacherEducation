@@ -1,6 +1,10 @@
 eSafety
 =======
 
+* eSaftey is a whole school initiative - 
+* eSaftey is NOT the sole duty of the Computing Department
+* Computing teachers do need to consider how this can be reinforced in their curriculums
+
 * [UKCIS Online Safety Audit Tool](https://www.gov.uk/government/publications/ukcis-online-safety-audit-tool)
     * > The UK Council for Internet Safety (UKCIS) Online Safety Audit Tool helps mentors of trainee teachers and early career teachers induct mentees and provide ongoing support, development and monitoring.
     * TASK: Read though the questions (10min)
@@ -82,6 +86,7 @@ eSafety
 * TASK: 10min
     * discuss - can you assess/track/monitor your students understanding of these concepts?
 * [ProjectEVOLVE](https://projectevolve.co.uk/about/)
+    * Resources for education for a connected world
 
 
 Further Reading

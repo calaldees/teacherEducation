@@ -1,6 +1,10 @@
 AI in the classroom (30min)
 ===================
 
+* [GradeScope](https://www.gradescope.com/) by TurnitIn
+    * No need to mark anymore
+    * Scan 
+
 * https://experience-ai.org/
     * 6 lessons - VERY well thought out
     * Learning objective mapping
