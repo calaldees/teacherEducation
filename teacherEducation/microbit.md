@@ -13,7 +13,7 @@ Microbits are a small physical programmable device with lots of built in sensors
             * Acceleromiter (level sensor), Temperature, Light, Compass
         * Radio
         * [Local Persistent File System](https://microbit-micropython.readthedocs.io/en/v1.0.1/filesystem.html)
-            * 30k - python
+            * 30kb - python
         * v2 (most are v1)
             * builtin speaker and microphone
     * [MakeCode](https://makecode.microbit.org/) Online Editor + Courses + Lessons
@@ -40,11 +40,6 @@ Async Tasks
 
 ### Task 1 - Microbit (30mins to 1hour)
 
-There are a range of small computer boards that are programmable with c/python/etc that can attach to LEDs/Motors/Sensors.
-These educational tools take code off the desktop screen and into the physical world.
-
-* This task is to
-    * Give you experience of a popular education board the microbit
 
 1 hour
 Investigate 
@@ -58,9 +53,12 @@ Investigate
     * Switch the view to javascript or python and look at the code
     * Make a program that when you tilt the device it sends a number via radio to another virtual microbit and displays that number
 * Consider possible activities/use in the classroom to be discussed with group
-* Start a new project, select `python` as a language nand copy/paste `rock_paper_scissors.py`. Switch to `blocks` and run the program
+* Project Rock Paper Scissors
+    * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/microbit/rock_paper_scissors.py
+    * Start a new project, select `python` as a language nand copy/paste `rock_paper_scissors.py`. Switch to `blocks` and run the program
     * This program demos the built in networking feature
     * Reverse engineer how the game works
+
 
 Stuff
 -----

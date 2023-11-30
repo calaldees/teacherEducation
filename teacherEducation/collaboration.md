@@ -32,7 +32,6 @@ Task (1 hour)
         * (This is just a demo and slightly fake, the inner circle normally have more time to prepare, but yolo)
 
 
-
 * [How to make the most of group work](https://my.chartered.college/research-hub/how-to-make-the-most-of-group-work/)
     * Summary
         * In general, don’t do group work for the sake of it or without the right conditions.
@@ -133,26 +132,6 @@ Objectives
 * Consider ways to facilitate building professional collaboration skills in students
 
 
-Version Control (30 min)
-===============
-
-
-Demo of (20min)
-* Create new repo
-* clone repo
-* create sub file
-* branch
-    * create 2 branches
-* commit (history)
-    * git tree
-    * [GitHub/network](https://github.com/calaldees/KaraKara/network)
-* Conflict resolution
-
-
-
-* Task
-    * Code Review [Example GitHub Pull Request](https://github.com/calaldees/codeReviewExample/pull/1)
-    * 10min
 
 
 
@@ -243,10 +222,6 @@ Other unsorted notes about Collaboration
 
 * [[cross_age_mentoring]]
 
-* case studies
-    * Karakara - free - austraila adds new features
-    * SuperLimitBreak tech stack - free + documented - even is someone copies us - they wont have the ideas
-    * Fab** - testers should not look at code
 
 * [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
     * Although not directly related to teaching - the clarity of this article and the points made are universal
@@ -258,11 +233,6 @@ Other unsorted notes about Collaboration
 
 * [COOL: Cooperative Open Learning for Beginning Programmers](https://dl.acm.org/doi/10.1145/3304221.3325569) 2019
     * > It includes several forms of cooperative learning like peer tutoring, pair programming, and talents exchange. 
-
-Thank Pair Share
-----------------
-
-Specific 3 bullet points - recorded
 
 
 

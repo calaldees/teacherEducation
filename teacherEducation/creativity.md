@@ -1,6 +1,10 @@
 Creativity
 ==========
 
+Incomplete
+
+* See [[instructional_continuum]] for "Innovative teaching in computer science: what does it mean and why do we need it?" 
+
 TODO:
 * Research: The Torrance Tests of Creative Thinking-Figural (TTCT-F) from
     * [Effect of Mind Mapping on Creative Thinking of Children in Scratch Visual Programming Education](https://journals.sagepub.com/doi/full/10.1177/07356331211053383) 2021
@@ -36,8 +40,41 @@ TODO:
 lunchtime? what are the other professionals doing?
 
 
----
 
+
+
+Creativity Conundrum
+--------------------
+
+I've missed this in the past
+I missed out creativity from my TeachProgramming 52 week experiment
+Creative Computing Workshop?
+https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
+Pallet of skill
+
+
+
+* [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020
+    * todo
+    * Measure creativity
+        * Tasks
+            * As many uses as possible for paperclip, bowl, brick
+            * What could "smooshed spider" be relating to
+            * [Exercise: Adaptation of the 30 Circles Test](https://web.stanford.edu/group/sdgc/cgi-bin/ycisl/?p=1859)
+        * marked by
+            * Fluency (number/volume)
+            * Flexability (number of categories)
+            * Originality (statistical infrequency of responses)
+            * Elaboration (additional attention to detail added)
+        * > Doleck et al. [9] examined the relationship between creative thinking and academic performance and found no relationship between the two.
+          > However, in our work there was an apparent correlation between participants’ overall alternative uses test CI scores and their overall  grades on the computer graphics programming course
+        * > self-reported levels of creativity did not at all correlate with their final grades.
+          > On the other hand, the tests that did correlate with their  final grades did not correlate with their self-reports. This suggests that although we’re assessing one type of creativity or divergent thinking, it is not necessarily the same thing students conceptualize as “creativity” within the CS domain.
+
+
+
+Unsorted
+========
 
 * From [The Voices of Solution Tree](https://slideplayer.com/slide/3762685/) - 2011 Dylan Wiliam
     * Example Course (Slide 32)
@@ -58,31 +95,17 @@ lunchtime? what are the other professionals doing?
 
 
 
-Creativity Conundrum
---------------------
-
-I've missed this in the past
-I missed out creativity from my TeachProgramming 52 week experiment
-Creative Computing Workshop?
-https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
-Pallet of skill
-
-
-Unsorted
-========
-
 * [Combining Webduino Programming With Situated Learning to Promote Computational Thinking, Motivation, and Satisfaction Among High School Students](https://journals.sagepub.com/doi/full/10.1177/07356331211039961)
     * Situated learning was proposed by Lave and Wenger (1991), who stated that learning is a psychological process of individual meaning construction and a participatory process of surrounding situations. Learning situations are the key to stimulating learners’ internal and external learning motivations and to enabling learners to transform abstract perceptions into concrete thinking (Clancey, 1995)
     * Bebras competitions
     * Assistive Devices Project
 
 
-Is _creativity_ linked to _iq_?
-They appear correlated
 * Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
+    * Is _creativity_ linked to _iq_? They appear correlated
 
 
-
+* The article below is not directly related to education - It's an attempt to define creativity in a computational sense
 * [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
     * > The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works (David Deutsch)
     *  the definitions (of creativity) are very informal, given in a natural language, 
@@ -120,23 +143,6 @@ They appear correlated
 * [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
     * todo
 
-* [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020
-    * todo
-    * Measure creativity
-        * Tasks
-            * As many uses as possible for paperclip, bowl, brick
-            * What could "smooshed  spider" be relating to
-            * [Exercise: Adaptation of the 30 Circles Test](https://web.stanford.edu/group/sdgc/cgi-bin/ycisl/?p=1859)
-        * marked by
-            * Fluency (number/volume)
-            * Flexability (number of categories)
-            * Originality (statistical infrequency of responses)
-            * Elaboration (additional attention to detail added)
-        * > Doleck et al. [9] examined the relationship between creative thinking  and  academic  performance and  found  no  relationship between the two.
-          > However, in our work there  was  an  apparent correlation between participants’ overall alternative uses test CI scores  and  their  overall  grades  on  the  computer  graphics programming  course
-        * > self-reported levels of creativity did not at all correlate with their final grades. 
-          > On the other hand, the tests that did correlate  with  their  final grades did not correlate with their self-reports. This suggests that although we’re assessing one type of creativity or divergent thinking,  it  is  not  necessarily  the  same  thing  students conceptualize as “creativity” within the CS domain.
-
 * [twitter - 3d platform game projection](https://twitter.com/johnblueriggs/status/1642552320549441538?t=-KUapS1or5dtdYQZiR5_PA&s=19)
 
 * Book [Computational Fairy Tales Paperback – 26 Jun. 2012](https://www.amazon.co.uk/dp/1477550291)
@@ -145,3 +151,8 @@ They appear correlated
 * [twitter](https://twitter.com/80sNostalgia/status/1671232216368594951?t=C8o1MHpaiz3XySC8fo5QaA&s=19)
     * > This is incredibly cool! A teacher is teaching his class of 10 year olds how to program on a Spectrum, and they have made all their new games available to download. Some look outstanding! I wish my school in the 80s had been this ace!
     * https://dougie9mcg.itch.io/zx-spectrum-games-by-bearsden-primary-2023
+
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[instructional_continuum]: instructional_continuum.md "instructional_continuum"
+[//end]: # "Autogenerated link references"

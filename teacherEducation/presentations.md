@@ -1,18 +1,95 @@
 Outstanding Presentations
 =========================
 
-Academnic
----------
+* Understand what is required for the presentation assignment
+* Consider pedagogies for "High Impact" experiences
+* Consider practical presentation techniques
 
-SP2
 
+
+Task 1
+------
+
+* What is the purpose of your SP2 assignment?
+* Think-Write-Pair-Share
+
+
+1. Explore some incidents
+    * One of mine ...
+        * It's a ...
+        * Student Withdrawing (this week) - my role
+2. Create a critical incident (Typical to Critical)
+    * A experience that made you think
+    * Incidents happen, but _critical_ incidents are produced by the way we look at a situation: 
+        * a critical incident in an interpretation of the significance of the event (Tripp , 2012, p.8)
+3. Generate questions
+    * Why did it matter to me that there were unexpected answers?
+    * What did I do that provoked unexpected answers?
+    * Is it important for learners that they hear unexpected answers?
+    * Could I have done more to provoke more unexpected answers?
+    * How could I make use of unexpected answers?
+    * How could I plan for unexpected answers?
+4. Find answers in the literature
+    * [The Literature Review: Six Steps to Success - Second Edition](https://uk.sagepub.com/en-gb/eur/the-literature-review/book238875#contents) 2012 Lawrence A. Machi, Brenda T. McEvoy
+    1. Select and Define a Topic
+    2. Develop the Tools of Argumentation
+    3. Search the Literature
+    4. Survey the Literature
+    5. Critique the Literature
+    6. Write the Review
+5. Reflect on answers with respect to your own practice
+    * Bishopp and Trott’s (2015) Provoking Thinking Framework (PTF) gives a great theoretical justification that aligns with why I want to encourage unexpected answers, but is designed for early childhood learners. Can I adapt the framework for my context? 
+    * I love Lucas et al’s (2016) conversation starters strategy, but it is designed to develop written responses. Would it work in an entirely oral setting?
+6. Plan presentation
+7. Record presentation
+
+
+
+1. Some phenomenon is observed and noted, which produces a description of what happened
+2. Suggest explanation and meaning within the immediate context (make a diagnosis)
+3. Find a more general meaning and classification/significance of incident (interpret the diagnosis)
+4. Adopt a position as a result of _professional judgement_ that will result in a change in practice
+    * Practical judgements which is the basis of every action taken in the conduct of teaching, and the majority of which is made instantly
+    * Diagnostic judgements which involve using profession-specific knowledge and academic expertise to recognise, describe, understand and explain and interpret practical judgements
+    * Reflective judgement which concerns more personal and moral judgements involving the identification, description, exploration and justification of the judgements made and values implicit and espoused in practical (teaching) decisions and their explanations
+    * Critical judgements which, through formal investigation, involves challenge to and evaluation of the judgements and values revealed by reflection
+
+
+Examples of critial incidents
+
+
+
+
+* Participants leaving during discussion
+* Unexpected responses
+* Flexible replanning of ending
+
+
+
+* Understand the rigour of anlysis/disection
 How to disect - just watching is not enough
 Pedagogy for videos - pre work (prep) - post work
 This applys for school trips or other automomus engagement
 
+* Probably want to script it on paper
+* Diagnostic
+* Critique
 
 * [Mark Grid](https://learn.canterbury.ac.uk/ultra/courses/_23714_1/outline/edit/document/_3981665_1?courseId=_23714_1&view=content)
-* Brockfields
+
+* Reflective Models
+    * [What? So What? Now What? Model of Reflection](https://studyprism.co.uk/reflective-practice/models/what-so-what-now-what-model-of-reflection/)
+    * [Becoming a Critically Reflective Teacher](https://eric.ed.gov/?id=ed387073) Jossey-Bass Higher and Adult Education Series. Steven Brockfield. 1995
+        * 4's 4 lenses
+            * Autobiographical lens
+            * Learners lens
+            * Colleague lens
+            * Scholarship lens
+
+
+
+
+
 
 
 

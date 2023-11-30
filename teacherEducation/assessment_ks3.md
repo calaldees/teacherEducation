@@ -27,3 +27,13 @@ Some just use GCSE grades for KS3. This is not what GCSE grades were designed fo
         * Specifically lists cyber security and culture as topics - pretty interesting
     * [Progression of Computer Science Teachers Association (CSTA) K-12 Computer Science Standards, Revised 2017](https://csteachers.org/documents/en-us/d227e2a4-ce35-434e-a20b-24355d11b015/1/)
 
+
+Entry Level Qualifications
+--------------------------
+
+* OCR Entry Level (KS3)
+    * Prevents the vagueness of KS3 assessment
+    * Stepping stone to GCSE
+    * https://www.ocr.org.uk/qualifications/entry-level/computer-science-r354-from-2016/
+        * 80% 4 x 30min exams - internally marked - externally moderatated
+        * 20% Project

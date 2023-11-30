@@ -7,12 +7,22 @@ plan your (I)nvestigate questions
     * [The I in PRIMM](https://web.archive.org/web/20230322045228/https://helloworld.raspberrypi.org/articles/hw14-the-i-in-primm) Sue Sentence 2020
         * https://helloworld.raspberrypi.org/issues/14 Page 50
 
+
+
 | | (T) Text Surface | (P) Program execution | (F) Function (relevance/intention) |
 |-|-|-|-|
 | (M) Macro structure | Understand the overall structure of the program text | Understand the algorithm underlying a program | Understand the goal/purpose the program in the current context |
 | (R) Relationships | Relationships between blocks | Sequence of function calls, object sequence diagrams | Understand how sub-goals are related to goals |
 | (B) Blocks | Regions of interest that build a unit (systematically or semantically) | Operation of a block or function | Understanding of the function of a block of code |
 | (A) Atoms | Language elements | Operation of a statement | function of a statement |
+
+|Duality|Structure|Behavior|Function|
+|-------|---------|--------|--------|
+|Macro|Overall structure of program text| Algorithm of the program|Overall goal of the program in context|
+|Relations|References between blocks|Sequence of method calls or blocks|Relating sub-goals to the goal|
+|Blocks|Syntactic or Semantic Regions of Interest| Operation of the Region of Interest|Function of the block, or the sub-goal|
+|Atoms|Language elements|Operation of a statement|Statement Function or Goal|
+
 
 Example
 * (MF) "What would happen if the input to the program was ___"
