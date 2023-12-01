@@ -1,6 +1,11 @@
 Outstanding Presentations
 =========================
 
+<details>
+
+Inspired by Fiona's original SD+ presentation and then Allan-ized
+</details>
+
 * Understand what is required for the presentation assignment
 * Consider pedagogies for "High Impact" experiences
 * Consider practical presentation techniques
