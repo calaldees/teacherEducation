@@ -60,3 +60,8 @@ Using
 
 Compile a list of questions/tasks/items that could focus your observations in your first week.
 (By "you" creating this list, you will have taken ownership of development and this will hopefully have more impact/relevance)
+
+
+---
+
+* [Three Checks: For teachers and observers](https://teacherhead.com/2023/11/21/three-checks-for-teachers-and-observers/) Tom Sherrington 2023
