@@ -44,7 +44,15 @@ AI in the classroom (30min)
     * If we cant detect it - we cant do anything about it - just asking them is insufficent - they will lie
     * Trojan horse - get staff to present a session on AI in education - so they have to review the material
 
-https://teachmateai.com/
+
+TODO: Read!
+https://lordslibrary.parliament.uk/educational-technology-digital-innovation-and-ai-in-schools/
+AI In Teacher Education
+* https://teachertaskforce.org/news/using-artificial-intelligence-support-teachers-and-teacher-development
+
+
+* [TeachMateAI](https://teachmateai.com/)
+    * https://www.votesforschools.com/blog/teachmate-ai-for-teachers/
 Matt Wimpenny: Jon Chip has been in touch with his TeachMateAi hat on and offered us at Oxford Brookes Uni PGCE primary trainees a free subscription.
 https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education
 
