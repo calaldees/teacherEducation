@@ -328,3 +328,59 @@ I'm looking forward to visiting tomorrow.
 See you soon.
 
 
+SD Contrast
+------------
+
+
+Hi ?? (Computing Subject Mentor at )
+(cc'ing as part of process
+   as trainee teacher,
+   as subject mentor in base school,
+   as professional mentor in contrasting school,
+   as professional mentor in base school,
+)
+
+It's a pleasure to be in contact with you again.
+I am ???'s university subject tutor for Computing as part of his course is supported by Canterbury Christ Church University.
+Thank you for hosting Emilio for his contrasting School Direct placement.
+
+This is just an email to say 'Hi' to let you know I'm in the wings if needed and to give you links/information regarding ???'s ePortfolio and curriculum.
+
+?? is also on hand to support and should schedule a visit to support you at some-point.
+
+-- Links
+
+Below are links to important documents for School Direct mentors:
+
+1.) ReadOnly ePortfolio link
+
+
+??? will refer to this during your weekly mentor meetings as this aligns with the curriculum he is following.
+
+
+2.) ReadOnly Template AllDocuments
+https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eg339CoktNZOsWIF9RQyu8ABPb1axqBqnpVzEfds_9a5cQ
+Templates + Guidance Documents for the School Direct course ??? is following.
+
+
+I have a collection of additional mentor related links at
+https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/mentors/_links.md
+
+
+-- Video Calls
+
+You can schedule a video call with me with the following booking system link.
+https://outlook.office.com/bookwithme/user/3e0385ef8fb340e38b6686624a78dda0@canterbury.ac.uk?anonymous&ep=pcard
+We can have a 15min chat at reasonably short notice if needed.
+
+--
+
+Thank you for supporting with training new Computing teachers. It is such a vital part of our teaching ecosystem.
+
+Emilio has been making excellent progress and has an excellent working attitude. I'm sure he will be an asset to you team during his time with you.
+
+Let me know if I can support in any way.
+Keep in touch.
+
+
+

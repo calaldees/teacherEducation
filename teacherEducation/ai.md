@@ -1,9 +1,22 @@
 AI in the classroom (30min)
 ===================
 
+* [TeachMateAI](https://teachmateai.com/)
+* [magicschool.ai](https://www.magicschool.ai/) -Using the magic of AI to help educators with saving time.
 * [GradeScope](https://www.gradescope.com/) by TurnitIn
     * No need to mark anymore
     * Scan 
+
+* https://cepconference.webspace.durham.ac.uk/
+    * 5th January 2024 - Key Note: Dr Brett Becker - "AI in Computing Education – Rebooting Teaching Practice"
+
+
+
+
+* DfE [Generative AI in education: call for evidence: summary of responses](https://www.gov.uk/government/calls-for-evidence/generative-artificial-intelligence-in-education-call-for-evidence) Nov 2023
+* https://www.it.uu.se/research/group/upcerg/events/CompetenciesAI
+
+[Edge Hill University : Ethical AI - Journey so far - Key Points - Claire Hawkins, Carl Simmons](https://docs.google.com/document/d/1Wdo1fbJpl2AbW2A6HzQagX7bWVzRxCOpl_FMEYvPvdg/edit?pli=1#heading=h.m7k3weujotcb)
 
 * https://experience-ai.org/
     * 6 lessons - VERY well thought out
@@ -318,6 +331,7 @@ Additional Resources (5min)
     * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) - LOADS of very good courses
         * see #pedagogy
         * [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
+        * [RaspberryPiFoundation: Introduction to Machine Learning and AI](https://www.edx.org/learn/computer-programming/raspberry-pi-foundation-introduction-to-machine-learning-and-ai) 4 weeks (2-4 hours a week)
 * [appsforgood.org/courses/machine-learning](https://www.appsforgood.org/courses/machine-learning)
 
 

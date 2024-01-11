@@ -154,3 +154,9 @@ F-F Dupont Jumper Wire 40pin x 1
 USB Cable x 1
 1 Premium Battery Holder 6-cell AA x 1 
 
+
+Other projects
+--------------
+
+* [Bat and Ball](https://makecode.microbit.org/56653-60441-81073-43109)
+    * not a great example

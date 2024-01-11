@@ -5,9 +5,9 @@ Broadening Participation in Computing
 * [[culturallyRelevantComputing]]
 
 * [A Literature Review Examining Broadening Participation in Upper Elementary CS Education](https://dl.acm.org/doi/10.1145/3545945.3569873)
-    * Links to 63 relevent literature
+    * Links to 63 relevant literature
 
-* [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
+* [cambridge-handbook-of-computing-education-research](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
     * > implementations of authentic learning environments where students work in heterogeneous groups solving real problems. They argue that collaborative problem-solving in a gender-neutral, culturally and ethnically diverse, and multidisciplinary groups will make computer science more accessible to females and minority groups. Pulimood and Wolz also claim that this approach better prepares students for the workforce.
     * > Rubio et al. (Reference Rubio, Romero-Zaliz, Mañoso and De Madrid2015) contend that “if we want to include more women in computing, the pedagogy of introductory programming courses needs to change” 
 

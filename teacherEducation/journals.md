@@ -11,6 +11,14 @@ Journals
 
 ### Computing
 
+ACM Special Interest Group on Computer Science Education (SIGCSE), 
+CS 2023 ACM/IEEE Computer Society/AAAI International Task Force for the revision of Computer Science Curricula 2013, 
+ACM Transactions on Computing Education, 
+ACM Innovation and Technology in Computer Science Education (ITiCSE) conference, 
+ACM Global Computing Education (CompEd) conference, 
+UK & Ireland Computing Education Research (UKICER) conference
+
+* [CEP conference: Computing Education Practice](https://cepconference.webspace.durham.ac.uk/past-conferences/) 2017+ Durham
 * [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)
   * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
 * [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)

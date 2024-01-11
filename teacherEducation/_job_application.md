@@ -1,6 +1,7 @@
 Job Application and Interview
 =============================
 
+* Chartered College of Teaching: [Preparing for your First Teaching Job: Searching and Applying (Part 1 of 3)](https://my.chartered.college/event/preparing-for-your-first-teaching-job-searching-and-applying-part-1-of-3/)
 * [Interview Advice](https://curriculumteamleader.wordpress.com/2021/02/10/senior-leader-interviews/)
     * Polish your application
     * Make sure it’s the right school for you.  

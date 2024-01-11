@@ -4,8 +4,19 @@ Culturally Relevant Computing
 * [[broadening-participation]]
 * [[girls]]
 
-https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about
-https://helloworld.raspberrypi.org/articles/hw17-computing-for-all-designing-a-culturally-relevant-curriculum
+
+* [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
+    * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
+    * HelloWorld Issue 17 [Computing for all: Designing a culturally relevant curriculum](https://web.archive.org/web/20221210054613/https://helloworld.raspberrypi.org/articles/hw17-computing-for-all-designing-a-culturally-relevant-curriculum) 2021
+* [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspberry Pi Foundation 2021
+    * https://helloworld.raspberrypi.org/issues/17 pg54
+        * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
+    * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
+
+https://web.archive.org/web/20221210053517/https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about
+
+
+
 
 * [15.4.3 Accessibility and Inclusivity ](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
     * >  Brady et al. (Reference Brady, Orton, Weintrop, Anton, Rodriguez and Wilensky2017) engage students’ interest through projects with contexts that illustrate the social and collaborative aspects of computer science. 
@@ -38,12 +49,8 @@ CV Badge - Linked in
 Proactive
 
 
-* [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
-    * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
-* [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspberry Pi Foundation 2021
-    * https://helloworld.raspberrypi.org/issues/17 pg54
-        * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
-    * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
+
+
 * https://helloworld.raspberrypi.org/issues/14
     * Page 30 EXPLORING THE OUTDOORS THROUGH THE LENS OF COMPUTING
         * > it’s a great opportunity for young coders to find ways of helping our environment and nature

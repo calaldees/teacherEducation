@@ -10,4 +10,4 @@ Inclusion Labels
                 2. Looking beyond diagnosis to determine how to support each individual child (whole child)
     * Amazon.uk [The Inclusive Classroom: A new approach to differentiation](https://www.amazon.co.uk/Inclusive-Classroom-Daniel-Sobel/dp/1472977920/) 2021
 
-* Regardless of lables - as a probational - what are the blockers to learning - how will you address these blockers
+* Regardless of labels - as a professionals - what are the blockers to learning - how will you address these blockers

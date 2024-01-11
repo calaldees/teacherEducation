@@ -40,3 +40,23 @@ If you as a teacher were in control and managed the base VM image, you could ins
         2. A bridged network device on a separate subnet. 
         * Could this be done? Could a class set of VM's have unfiltered access to this subnet. That way students could run their own web-servers/port-scanners without affecting the real school network. What would this configuration look like?
     * If you were to create a base VM image, how would this be distributed around the network/school machines? Would the binary image be deployed to all machines overnight? Would each machine just mount a network image and use some filesystem layer to store data deltas on the local machine?
+
+
+---
+
+
+* Technologies
+    * VirtualBox
+    * HyperV (Built in to Windows 10 Pro)
+
+* `vt-x` hardware virtualisation extensions (REALLY important)
+    * May need to be enabled in BIOS
+
+* Virtual linux
+    * You can manage the virtual hard disk image
+    * Update central image and distributed to machines?
+    * As a computing teacher - This means you don't need to badger technicians for every package installation
+* Whole class teaching - with technician support
+    * Could put VM's on a different subnet for full port access between VM guests
+* Encourage students to make a VM - they can move the VM between machines
+    * even bring it into school on USB (virtualbox) - (need more investigation)

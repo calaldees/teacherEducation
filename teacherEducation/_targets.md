@@ -80,3 +80,83 @@ Students should be aware (flip the script) - they were part of the discussions
 * Explicitly build routines that facilitate a smooth start to lessons
     * Weekly starter quiz tech xxx to review last lessons learning. Students access this automatically while register is being taken
 * Every lesson plan should list the initials of student that were absent last lesson. There should be a plan/action/instruction/acknowledgement to these students.
+
+
+Menu of Targets
+===============
+
+
+Impose strict timing on my lesson activities on the lesson plan. Ask my observing teachers for initial feedback before delivery and evaluate how well I stuck to it. (With exceptions made as appropriate) 
+
+For KS3 establish clear routines for tasks which involve calling out pitfalls and misconceptions. Monitor class attainment  
+
+
+Consistently evaluate current level of individual student knowledge of concepts before moving on. 
+
+ 
+
+ ALC: 08/01/2024 
+
+Impose Strict Timing: How will these manifest. Suggest: "Evidenced in formal plans and formal reflections with year X" 
+
+ 
+
+Clear Routines, Misconceptions, Monitor Attainment – these are three separate targets/activities. 
+
+We could focus with. "In formal observations, observers will comment on routines and their effectiveness, evidenced by final formal observation WB 5th Feb " 
+
+ 
+
+"Consistently evaluate current level of individual student knowledge of concepts before moving on." What will we see if you accomplish this? Suggested reword: Each lesson delivered with 8I will have a review activity. Record any adaption/change made based on the outcomes. Evidenced by lesson reflections. 
+
+ 
+
+--
+
+
+    To plan series of revision lessons for Y11 CS to be delivered in the Spring Term 1.  
+
+  
+
+    Use assessment for learning strategies to enable tracking and improvement to the progress for Y10 CS. 
+
+ 
+
+    Plan and deliver KS3 Maths lessons – increase teaching load. 
+
+ 
+ 
+
+ ALC: 08/01/2024 
+
+Target hints: 
+
+    Can you list any of the high priority topic number from the subject knowledge audit for this? 
+
+    type of AfL are you considering? What will we see? Wording suggestion could be "Incorporate routine of exam question each lesson". 
+
+    Could this manifest in some way – e.g. By end of placement 09/02/2024 lesson reflection to include comparison of KS3 pedagogies for Maths and Computing. (You will be performing reflections of lessons anyway, this just prompts us to where it might be) 
+
+-- 
+
+
+ 
+
+ Identify how b4l and behaviour management are different in the teaching of 7h SEN curriculum group. 
+
+ 
+
+Develop different subject specific afl opportunities  to support ross in his choice of scaffolding and question across the year 9 cohort to improve students understanding and accessing of the lesson objective. 
+
+ 
+
+Plan and practice delivery of <subject knowledge> with Yr 10 GCSE computer science groups to ensure knowledge is taught in a way which allows students to apply it appropriate to exam questions (assessment objectives). 
+
+ 
+
+Discuss planning on how to teach a specific skill in relation to assessment objective. Observe NDA/SGR. Use of indicative content and exemplar answers. 
+
+
+ALC: 08/01/2024 
+
+With "Identify b4l", where will we see this? My suggestion would be "In formal reflections of 7H group" 

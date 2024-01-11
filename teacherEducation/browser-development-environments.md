@@ -2,15 +2,17 @@ Browser Based - Development environments
 ----------------------------------------
 
 * Benefits
-    * Students use at school/home without any installation/setup
+    * Students use at school/home/public-shared-computers without any installation/setup
     * home/school always has data synced
     * Pair programming
     * Range of languages
     * Mostly free services (many require login but can be used with existing school google, github, microsoft logins)
 * Drawbacks
     * Must have a (reliable) web connection
+    * Young people struggle with navigating login's and pages/systems with different layouts
 
 * Technologies
+    * https://github.com/calaldees/TeachProgramming/blob/master/code_environments.md
     * Browser
         * [repl.it](https://repl.it/)
             * an education revolution
@@ -32,10 +34,14 @@ Browser Based - Development environments
         * Other
             * [gist.cafe](https://gist.cafe/) - runnable snippets on the web
         * [play.golang.org](https://play.golang.org/)
-    * Online IDE
+    * Online IDE https://github.com/calaldees/VSCodeOnlineExample
+        * Browser based fully remote dev environment
+        * Maybe overkill for ks3/ks4 - but interesting for professional developers and ks5
+        * [CodeSpaces](https://github.com/codespaces/)
         * [GitPod](https://www.gitpod.io/)
-            * Browser based fully remote dev environment
-            * Maybe overkill for ks3/ks4 - but interesting for professional developers and ks5
-            * https://github.com/calaldees/GitPodExample
-        * [CodeTasty](https://codetasty.com/)
-        * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
+        * Other
+            * [CodeTasty](https://codetasty.com/)
+            * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
+
+
+Try VSCodeOnlineExample - discuss? (30min)
