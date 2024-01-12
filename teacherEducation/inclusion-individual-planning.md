@@ -16,7 +16,7 @@ Consider the Short, medium, long term actions for these students
 
 > Sina has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
 
-> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
+> Brian (Year 7) can reason about tasks verbally, but uses a keyboard so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
 
 > Add your own from your experience
 

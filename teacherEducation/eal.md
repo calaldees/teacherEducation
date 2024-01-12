@@ -1,6 +1,17 @@
 English as an Additional Language (EAL)
 =================================
 
+* [EAL Education Policy in England](https://www.bell-foundation.org.uk/eal-programme/guidance/schools-and-leaders/eal-education-policy-in-england/)
+    * [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
+    * > 4.5. Teachers must also take account of the needs of pupils whose first language is not English. Monitoring of progress should take account of the pupil’s age, length of time in this country, previous educational experience and ability in other languages.
+    * > 4.6. The ability of pupils for whom English is an additional language to take part in the national curriculum may be in advance of their communication skills in English. Teachers should plan teaching opportunities to help pupils develop their English and should aim to provide the support pupils need to take part in all subjects.
+* [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020 Bell Foundation
+    * > focus is on making all lessons accessible, rather than treating EAL as a ‘bolt-on’
+    * Return to this after looking at Gibbons except - EAL Curriculum for ITE
+
+
+* [NALDIC: Nation Subject Association for EAL](https://naldic.org.uk/)
+    * A range of resources behind a member wall
 * See [[literacy]]
 
 https://labs.heygen.com/video-translate
@@ -40,11 +51,6 @@ https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20Fr
  
 
 
-[National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
-
-> 4.5. Teachers must also take account of the needs of pupils whose first language is not English. Monitoring of progress should take account of the pupil’s age, length of time in this country, previous educational experience and ability in other languages.
-
-> 4.6. The ability of pupils for whom English is an additional language to take part in the national curriculum may be in advance of their communication skills in English. Teachers should plan teaching opportunities to help pupils develop their English and should aim to provide the support pupils need to take part in all subjects.
 
 
 Gibbons Framework
@@ -59,8 +65,8 @@ scaffolding learning
 Teaching English Language Learners in the Mainstream Classroom
 SECOND EDITION
 
-
-* pg12 - field, tenor, and mode - _register_ 
+* [Amazon](https://www.amazon.co.uk/dp/B0CS38GWFK/) - Chapter 1 Preview
+* pg12 - field + tenor + mode = _register_ of a text
     * What is being talked or written about. 
         * Think of the differences between a conversation about teaching and another about gardening, or between a social studies text and a biology text. 
     * The relationship between the speakers. 
@@ -68,9 +74,12 @@ SECOND EDITION
     * Whether the language is spoken or written. 
         * Imagine yourself watching a cooking demonstration where the cook is describing what he or she is doing. Then think about how the language would change if it were written in a cookbook.
     * Halliday and Hasan (1985) refer to these contextual features as field, tenor, and mode
-        * Field refers to the topic of the text—what it is that is being talked or written about.
-        * Tenor refers to the relationship between speaker and listener (or writer and reader), such as the level of formality required.
-        * Mode refers to the channel of communication, for example, whether it is spoken or written
+        * Field
+            * the topic of the text—what it is that is being talked or written about.
+        * Tenor
+            * the relationship between speaker and listener (or writer and reader), such as the level of formality required.
+        * Mode
+            * the channel of communication, for example, whether it is spoken or written
     * Together these three variables constitute what is referred to as the _register_ of a text. 
     * As children learn their first language, they gradually learn not only the syntax or grammar of the language, but also how to vary the language they  use according to the context they are in. In other words, they learn to vary the register of the language so that it is appropriate for the context.
 * pg14 - Moving towards academic language
@@ -149,7 +158,7 @@ Planning for language development group work
 Present on what they have done
 
 TODO
-* [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020 Bell Foundation
+
 * ??? Possible use? [translatewith.wiki](https://translatewith.wiki/)
     * > This website lets you translate complicated concepts between languages. It does this by finding corresponding Wikipedia articles for you and showing their translations. This often gives more accurate results than more general purpose techniques like Google Translate and DeepL.
 

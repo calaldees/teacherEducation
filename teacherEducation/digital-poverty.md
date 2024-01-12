@@ -1,11 +1,9 @@
 Digital poverty
 ---------------
 
-You can't create meaningful content on a mobile phone, you need a keyboard.
-
-We can't assume young people have a desk at home - let alone access to the ability to sit in a chair and use a computer.
-
-
+* You can't create meaningful content on a mobile phone, you need a keyboard.
+    * Discuss? (10min) [AndroidIDE](https://androidide.com/)
+* We can't assume young people have a desk at home - let alone access to the ability to sit in a chair and use a computer.
 
 * The poorest low ability children will be hit hardest by the digital divide.
 * How do we consider _inclusion_ for:

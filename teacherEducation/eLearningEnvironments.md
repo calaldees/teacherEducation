@@ -2,6 +2,7 @@ eLearning Environments
 ======================
 
 A competitive new space for Computing Education management
+Most of these are aimed at FE/HE but some could be relevant
 
 * [codingrooms.com](https://www.codingrooms.com/)
     * See whole class coding live and interact with them (online)
