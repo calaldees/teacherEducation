@@ -45,9 +45,12 @@ Some thoughts
 * Computing curriculum
     * ICT - they can use it to express other ideas
     * How could you be creative with Digital literacy? Computer science? eSaftey? - humm ...
+* Overall?
+    * The education 'system' does not value creativity
+    * Humans (as a collective) value creativity
 
 
-TASK: Discuss - 
+TASK: Discuss 10min?
 * agree/disagree - why?
 * Are we allowed to be creative?
 * Can creativity be prescribed? - on-demand
@@ -59,15 +62,17 @@ TASK: Discuss -
 "The Creativity Conundrum"
 --------------------------
 
-* Creativity come with uncertainty and risk
-* Risks required for _outstanding_
+* Creativity 
+    * comes with uncertainty and 'risk'
+    * is difficult to measure
+* Risks required to reach _outstanding_
 * Nobody can become autonomous leaner without being creative
 
 > Louie Armstrong cant be creative if he doesn't know what end of the trumpet to blow into
-* base skills
-* pallet of skills
+* base skills?
+* 'pallet' of skills?
 
-* encourage trainees to be subversive!
+* encourage trainees to be subversive?!
 * If we are creative, how does that help them?
 * Can't just go from 0 to creative in 6.5 seconds
 
@@ -135,10 +140,11 @@ Example ideas for the Computing Classroom
 
 ### Concept 1: Demoscene
 
+* What is [demoscene](https://github.com/calaldees/mapOfComputing/blob/main/computing/demoscene.md)?
+    * [Top 50 Greatest Amiga Cracktros - Awesome Amiga Crack Intro Music Mix ](https://www.youtube.com/watch?v=g2Vb5Bdyp7Y)
 * My story
     * DNA Logo
         * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
-* [Top 50 Greatest Amiga Cracktros - Awesome Amiga Crack Intro Music Mix ](https://www.youtube.com/watch?v=g2Vb5Bdyp7Y)
 * Greets
     * https://youtu.be/1NI-0Vpgu3A?si=MkCHtCLTJ3j5vQ3v&t=46
 * Font Project
@@ -182,6 +188,9 @@ Example ideas for the Computing Classroom
     * What do students needs to know be creative
 * Assessment criteria must be grounded in subject/curriculum/course goals
     * Crazy idea ... Maybe combine two or more subjects?
+* Templates
+    * Some students cant go from 0 to creative.
+    * Provide scaffolds/railroad/guidence/example for the weaker - everyone should be participating
 * Students must have autonomy
 * Individual accountability (not hide in a group)
 * Suggestions
@@ -218,6 +227,7 @@ Now you have an example
 * Consider
     * Pallet (what skills do they need before they can start combining ideas autonomously?)
     * Assessment criteria (how will they know 'what' to focus on and judge their own progress)
+    * Templates (for the weaker)
 * Individual (silent) 5min
 * Pair 10min
 * Share 15min
