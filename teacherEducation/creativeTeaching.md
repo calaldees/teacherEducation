@@ -165,14 +165,16 @@ Example ideas for the Computing Classroom
 
 ### Concept 2: Escape room
 
-* https://microbit.org/projects/make-it-code-it/step-counter/
-* Send data over network
-* Assessment criteria based on complexity of solution generated
-    * Not marked on "asthenic" or "theming" or "quality of handwriting"
+* Escape room!
+    * Work on a puzzle (individual) - combine as team - theme
 * Pallet
+    * https://microbit.org/projects/make-it-code-it/step-counter/
     * Use of sensors
     * Use of network
     * Logic to make an action
+* Assessment criteria based on complexity of solution generated
+    * Not marked on "asthenic" or "theming" or "quality of handwriting"
+
 
 ### Takeaways
 
