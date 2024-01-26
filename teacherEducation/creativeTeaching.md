@@ -207,6 +207,20 @@ Pallet of skill
 </details>
 
 
+Task (30min)
+----
+
+Now you have an example
+
+* How could you use creativity in your subject?
+* Consider
+    * Pallet (what skills do they need before they can start combining ideas autonomously?)
+    * Assessment criteria (how will they know 'what' to focus on and judge their own progress)
+* Individual (silent) 5min
+* Pair 10min
+* Share 15min
+
+
 
 Risk Taking (40min)
 ------------------
