@@ -228,6 +228,8 @@ Now you have an example
     * Pallet (what skills do they need before they can start combining ideas autonomously?)
     * Assessment criteria (how will they know 'what' to focus on and judge their own progress)
     * Templates (for the weaker)
+    * Showcase/Viability/Conveyed? (will their creativity have value to others?)
+        * Open day? Younger peers? Display? Performance/Presentation?
 * Individual (silent) 5min
 * Pair 10min
 * Share 15min
