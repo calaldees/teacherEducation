@@ -1,6 +1,26 @@
 Creative Teaching (1 hour)
 =================
 
+* See also [[creativity]]
+
+Getting Started
+---------------
+
+* How could you rate the value of someone's creative output?
+
+<details>
+
+* [The Four C Model of Creativity](https://www.waldenu.edu/online-masters-programs/ms-in-education/resource/the-four-c-model-of-creativity) Kaufman  2009
+    * Mini C - any attempt at new task (meaningful/value to learner)
+    * Little C - might be of value to others
+    * Pro C - professional value
+    * Big C (Einstein) - value to the world
+</details>
+
+
+Some thoughts
+-------------
+
 * Teach a prescribed curriculum - assessed centrally
     * Lack of risk taking
 * Where session slides are created centrally and teachers are expected to follow them, in the name of standardisation.
@@ -8,6 +28,14 @@ Creative Teaching (1 hour)
 * Ofsted reports and inspection guidance don't focus on creativity.
     * Has a school ever failed an inspection by being not creative enough?
 * [[CCF]] (2019) - does not mention creativity
+* National Curriculum
+    * [computing](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+        * > A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world.
+        * > undertake creative projects that involve selecting, using, and combining multiple applications
+    * [Mathematics](https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study)
+        * > is a creative and highly interconnected discipline
+    * [English](https://www.gov.uk/government/publications/national-curriculum-in-england-english-programmes-of-study/national-curriculum-in-england-english-programmes-of-study)
+        * > This is not intended to constrain or restrict teachers’ creativity
 * [[ofstedComputing]] 2022 review says
     * > creativity to understand and change the world
     * > confident in using applications in creative projects
@@ -22,43 +50,30 @@ Creative Teaching (1 hour)
 TASK: Discuss - 
 * agree/disagree - why?
 * Are we allowed to be creative?
+* Can creativity be prescribed? - on-demand
+* How can creativity be recognised?
 * Do we value creativity?
 * Should we be creative in our teaching?
 
-<details>
 
-my notes
+"The Creativity Conundrum"
+--------------------------
 
-* Can creativity be prescribed? - on-demand
-* How can creativity be recognised? (my maze butterfly pin wheel)
-* mini C - value to the learner - 6 year old drawing
-* little c - 
-
-* "The Creativity Conundrum"
-    * base skills - Louie Armstrong cant be creative if he doesn't know what end of the trumpet to blow into
-    * pallet of skills
-
-* Nobody can become autonomous leaner without being creative
+* Creativity come with uncertainty and risk
 * Risks required for _outstanding_
+* Nobody can become autonomous leaner without being creative
+
+> Louie Armstrong cant be creative if he doesn't know what end of the trumpet to blow into
+* base skills
+* pallet of skills
+
 * encourage trainees to be subversive!
+* If we are creative, how does that help them?
+* Can't just go from 0 to creative in 6.5 seconds
 
 
-If we are creative, how does that help them?
-
-Can't just go from 0 to creative
-
-Escape room ks3 concept - template
-
-Creative Computing Workshop?
-https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
-Pallet of skill
-
-* Demoscene
-    * DNA Logo
-
-</details>
-
-* [[creativity]]
+Literature
+----------
 
 * [Creativity in Education](https://www.tandfonline.com/doi/abs/10.1111/j.1754-8845.2005.tb00624.x) (2005) Hodges
     * Hodges (2005, p4)
@@ -79,8 +94,6 @@ Pallet of skill
         * Higher education institutions ... to develop research informed practice to evaluate creativity, looking at how creativity and creative thinking can be identified across disciplines, and how its impact can be measured.
         * training for teachers in digital literacy and digital creativity, with time and resource committed to it.
         * diverse routes to take part in creative activities outside of school hours.
-
-
 * Collard and Looney (2014) argue that for learning to be creative, teachers need to see creativity as a process in which they 'build learners' own competence to assess the quality of their ideas.
     * confidence issue - because of differing definitions and policy offered to educators
         * pg 49
@@ -92,6 +105,10 @@ graph TD:
     tc[Teaching for creativity]
 ```
 <sub>Lin's Creative Pedagogy Theory Lin 2009</sub>
+
+* TES [How a sense of ‘wonder’ drives learning](https://www.tes.com/magazine/teaching-learning/general/how-wonder-drives-learning) April 2023
+    * Researchers at the University of Lancaster are investigating the role of ‘wonder’ in education. Here’s what they have learned so far
+    * Behind a paywall .. thanks TES
 
 
 Flow Theory
@@ -108,6 +125,86 @@ Flow Theory
         * Skill Low->High
         * (more challenge than skill == anxiety)
         * (more skill than challenge == boredom)
+
+
+Example ideas for the Computing Classroom
+------------------------------------------
+
+* What might creatively look like in Computing as a catalyst to you looking at your own subjects ...
+* "Pallet" analogy
+
+### Concept 1: Demoscene
+
+* My story
+    * DNA Logo
+        * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
+* [Top 50 Greatest Amiga Cracktros - Awesome Amiga Crack Intro Music Mix ](https://www.youtube.com/watch?v=g2Vb5Bdyp7Y)
+* Greets
+    * https://youtu.be/1NI-0Vpgu3A?si=MkCHtCLTJ3j5vQ3v&t=46
+* Font Project
+    * Create Raster Font
+    * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/font.md
+    * Demoscene Greets
+    * What is your 'Hacker' name/alias?
+    * Combine code from multiple people (the first time they would have collaborated on a software project)
+* Templates for weaker students
+* Assessment criteria linked to curriculum goals (Self/Peer useable)
+    * Used a function
+    * Called a function in a function
+    * Bounded iteration
+    * Unbounded iteration
+    * Nested iteration
+    * List/Array data structure
+    * Appended to data structure / removed from datastructure
+    * Meaningful variable names
+* Pallet
+    * Run a program to keep updating screen
+    * Load image
+    * Draw image at x/y
+    * Array datastructure - loop though string
+
+### Concept 2: Escape room
+
+* https://microbit.org/projects/make-it-code-it/step-counter/
+* Send data over network
+* Assessment criteria based on complexity of solution generated
+    * Not marked on "asthenic" or "theming" or "quality of handwriting"
+* Pallet
+    * Use of sensors
+    * Use of network
+    * Logic to make an action
+
+### Takeaways
+
+* Define your "pallet" of skills
+    * What do students needs to know be creative
+* Assessment criteria must be grounded in subject/curriculum/course goals
+    * Crazy idea ... Maybe combine two or more subjects?
+* Students must have autonomy
+* Individual accountability (not hide in a group)
+* Suggestions
+    * Students must have an opertunity (space/equipment) to work on projects outside of 
+    * [[digital-poverty]]
+
+
+<details>
+
+my notes
+
+* How can creativity be recognised? (my maze butterfly pin wheel)
+* mini C - value to the learner - 6 year old drawing
+* little c - 
+
+Escape room ks3 concept - template
+
+Creative Computing Workshop?
+
+Pallet of skill
+
+* Demoscene
+    * DNA Logo
+
+</details>
 
 
 
@@ -161,12 +258,11 @@ measure class over 3 years - ethical?
 Unsorted
 ========
 
-* TES [How a sense of ‘wonder’ drives learning](https://www.tes.com/magazine/teaching-learning/general/how-wonder-drives-learning) April 2023
-    * Researchers at the University of Lancaster are investigating the role of ‘wonder’ in education. Here’s what they have learned so far
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[creativity]: creativity.md "Creativity"
 [CCF]: national_documentation/CCF.md "Core Content Framework"
 [ofstedComputing]: ofstedComputing.md "Ofsted Computing"
-[creativity]: creativity.md "Creativity"
+[digital-poverty]: digital-poverty.md "digital-poverty"
 [//end]: # "Autogenerated link references"

@@ -51,7 +51,7 @@ The CCF is not the whole story. It misses out other statutory requirements like
 2. Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas. #2/2-HowLearn-LearnThat-prior_knowledge_identified
 3. An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory. #2/3-HowLearn-LearnThat-working-memory
 4. Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded. #2/4-HowLearn-LearnThat-working_memory
-5. Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge. #2/5-HowLearn-LearnThat-long_term_memory
+5. Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge. #2/5-HowLearn-LearnThat-integrating_long_term_memory
 6. Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly. #2/6-HowLearn-LearnThat-misconceptions
 7. Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned. #2/7-HowLearn-LearnThat-regular_practice
 8. Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall. #2/8-HowLearn-LearnThat-spaced_retrieval
