@@ -84,6 +84,9 @@ TASK 2: Explore other KS3 SOW online (20min)
 * [PG Online: KS3 Computer Science](https://www.pgonline.co.uk/resources/computer-science/ks3/) + Curriculum Map
     * 22 downloadable teaching units (samples free)
 * [queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
+* [Wilmington Grammar for Girls (Kent)](https://www.gsgw.org.uk/182/subjects/subject/4/computer-science)
+    * we aim to follow a “practical” approach to Computer Science.
+    * (look at the progression of GCSE topics in KS3 and hands on App Development)
 * [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
     * There is a wealth of resources out there! Go and explore!
 

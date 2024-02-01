@@ -14,9 +14,7 @@ English as an Additional Language (EAL)
     * A range of resources behind a member wall
 * See [[literacy]]
 
-https://labs.heygen.com/video-translate
-https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20English%20(original).mp4
-https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20French%20(AI%20Translated).mp4
+
 
 
 * [Sounds Right - by British Council](https://learnenglish.britishcouncil.org/apps/learnenglish-sounds-right)
@@ -49,6 +47,15 @@ https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20Fr
     * A more detailed overview of SMOG can be found here: 
     [What is the SMOG Readability Score?](https://www.twinkl.co.uk/teaching-wiki/smog-in-literacy)
  
+
+Tools
+-----
+
+### HeyGen
+
+* https://labs.heygen.com/video-translate
+    * https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20English%20(original).mp4
+    * https://calaldees.dreamhosters.com/misc/HeyGen%20-%20Translation%20Test%20-%20French%20(AI%20Translated).mp4
 
 
 
@@ -163,7 +170,7 @@ TODO
     * > This website lets you translate complicated concepts between languages. It does this by finding corresponding Wikipedia articles for you and showing their translations. This often gives more accurate results than more general purpose techniques like Google Translate and DeepL.
 
 
-* [Long read: What’s the best way to support EAL students?](https://www.tes.com/magazine/archived/long-read-whats-best-way-support-eal-students) TES 2021
+* TES: [Long read: What’s the best way to support EAL students?](https://www.tes.com/magazine/archived/long-read-whats-best-way-support-eal-students) TES 2021
     * It takes 3 to 9 years to develop academic proficiency in a language - schools do not have this kind of time.
     1. proper process to assess the level of an EAL learner on arrival at school
         * schools need to give teachers the tools to assess and measure this skill level so that they can gauge how to pitch their lesson content.

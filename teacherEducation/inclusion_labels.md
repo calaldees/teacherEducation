@@ -5,6 +5,7 @@ Inclusion Labels
     * 'Read an extract' of The Inclusive Classroom
         * pg4 to pg9
             * "To label or not not label"
+            * labels can be harmful - can be a tremendous relief (for parents and individuals)
             * "Moving beyond labels"
                 1. understanding that SEN encompasses strengths as well as difficulties
                 2. Looking beyond diagnosis to determine how to support each individual child (whole child)

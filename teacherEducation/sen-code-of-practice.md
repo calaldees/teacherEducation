@@ -16,17 +16,19 @@ SEND code of practice
     * 1.24, 1.26
     * Pretty much all of section 6 (weighted towards the earlier points)
 
-TASK 1: (15min)
-* What are your responsibilities as a subject teacher?
-    * Shared Doc
-* A list of skills/training-needs you think you need to develop (You will use this list in your mentor meetings)
-
 TASK 2: (15min)
 PartA:
 * What are the 4 broad areas of need - can you identify any traits/names to these areas?
 PartB (15min - could be extended ...)
 * What could we do in a Computing classroom to facilitate each of these possible traits/areas of need?
     * Would love to hear your personal experiences and contributions
+
+
+TASK 1: (15min)
+* What are your responsibilities as a subject teacher?
+    * Shared Doc
+* A list of skills/training-needs you think you need to develop (You will use this list in your mentor meetings)
+
 
 
 <details>
@@ -123,3 +125,6 @@ Further Idea
 ------------
 
 * HelloWorld [Sign language for computing terms](https://web.archive.org/web/20231001000518/https://helloworld.raspberrypi.org/articles/hw19-sign-language-for-computing-terms) 2022 - Issue 19
+    * Scottish Sensory Centre [BSL Glossary - Computing Science curriculum terms](http://www.ssc.education.ed.ac.uk/BSL/computinghome.html)
+    * This gives an added physical action to the terms - could be a useful hook for all learners
+        * (I've often joked about conveying computing concepts via interpretive dance - kind of computing sharades)

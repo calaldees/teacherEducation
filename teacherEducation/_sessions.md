@@ -909,6 +909,7 @@ Friday 2nd February - 09:00
 * Computing
     * Understanding [[primary]] education in Computing
         * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
+        * [[early_years]]
     * Computing [[unplugged]] - Computing concepts without a computer
 * Mentor WB 5th Feb
     * Task: Find a case study of - How is pair/group work explicitly scaffolded to include SEND pupils?
@@ -1377,13 +1378,14 @@ From 22nd april
 [version_control]: version_control.md "Version Control"
 [misconceptions]: misconceptions.md "Misconceptions"
 [creativity]: creativity.md "Creativity"
-[physical]: physical.md "physical"
+[physical]: physical.md "Physical Computing - Tangible Computing"
 [girls]: girls.md "Girls in Computing"
 [culturallyRelevantComputing]: culturallyRelevantComputing.md "Culturally Relevant Computing"
 [digital-poverty]: digital-poverty.md "digital-poverty"
 [ssdd]: ssdd.md "Same Surface - Different Depth"
 [managingData]: managingData.md "Managing Data"
 [primary]: primary.md "Computing in Primary Schools"
+[early_years]: early_years.md "Early Years (20min)"
 [unplugged]: unplugged.md "CS Unplugged"
 [academicallyMoreAble]: academicallyMoreAble.md "Academically More Able"
 [educationInspectionFramework]: educationInspectionFramework.md "Education Inspection Framework (EIF)"

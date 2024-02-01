@@ -27,6 +27,10 @@ Equity of Attainment
 ![Illustrating Equality VS Equity](https://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png)
 ![equitytool.org/equity](https://www.equitytool.org/wp-content/uploads/2015/06/Equity-vs-Equality-1024x670.png)
 ![The difference between the terms equality, equity, and liberation, illustrated; © Interaction Institute for Social Change | Artist: Angus Maguire](https://www.researchgate.net/profile/Shrehan-Lynch/publication/340777978/figure/fig1/AS:882312354988036@1587371066584/The-difference-between-the-terms-equality-equity-and-liberation-illustrated-C.png)
+* [Equity: The Thief of Human Potential - Thomas Sowell](https://www.youtube.com/watch?v=8WYi-64MejU)
+    * 'Fake unfairness' is worse then 'unfairness'
+    * If you want equity, you need additional structures and power to judge and enforce the different levels of 'unfairness'
+
 
 ### Criticality
 
