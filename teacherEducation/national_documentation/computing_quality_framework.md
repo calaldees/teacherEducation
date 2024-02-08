@@ -5,6 +5,10 @@ Computing Quality Framework
     * Copy & Pasted from the [PDF Offline Tool](https://computingqualityframework.org/overview/pdf-version/) Feb 2022.
         * (I can't get access to this?! as I'm not a school)
 
+* ITE Task (1 hour)
+    * Introduction (10min) - Overview of 7 categories
+    * TASK 1 (30min): Evaluate your school against the Computing Quality Framework (fill in the grid below)
+    * TASK 2 (30min): Discuss with group - suggestion action points to implement next academic year
 
 ## Dimension 1: Leadership and Vision
 

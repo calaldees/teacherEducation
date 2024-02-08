@@ -210,6 +210,9 @@ Commentary
 
 * Most Computing teachers have not come from a Computing background. They have come from other subjects.
 * 2014 All _ICT teachers_ in the country were told "You now teach Computing".
+    * [The U.K.’s “Year of Code” Director Doesn’t Know How to Code](https://slate.com/technology/2014/02/the-u-k-s-year-of-code-director-lottie-dexter-doesn-t-know-how-to-code.html)
+        * > Lottie Dexter, the director of the U.K.’s “Year of Code” initiative, admitted on national television that she does not, in fact, know how to code.
+        * Learn to code in a day (or an hour)
 * The first GCSE computing students have been though university and are now entering the workforce 2021
     * (It's 2022 and I haven't seen any motion)
 

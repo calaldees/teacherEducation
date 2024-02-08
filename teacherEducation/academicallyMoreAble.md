@@ -1,4 +1,4 @@
-Academically More Able
+Academically More Able (1 hour?)
 ======================
 
 * Jamie Clarke (Graphic Artist) [Teaching Some vs Teaching All](https://www.jamieleeclark.com/graphics) poster
@@ -28,6 +28,27 @@ Criticality
     * [twitter](https://twitter.com/Russwarne/status/1516412551021711377)
         * > In this study, I show that selecting kids @ the building level for #gifted programs will only result in a diverse gifted program at the most segregated schools. At integrated schools, it results in a LESS diverse program. #education 
 
+Organisations
+-------------
+
+* National Association for Able Children in Education (NACE)
+    * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
+        * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
+        * [Identifying more able learners: general characteristics](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLEGeneralIdentificationCharacteristics.pdf)
+        * [School policy for more able learners](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/NACE_Policy_guidance.pdf)
+            * Aims
+            * Definition? Terminology? (School wide?)
+            * Identification process
+        * [Provision for more able learners: school review checklist](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLESchoolReviewChecklist.pdf)
+            * A school policy for more able learners exists.
+            * More able learners are mentioned in the prospectus.
+            * More able learners are mentioned in subject policies.
+        * [More able and the pupil premium](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Pupil_premium.pdf)
+            * > the plight of disadvantaged more able pupils continues to have been largely overlooked by schools. 
+                > This may be based on an assumption that disadvantaged more able pupils will “be fine” and the misconception that, compared to less academically able learners, their needs are not as important or urgent.
+        * [making space for able learners - Cognitive challenge: principles into practice](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/990927B1-D22F-4A6C-8B48-F52175E68973/CognitiveChallengePosterA3.pdf) Poster
+    * [Making space for able learners - Cognitive challenge: principles into practice](https://www.nace.co.uk/page/making-space) Book Purchase
+
 
 ### Webinar Summary - How to Support the More Able
 
@@ -36,8 +57,6 @@ Criticality
     * National Association for Able Children in Education [NACE](https://www.nace.co.uk/)
         * Resources behind a paywall - no individual signup path
         * [blog](https://www.nace.co.uk/page/blog)
-        * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
-            * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
     * _A lecture_ is the transfer of knowledge from the notepad of the lecturer to the notepad of the learner without engaging the brain
     * Get to know them - tap into their interests
     * How hard did they think - ask them 'scale of 1 to 10'
@@ -84,7 +103,7 @@ Criticality
     * Learning Theory is good, but don't become overly mechanical
     * "We have to worry about semi colons, but I want to write from the heart" year 10 pupil (referring to english)
     * If you were a font, which would you be?
-    * When I teach you, what is it that I do that helps you?
+    * > When I teach you, what is it that I do that helps you?
     * Don't have your more able supporting the others a disproportionate amount of time
         * If it helps them clarify their ideas and knowledge, that's fine. Using them to make your life easier is just exploitation. What's in it for them?
     * Be careful of _public praise_
@@ -96,6 +115,7 @@ Criticality
         * Example
             * Lua+Roblox (and nothing else matter)
             * Web guy - lacks wider experience - everything is a DOM and javascript - everything!
+        * They may have their own goals already - they may need goals/opportunities unveiled
 
 
 ### Expertise Reversal Effect
@@ -105,6 +125,14 @@ Criticality
         * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
         * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
 
+### Perfectionism
+
+* [Perfectionism and more able learners](https://www.nace.co.uk/page/perfectionism)
+    * Perfectionism can be paralysing to some students - especially as the skills could take 10 years+ to develop
+    * (See 2min30second video)
+        * Expecting Self to be perfect
+        * Expecting others to be perfect
+        * Expecting other to see you as perfect
 
 Strategies in Computing
 -----------
@@ -124,21 +152,27 @@ TASK: What strategies have you seen to support the more able?
 <summary>some of my quick ideas?</summary>
 
 * Self paced task bank - stretch/extension (clearly graded)
-* Use another language
+* Use another programming language
     * (which is better for this task?)
 * Add depth by considering Performance/LinesOfCode/Optimise
 * Put together a case that is (deliberately) not your opinion
+* When working in pair/groups - ask them to keep a log of phrases or highlight spec points/language they have used in covering their ideas
 * Work on weakness's
-    * `A*` but can't communicate or work in groups
+    * Graded `A*` but can't communicate or work in groups
     * Can go 'off spec' (in amazing ways) - do you allow this? or bring them back on track?
 * (in the modern world) There are LOTS of amazing accessible resources.
 * Teach them how to get a login for hack-the-box (after school)
+* A-Level after school? (you would be surprised how many might be interested in doing this)
 Most importantly
 * Be interested in their development! - however this can backfire because it's all they want to do and no other adult will listen.
+
+I really pissed off a student once; they came in with a shiny brand new laptop and wanted to show it off. I said "in a few years this will be a battered scratched non serviceable lump ready for the bin. I'm not interested in the hardware, I'm interested in what you can do with it". At the time the student was really pissed off, but in time understood the wisdom in my statement.
 
 </details>
 
 
 TODO
+====
+
 * [Technology for Gifted Students in Mixed-Ability Classrooms](https://www.igi-global.com/gateway/chapter/198876) 2018
     * top instructional practices being used by various online resources.

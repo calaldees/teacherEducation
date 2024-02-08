@@ -1,4 +1,4 @@
-Education Inspection Framework (EIF)
+Education Inspection Framework (EIF) (1 hour)
 ==============================
 
 (Async 45min + 30min breakout groups + 15min whole class == 1hour30min)
@@ -13,12 +13,14 @@ ITT Core Content Framework
 * I always refer my students to the assessment criteria. You are teachers. I will refer you to your _assessment criteria_. What criteria are schools inspected under?
 
 TASK:
-* Async Read + Consider questions below (45min)
+* Form groups of 2 or 3 (30min) 
+* Using
     * [Ofsted: Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
         * [EIF](https://www.gov.uk/government/publications/education-inspection-framework)
         * [School inspection handbook](https://www.gov.uk/government/publications/school-inspection-handbook-eif)
+            * (See particularly part 2 "Evaluating the quality of ...")
             * Take note of interesting paragraph numbers to facilitate the discussion below
-* Consider the following questions to discuss as a group (30min)
+* Consider the following questions to relay as a group (30min)
     1. What will inspectors consider when making judgements?
         * Subject specific criteria?
         * Other criteria? What are these other criteria and what evidence are they looking for?
@@ -27,8 +29,9 @@ TASK:
     3. What actions could you and your department take to facilitate a successful Ofsted inspection?
         * Your group will compare your list with the other group - did you have something they missed? or vice versa?
         * (I hope you will take these as action points for your future work in schools)
-* Whole class discussion (15min)
+* Whole class discussion/conclusions (15min)
 
+<details>
 
 My Notes
 ========
@@ -55,5 +58,6 @@ My Notes
                 * how well leaders promote British values through the curriculum, assemblies, wider opportunities, visits, discussions and literature
                 * how well leaders develop pupils’ character through the education that they provide
                 * where appropriate, the quality of debate and discussions that pupils have
-                * pupils’ understanding of the protected characteristics86and how equality and diversity are promoted
+                * pupils’ understanding of the protected characteristics and how equality and diversity are promoted
                 * the quality of careers information, education, advice and guidance, and how well it benefits pupils in choosing and deciding on their next steps.
+</details>

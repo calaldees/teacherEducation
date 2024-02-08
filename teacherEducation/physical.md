@@ -9,6 +9,10 @@ There are a range of small computer boards that are programmable with c/python/e
 These educational tools take code off the desktop screen and into the physical world.
 
 
+* [](https://www.raspberrypi.org/blog/grounded-cognition/)
+    * EIFFEL Model for early computing
+        * "Enacted Physical" to "Formal Mental"
+
 
 * TODO
     * [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) 2020

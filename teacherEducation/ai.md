@@ -11,9 +11,12 @@ AI in the classroom (30min)
     * 5th January 2024 - Key Note: Dr Brett Becker - "AI in Computing Education – Rebooting Teaching Practice"
 
 
+* DfE + Experts [Generative AI in education: Educator and expert views](https://assets.publishing.service.gov.uk/media/65b8cd41b5cb6e000d8bb74e/DfE_GenAI_in_education_-_Educator_and_expert_views_report.pdf) Jan 2024
+    * DfE [Generative AI in education: call for evidence: summary of responses](https://www.gov.uk/government/calls-for-evidence/generative-artificial-intelligence-in-education-call-for-evidence) Nov 2023
+* QAA [Generative Artificial Intelligence](https://www.qaa.ac.uk/membership/membership-areas-of-work/generative-artificial-intelligence)
 
 
-* DfE [Generative AI in education: call for evidence: summary of responses](https://www.gov.uk/government/calls-for-evidence/generative-artificial-intelligence-in-education-call-for-evidence) Nov 2023
+
 * https://www.it.uu.se/research/group/upcerg/events/CompetenciesAI
 
 [Edge Hill University : Ethical AI - Journey so far - Key Points - Claire Hawkins, Carl Simmons](https://docs.google.com/document/d/1Wdo1fbJpl2AbW2A6HzQagX7bWVzRxCOpl_FMEYvPvdg/edit?pli=1#heading=h.m7k3weujotcb)
