@@ -2,7 +2,7 @@ Academically More Able (1 hour?)
 ======================
 
 * Jamie Clarke (Graphic Artist) [Teaching Some vs Teaching All](https://www.jamieleeclark.com/graphics) poster
-* 
+
 
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 * > ‘Too many bright children let down in the state system’ Ofsted 2013
@@ -12,8 +12,9 @@ TASK: 10min solo
 * List of characteristics which you consider to exemplify those pupils who are considered _able_ in Computing
 * Some ideas to kickstart your thinking
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
-    * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
+    * [Traits of Giftedness](https://web.archive.org/web/20220520064815/https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
 TASK: 10min discuss
+
 
 Criticality
 -----------
@@ -142,7 +143,7 @@ TASK: 10min
 * Are there any common themes?
 
 
-TASK: What strategies have you seen to support the more able?
+gTASK: What strategies have you seen to support the more able?
 (who are these able students? how were they identified? what support/strategies were put in place (if any?))
 * Think (3min) notes
 * Pair (5min)
