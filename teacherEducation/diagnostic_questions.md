@@ -4,7 +4,9 @@ Diagnostic/Hinge Questions (1 hour)
 
 * See [[misconceptions]]
 
-
+* TODO:
+    * [On the learning benefits of confidence-weighted testing](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0003-x)
+        * Asking students for their confidence in a particular answer compared with the others is very powerful - it makes the reasons visible to the learner
 
 
 * Read [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)

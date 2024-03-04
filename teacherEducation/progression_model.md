@@ -24,7 +24,7 @@ Using
 
 <details>
 
-* [Learning graphs: Tools to plan for progression](https://helloworld.raspberrypi.org/articles/hw12-learning-graphs-progression) 2020
+* [Learning graphs: Tools to plan for progression](https://web.archive.org/web/20221210073353/https://helloworld.raspberrypi.org/articles/hw12-learning-graphs-progression) 2020
     * [issue 12](https://helloworld.raspberrypi.org/issues/12) [pdf](https://helloworld.raspberrypi.org/issues/12/pdf) page 62
     * [Learning graphs: A strategic approach to computing curriculum planning](https://www.raspberrypi.org/app/uploads/2020/04/Learning-graphs-a-strategic-approach-to-computing-curriculum-planning.pdf) Andy Bush poster pdf
 * NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5

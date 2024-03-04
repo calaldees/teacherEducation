@@ -385,6 +385,8 @@ Many primary school activities talk about 'giving instructions to a person' to p
 [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
 print cards from PDF
 
+* [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
+
 
 Primary to Secondary Transition
 -------------------------------
