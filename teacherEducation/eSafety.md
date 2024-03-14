@@ -41,7 +41,7 @@ eSafety
                     * Loads of great links to resources and contacts
                     * > If your student has an interest in computers and technology, it could be valuable to encourage them to develop their skills as cyber industry professionals are in high demand. Those with a real interest in how tech works could have a bright future ahead. However, it’s important to have a discussion with them about using their skills legally and the consequences of becoming involved in cyber crime. Recognising and engaging with this interest may encourage them to follow the correct and legal pathway.
                     * > There are plenty of financially rewarding and legal careers available to them. These include coding, engineering, web development, penetration testing, security operations, law enforcement, legal hacking and many more roles in both the public and private sectors.
-                * [NPCC- When to call the Police](https://www.npcc.police.uk/documents/Children%20and%20Young%20people/When%20to%20call%20the%20police%20guidance%20for%20schools%20and%20colleges.pdf) guidance for schools
+                * [NPCC- When to call the Police](https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2020/when-to-call-the-police--guidance-for-schools-and-colleges.pdf) guidance for schools
                     * See flowchart page 11
                         * [ActionFraud.police.uk](https://www.actionfraud.police.uk/)
                 * National Cyber Security Centre - NCSC.GOV.UK
@@ -92,10 +92,15 @@ eSafety
 Further Reading
 ---------------
 
-* https://helloworld.raspberrypi.org/articles/hw20-computer-networks-a-fresh-approach-to-online-safety
-* https://helloworld.raspberrypi.org/articles/hw18-addressing-the-cybersecurity-skills-gap
-* https://helloworld.raspberrypi.org/articles/hw18-capture-the-flag-to-capture-interest
-* https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy practice being the bad guys
+* The reality is that there are teachers that have focused there entire career in developing resources for cybersecurity. Piggyback on their ideas
+
+* HelloWorld articles
+    * https://helloworld.raspberrypi.org/articles/hw20-computer-networks-a-fresh-approach-to-online-safety
+    * [Addressing the cybersecurity skills gap](https://web.archive.org/web/20221210024232/https://helloworld.raspberrypi.org/articles/hw18-addressing-the-cybersecurity-skills-gap)
+    * [Capture the flag to capture interest](https://web.archive.org/web/20230930215039/https://helloworld.raspberrypi.org/articles/hw18-capture-the-flag-to-capture-interest)
+        * https://teachcyber.org/ - Supporting high school instructors to deliver cybersecurity curricula.
+    * [Know Thy Enemy](https://web.archive.org/web/20221210034519/https://helloworld.raspberrypi.org/articles/hw18-know-thy-enemy) practice being the bad guys
+        * > Pretending to be the bad guys adds depth, understanding, and fun to cybersecurity classes, and helps us to become better good guys
 
 
 

@@ -2,25 +2,6 @@ Computing Across the Curriculum
 ===============================
 
 
-TODO:
-* Non specialists (and maybe new computing teachers) don't know the tools. They just need to be told/shown - they can't self discover and evaluate the effectivness
-* We should not encroach or derail other subjects with yor CS. We should use the tool to enhance the other subjects
-* Venn diram 'CS Heavy' -- 'Content Heavy' and the right zone in the middle
-    * However we need to keep the cognative load at 50% for each - we can't go full throttle with both (find the research)
-* TES [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised) 2022 (paywall)
-    * > Ofsted's deep-dive investigation into subjects is to determine the extent of subject knowledge and whether the knowledge they find is substantive, disciplinary or inter-disciplinary. 
-    * > If a primary pupil, having spent all afternoon painting a picture of a Roman soldier, neither improved in painting nor knew more about Roman soldiers, was it time well spent?
-    * > A secondary pupil measuring personal performance in PE might be making little progress in mathematics skills nor getting fitter. 
-    * > Nowadays, the focus on the pedagogy of knowledge transmission indicates measurable progress in learning…a particular approach to pedagogy.
-    * > The art of 'knowing why' ... the learning of the "what" will only go so far. 
-
-* [Shuchi Grover](https://www.shuchigrover.com/), Ph.D. 
-    * Home A Unique A-Z Handbook on Teaching Introductory Programming for Every K-12 CS Educator
-    * [Amazon: Computer Science in K-12: An A-To-Z Handbook on Teaching Programming Paperback – 15 Jun. 2020](https://www.amazon.co.uk/Computer-Science-K-12-Z-Programming/dp/1734662700/) (color - there is a cheaper black and white version)
-    * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/) Integrating Programming in Other Subjects
-    * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
-
-
 Starter (10min)
 -------
 
@@ -67,92 +48,89 @@ Consider the semantic difference between "A Computing teacher" and "A teacher th
 
 ### ITT Core Framework
 
-1.2. 
-> Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils
+* #3/8-SubjCur-LearnThat-discipline_transfer_context
+    * > Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context.
+    * > Discussing and analysing with expert colleagues how to revisit the big ideas of the subject over time and teach key concepts through a range of examples.
+* #1/2-HighExp-LearnThat-role_model
+    * > Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils
+* #2/1-HowLearn-LearnThat-learning_is_lasting
+* #3/n-SubjCur-LearnHow-domain_knowledge_criticality
+
 
 3.1.
 > A school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
-
-3.8.
-> Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context.
-
-> Discussing and analysing with expert colleagues how to revisit the big ideas of the subject over time and teach key concepts through a range of examples.
 
 8.3
 > Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
 
 
 
-Ofsted, Inspections and Computing
---------------------
+What literature says?
+---------------------
 
-* National Curriculum
-    * > A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
-    * > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
+* Biesta, G. (2009) [Good education in an age of measurement: on the need to reconnect with the question of purpose in education](http://dx.doi.org/10.1007/s11092-008-9064-9) [researchgate](https://www.researchgate.net/publication/41529875_Good_Education_in_an_Age_of_Measurement_On_the_Need_to_Reconnect_with_the_Question_of_Purpose_in_Education) [Whole VLE Books](https://www.vlebooks.com/Product/Index/2053417)
+    * > The rise of the measurement culture in education has had a profound impact on educational practice
+    * > what ought to be done can never be logically derived from what is.
+    * > educational .. ‘effectiveness’ is actually a value
+    * > ‘learnification’ -> learning as a 'process'
+    * > (education as a) 'socialisation function' and 'individuation'
+    * Two examples: Citizenship education and mathematics education
 
-### Historical Inspection
-* [David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools) 2014 (stepped down)
-    * Teaching in computing is good or better when:
-        * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the *big picture*
-        * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ *active participation* in their learning and secure good or better progress across all aspects of the subject.
-    * The computing curriculum is good or better when:
-        * the contexts in which computing is taught are *relevant to pupils lives* and reflect the increasing use of computing in the world of industry
-        * excellent links are forged with other agencies and the *wider community* to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
-        * *links with other subjects in the school* are productive in strengthening pupils’ learning in computing
-    * Leadership of computing is good or better when
-        * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
-        * computing has a very high profile in the life of the school
-    * Finally ...
-        * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
-* [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
-* [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
+* TES [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised) 2022 (paywall)
+    * > Ofsted's deep-dive investigation into subjects is to determine the extent of subject knowledge and whether the knowledge they find is substantive, disciplinary or inter-disciplinary. 
+    * > If a primary pupil, having spent all afternoon painting a picture of a Roman soldier, neither improved in painting nor knew more about Roman soldiers, was it time well spent?
+    * > A secondary pupil measuring personal performance in PE might be making little progress in mathematics skills nor getting fitter. 
+    * > Nowadays, the focus on the pedagogy of knowledge transmission indicates measurable progress in learning a particular approach to pedagogy.
+    * > The art of 'knowing why' ... the learning of the "what" will only go so far. 
 
-### (Current?) Computing Inspection
-* [Ofsted: How to prepare for a computing Deep Dive](https://blog.teachcomputing.org/ofsted/) 2022 
-    * Marc White, HMI Inspector for Ofsted and subject lead for computing
-    * > The computing curriculum is really rich in knowledge and should not be so narrow that teachers only teach what’s to be assessed - it should be broader than that.
-    * > However, it should not be broadened to such an extent that it becomes a range of experiences and activities which detract from the learning outcomes as identified in the curriculum. What is important is that it is appropriate to the curriculum, is well-sequenced and that key content has been remembered.
-* [Computing curriculum | Webinar from the East of England region](https://www.youtube.com/watch?v=C7ZfA0FJCq8) YouTube 22min
-
-* from 'Computing Inspection Aide memoire' PDF
-    * opportunity (time) to implement solutions through practical programming
-    * Two programming languages(one textual)/data structures/function
-    * Is there an over-reliance on online courses to teach programming?
-    * Does the school over-use ‘unplugged’ activities which create unnecessary abstractions of subject content, increase cognitive load and take up curriculum time?
-
-### Education inspection framework (30min)
-* [Education inspection framework (EIF)](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
-    * [school-inspection-handbook](https://www.gov.uk/government/publications/school-inspection-handbook-eif/school-inspection-handbook)
-        * TASK: using school-inspection-handbook investigate points
-            * 206 + 207 + 208 + 214 + 223
-        * Prepare a set of interesting quotes from the above points
-        * Questions:
-            * What does 'Inspection Framework' mean for your practice?
-            * Is computing mentioned in the EIF?
-            * Where is computing in the [EBacc](https://www.gov.uk/government/publications/english-baccalaureate-ebacc/english-baccalaureate-ebacc)
-
-<details>
-
-* > 206: In key stages 2 and 3, schools need to provide a broad, rich curriculum. Our research into the curriculum shows that these stages are particularly susceptible to a narrow curriculum, and that this has a disproportionately negative effect on the most disadvantaged pupils.
-* > 223: We will judge schools taking radically different approaches to the curriculum fairly. We recognise the importance of schools’ autonomy to choose their own curriculum approaches.
-* > 214 has rigour, where relevant, so that pupils learn the knowledge that they need to answer subject-specific questions and to gain disciplinary knowledge of how the subject works (this should not prevent a topic-based or thematic approach, however)
-* Curriculum narrowing
-    * > Our research has shown that some schools narrow the curriculum available to pupils, particularly in key stages 2 and 3.
-</details>
+* [Shuchi Grover](https://www.shuchigrover.com/), Ph.D.
+    * [Amazon: Computer Science in K-12: An A-To-Z Handbook on Teaching Programming Paperback – 15 Jun. 2020](https://www.amazon.co.uk/Computer-Science-K-12-Z-Programming/dp/1734662700/) (color - there is a cheaper black and white version)
+    * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/) Integrating Programming in Other Subjects
+    * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
+        * (Ultra reductivist summary) "The data you work with"
 
 * TES [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) 2022 - Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
     * > "The combination of practical, hands-on and creative activities with meeting real-world scientists gave the students a taste of how exciting and fulfilling a life of science can be,"
 
-### Computing Quality Framework (30min)
-* [Computing Quality Framework](https://computingqualityframework.org/) [[computing_quality_framework]]
-    * TASK: Let's read and grade our schools (consider evidence) (15min) (10min discussion)
+
+* Takeaways
+    * Non specialists (and maybe new computing teachers) don't know the tools. They just need to be told/shown - they can't self discover and evaluate the effectiveness
+    * We should not encroach/derail/hijack other subjects with our Computer Science. We should use the tool to enhance the other subjects appropriately
+    * Venn digram 'CS Heavy' -- 'Content Heavy' and the right zone in the middle
+        * However we need to keep the cognitive load at 50% for each - we can't go full throttle with both (find the research) - (Shuchi Grover above suggests that well integrated uses of CS and other domains actually reduce cognitive load)
+
+
+
+
+Ofsted, Inspections and Computing
+--------------------
+
+* [[educationInspectionFramework]]
+
+* Let's look at the computing qualification framework - I've extracts some of the points that hint at a "Broad and Balanced" curriculum
+* [[computing_quality_framework]]
+    * 1. Leadership and Vision
+        * School leaders effectively demonstrate how computing provision in the school enhances the whole provision of school and its strategic and operational direction.
+    * 2. Curriculum and Qualifications
+        * Teachers in other subjects build upon learners' computational thinking to improve the quality of teach and learning in their subject. 
+        * The school draws on the expertise of employers to deepen and enrich the school’s computing provision, and opportunities are provided for learners to develop their skills and understanding outside lessons. 
+    * 3. Teaching, Learning, Asessment
+        * All computing teachers have very strong and secure knowledge of computing, including core subject knowledge and its broader contextualisation. 
+    * 4. Staff Development
+        * Staff undertaking CPD are provided with the opportunity to share their knowledge, skills and techniques with members of staff in departments in local schools.
+        * (my interpretation is that staff can collaborate across subject)
+    * 6. Carers Education
+        * authentically experience a range of computing careers and future study options
+    * 7. Impact and Outcomes
+        * Learners draw on their knowledge and understanding of computing and computational thinking in other subjects. 
+
 
 
 Computing Across the Curriculum - Ideas
 -------------------------------
 
 * [Computing Across the Curriculum](https://www.youtube.com/watch?v=-JBgaR8sNcE) - [Myles Berry](http://milesberry.net/about-3) - CAS TV - June 2016
-    * There was a movement to teach ICT without a discreet subject
+    * There was a movement to teach ICT without a discreet subject - this largely failed
     * Ask students "Have you understood the world"? "Have you changed the world?"
     * Let's not just do logical reasoning in computing - it applies to other subjects
     * [Phonics classification](https://youtu.be/-JBgaR8sNcE?t=390) is a binary tree 6:00
@@ -165,7 +143,7 @@ Computing Across the Curriculum - Ideas
 * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentence - April 2016 - King’s College London UK
     * Five key themes emerged: 
         * unplugged type activities 
-        * contextualisation of tasks
+        * "contextualisation of tasks" (The big one in this session!)
         * collaborative learning
         * developing computational thinking
         * scaffolding programming tasks
@@ -209,7 +187,7 @@ Responsibility's of Computing Teachers (lecture 10min)
     * our schools with ICT and digital literacy
         * Very few other teachers will have a background in Computing. Their digital literacy is often weak.
         * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
-        * We should consider this _support_ part of our role in schools
+        * We should consider this _support_ part of our role in schools (Leadership man not explicitly recognise this)
     * our subject with strong cross curricular links
         * Literacy
             * [Ofsted Improving literacy in secondary schools: a shared responsibility](https://www.gov.uk/government/publications/improving-literacy-in-secondary-schools-a-shared-responsibility)
@@ -220,9 +198,9 @@ Responsibility's of Computing Teachers (lecture 10min)
                 * Many young people cannot convey there ideas (verbally or written)
                 * If you can't describe/distil your ideas - you cannot think
                 * Subject vocabulary to describe complex problems efficiently
-            * [The Secret of Literacy: Making the implicit, explicit](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/)
+            * Book: [The Secret of Literacy: Making the implicit, explicit](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/) David Daidu
         * Mathematics
-            * [Programmers-Introduction-Mathematics](https://www.amazon.co.uk/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/)
+            * Book: [Programmers-Introduction-Mathematics](https://www.amazon.co.uk/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/) Jeremy Kun 2018
 
 * Your role
     * You *ARE* the evangelist/ambassador for Computing in your school. For staff and students alike
@@ -237,7 +215,7 @@ Can you help other practitioners include these words explicitly in their lessons
 * Logic
     * predicting analysing
 * Algorithms (sequencing)
-    * making steps & rules
+    * making steps & rules (sequence of instructions)
 * Decomposition
     * breaking down into parts
 * Patterns
@@ -249,7 +227,8 @@ Can you help other practitioners include these words explicitly in their lessons
     * making judgement
 
 
-Planning cross curricular? (15min)
+
+Planning cross curricular? (30min)
 -------------------------
 
 (First ideas - taking subjects discreetly)
@@ -288,26 +267,24 @@ Model: Example Cross Curricular Lesson (lecture 30min)
 -------------------------------
 
 I am going to describe a cross curricular lesson I have run in the past.
-[[epistemic-insight]]: Big Questions
+[[context_wider]]: Big Questions
 
-* [3d_image](../3d_image/README.md) workshop
-    * [anaglyph](../3d_image/anaglyph.md)
-    * [guide](../3d_image/anaglyph_gimp.md)
+* [3d_image](https://github.com/calaldees/teachingWorkshops/tree/master/3d_image) workshop
 * [Google Slides](https://docs.google.com/presentation/d/1tJRI7dnJmk30Jojupjcb5qJA_mLJf4nK_g0Yc5V0xHs/edit?usp=sharing)
 * [dino_images](http://calaldees.dreamhosters.com/pictures/lasar/) (NOO!! I LOST THEM!! I had a dinosaur and a tardis on a desk .. it was amazing)
 
 * Philosophy
-    * How to we experience the world
+    * How to we experience/perceive the world
 * Etymology
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
         * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
 * History
     * What technology has historicity been used to get a separate image to each eye. (see links in 3d_image)
-        * ![Side by side photos](https://content.instructables.com/FUI/9R5V/HFPTIJ7V/FUI9R5VHFPTIJ7V.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=7949d2537568864f3a193c031d292ded), [Viewmaster](https://www.google.com/search?q=vintage+viewmaster&tbm=isch), sterograms
+        * ![Side by side photo viewer from 1890?](https://content.instructables.com/FUI/9R5V/HFPTIJ7V/FUI9R5VHFPTIJ7V.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=7949d2537568864f3a193c031d292ded), [Viewmaster](https://www.google.com/search?q=vintage+viewmaster&tbm=isch), stereo-grams
 * Physics
     * (alternatives: polarisation, active shutter)
-    * Light filters -> Analyph
+    * Light filters -> Anaglyph
     * https://en.wikipedia.org/wiki/Anaglyph_3D
     * [Buy Red/Cyan Glass's on Amazon](https://www.amazon.co.uk/s/ref=nb_sb_ss_i_1_8/258-4913575-7554117?url=search-alias%3Daps&field-keywords=red+cyan+3d+glasses&sprefix=red+cyan%2Caps%2C139&crid=3OX6AMXQBKHQW)
     * [Fliker: Anaglyphic 3D Group](https://www.flickr.com/groups/365182@N21/pool/)
@@ -315,8 +292,7 @@ I am going to describe a cross curricular lesson I have run in the past.
     * [Fliker: Stereo](https://www.flickr.com/photos/15693951@N00/albums/72157602843553105) post3d historical photos
 * ICT - Image Manipulation (hands on)
     * Hands on with Dinosaur/tardis (I weep: I lost these legendary images)
-    * guide [anaglyph_gimp.md](../3d_image/anaglyph_gimp.md)
-        * Source [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
+    * guide [anaglyph_gimp.md](https://github.com/calaldees/teachingWorkshops/tree/master/3d_image)
     * Extension: Take your own!!!!
 * Computing - Automation
     * How long did it take you to do one image? what about ten? what about about 100? what about 10,000?
@@ -324,22 +300,35 @@ I am going to describe a cross curricular lesson I have run in the past.
     * RGB Pixels
         * Layer mode
             * Algorithms (for each pixel)
-            * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)
+            * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes-legacy.html) `screen` and `multiply`
     * [Python anaglyph + video](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/other/anaglyph)
+        * By automation - we can process video
+        * I made this 10 years ago - this needs reworking for python3 and clarity - please don't judge me
     * MDN [CanvasRenderingContext2D.globalCompositeOperation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation) HTML5/Canvas code?
-        * TODO: construct an example
+        * [partial html5/js canvas example](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/game/anaglyph.html)
 * Art
     * Create own abstract worlds (fractals animation)
     * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
 * Let's go into space or skydive
-    * (see links in anaglyph.md)
-* How do we experience the world?
+    * (see links in [anaglyph.md](https://github.com/calaldees/teachingWorkshops/tree/master/3d_image))
+* How do we experience/perceive the world?
 
 
 ### Summary: EPISTEMIC INSIGHT FRAMEWORK
 
-* [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf) 2019
-    * > Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
+* [[context_wider]]
+    * [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf) 2019
+        * > Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
+        * Projects live on funding - there was lots of funding from regious institutions - the funding has expired
+    * (stay with me for a two video prelude to a question)
+    * [Nobody Stands Nowhere](https://www.youtube.com/watch?v=AFRxKF-Jdos) 2min30 Theos Think Tank - YouTube 2021
+        * There is no neutral perspective - do you know where you stand? and why?
+    * NICER [Science x Religion Encounters](https://nicer.org.uk/science-religion-encounters) 3min
+        * (note: where the funding comes from)
+        * Lack of dialogue between subject teachers
+        * Students are left to pickup the pieces (this is true)
+* Our learners are "making sense of the world". They are bombarded with different views. Just saying "those views are wrong" wont help.
+
 
 
 Sidenote: We should be fostering creativity
@@ -372,7 +361,10 @@ Group Task: Design a Cross curricular Lesson (1 hour)
             * Community/Society/Law/Citizenship/Environment/MinorityGroups?
             * Computing reference?
         * Play Crossover subject/discipline bingo! How many genuine cross curricular links can you find?
-            * Refer to the curriculums of other subjects
+            * Refer to the 'curriculums' of other subjects (Without this, you are just making up stuff about a subject you know little about)
+                * (do not just loosely theme)
+                * (just because it has a 'map' does not make it cross curricular with Geography)
+                * Download a GCSE spec for another subject?
         * Two possibilities
             * Breath? (create multiple small lessons that touch a few disciplines)
             * Depth? (create a single topic that touches as many disciplines as possible)
@@ -388,7 +380,7 @@ Computing Across The Curriculum (1 hour)
 -------------------------------
 
 TODO:
-* [CodeHSCoding Exploration SyllabusMini Course (40 Contact Hours)](https://codehs.com/course/5194/overview) [sylibus](https://codehs.com/uploads/0af7654eb54e711b44fb039503eecead)
+* [CodeHSCoding Exploration - Mini Course (40 Contact Hours)](https://codehs.com/course/5194/overview) [syllabus](https://codehs.com/uploads/0af7654eb54e711b44fb039503eecead)
     * Coding Music
     * Generative Art
     * Golf game - sports
@@ -488,6 +480,7 @@ Timeboxed? One hour? I could go all day
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
         * [Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
+            * (I'm working on the mauruders map from happy potter - translate from geo cord space to x,y image pixel cord space)
     * Statistics
         * Graphing _standard deviation_ from actual datasets?
     * Mechanics
@@ -1179,6 +1172,9 @@ Download own Facebook data - alayise own facebook data - NLTK sentiment analysis
 
 
 GlobalRadio - auto visuals hack
+api - sentement analysis
+* [Meaning Clound: Sentiment Analysis API version 2.1](https://learn.meaningcloud.com/developer/sentiment-analysis/2.1/doc/examples)
+    * 
 
 
 
@@ -1213,6 +1209,7 @@ rumor in scools - class of 30? possible activity?
 
 
 * Freedom of speach?
+    * changed business model
     * [dissenter](https://dissenter.com/) - comments - even when comments not available
         * [New plugin allows the far-right to ‘graffiti’ any website](https://www.cjr.org/analysis/dissenter-plugin.php)
 
@@ -1254,7 +1251,8 @@ tim hunkin - southwold under the peir - novalty automation
     * [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
 * [THE SECRET LIFE OF MACHINES: The Videos](https://www.exploratorium.edu/ronh/SLOM/)
 
-
+* 101Computing.net [Automatic Headlights System](https://www.101computing.net/logic-gates-circuits-in-cars/)
+    * Logic gates to activate parts of the car
 
 * [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 * [Keynote by Dylan Beattie: Computational Creativity (EN) – INNOQ Technology Day](https://www.youtube.com/watch?v=FeD3DSn1gIs)
@@ -1302,7 +1300,8 @@ Shared whiteboard for ideas followed by discussion.
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
-[computing_quality_framework]: national_documentation%2Fcomputing_quality_framework.md "Computing Quality Framework"
-[epistemic-insight]: epistemic-insight.md "Epistemic Insight"
+[educationInspectionFramework]: educationInspectionFramework.md "Education Inspection Framework (EIF) (1 hour)"
+[computing_quality_framework]: national_documentation/computing_quality_framework.md "Computing Quality Framework"
+[context_wider]: context_wider.md "Context"
 [creativity]: creativity.md "Creativity"
 [//end]: # "Autogenerated link references"

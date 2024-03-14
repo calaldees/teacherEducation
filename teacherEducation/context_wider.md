@@ -7,25 +7,52 @@ Computing Teacher: your role in a wider context
 TASK: Visit the LASAR Site ... thoughts? comments?
 Can Science and Religion be taught together?
 
+
+Epistemic Insight
+-----------------
+
+* [The LASAR (Learning about Science and Religion) Research Centre](https://www.canterbury.ac.uk/research/research-centres/lasar)
+* [Epistemic insight](https://www.epistemicinsight.com/)
+* 
+
+* [Nobody Stands Nowhere](https://www.youtube.com/watch?v=AFRxKF-Jdos) 2min30 Theos Think Tank - YouTube 2021
+    * There is no neutral perspective - do you know where you stand? and why?
+
+Understating and explaining pedagogical problem solving: a video-based grounded theory study of classroom pedagogy.
+https://www.tandfonline.com/doi/full/10.1080/02635143.2021.2001450
+
+Science world-view x Religious worldview taught separately
+NICER
+* [Science x Religion Encounters](https://nicer.org.uk/science-religion-encounters) 3min
+    * Lack of dialogue between subject teachers
+    * Students are left to pickup the pieces
+    * 
+
+
+
 * [Epistemic insight: engaging with life's Big Questions](https://www.ted.com/talks/berry_billingsley_epistemic_insight_engaging_with_life_s_big_questions) 2021 TEDxFolkstone Berry Billingsley 11min video
 
-* [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
-    * Big questions
-    * [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
-        * Science and Religion in Education, Contemporary Trends and Issues in Science Education 48
-    * [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
-        * Linking subject to _bigger questions_
-    * [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)
-    * AI research - before we can have _artificial interference_ we need to define intelligence
-    * [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
-        * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
-        * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
-        * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
-        * The legal system is an interesting piece of software - it's based on exceptional handling
+* [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf) 2019
+    * > Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
+    * Projects live on funding - there was lots of funding from regious institutions - the funding has expired
+
+* Big questions
+* [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
+    * Science and Religion in Education, Contemporary Trends and Issues in Science Education 48
+* [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
+    * Linking subject to _bigger questions_
+* [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)
+* AI research - before we can have _artificial interference_ we need to define intelligence
+* [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
+    * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
+    * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
+    * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
+    * The legal system is an interesting piece of software - it's based on exceptional handling
 * Fundamental British Values
     * [[fundamental_british_values]] is a requirement
 
 * [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
+    * CS Visions Unplugged Activity
     * > There is not one purpose for education, and there should not be one purpose for computer science education either. 
     * [CS for What? Diverse Visions of Computer Science Education in Practice](https://academicworks.cuny.edu/gc_pubs/562/)
         * Lots of links to social context case studies and projects
@@ -43,8 +70,7 @@ Can Science and Religion be taught together?
 * [[culturallyRelevantComputing]]
 
 
-* 101Computing.net [Automatic Headlights System](https://www.101computing.net/logic-gates-circuits-in-cars/)
-    * Logic gates to activate parts of the car
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [fundamental_british_values]: fundamental_british_values.md "Fundamental British Values"

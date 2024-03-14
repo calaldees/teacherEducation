@@ -1,6 +1,10 @@
 Creativity
 ==========
 
+* NCCE [Beyond coding: unlocking the full potential of tech careers through creativity](https://blog.teachcomputing.org/beyond-coding/) 2024
+    * > “The wider curriculum can limit us to thinking that a career in computer science equals coding. But tech and digital careers are so much more. By introducing inter-disciplinary teaching – connecting art and computer science for example – we can support students to gain a more varied skillset and improve diversity,” said Louise. 
+    * > “A talented sculptor can create a complicated and beautiful sculpture, but it might be made of out a weak material that will crumble with time. Being creative without thinking about the constraints of the environment you operate in is not enough. That’s why creative and critical thinking are the sides of the same coin.” 
+
 Incomplete
 
 * See [[instructional_continuum]] for "Innovative teaching in computer science: what does it mean and why do we need it?" 
