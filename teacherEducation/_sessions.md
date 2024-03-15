@@ -1021,12 +1021,6 @@ learning
 
 ### Readings
 * Biesta, G. (2009) [Good education in an age of measurement: on the need to reconnect with the question of purpose in education](http://dx.doi.org/10.1007/s11092-008-9064-9) [researchgate](https://www.researchgate.net/publication/41529875_Good_Education_in_an_Age_of_Measurement_On_the_Need_to_Reconnect_with_the_Question_of_Purpose_in_Education) [Whole VLE Books](https://www.vlebooks.com/Product/Index/2053417)
-    * > The rise of the measurement culture in education has had a profound impact on educational practice
-    * > what ought to be done can never be logically derived from what is.
-    * > educational .. ‘effectiveness’ is actually a value
-    * > ‘learnification’ -> learning as a 'process'
-    * > (education as a) 'socialisation function' and 'individuation'
-    * Two examples: Citizenship education and mathematics education
 * Bailin, S., Case, R., Coombs, J. R., & Daniels, L. B. (1999) [Common misconceptions of critical thinking. Journal of Curriculum Studies](https://doi.org/10.1080/002202799183124), 31(3), 269-283. 
 * SP17: Tod and Ellis, 2018 [‘Behaviour for learning’](https://doi.org/10.4324/9781315232256) [e-book](https://www.vlebooks.com/Product/Index/2013366)
 

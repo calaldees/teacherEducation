@@ -89,6 +89,14 @@ eSafety
     * Resources for education for a connected world
 
 
+My Experience - "The hacker kid" and jail
+-------------
+
+* The entire adult world will hate them
+* Be their advocate - you approve of them and their skills (never loose this) - you don't approve of they way they are doing it
+
+
+
 Further Reading
 ---------------
 

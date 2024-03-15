@@ -4,6 +4,10 @@ Culturally Relevant Computing
 * [[broadening-participation]]
 * [[girls]]
 
+* cambridge-handbook-of-computing-education-research [15.4.3 Accessibility and Inclusivity](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
+    * > Brady et al. (Reference Brady, Orton, Weintrop, Anton, Rodriguez and Wilensky2017) engage students’ interest through projects with contexts that illustrate the social and collaborative aspects of computer science. 
+* Hello World [Inspiring young people with contexts they care about](https://web.archive.org/web/20221210053517/https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about)
+
 
 * [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
     * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
@@ -13,13 +17,11 @@ Culturally Relevant Computing
         * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
     * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
 
-https://web.archive.org/web/20221210053517/https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about
 
 
 
 
-* [15.4.3 Accessibility and Inclusivity ](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
-    * >  Brady et al. (Reference Brady, Orton, Weintrop, Anton, Rodriguez and Wilensky2017) engage students’ interest through projects with contexts that illustrate the social and collaborative aspects of computer science. 
+
 
 * Guidelines
     * People that look like them
