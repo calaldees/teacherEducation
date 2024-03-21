@@ -9,7 +9,7 @@ TODO: CCF and EIF bits
         * See how likely young people are to participate in higher education according to where they live
 
 
-* Teachers often misunderstand how disconnected they they are
+* Teachers often are oblivious to how disconnected they are from the workplace
 
 * goodcareerguidance.org.uk [Gatsby Benchmarks](https://www.goodcareerguidance.org.uk/)
     * 2015 a recommendation - 2020 compulsory
@@ -53,7 +53,6 @@ I think there are some fundamentals we can ascertain
 > Ask not what your country can do for you — ask what you can do for your country
 
 [Kennedy](https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy)
-
 I don't like the term _country_ - so I suggest a replacement of _community_
 
 * There are plenty of roles that society needs.

@@ -55,16 +55,20 @@ AQA Module Weight
 
 Always be clear about the weight of each module. Check the spec.
 
-* AS == 29% of A-Level grade
-    * 14% Paper 1 - Practical Assessment
-    * 14% Paper 2 - Theory
-* A2 == 71% of A-Level grade
-    * 28% Paper 1 - Practical Assessment
-    * 28% Paper 2 - Theory
-    * 15% Non-exam assessment - Project/Investigation
-        * Any topic - Individual to student
-        * 8% Technical solution
-        * 7% Documentation
+* [AQA: AS and A-level Computer Science - Specification at a glance](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/specification-at-a-glance)
+    * [Assessment Weightings](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/scheme-of-assessment#Assessment_weightings)
+        * AS(75 + 75) + A2(150 + 150 + 75) = 525 Total
+    * AS == 150 scaled marks 29% of A-Level grade
+        * (75/525) 14% Paper 1 - Practical Assessment
+        * (75/525) 14% Paper 2 - Theory
+    * A2 == 71% of A-Level grade
+        * (150/525) 29% Paper 1 - Practical Assessment
+        * (150/525) 29% Paper 2 - Theory
+        * (75/525) 14% Non-exam assessment - Project/Investigation - [Project_documentation_structure](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/subject-content-a-level/non-exam-assessment-the-computing-practical-project#Project_documentation_structure)
+            * Any topic - Individual to student
+            * (42/525) 8% Technical solution
+            * (33/525) 6% Documentation
+    * One paper in A2 is worth the entirety of year 12
 
 
 
@@ -103,7 +107,13 @@ Academic continuation of GCSE.
         * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
     * [Cambridge International Education (CIE) - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
         * A2 - Paper 4 - Practical exam (no pre-release)
+        * AS and A2 same weight
+        * (my gut is that this is a easiest examboard)
     * [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
+        * AS and A2 are two separate documents/spec/courses
+        * AS
+            * 70% written
+            * 30% on screen
     * More are possibly coming?
 
 * TASK: (15min)
@@ -116,9 +126,13 @@ Academic continuation of GCSE.
     * AQA
         * AS=30pages -> 4 sheets A4 or A2=60pages -> 8 sheets of A4
 
-* [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
+* OCR: [Switching to OCR from AQA](https://ocr.org.uk/Images/338114-switching-to-ocr-computer-science-gce-from-aqa.pdf)
+* AQA: [AQA/OCR Comparison](https://web.archive.org/web/20180628050643/http://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
     * OCR Coursework mostly writeup rather than code, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
+
+
+* AQA [exampro.co.uk](https://www.exampro.co.uk/computer-science/) - Computer Science exam builder 1600 question bank
 
 
 Vocational Level 3 Courses (1 Hour)
@@ -152,6 +166,9 @@ Discuss: Do you think those modules are appealing for young people? Do you think
         * Unit 15 - Web Development
         * Unit 17 - Mobile app development
     * [OCR - Cambridge Technicals - Information Technology](https://www.ocr.org.uk/qualifications/cambridge-technicals/information-technology/#level-3)
+        * Look at "2022 - June series"
+            * Fundamentals of IT Paper
+            * Global Information Paper
 
 Task:
 * Look at the assessment mechanism for Unit 3 and 4 (as a group)
@@ -162,7 +179,7 @@ Task:
         * Q: What percentage of this course takes place in the workplace?
     * [The College of West Anglia: Computing and Game Design IT](https://cwa.ac.uk/courses/computing-games-design-and-it/computing-level-3-extended-diploma)
     * [Henley College: ICT and Computing (Extended Diploma) Extended Diploma (Level 3)](https://www.henleycol.ac.uk/courses/full-time-courses/vocational-courses-level-3/ict-and-computing-extended-diploma/)
-    * [Cirencester College - Gloucestershire - Information Technology Level 3 Vocational](https://www.cirencester.ac.uk/cco/course_view.php?course=388)
+    * [EKC Canterbury College: Level 3 Diploma in Computing](https://www.canterburycollege.ac.uk/courses/level-3-diploma-in-computing/)
     * Look how shiny and promising the pages are
     * The promise of _expertise_, being treated like an adult, work experience, actually building something and it's free for them (under 18)
         * Our ability to teach A-Level in school is dependent on numbers. This is some stiff competition.
@@ -215,7 +232,7 @@ Example A-Level Course Layouts
         * Online [SOW builder](https://www.ocr.org.uk/qualifications/as-a-level-gce-computer-science-h046-h446-from-2015/scheme-of-work-builder/builder)
             * Statements (from spec), Activities (bag of), Notes
     * Co-Teaching Year 12 and 13 together
-        * AQA and OCR have identified that A-Levels are expensive and aligned the AS and ALevel curriculums to enable SSDD (Same Surface, Different Depth)
+        * AQA and OCR have identified that teacher time for A-Levels is expensive. Example aligned the AS and ALevel curriculums to enable SSDD (Same Surface, Different Depth) (Considering A2 is 71% of the marks)
 
 * For Experienced Teacher
     * Project Time
@@ -265,22 +282,23 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
     * AQA 2510 [Spec-2014](http://smartfile.s3.amazonaws.com/ac0a4ac2fc14b45086e9c5af7511da39/uploads/2017/06/AQA-2510-W-SP-14.pdf) 2003-2015?
         * [theallpapers.com/papers](https://www.theallpapers.com/computing-2510/) Are still relevant
         * [pastpapers.papacambridge.com](https://pastpapers.papacambridge.com/)
-        * Know [what's changed](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge)
+        * Know [what's changed](https://web.archive.org/web/20180210112026/https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge) 2014 (2510) to 2024 (7516-7517)
     * AQA (7516 AS) (7517 A2)
         * [AS and A-level Computer Science 7516, 7517: Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-        * [papers.xtremepape.rs](https://papers.xtremepape.rs/AQA/AS%20and%20A%20Level/Computer-Science/7516-7517/)
-            * For 2016 and Specimen
-        * (!? AQA put the skeleton programs behind an institution wall - but not the question papers!?)
-        * [Paper_1 Skeleton_program answers](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Skeleton_program)
-    * [AQA Find past papers and mark schemes](https://www.aqa.org.uk/find-past-papers-and-mark-schemes)
-        * Currently active qualifications
+            * AQA only keep last 3 years (apparently due to copyright? but they own this?? what?)
+            * (!? AQA put the skeleton programs behind an institution wall - but not the question papers!?)
+        * 3rd party sites
+            * [pastpapers.co](https://pastpapers.co/aqa/?dir=A-Level/Computer%20Science-7516-7517)
+            * [Physics and Maths Tutor - Past Papers](https://www.physicsandmathstutor.com/past-papers/a-level-computer-science/)
+            * [cienotes.com: AQA A level Computer Science Past Papers](https://www.cienotes.com/aqa-a-level-computer-science-past-papers/)
+            * wikibooks [Paper_1 Skeleton_program answers](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Skeleton_program)
 
 TASK: Do a question + Use Mark Scheme + Examiners report (25min)
-Find and read the QP+MS+ER for `AQA A-Level June 2019 Paper2 Q6.2`
+e.g. Find and read the QP+MS+ER for `AQA A-Level June 2019 Paper2 Q6.2`
 
 * Suggested classroom use
-    * Just say `AQA A-Level Nov 2020 Paper2 Q3.2`
-        * > Explain why the volatile environment (the contents of registers) must be saved before an interrupt is serviced
+    * Just say `AQA A-Level Nov 2020 Paper2 Q9.3`
+        * > Explain how data can be compressed using dictionary-based compression.
         * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
             * Don't rename the files (the exam board named them that way for a reason. Learn the naming convention)
     * Use them as starters (even to introduce topic)/plenary
@@ -319,7 +337,7 @@ AS practical exam questions (45 min)
 
 ### AS Practical Exam Question
 
-* from [AQA 2016 7516 AS](https://pastpapers.papacambridge.com/papers/aqa/as-level-computer-science-7516-new)
+* from [AQA 2016 7516 AS](https://pastpapers.papacambridge.com/papers/aqa/as-levelcomputer-science-7516-new)
     * [AQA-75161-QP-JUN16.PDF](https://pastpapers.papacambridge.com/viewer/aqa/as-level-computer-science-7516-new-june-2016-aqa-75161-qp-jun16-pdf) 
     * Q5.1 (8 marks) on page 8
         * This question is 10 marks out of 75 mark total with an exam of 90min -> 8min 20seconds `10 * (75/90)`
@@ -394,7 +412,7 @@ structure.
 
 ### A2 Practical Exam Question
 
-Question paper (A-level): Paper 1 June 2017 [AQA-75171-QP-JUN17.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/june/AQA-75171-QP-JUN17.PDF) Q7 14 Marks
+Question paper (A-level): Paper 1 June 2017 [AQA-75171-QP-JUN17.PDF](https://pastpapers.papacambridge.com/viewer/aqa/a-levelcomputer-science-7517-new-june-2017-aqa-75171-qp-jun17-pdf) Q7 14 Marks
 2h30min = 100marks 150min  = 9min 20seconds `14 * (100/150)`
 
 <details>
@@ -450,8 +468,8 @@ https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Skeleton_program
     * Specimen - PreRelease Task
     * [AQA Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
         * [eAQA](https://www.aqa.org.uk/log-in) (institution wall - thanks AQA, give us the question papers but not the pre-release, fantastic)
-        * Paper 1: Specimen preliminary material [AQA-75171-SPM.pdf](https://papers.xtremepape.rs/AQA/AS%20and%20A%20Level/Computer-Science/7516-7517/Specimen/AQA-75171-SPM.pdf)
-            * [AQA-75171-SSP.zip](https://papers.xtremepape.rs/AQA/AS%20and%20A%20Level/Computer-Science/7516-7517/Specimen/AQA-75171-SSP.zip)
+        * Paper 1: Specimen preliminary material [AQA-75171-SPM.pdf](https://filestore.aqa.org.uk/resources/computing/AQA-75171-SPM.PDF)
+            * AQA-75171-SSP A[c#](https://www.cienotes.com/wp-content/uploads/2020/01/AQA-75171A-SSP.pdf) B[java](https://www.cienotes.com/wp-content/uploads/2020/01/AQA-75171B-SSP.pdf) D[python](https://www.cienotes.com/wp-content/uploads/2020/01/AQA-75171D-SSP.pdf) E[vb.net](https://www.cienotes.com/wp-content/uploads/2020/01/AQA-75171E-SSP.pdf) 
             * repl.it [java](https://repl.it/@calaldees/MonsterJava) [c#](https://repl.it/@calaldees/MonsterC#) [python3](https://repl.it/@calaldees/MonsterPython)
 
 TASK:
