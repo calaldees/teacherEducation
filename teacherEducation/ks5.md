@@ -533,7 +533,9 @@ Books and Resources
 Buy multiple _approved_ by the exam board books for reference.
 Recommend one book to students.
 
-* [](https://www.pgonline.co.uk/library/ICR_Form.docx)
+* [PG Online Computer Science Text Books](https://www.pgonline.co.uk/resources/computer-science/textbooks/?tab=teacher-packs)
+    * [Free inspection copies](https://www.pgonline.co.uk/library/ICR_Form.docx)
+
 
 * [PM Heathcoate](https://www.amazon.co.uk/OCR-AS-Level-Computer-Science/dp/1910523054/) _my preference_
 * [Bob Reaves](https://www.amazon.co.uk/AQA-level-Computer-Science-Reeves/dp/1471839516/)
@@ -593,6 +595,8 @@ Statistics
 * https://www.hesa.ac.uk/news/25-01-2022/sb262-higher-education-student-statistics/subjects
     * 150k places in Computing (related)
     * 60k Computer Science places (from ocr dude a few years ago) - most universitys start again from scratch because they can't rely on compsci education in schools
+* more
+    * https://explore-education-statistics.service.gov.uk/find-statistics/education-and-training-statistics-for-the-uk
 
 
 A-Level Topic Notes
