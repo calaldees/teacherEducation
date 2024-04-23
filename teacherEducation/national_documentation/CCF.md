@@ -1,7 +1,11 @@
 Core Content Framework
 ======================
 
-* DfE Guidance: [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-and-early-career-framework)
+* TODO Rework all the numbers ...
+* [Initial teacher training and early career framework](https://www.gov.uk/government/publications/initial-teacher-training-and-early-career-framework) 2024
+    * Core Content Framework is dead .. long live teacher training framework
+        * DfE Guidance: [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-and-early-career-framework) 2018 Old
+* 
 * [Initial teacher training: government response to Carter review](https://www.gov.uk/government/publications/initial-teacher-training-government-response-to-carter-review)
     * A framework of core content for initial teacher training  [pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/536890/Framework_Report_11_July_2016_Final.pdf)
         * breaking down each standard and describe 

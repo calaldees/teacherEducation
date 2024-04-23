@@ -128,3 +128,6 @@ Further Idea
     * Scottish Sensory Centre [BSL Glossary - Computing Science curriculum terms](http://www.ssc.education.ed.ac.uk/BSL/computinghome.html)
     * This gives an added physical action to the terms - could be a useful hook for all learners
         * (I've often joked about conveying computing concepts via interpretive dance - kind of computing sharades)
+
+Autism - emphasise key words - use images - list - use objects for conveyance (difficult with abstract concepts)
+Confusing words - professor demonstrating video with norwegian instructions -
