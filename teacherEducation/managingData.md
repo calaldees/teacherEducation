@@ -179,13 +179,13 @@ pprint(questions)
 ### Activity: Compare Schools (20min)
 
 * [Ofsted - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
-    * Description of report content - [Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard)
-    * Example - Add three schools to MySchools to see a comparison
-        * [Canterbury Academy](https://www.compare-school-performance.service.gov.uk/school/136302/the-canterbury-academy/secondary&year=final)
-        * Barton Court
+    * https://www.gov.uk/find-ofsted-inspection-report
+    * https://www.compare-school-performance.service.gov.uk/
+        * Description of report content - [Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard)
+        * (compare MySchools feature has been removed)
 
 1. Find the Ofsted report for your school
-2. Compare your school with other local school (using MySchools)
+2. Compare your school with other local school
 3. Read the ofsted report for your school - do the comments made justify/align with the progress8
 
 Notes:
@@ -205,7 +205,7 @@ Organisations with Products
         * > Yellis gives us a benchmark as to see how our students compare with others of the same age nationally.
 * [Fisher Family Trust](https://fft.org.uk/fft/target-setting/)
     * > FFT is a non-profit organisation established in 2001 as part of the Fischer Family Trust. We are focussed on providing accurate and insightful information to schools which enables pupils to achieve their full potential and schools to improve.
-    * [Example KS4 FFT Target SettingDashboard](https://mk0fftm7irhiawh7i.kinstacdn.com/wp-content/uploads/FFT-Aspire-Example-KS4-Target-Setting-reports.pdf)
+    * [Example KS4 FFT Target SettingDashboard](https://fft.org.uk/wp-content/uploads/FFT-Aspire-Example-KS4-Target-Setting-reports.pdf)
 
 
 Special Purpose Software
@@ -215,7 +215,7 @@ Some schools employ 3rd party software to help with data management.
 
 * [Alps](https://alps.education/how-alps-works/)
 * [SMID](http://www.smidreport.com/) - Progress8 Software Example
-    * Scroll down to SMID Tools and see the videos
+    * SMID Tools and see the videos - "Progress to Target"
 
 Personal Experience: Most of these systems are flawed at the data capture level. Teacher time and data capture methods are always of secondary importance compared to the graphs that senior leaders can get.
 
@@ -283,24 +283,21 @@ Is the data helping?
 
 They could also compare their school systems with the WRG recommendations at:
 
-DfE [Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
->  It should be clear what the aims of assessment are and how they can be achieved without adding unnecessarily to teacher workload.
-
-> A good assessment policy will be clear about how assessment outcomes will be used, with a view to collecting data only where necessary and ensuring assessment outcomes are communicated effectively to pupils, parents and other teachers. 
-
-> Ofsted is very clear that unnecessary or extensive collections of marked pupils’ work are not required for inspection purposes.
-
-> there is no intrinsic value in recording formative assessment; what matters is that it is acted on
-
-> 7. Is it necessary to record the information gained from this assessment? And if so, how can this be done most efficiently?
->   * For example: do not assume that everything needs to be recorded. Identify which assessment outcomes are essential to record for the teacher pupil, parent or carer and keep it simple.
->   * For example: do not assume that formative assessment must be recorded using the same scale or terminology as summative assessment
+* DfE [Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
+    * >  It should be clear what the aims of assessment are and how they can be achieved without adding unnecessarily to teacher workload.
+    * > A good assessment policy will be clear about how assessment outcomes will be used, with a view to collecting data only where necessary and ensuring assessment outcomes are communicated effectively to pupils, parents and other teachers. 
+    * > Ofsted is very clear that unnecessary or extensive collections of marked pupils’ work are not required for inspection purposes.
+    * > there is no intrinsic value in recording formative assessment; what matters is that it is acted on
+    * > 7. Is it necessary to record the information gained from this assessment? And if so, how can this be done most efficiently?
+        >   * For example: do not assume that everything needs to be recorded. Identify which assessment outcomes are essential to record for the teacher pupil, parent or carer and keep it simple.
+        >   * For example: do not assume that formative assessment must be recorded using the same scale or terminology as summative assessment
 
 
 Workload Reform
 ---------------
 
 * [Eliminating unnecessary workload associated with data management - Report of the Independent Teacher Workload Review Group](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/511258/Eliminating-unnecessary-workload-associated-with-data-management.pdf) March 2016
+
 
 
 General Purpose Software - Publishing Class Tracking/Progress (2 hours)
@@ -426,12 +423,7 @@ TODO
     * online exam board specifc tracking tool
     * looks like 'data entry the profession'
 
-* Grade Inflation
-    * [analytics.ofqual.gov.uk](https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/)
-        * in 2020 A's and A* went from 3% to 20%?
-    * [BBC: First-class degrees more than double in a decade](https://www.bbc.co.uk/news/education-61422305)
-        * [Analysis of degree classifications over time: Changes in graduate attainment from 2010-11 to 2020-21](https://www.officeforstudents.org.uk/publications/analysis-of-degree-classifications-over-time-changes-in-graduate-attainment-from-2010-11-to-2020-21/)
-    * [The great university con: how the British degree lost its value](https://www.newstatesman.com/politics/2019/08/the-great-university-con-how-the-british-degree-lost-its-value) - Never before has Britain had so many qualified graduates. And never before have their qualifications amounted to so little. 
+* [[code/teacherEducation/grade-inflation]]
 
 * [TES: How do GCSE and A-level grade boundaries work?](https://www.tes.com/magazine/analysis/secondary/how-do-gcse-and-level-grade-boundaries-work)
 
@@ -444,4 +436,5 @@ TODO
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [sats]: sats.md "SATs"
+[code/teacherEducation/grade-inflation]: ../grade-inflation.md "Grade Inflation"
 [//end]: # "Autogenerated link references"

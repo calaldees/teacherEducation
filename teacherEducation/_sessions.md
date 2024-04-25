@@ -1108,9 +1108,9 @@ Developing classroom practice to become an autonomous practitioner who has an im
 
 ### Reading
 
-* Institute of Education Sciences (2008) [Reducing Behavior Problems in the Elementary School Classroom](https://ies.ed.gov/ncee/wwc/practiceguide/4) (various chpts) 
+* Institute of Education Sciences (2008) [Reducing Behavior Problems in the Elementary School Classroom](https://ies.ed.gov/ncee/wwc/practiceguide/4) (various chapters) 
 * SP18: Thom, J (2018) Slow Teaching  John Catt Publications [book](https://www.johncattbookshop.com/slow-teaching-on-finding-calm-clarity-and-impact-in-the-classroom)
-* SP19: Sherrington, T & Caviglioli, O. Teaching Walkthroughs John Catt Publications Chpt. 6. Pg. 132 [book](https://www.johncattbookshop.com/books/teaching-walkthrus/teaching-walkthrus-five-step-guides-for-instructional-coaching)
+* SP19: Sherrington, T & Caviglioli, O. Teaching Walkthroughs John Catt Publications Chpt. 6. Pg. 132 [book](https://www.johncattbookshop.com/books/teaching-walkthrus/teaching-walkthrus-five-step-guides-for-instructional-coaching) "Mode B Teaching"
 * Darling-Hammond, L. (2009) [Professional Learning in the Learning Profession](https://edpolicy.stanford.edu/sites/default/files/publications/professional-learning-learning-profession-status-report-teacher-development-us-and-abroad.pdf) (Chpt. 1)
 
 

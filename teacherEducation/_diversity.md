@@ -208,3 +208,10 @@ Unsorted
 
 
 
+* Criticality
+    * [twitter/X](https://twitter.com/cremieuxrecueil/status/1782856671091380497)
+        * > Does diversity make teams work better?
+          > Apparently not!
+          > A new, comprehensive preregistered meta-analysis found that, whether the diversity was demographic, cognitive, or occupational, its relationship with performance was near-zero.
+        * [The relationship between team diversity and team performance: reconciling promise and reality through a comprehensive meta-analysis registered report](https://osf.io/preprints/psyarxiv/nscd4)
+            * https://doi.org/10.31234/osf.io/nscd4

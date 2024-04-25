@@ -24,7 +24,7 @@ TODO:
         * TODO! Massive! Loads of references. Compares measures of creativity. This looks like gold!
 
 
-* [Do Schools Kill Creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity) TED 2006 Sir Ken Robinson 18min
+* TED Talk: [Do Schools Kill Creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity) TED 2006 Sir Ken Robinson 18min
     * 72 million views - ULTRA popular
     * Education takes them into a future you can't grasp
     * All kids have tremendous talents and we squander them
@@ -58,6 +58,9 @@ Pallet of skill
 
 
 
+Is Creativity linked to attainment?
+-----------------------------------
+
 * [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020
     * todo
     * Measure creativity
@@ -73,7 +76,17 @@ Pallet of skill
         * > Doleck et al. [9] examined the relationship between creative thinking and academic performance and found no relationship between the two.
           > However, in our work there was an apparent correlation between participants’ overall alternative uses test CI scores and their overall  grades on the computer graphics programming course
         * > self-reported levels of creativity did not at all correlate with their final grades.
-          > On the other hand, the tests that did correlate with their  final grades did not correlate with their self-reports. This suggests that although we’re assessing one type of creativity or divergent thinking, it is not necessarily the same thing students conceptualize as “creativity” within the CS domain.
+          > On the other hand, the tests that did correlate with their final grades did not correlate with their self-reports. 
+          > This suggests that although we’re assessing one type of creativity or divergent thinking, it is not necessarily the same thing students conceptualize as “creativity” within the CS domain.
+* Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
+    * Is _creativity_ linked to _iq_? They appear correlated
+* [Layover or nonstop? UCLA Health research says unique pattern of connectivity lets highly creative people’s brains take road less travelled to their destination](https://www.uclahealth.org/news/CreativeBrain2022)
+    * "Big C"
+    * > highly creative people’s brains appear to work differently from others', with an atypical approach that makes distant connections more quickly by bypassing the “hubs” seen in non-creative brains. 
+    * Maybe creativity can't be learnt or improved?
+* DKB Show [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude) 2022
+    * todo - unsure if this this relevant - but can creativity occur in the limited time window we have in school?
+* You need to have build skills in order to be creative with them
 
 
 
@@ -105,24 +118,17 @@ Unsorted
     * Assistive Devices Project
 
 
-* Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
-    * Is _creativity_ linked to _iq_? They appear correlated
 
 
 
-* [Layover or nonstop? UCLA Health research says unique pattern of connectivity lets highly creative people’s brains take road less travelled to their destination](https://www.uclahealth.org/news/CreativeBrain2022)
-    * "Big C"
-    * > highly creative people’s brains appear to work differently from others', with an atypical approach that makes distant connections more quickly by bypassing the “hubs” seen in non-creative brains. 
 
 
 
-* [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
-    * todo
+
 
 * [twitter - 3d platform game projection](https://twitter.com/johnblueriggs/status/1642552320549441538?t=-KUapS1or5dtdYQZiR5_PA&s=19)
 
-* Book [Computational Fairy Tales Paperback – 26 Jun. 2012](https://www.amazon.co.uk/dp/1477550291)
-    * Be cautions [Dylan Wiliam snippet](https://youtu.be/7ynsMwzsCsg?t=270) - we often remember the stories, but not the actual message
+
 
 * [twitter](https://twitter.com/80sNostalgia/status/1671232216368594951?t=C8o1MHpaiz3XySC8fo5QaA&s=19)
     * > This is incredibly cool! A teacher is teaching his class of 10 year olds how to program on a Spectrum, and they have made all their new games available to download. Some look outstanding! I wish my school in the 80s had been this ace!

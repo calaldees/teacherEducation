@@ -62,7 +62,11 @@ Not every programme is successful, but CPD is vital.
 Presentations downloadable and available at
 [PDL Conference 2023 recordings and presentation files](https://community.stem.org.uk/viewdocument/pdl-conference-2023-recordings-and?CommunityKey=d8c98d08-fb5d-4a6e-bac9-d7177021a927)
 
+In Video: CPD Recommendations 17:00
+* Content is evidence based (have they been used before)
+20:30 - Types of CPD
 
+Teachers need to be motivated to improve and can see that it is worthwhile
 </details>
 
 
@@ -103,20 +107,8 @@ Personal Development / Actions for next year (30min async + 30min lecture)
 * We are going to do something *NOW* to improve our teaching in the future.
 * Let's lay some foundations.
 
-1. Prepare for writing a blog article
-    * Set a target to write one article in your NQT year and have it publicly visible
-    * TASK: Investigate blog platform - sign up - if you already have an account with a blog platform, this will be in the back of your mind
-        * [Medium](https://medium.com/creators)
-        * [WIX](https://www.wix.com/start/blog)
-        * [Ghost](https://ghost.org/)
-        * [Blogger](https://www.blogger.com/about/)
-        * Other?
-    * TASK: Consider a loose blog article title or theme
-2. Prepare an action research question
-    * TASK: Consider 2 hypothetical questions that you would like to know about _learning computing in schools_
-        * Could you gather data during your year. How?
-        * E.g. Why do students in your school choose Computing at GCSE? Why did students not choose computing at GCSE?
-3. Listen to the big influencers in teaching - Twitter
+
+1. Listen to the big influencers in teaching - Twitter
     * Twitter is a problematic social platform - but as a professional tool it is exceptionally useful
     * TASK: Identify and follow 3 influential teachers on Twitter
         * [The Periodic Table of Teachers to Follow on Twitter](https://ictevangelist.com/the-periodic-table-of-teachers-to-follow-on-twitter/)
@@ -128,38 +120,51 @@ Personal Development / Actions for next year (30min async + 30min lecture)
         * [#FFed](https://twitter.com/hashtag/FFed) – Friday Followback education: You @name a teacher you Follow in your tweet on Friday and they Follow you back.
     * [Computer Science Educators’ Use of Twitter for Conference Engagements: A Grounded Theory Analysis](https://openjournals.ljmu.ac.uk/index.php/JSML/article/view/496)
         * > Twitter as a conference backchannel. Using Constructivist Grounded Theory methodology, four themes and ten categories emerged. These themes are: Promote Scholarship; Connect, Promote and Extend the Research Community; Engage in Professional Learning; Humanise the Conference Space.
-4. Read a book about teaching (minimum of 1 book a year baseline)
+2. Read a book about teaching (minimum of 1 book a year baseline)
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
         * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/)
         * [Teaching WalkThrus 2: Five-step guides to instructional coaching](https://www.amazon.co.uk/Teaching-WalkThrus-Five-step-instructional-coaching/dp/1913622479/)
         * [Making Room for Impact: A De-implementation Guide for Educators](https://www.amazon.co.uk/gp/product/1071917072)
         * [Mindstorms: Children, Computers, And Powerful Ideas](https://www.amazon.co.uk/gp/product/B084Z46SMB/) Seymour Papert 198x The godfather of CS education
         * [./reading.md](./_reading.md)
-5. Ongoing Networking (Research In-person TeachMeet)
+3. Ongoing Networking (Research In-person TeachMeet)
     * TASK: Search for computing teacher meetup events in Kent
         * Even before the pandemic, there was very little in Kent
         * CAS Hubs
-6. Ongoing Networking (Online groups/communities)
+4. Ongoing Networking (Online groups/communities)
     * TASK: Identify one online event/seminar/webinar to join
         * [CAS Community - Upcoming Events](https://community.computingatschool.org.uk/events) many of these are online
             * [Facebook: CAS Research Group](https://www.facebook.com/groups/2832494906787157)
         * [STEM Learning CPD - Computing](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
         * [Events organised by the Chartered College](https://my.chartered.college/events/)
     * TASK: Offer contact details to keep in touch with previous colleagues
-7. Ongoing Networking (Join a subject association)
+5. Ongoing Networking (Join a subject association)
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/membership/)
     * [Computing at School - New Member Application](https://www.computingatschool.org.uk/account/new-member-application)
     * [@caschat_uk](https://twitter.com/caschat_uk) @caschat_uk
         * [#caschat](https://twitter.com/search?q=%23caschat)
     * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association (USA)
-8. Investigate [TeacherTapp](https://teachertapp.co.uk/)
+7. Investigate [TeacherTapp](https://teachertapp.co.uk/)
     * Becoming quite popular. In some schools it has been recommended for all staff.
     * A mobile app for; Ask questions, See results, Access ongoing CPD.
-9. Journals and RSS
+8. Journals and RSS
     * https://feedly.com
     * [ComputingEducationRSS.opml.xml](./ComputingEducationRSS.opml.xml)
         * Some RSS Feeds of current Computing Education journals and blogs
-
+9.  Prepare for writing a blog article
+    * Set a target to write one article in your NQT year and have it publicly visible
+    * TASK: Investigate blog platform - sign up - if you already have an account with a blog platform, this will be in the back of your mind
+        * [Medium](https://medium.com/creators)
+        * [WIX](https://www.wix.com/start/blog)
+        * [Ghost](https://ghost.org/)
+        * [Blogger](https://www.blogger.com/about/)
+        * Other?
+    * TASK: Consider a loose blog article title or theme
+10. Prepare an action research question
+    * TASK: Consider 2 hypothetical questions that you would like to know about _learning computing in schools_
+        * Could you gather data during your year. How?
+        * E.g. Why do students in your school choose Computing at GCSE? Why did students not choose computing at GCSE?
+11. Express interest in being an examiner GCSE/ALevel (see note later in HOD section)
 
 
 Action in your _Early Career Teacher_ years  (15min)
@@ -173,7 +178,7 @@ Action in your _Early Career Teacher_ years  (15min)
 
 * Organize 1 day in a feeder primary school
     * Keep in touch! they would really value you to run a computing thing!
-* Run 1 workshop (30min) for staff in your school
+* Run 1 workshop (30min) for staff in your school (see additional details below)
     * TASK: think of a specialist area you might be able to present that would be useful to other teachers
 * Organize 1 external speaker for an exam class
     * TASK: Identify 2 possible people in your social network who could talk about their professional role
@@ -189,6 +194,22 @@ Action in your _Early Career Teacher_ years  (15min)
 TASK: Put placeholders in your personal calendar for the above days next year academic year 
 (any placeholder date will do - this is just to put it on your radar - you will encounter the calendar events at somepoint to remind you or rebook)
 
+
+<details>
+<summary>Workshop notes</summary>
+
+* Workshop Notes
+    * The average level of digital competence across staff is typically lower than yours - most staff will look to you for guidance on their use of technology
+    * Set a calendar reminder (december?) to consider a supportive informal session on xyz - you will be seen as a proactive hero by your peers (and visible to leadership!)
+    * You may not think it is needed - Identify a workflow/pattern that you use and consider demoing this other staff.
+        * In all staff meeting AOB announce on a day/time after school you will informally run though xyz
+    * e.g. 
+        * show how you've used AI to xyz
+        * show how you organise your notes knowledge base
+        * Organise your bookmarks or email rules (some staff don't know what a bookmark is)
+</details>
+
+
 ### Exam Board Training
 * Just enrole on this - every exam board runs these - you are an ECT and need this
 
@@ -198,10 +219,11 @@ Ongoing Observation/Collaboration (10min)
 
 Actively seek out coaching relationships with other teachers
 
-* Instructional Coaching - [Top-down observation and feedback models are flawed. Time for change](https://teacherhead.com/2020/01/25/top-down-observation-and-feedback-models-are-flawed-time-for-change/) @teacherhead
+* Instructional Coaching - [Top-down observation and feedback models are flawed. Time for change](https://teacherhead.com/2020/01/25/top-down-observation-and-feedback-models-are-flawed-time-for-change/) @teacherhead Tom Sherington 2020
     * > I’m now working on the principle that observers can only form hunches, opinions and offer ideas. 
       > This info only turns into feedback of any value once it’s been filtered by the teacher and meshed into their existing plans of action and sense of the problems they face.
     * > I’d willingly concede that most of the top-down fly-by feedback I’ve given over the years has been ignored or wrong with no impact on teaching quality.
+        * (The above point is huge ... reread it!)
     * > Because I was giving it – not helping the teacher to generate it; imposing my agenda, not helping the teacher with theirs.
     * > In my experience, leaders under all the pressure the accountability system has sent their way, have developed an over-inflated sense of the value and impact of their lesson observations.
 * [Leverage observations](https://improvingteaching.co.uk/2014/12/15/archimedean-leadership-2-what-are-leverage-observations-or-how-would-yo-yo-ma-feed-back/) 2014 Harry Fletcher-Wood
@@ -224,11 +246,12 @@ Actively seek out coaching relationships with other teachers
         * *Change something* even if you think it will have little impact, it's not forever. explore, experiment, change, grow.
 * [One-off lesson observations are a waste of everyone's time...](https://twitter.com/TeacherToolkit/status/1451147666910482433)
     * Grading teachers with one-off observations is flawed
-* [Act now, check later: the power of uncertain inferences](https://improvingteaching.co.uk/2022/01/23/act-now-check-later-the-power-of-uncertain-inferences/)
+* improvingteaching.co.uk [Act now, check later: the power of uncertain inferences](https://improvingteaching.co.uk/2022/01/23/act-now-check-later-the-power-of-uncertain-inferences/) 2023
     * > The quest for certainty is flawed. Effective decision-making is uncertain, humble but rapid.
     * Doing is better than not doing
 
-Good interventions are - sustained - and lead to actually doing!
+Good interventions are - sustained - and lead to actually doing something!
+
 
 ### Extra notes about colleague collaboration (some of my thoughts)
 
@@ -239,13 +262,15 @@ Mostly; Teachers have enough subject knowledge. It's the other skills they need 
     * How many hours would you contribute?
     * You can make some progress by self observation, but you NEED to collaborate/feedback/engage with others
 * ECT's are very important to a department
-    * You may be coming into an established department with established teachers. 
+    * You may be coming into an established department with established teachers ...
     * Part of your role is to bring new ideas and a new perspective.
     * You will play a major part in driving the culture forward - you are part of forging it - Be the change you want to be.
 
 
 Sharing/PublishingResources Marketing/Branding Yourself - Ideas  (10min)
 ----------------------------------
+
+Disclaimer - I never got this off the group myself - this section can be skimmed, but has a few nuggets (Like CreativeCommons)
 
 ### Why
 
@@ -268,6 +293,9 @@ Sharing/PublishingResources Marketing/Branding Yourself - Ideas  (10min)
         * public dropbox / google drive
         * school website
     * Blog? Observations about the profession? Commentary?
+    * [Creative Commons Licences](https://creativecommons.org/share-your-work/cclicenses/)
+        * Consider "CC BY" - you want your stuff out there (even commercially) with your name on
+    * (my problem: nobody can understand my rough notes/ideas or deliver them - I would need considerable time to trial and refine my experimental ideas and document them for another teacher to deliver my material)
 * Grow/Evolve Resources (the world now knows you exist - what's in it for you)
     * Encourage contributions from
         * From other Teachers
@@ -293,7 +321,7 @@ Summary
 
 > DfE: Only 11% of CPD is effective (citation? heard this on 30/03/2023 Chris Carr STEM PDL leaders conference)
 
-> Most CPD is 'Train and Pray'
+> Most CPD is 'Train and Pray' (Alex Quigley keynote 30/03/2023 STEM PDL leaders conference)
 
 TODO: For computing, there is normally one super advocate in a school to bring everyone along on the journey. When that person leaves, the cards fall. Are you that person!
 * Effective CPD (Continued Professional Development)
@@ -343,7 +371,8 @@ History of Computing CPD (5min)
             * Experience varied
             * No measure of impact
     * > Deregulate QTS (Qualified Teacher Status) to let schools employ experts
-        * [Curse of the expert](https://www.theconfidentteacher.com/2013/10/michael-gove-wrong-qualified-teacher-status/)
+        * Wanted to deregulate teaching
+        * [Curse of the expert](https://www.theconfidentteacher.com/2013/10/michael-gove-wrong-qualified-teacher-status/) 2013    
             * Experts in subject areas does not make them good teachers
 
 
@@ -372,6 +401,7 @@ Story: Theatre troupe. Shakespeare - dark day before the bridge
 * Time
 * No incentive to improve
     * Things are mostly ok (see _ok plateau_ below)
+    * Teachers don't know how to improve or feel improvement is needed
 
 </details>
 
@@ -407,7 +437,7 @@ Teacher CPD is a big area of focus and research now. The DfE now has requirement
 
 ### HOD Department CPD Idea? (30min)
 
-If I was HOD of a computing department. I am interested in culture/process. I am not too worried about 'raw performance'. I am more concerned with proactive attitude and progress. I'm training them to leave my team (maybe to run their own department) [sounds crazy, but that's the reality, admit it, run with it].
+If I was HOD of a computing department. I am interested in culture/process. I am not too worried about 'raw performance'. I am more concerned with proactive attitude and progress. I'm training them to leave my team (maybe to run their own department in a few years) [sounds crazy, but that's the reality, admit it, run with it]. I want them to leave my team with stonking CV!
 
 Timetabled time (20 hours - half a ks3 class?)
 
@@ -420,6 +450,11 @@ Timetabled time (20 hours - half a ks3 class?)
 2. Inter institution collaboration (3 hours - per year)
     * I would mandate that 30min a term (6 terms) - you have a video call with another computing teacher in another institution to discuss our sow, policies, progress, concerns, action-areas - and hear the same from them - advice?
     * At the end of each term (3 terms), every member of the department informally (120seconds) describes what was discussed and highlights from these conversations
+3. Enrol as an exam board examiner (GCSE or A-Level)
+    * AQA [Join us -> Become an examiner -> Benefits to you](https://www.aqa.org.uk/join-us/become-an-examiner/benefits-to-you) video 3min
+    * You will feel as a professional and you WILL get better at your subject
+    * (timetabled use of Y11/Y13 time in school - yes I want my team to use school time and be paid additional for this - this cheeky manipulation because the reality will also take more of my employees time outside school, so this is a time win)
+    * You may already know your exam board for next year - express your interest now. (you can do this with a personal email address because to do this role you don't need be an actively practising teacher)
 
 Even if your HOD does not direct you to do these ... I would do them autonomously.
 
@@ -429,11 +464,11 @@ A Team? Other concepts
 1. multiple teachers in the department do the assignment
     * to create model answers bank
     * and discuss (assessment/misconceptions)
-2. Pair planning? (30min per week)
-3. Pair Marking? (30min pwe week)
+2. Pair planning? (30min per week - timetabled?)
+3. Pair Marking? (30min per week - timetabled?) (even if they are sitting quietly working on their own stuff - at least it's the same domain)
 
 
-* impact.chartered.college - [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/) 2020
+* Impact Chartered College of Teaching: [Leading teacher collaboration in subject-specific pedagogy](https://my.chartered.college/impact_article/leading-teacher-collaboration-in-subject-specific-pedagogy/) Sep 2020 
     * > To support collaboration between teachers, leaders need to allocate resources and time. Literature indicates that this is a genuine issue in teacher development (Timperley et al., 2007; Greany, 2017; OECD, 2019). To give this work priority, all teaching staff attend a weekly session for one hour after school. This replaces the department meeting. To emphasise our identity as a professional learning community, we hold our sessions in the school hall and teachers sit in their specialisms.
     * > investing in teacher learning has an effect size of 0.84 on student achievement (Robinson, 2011)
     * > subject leaders focus their teams on a single lesson to be taught the following week
@@ -477,7 +512,7 @@ The enhancing/training Computing teachers in schools.
 * Diagnostic tool and certification
     * Use our helpful tools to identify the areas of subject knowledge where you may need support and record your achievements to be professionally recognized
 
-### Session Structure of their CPD
+### Session Structure of their CPD (2019)
 
 Constant Evaluation of Impact - Forms
 * BD - Before Development
@@ -518,10 +553,12 @@ Articles about CPD (1 hour: Async reading)
     * > common autopilot state when you have habitually mastered the basics of a task, but despite being skilled you stop really improving to reach expert status; you simply plateau in performance
     * > With the storm of demands created by workload, any improvement beyond this point seemed fanciful. 
       > I stopped reading about teaching and learning and I stopped being coached with genuine regularity.
-* TODO [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/rev3.3226) 2020
-* [The CPD puzzle: why don't teachers keep improving?](https://www.tes.com/news/teacher-cpd-professional-development-schools-reflection-rosenshine-puzzle-why-dont-teachers-keep-improving?amp)
+* [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://doi.org/10.1002/rev3.3226) 2020
+    * > teachers’ rate of growth slows because their practice becomes habitual
+    * > professional development should involve repeated practice in realistic settings in order to overwrite and upgrade existing habits
+* TES: [The CPD puzzle: why don't teachers keep improving?](https://www.tes.com/news/teacher-cpd-professional-development-schools-reflection-rosenshine-puzzle-why-dont-teachers-keep-improving?amp) Mark Enser 2021
     * 1 hour a fortnight reflection time with small group of other teachers
-* [Being the 1% – what does it take to make CPD effective?](https://improvingteaching.co.uk/2014/02/23/being-the-1-what-does-it-take-to-make-cpd-effective/) Harry Fletcher-Wood
+* [Being the 1% – what does it take to make CPD effective?](https://improvingteaching.co.uk/2014/02/23/being-the-1-what-does-it-take-to-make-cpd-effective/) Harry Fletcher-Wood 2023
     * > Barely 1% of training [CUREE] looked at was effectively transforming classroom practice
 * [Center for Evaluation and Monitoring (CEM) Improving Education](http://www.cem.org/attachments/publications/ImprovingEducation2013.pdf) 2013 Professor Robert Coe
     * > Many of the most effective strategies are complex, open to interpretation and hard to implement. We may think we are doing it, but are we doing it right? In most cases the approach is not supported by a well-defined, feasible, large-scale intervention strategy.

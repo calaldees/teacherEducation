@@ -592,9 +592,10 @@ Statistics
     * 300% growth in last 10 years
     * 15k A-Level computing enrolments
     * Look at the grade bump 2020
+    * So the introduction of the GCSE in 2014 has made no deference in any way to A-Level results ... why do we bother with GCSE's then? Does education do anything? or has the A-Level got harder?
 * https://www.hesa.ac.uk/news/25-01-2022/sb262-higher-education-student-statistics/subjects
     * 150k places in Computing (related)
-    * 60k Computer Science places (from ocr dude a few years ago) - most universitys start again from scratch because they can't rely on compsci education in schools
+    * 60k Computer Science places (from ocr dude a few years ago) - most universities start again from scratch because they can't rely on compsci education in schools
 * more
     * https://explore-education-statistics.service.gov.uk/find-statistics/education-and-training-statistics-for-the-uk
 
@@ -632,7 +633,7 @@ You *will* need to use multiple languages
 * Moral and social implications
     * Street view
     * [Hanna Fry](https://www.youtube.com/watch?v=Rzhpf1Ai7Z4) Explanation of AI on society
-    * [Github streak](https://github.com/isaacs/github/issues/627) was removed for mental health of developers
+    * [Github streak](https://github.com/isaacs/github/issues/627) 2016 was removed for mental health of developers
         * [backlash](https://github.com/dear-github/dear-github/issues/163)
 * Networking
     * Protocols

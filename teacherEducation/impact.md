@@ -2,15 +2,20 @@ Impact
 ======
 
 * [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
+    * (The best mini article I have read!)
     * You -> Students -> Module -> Course -> Institution -> Nationally
     * Use a combination of quantitative and qualitative data that tell the overall narrative
+    * 
 
-* Edge Hill University [National Teaching Repository (NTR)](https://figshare.edgehill.ac.uk/articles/presentation/NTR_-_Welcome_pdf/12673016)
-    * Gain national recognition.
-    * Protect your academic and intellectual property
+* HE Focus
+    * Edge Hill University [National Teaching Repository (NTR)](https://figshare.edgehill.ac.uk/articles/presentation/NTR_-_Welcome_pdf/12673016)
+        * Gain national recognition.
+        * Protect your academic and intellectual property
 
-* [Impact Evaluations of Teacher Preparation Practices: Challenges and Opportunities for More Rigorous Research](https://journals.sagepub.com/doi/10.3102/00346543231174413)
-    * > Many teacher education researchers have expressed concerns about the lack of rigorous impact evaluations of teacher preparation practices. 
+* [Impact Evaluations of Teacher Preparation Practices: Challenges and Opportunities for More Rigorous Research](https://doi.org/10.3102/00346543231174413)
+    * > Many teacher education researchers have expressed concerns about the lack of rigorous impact evaluations of teacher preparation practices.
+    * > studies generally under report information about study participants, study site(s), and other contextual factors that influence how teacher preparation practices are implemented. This makes it difficult to determine for whom and in what contexts study findings generalize. I recommend, like others have before, that the field invests in developing shared vocabulary and norms for reporting
+    * > Teacher education researchers could also begin to undertake more linked small-scale studies
 
 * see [[whatIsATeacher_unsorted]]
 

@@ -1,3 +1,6 @@
+Published
+https://www.canterbury.ac.uk/our-students/ug-new/course-essentials/pgce-secondary-education
+
 Pre-Course Activities
 =====================
 
