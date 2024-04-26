@@ -1,16 +1,37 @@
 Impact
 ======
 
+DeImplement
+-----------
+
+The best book!
+
+Most the CPD wants you to "Do More" "Add things". 
+This is unsustainable.
+I would suggest that if leaders do not have an equal number of strategy for reducing workload, no progress will be made.
+* [Making Room for Imact](https://uk.sagepub.com/en-gb/eur/making-room-for-impact/book284976) 2023 Hamilton, Hattie, Wiliam (an all star cast!)
+
+* Framework for leadership to identify things to stop doing
+* Options
+    * Remove
+    * Reduce
+    * Replace
+    * Re-Engineer
+* Theory vs reality of teacher workload (pg16) (Official hours vs Required hours)
+
+Any time CPD asks you to do more - raise this point and recommend the book. In fact - have the book nearby to hand them!
+
+Personal Recording Impact
+-------------------------
+
 * [A beginner’s guide to evidencing your teaching practice](https://doi.org/10.1042/bio_2023_110) 2023 Biochemist Volume 45, Issue 2, David Smith, Katharine Hubbard
     * (The best mini article I have read!)
     * You -> Students -> Module -> Course -> Institution -> Nationally
     * Use a combination of quantitative and qualitative data that tell the overall narrative
     * 
 
-* HE Focus
-    * Edge Hill University [National Teaching Repository (NTR)](https://figshare.edgehill.ac.uk/articles/presentation/NTR_-_Welcome_pdf/12673016)
-        * Gain national recognition.
-        * Protect your academic and intellectual property
+Impact Evaluations
+------------------
 
 * [Impact Evaluations of Teacher Preparation Practices: Challenges and Opportunities for More Rigorous Research](https://doi.org/10.3102/00346543231174413)
     * > Many teacher education researchers have expressed concerns about the lack of rigorous impact evaluations of teacher preparation practices.
