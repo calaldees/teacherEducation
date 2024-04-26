@@ -12,7 +12,7 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
     * > “Nothing new but it was nice to hear that I’m doing everything right”
 
 TODO: [National Institute to Teaching](https://niot.org.uk/)
-https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd-experience
+* Raspberry Pi Foundation: [What makes an effective computing PD experience?](https://web.archive.org/web/20230930225245/https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd-experience) 2022 Podcast
 
 ## ITT Core Framework
 > 8.1
