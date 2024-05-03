@@ -1,6 +1,8 @@
 Teacher Educators Network
 =========================
 
+8th November 2023
+
 * https://docs.google.com/document/d/1crUfBtb8IruouSBOyXXMY8_uGsrxwFRT7hmmx51A8zc/edit
 
 
@@ -40,3 +42,11 @@ Primary Leaders: Book Here
     * 4 page submissions
 
 
+
+---
+
+* [Computer Science Teachers' Perspectives on a Computing Education Undergraduate Course](https://docs.google.com/forms/d/e/1FAIpQLSeRgdlnFiAEULi-yTwCRYNO8bJi2chvGuitiC4nDo8JePevAA/viewform)
+
+* [CAS Research online meetup](https://docs.google.com/presentation/d/18hwD61U5yTnXst7GkTzbjFjRfX7ZhTIn/edit#slide=id.g283a11ad0bd_0_725)
+* [Classroom-based research in Computing 2023-2024](https://docs.google.com/document/d/1QqiNZhAcUmwFMV_PW8xU1LMVt5mQxpNeYkT3bjqlSCI/edit#heading=h.bqh3hbq8kpnb)
+ 

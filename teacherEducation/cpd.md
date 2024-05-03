@@ -1,6 +1,9 @@
 CPD
 ===
 
+TODO: https://www.innerdrive.co.uk/ (why is their cpd so effective?)
+https://teachersnotebook.co.uk/2024/04/30/motivating-the-veteran-teacher/
+
 https://impact.chartered.college/article/how-retrieval-practice-embedded-classrooms-10-principles-cpd-leadership/
 
 * @GrumpyCompSci 
@@ -561,6 +564,7 @@ Articles about CPD (1 hour: Async reading)
     * > common autopilot state when you have habitually mastered the basics of a task, but despite being skilled you stop really improving to reach expert status; you simply plateau in performance
     * > With the storm of demands created by workload, any improvement beyond this point seemed fanciful. 
       > I stopped reading about teaching and learning and I stopped being coached with genuine regularity.
+    * Counterpoint/Criticality [The Myth of the Teacher Performance Plateau](https://scholar.harvard.edu/mkraft/publications/myth-teacher-performance-plateau)
 * [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://doi.org/10.1002/rev3.3226) 2020
     * > teachers’ rate of growth slows because their practice becomes habitual
     * > professional development should involve repeated practice in realistic settings in order to overwrite and upgrade existing habits
