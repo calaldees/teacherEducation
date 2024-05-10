@@ -1,19 +1,19 @@
 Networks
 ========
 
-https://helloworld.raspberrypi.org/articles/bbcc-approaches-to-teaching-networking
+* Hello World Articles
+    * [Approaches to teaching networking](https://web.archive.org/web/20230321081448/https://helloworld.raspberrypi.org/articles/bbcc-approaches-to-teaching-networking)
+    * [Methods for teaching networking](https://web.archive.org/web/20230930220123/https://helloworld.raspberrypi.org/articles/hw20-methods-for-teaching-networking)
+        * > Virtual versus practical: studies suggest that students learn more when using virtual labs than when taking part in hands-on activities, because their learning has fewer distractions and is more task-focused. 
+* Unplugged
+    * [Pulling the plug on computer-centric teaching](https://web.archive.org/web/20230930223157/https://helloworld.raspberrypi.org/articles/hw20-pulling-the-plug-on-computer-centric-teaching)
+    * stem.org.uk [GCSE Computer Networks](https://www.stem.org.uk/resources/community/collection/399693/gcse-computer-networks)
+    * [way back machine](https://web.archive.org/web/20230606054249/https://www.stem.org.uk/resources/community/collection/399693/gcse-computer-networks) - many of the activities are no longer available
+* Network Simulators
+    * [Network simulators for high-school teachers](https://www.brianlinkletter.com/2023/03/network-simulators-for-high-school-teachers/)
+        * [Code.org’s Internet Simulator](https://studio.code.org/s/netsim/)
+    * [Make networks interesting with Filius](https://web.archive.org/web/20230604035945/https://helloworld.raspberrypi.org/articles/HW8-make-networks-interesting-with-filius)
 
-https://helloworld.raspberrypi.org/articles/hw20-pulling-the-plug-on-computer-centric-teaching
-https://helloworld.raspberrypi.org/articles/hw20-methods-for-teaching-networking
-
-* stem.org.uk [GCSE Computer Networks](https://www.stem.org.uk/resources/community/collection/399693/gcse-computer-networks)
-
-
-https://www.brianlinkletter.com/2023/03/network-simulators-for-high-school-teachers/
-https://helloworld.raspberrypi.org/articles/HW8-make-networks-interesting-with-filius
-
-
-https://studio.code.org/s/netsim/
 
 
 Unplugged concept - School Friend? or Hall?

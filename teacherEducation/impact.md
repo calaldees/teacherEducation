@@ -18,8 +18,10 @@ I would suggest that if leaders do not have an equal number of strategy for redu
     * Replace
     * Re-Engineer
 * Theory vs reality of teacher workload (pg16) (Official hours vs Required hours)
+* To know 'what' to de-implement, we have to know what is not having an impact
 
 Any time CPD asks you to do more - raise this point and recommend the book. In fact - have the book nearby to hand them!
+
 
 Personal Recording Impact
 -------------------------

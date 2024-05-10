@@ -65,8 +65,9 @@ TASK: Discuss 10min?
 * Creativity 
     * comes with uncertainty and 'risk'
     * is difficult to measure
-* Risks required to reach _outstanding_
-* Nobody can become autonomous leaner without being creative
+* Risks are required to reach _outstanding_
+* My take
+    * Nobody can become autonomous leaner without being creative
 
 > Louie Armstrong cant be creative if he doesn't know what end of the trumpet to blow into
 * base skills?
@@ -255,6 +256,7 @@ Support trainee teachers to take risks - mentor conversation?
 
 * We can keep things 'safe' in the same cookie cutter ...
 * We can't get better unless we try new ideas ...
+* If we (as teachers) don't model 'play', 'experimenting' and value creative teaching with joy and are comfortable for failure, how do we expect young people to display those characteristics? (Are you really going to set another worksheet ... again?)
 * Consider: 
     * Cross curricular (see broad and balanced curriculum)
     * External to the school?
@@ -268,8 +270,12 @@ Support trainee teachers to take risks - mentor conversation?
 
 Consider:
 * 'SLT Test' - If SLT walked in, would you be able to justify your approach
+* Let your HOD know (or at least give them the watered down idea)
 
 <details>
+
+* Portray abstract concept by interpretive dance (model this)
+* Link hands over the desk walk (6th form)
 
 * 'Game' or 'Phone' test plan - tick list
 * School Field (Networks)
