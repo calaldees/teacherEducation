@@ -598,6 +598,11 @@ Statistics
     * 60k Computer Science places (from ocr dude a few years ago) - most universities start again from scratch because they can't rely on compsci education in schools
 * more
     * https://explore-education-statistics.service.gov.uk/find-statistics/education-and-training-statistics-for-the-uk
+    * https://www.bcs.org/policy-and-influence/education/bcs-landscape-review-computing-qualifications-in-the-uk/england-computer-science-gcse-as-and-a-levels/ 2024
+        * 6000 computing teachers
+        * 500 recruited a year
+        * 60,000 males and 18,000 females for gcse
+        * A-Level 13,000
 
 
 A-Level Topic Notes

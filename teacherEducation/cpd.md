@@ -3,8 +3,14 @@ CPD
 
 TODO: https://www.innerdrive.co.uk/ (why is their cpd so effective?)
 https://teachersnotebook.co.uk/2024/04/30/motivating-the-veteran-teacher/
+https://my.chartered.college/impact_article/the-explicit-use-and-modelling-of-cognitive-science-in-staff-development/
 
 https://impact.chartered.college/article/how-retrieval-practice-embedded-classrooms-10-principles-cpd-leadership/
+
+* not in the right place ...
+* [Learning walks: making sense of school through prompts from the physical environment](https://www.tandfonline.com/doi/epdf/10.1080/1743727X.2024.2335185?needAccess=true)
+    * > use of learning walks with children as a participatory research method to make sense of school experiences
+    * Staff walk round with the students to explore the school
 
 * @GrumpyCompSci 
     * [School CPD Bingo](https://twitter.com/GrumpyCompSci/status/1698345753104593228)
