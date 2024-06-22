@@ -4,12 +4,11 @@ https://www.canterbury.ac.uk/our-students/ug-new/course-essentials/pgce-secondar
 Pre-Course Activities
 =====================
 
-An introduction to the PGCE Secondary/School Direct 
- Programme in Computer Science 2023-24
+An introduction to the PGCE-Secondary/School-Based Programme in Computer Science.
 
 Dear Colleague,
 
-Congratulations on being offered and having accepted a place to start on the PGCE/School Direct Computing programme in September.
+Congratulations on being offered and having accepted a place to start on the PGCE/School Based Computing programme in September.
 Both programmes are very intensive and demanding, but are also a very enjoyable, stimulating and creative.
 The more you can do before starting the programme, the easier it will be, especially in the first few weeks in September.
 
@@ -47,14 +46,14 @@ Actions
 -------
 
 * https://teachcomputing.org/courses
-    * Register for 'National Centre for Computing Education' (NCCE) CS-Accelerator-Programme https://teachcomputing.org/courses
-        * Accrue professional certifications and a bursary for when you begin employment
+    * Register for 'National Centre for Computing Education' (NCCE)
+    * Undertake online courses and accrue professional certifications and a bursary for when you begin employment
     * Build evidence for subject knowledge development for your ePortfolio (this will significantly help your evidence for your ePortfolio if you can start to undertake this now)
     * Understand what is on the UK Computing curriculum
 * https://helloworld.raspberrypi.org/
     * Subscribe to HelloWorld magazine (free)
 * Investigate and join a [Teachers' trade union](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
-    * This is generally free on your training year
+    * Joining a union is generally free on your training year
 
 
 General Information and Pre Reading
@@ -66,10 +65,10 @@ General Information and Pre Reading
 * Organisations
     * National Centre for Computing Education [TeachComputing.org](https://teachcomputing.org/)
     * [Computing at School](https://www.computingatschool.org.uk/)
-        * [#CASChat](https://twitter.com/caschat_uk)
+        * [#CASChat](https://x.com/caschat_uk)
     * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
         * [HelloWorld](https://helloworld.raspberrypi.org/) Computing Pedagogy Magazine (subscribe to physical magazine for free)
-            * [online articles](https://helloworld.raspberrypi.org/articles)
+            * [online articles](https://www.raspberrypi.org/blog/) [archive](https://web.archive.org/web/20230930221942/https://helloworld.raspberrypi.org/articles)
         * https://computingeducationresearch.org/
         * [magazines.stem.org.uk](https://magazines.stem.org.uk/)
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
@@ -125,8 +124,8 @@ General Information and Pre Reading
         * General secondary teaching book
     * [Making Room for Impact: A De-implementation Guide for Educators: A De-implementation Guide for Educators Paperback](https://www.amazon.co.uk/Making-Room-Impact-implementation-Educators/dp/1071917072/) Hamilton, Hattie, Wiliam 2023
 * Subject Knowledge Development
-    * [NCCE: Computer Science Accelerator](https://teachcomputing.org/cs-accelerator)
-        * Bursaries and certificates for doing CPD
+    * [NCCE: Computer Science Accelerator](https://teachcomputing.org/subject-knowledge)
+        * Subsides and certificates for doing CPD
 * Computing Teaching Resources
     * [AQA AS and A Level Computer Science](https://www.amazon.co.uk/AQA-AS-Level-Computer-Science/dp/1910523070/) PM Heathcoat
         * Good A-Level reference
@@ -144,7 +143,6 @@ General Information and Pre Reading
         * See results, Access ongoing CPD
 * Other institutions pre-course recommendations
     * [Preparing for a PGCE in secondary computing](http://milesberry.net/2020/07/preparing-for-a-pgce/) Mile Berry 2020
-    * [UWE Bristol: Secondary PGCE pre-course information Computer Science](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Computer%20Science.pdf)
 
 
 Your Computing Skills
