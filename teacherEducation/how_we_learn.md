@@ -1,6 +1,10 @@
 how we learn
 ------------
 
+TODO: Awesome!
+* [No Simple Solutions to Complex Problems: Cognitive Science Principles Can Guide but Not Prescribe Educational Decisions](https://journals.sagepub.com/doi/10.1177/23727322231218906)
+* [The Science of Learning - 99 Studies That Every Teacher Needs to Know ](https://doi.org/10.4324/9781003107866) Chapter summaries downloadable
+* [educationendowmentfoundation cognitive science](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom)
 
 ### Understanding How we Learn - A visual guide
 
