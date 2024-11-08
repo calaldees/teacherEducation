@@ -11,6 +11,8 @@ https://techshecan.org/
 * [EGOI 2021 1st European Girls' Olympiad in Informatics](https://egoi.ch/en/)
     * Do we need a separate female category?
 
+* [Number of girls in England taking computing GCSE plummets, study finds](https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds)
+      * > Introduction of new syllabus may be reason number of girls taking subject more than halved in eight years, academics say
 * [England's computing curriculum could be 'missing the mark' to engage girls](https://www.kcl.ac.uk/news/englands-computing-curriculum-missing-mark)
     * > Dr Kemp and his co-investigators suggest that broadening the GCSE and the curriculum to include more creative computing education, such as digital art (practices that use digital technology as part of the creative process), would appeal to more students who want to develop digital skills for their future careers but do not see the relevance of the current curriculum and GCSE Computer Science.
 * [Gender Balance in Computing](https://teachcomputing.org/gender-balance) - Help us find the best ways to encourage young women to study Computer Science

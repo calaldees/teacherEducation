@@ -2,6 +2,9 @@ Visual Programming
 ==================
 
 See more at https://github.com/calaldees/mapOfComputing/blob/main/computing/visual-programming-languages.md
+* [Strype](https://strype.org/): a frame-based approach to Python
+    * Help transition from blocks to text
+    * >  A free Python editor that combines the strengths of blocks and text programming into frame-based editing: write Python code in your browser with structured support.
 
 * [](https://www.cambridge.org/core/books/cambridge-handbook-of-computing-education-research/pedagogic-approaches/6B64002A4E73841A01F32EB1C17E7DE6)
     * > Another recent development is Guo’s (Reference Guo2013) web-based Python simulation and visualization environment that allows learners to move backward and forward through an execution, visualizing stack frames and variables, heap object contents, and memory. While earlier work has long provided similar technical support for this degree of program simulation and visualization (Findler et al, Reference Findler, Clements, Flanagan, Flatt, Krishnamurthi, Steckler and Felleisen2002), an interesting aspect of this tool is the ability to generate a URL for a specific point in the execution visualization, which can be shared among learners to aid collaboration and discussion.

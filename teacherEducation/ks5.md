@@ -314,6 +314,7 @@ e.g. Find and read the QP+MS+ER for `AQA A-Level June 2019 Paper2 Q6.2`
 * Tools
     * AQA [ExamPro](https://www.exampro.co.uk/computer-science/) AQA's exam generator (GCSE + A-Level)
         * Paid for service - probably worth it for the search function
+    * [ExamQ](https://www.examq.co.uk/) (Maths papers)
 
 * Your lesson plan now becomes:
     * `AQA 2016 AS Jun Paper2 Q6`
